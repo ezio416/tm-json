@@ -22119,7 +22119,7 @@
             "custom": null,
             "date": "2025-02-16",
             "mapUid": "zTb69n_c7U9MhR3FlneaZcYqwPf",
-            "name": "$0f8Crazy $7f5City",
+            "name": "Crazy City",
             "reason": null,
             "warriorTime": 34467,
             "worldRecord": 32773
@@ -22129,7 +22129,7 @@
             "custom": null,
             "date": "2025-02-17",
             "mapUid": "dglfKDMQWqBen3G7VgRub66hnL8",
-            "name": "$s$oSEOTERIA",
+            "name": "SEOTERIA",
             "reason": null,
             "warriorTime": 44459,
             "worldRecord": 43501
@@ -22139,10 +22139,20 @@
             "custom": null,
             "date": "2025-02-18",
             "mapUid": "soOC4MVQwiBzpOP8xlM9Ha4rIL7",
-            "name": "$s$6C6J$5C5a$4C4d$3C3\u00e9$2C2i$1C1t$0C0e $FFFft Laku27",
+            "name": "Jad\u00e9ite ft Laku27",
             "reason": null,
             "warriorTime": 41402,
             "worldRecord": 41148
+        },
+        {
+            "authorTime": 48324,
+            "custom": null,
+            "date": "2025-02-19",
+            "mapUid": "zlCQGSJilC2iLWPm3pUw5ln1iMl",
+            "name": "On the edge of grip Ft' Cotton",
+            "reason": null,
+            "warriorTime": 48007,
+            "worldRecord": 45785
         }
     ],
     "Other": [
