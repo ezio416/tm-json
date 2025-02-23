@@ -5201,6 +5201,56 @@
             "reason": null,
             "warriorTime": 15002,
             "worldRecord": 14808
+        },
+        {
+            "authorTime": 18448,
+            "custom": null,
+            "mapUid": "u8922obvzEex_QKqFlUCs3xkia9",
+            "name": "NebulousNorth",
+            "number": 46,
+            "reason": null,
+            "warriorTime": 17827,
+            "worldRecord": 17206
+        },
+        {
+            "authorTime": 20826,
+            "custom": null,
+            "mapUid": "qv2tpzbHjUHYUjHYjL1HQVZPsT2",
+            "name": "Endlessly",
+            "number": 47,
+            "reason": null,
+            "warriorTime": 19513,
+            "worldRecord": 18199
+        },
+        {
+            "authorTime": 27242,
+            "custom": null,
+            "mapUid": "3V819TRVBrNQEj5u12u4Uet61C5",
+            "name": "Rally Supercross",
+            "number": 48,
+            "reason": null,
+            "warriorTime": 23920,
+            "worldRecord": 20597
+        },
+        {
+            "authorTime": 21000,
+            "custom": null,
+            "mapUid": "fksMDycTe6sw6fCBsmABx8pFNvb",
+            "name": "Yellow Lanes",
+            "number": 49,
+            "reason": null,
+            "warriorTime": 17698,
+            "worldRecord": 14396
+        },
+        {
+            "authorTime": 21842,
+            "custom": null,
+            "mapUid": "Otb7nXhPKKVZ2Sp8nuhVVF94p86",
+            "name": "$obetter $22ddays",
+            "number": 50,
+            "reason": null,
+            "warriorTime": 21395,
+            "worldRecord": 20947
         }
     ],
     "Totd": [
