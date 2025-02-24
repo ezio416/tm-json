@@ -2,8 +2,6 @@
 
 Automated repository of JSON files containing information on items listed below
 
-NOT YET ACTIVE AS OF 2025-02-02
-
 - Maps
     - Seasonal Campaigns
     - Weekly Shorts
@@ -11,4 +9,3 @@ NOT YET ACTIVE AS OF 2025-02-02
     - Royal
 - Other
     - Warrior Medals
-    - Player Zones
