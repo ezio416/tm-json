@@ -22236,11 +22236,11 @@
         },
         {
             "authorTime": 43250,
-            "custom": null,
+            "custom": 42940,
             "date": "2025-02-23",
             "mapUid": "ZJkCNf0qfIf3Av8fEVPG0ERLOTl",
             "name": "$s$400O$s$600B$s$700I$s$800S$s$900S",
-            "reason": null,
+            "reason": "bugged wr",
             "warriorTime": 40467,
             "worldRecord": 20980
         }
