@@ -35677,5 +35677,26 @@
         "timestampUpload": 1739120533,
         "weekDay": 6,
         "year": 2025
+    },
+    "5vSD7Fy0NHp360jiSy8itSXMVc3": {
+        "author": "f61cfc67-350f-4ec3-9c54-8959e80c2372",
+        "authorTime": 44130,
+        "bronzeTime": 67000,
+        "campaignId": 89741,
+        "goldTime": 47000,
+        "mapId": "f1ea0a1b-fa3a-4a93-bcf0-474a64f093d1",
+        "mapUid": "5vSD7Fy0NHp360jiSy8itSXMVc3",
+        "month": 2,
+        "monthDay": 24,
+        "name": "$s$00fAqua$fffMarine $00f|$fffFt' Myth0cal$00f|",
+        "number": 1700,
+        "seasonUid": "3689bd78-52b3-487e-be36-f1d67cdf738a",
+        "silverTime": 53000,
+        "submitter": "f61cfc67-350f-4ec3-9c54-8959e80c2372",
+        "timestampEnd": 1740506400,
+        "timestampStart": 1740420000,
+        "timestampUpload": 1736699434,
+        "weekDay": 0,
+        "year": 2025
     }
 }
