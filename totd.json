@@ -35740,5 +35740,26 @@
         "timestampUpload": 1740343754,
         "weekDay": 2,
         "year": 2025
+    },
+    "LGyKvL4pw5UUoop5Ir8eb7rx0Rm": {
+        "author": "f797524f-bd62-4e02-a246-0083a7278950",
+        "authorTime": 41651,
+        "bronzeTime": 63000,
+        "campaignId": 89744,
+        "goldTime": 45000,
+        "mapId": "9b144caf-b0d6-41e4-88b5-c44612659c76",
+        "mapUid": "LGyKvL4pw5UUoop5Ir8eb7rx0Rm",
+        "month": 2,
+        "monthDay": 27,
+        "name": "Dici$ootto$nlune",
+        "number": 1703,
+        "seasonUid": "86aa0c7e-a412-4e2c-b3ed-83c1d1d022bb",
+        "silverTime": 50000,
+        "submitter": "f797524f-bd62-4e02-a246-0083a7278950",
+        "timestampEnd": 1740765600,
+        "timestampStart": 1740679200,
+        "timestampUpload": 1737927879,
+        "weekDay": 3,
+        "year": 2025
     }
 }
