@@ -35761,5 +35761,26 @@
         "timestampUpload": 1737927879,
         "weekDay": 3,
         "year": 2025
+    },
+    "6tisMG4f_KVpEIBYkaX1C5XmDq1": {
+        "author": "77e81508-8431-42a3-941a-d77a809675c7",
+        "authorTime": 49590,
+        "bronzeTime": 75000,
+        "campaignId": 89745,
+        "goldTime": 53000,
+        "mapId": "aa428cea-4c99-48ee-a9a6-eee5d964b71b",
+        "mapUid": "6tisMG4f_KVpEIBYkaX1C5XmDq1",
+        "month": 2,
+        "monthDay": 28,
+        "name": "SKY DUST",
+        "number": 1704,
+        "seasonUid": "1026144c-0f78-4bc8-933a-23b0d4e3d70b",
+        "silverTime": 60000,
+        "submitter": "77e81508-8431-42a3-941a-d77a809675c7",
+        "timestampEnd": 1740852000,
+        "timestampStart": 1740765600,
+        "timestampUpload": 1739120531,
+        "weekDay": 4,
+        "year": 2025
     }
 }
