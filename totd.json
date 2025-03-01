@@ -35782,5 +35782,26 @@
         "timestampUpload": 1739120531,
         "weekDay": 4,
         "year": 2025
+    },
+    "kLX5Znbu4b1t_vtUPCIra_rYhse": {
+        "author": "027d129e-6262-4c6d-9f2e-ab17840c98f4",
+        "authorTime": 33714,
+        "bronzeTime": 51000,
+        "campaignId": 90355,
+        "goldTime": 36000,
+        "mapId": "c38a623e-064f-45f9-8ab8-90db5c6da22e",
+        "mapUid": "kLX5Znbu4b1t_vtUPCIra_rYhse",
+        "month": 3,
+        "monthDay": 1,
+        "name": "$0FFRALLY DOINKS\u00b2",
+        "number": 1705,
+        "seasonUid": "cc4da978-595f-4c49-b5db-1143a9458f51",
+        "silverTime": 41000,
+        "submitter": "027d129e-6262-4c6d-9f2e-ab17840c98f4",
+        "timestampEnd": 1740938400,
+        "timestampStart": 1740852000,
+        "timestampUpload": 1740694476,
+        "weekDay": 5,
+        "year": 2025
     }
 }
