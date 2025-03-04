@@ -35464,7 +35464,7 @@
         "submitter": "8e8ea58e-72b1-42eb-bd63-8183bf3add50",
         "timestampEnd": 1739556000,
         "timestampStart": 1739469600,
-        "timestampUpload": 1737919191,
+        "timestampUpload": 1741038234,
         "weekDay": 3,
         "year": 2025
     },
@@ -35844,6 +35844,27 @@
         "timestampStart": 1741024800,
         "timestampUpload": 1740237267,
         "weekDay": 0,
+        "year": 2025
+    },
+    "Mv7YTB9vBMnYDfNVjYp2fVhEhDd": {
+        "author": "dbe0490f-3b0e-4667-975d-05c59de71e51",
+        "authorTime": 46301,
+        "bronzeTime": 70000,
+        "campaignId": 90461,
+        "goldTime": 50000,
+        "mapId": "d94a34d8-6d31-4809-96ed-f5f183db93aa",
+        "mapUid": "Mv7YTB9vBMnYDfNVjYp2fVhEhDd",
+        "month": 3,
+        "monthDay": 4,
+        "name": "$oWant to sleep until $045June",
+        "number": 1708,
+        "seasonUid": "87ebc1d4-e96e-4dec-ae79-5228f399b541",
+        "silverTime": 56000,
+        "submitter": "dbe0490f-3b0e-4667-975d-05c59de71e51",
+        "timestampEnd": 1741197600,
+        "timestampStart": 1741111200,
+        "timestampUpload": 1740142419,
+        "weekDay": 1,
         "year": 2025
     }
 }
