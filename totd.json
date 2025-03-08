@@ -35737,7 +35737,7 @@
         "submitter": "9299532e-b799-4358-b145-3784b6a75301",
         "timestampEnd": 1740679200,
         "timestampStart": 1740592800,
-        "timestampUpload": 1740343754,
+        "timestampUpload": 1741419782,
         "weekDay": 2,
         "year": 2025
     },
@@ -35928,6 +35928,27 @@
         "timestampStart": 1741370400,
         "timestampUpload": 1740514682,
         "weekDay": 4,
+        "year": 2025
+    },
+    "IMJK6Uo3W9_KxNr9QnhruhS_fpk": {
+        "author": "77e81508-8431-42a3-941a-d77a809675c7",
+        "authorTime": 40962,
+        "bronzeTime": 62000,
+        "campaignId": 90779,
+        "goldTime": 44000,
+        "mapId": "51772228-4285-47aa-8131-0a7777141918",
+        "mapUid": "IMJK6Uo3W9_KxNr9QnhruhS_fpk",
+        "month": 3,
+        "monthDay": 8,
+        "name": "THUMPA",
+        "number": 1712,
+        "seasonUid": "9cd52860-e5b2-476d-a90d-834bd7e07134",
+        "silverTime": 50000,
+        "submitter": "77e81508-8431-42a3-941a-d77a809675c7",
+        "timestampEnd": 1741543200,
+        "timestampStart": 1741456800,
+        "timestampUpload": 1740921501,
+        "weekDay": 5,
         "year": 2025
     }
 }
