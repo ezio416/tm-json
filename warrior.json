@@ -5301,6 +5301,56 @@
             "reason": null,
             "warriorTime": 30083,
             "worldRecord": 28048
+        },
+        {
+            "authorTime": 21488,
+            "custom": null,
+            "mapUid": "wvtWi4mLQka3hdzuuL9GRm67sZl",
+            "name": "$b$s$f5f$u Unfairly $6ffBasic$fff$i 001",
+            "number": 56,
+            "reason": null,
+            "warriorTime": 19815,
+            "worldRecord": 18142
+        },
+        {
+            "authorTime": 29402,
+            "custom": null,
+            "mapUid": "cjmQwagvDi82cz1wo10sR0P0mgb",
+            "name": "Hike",
+            "number": 57,
+            "reason": null,
+            "warriorTime": 24532,
+            "worldRecord": 19661
+        },
+        {
+            "authorTime": 15164,
+            "custom": null,
+            "mapUid": "9usMzYwTwSYhbISLEXtJ3EsXAzm",
+            "name": "$o$360Forest Relic",
+            "number": 58,
+            "reason": null,
+            "warriorTime": 14472,
+            "worldRecord": 13780
+        },
+        {
+            "authorTime": 18307,
+            "custom": null,
+            "mapUid": "qr7JMabvTDnJPM6NAA_DOJqWtN5",
+            "name": "Presence - 410",
+            "number": 59,
+            "reason": null,
+            "warriorTime": 16417,
+            "worldRecord": 14527
+        },
+        {
+            "authorTime": 25000,
+            "custom": null,
+            "mapUid": "u9U1NeRQY5t1iUkLql_ZNDSirG3",
+            "name": "Short Laps",
+            "number": 60,
+            "reason": null,
+            "warriorTime": 23790,
+            "worldRecord": 22579
         }
     ],
     "Totd": [
