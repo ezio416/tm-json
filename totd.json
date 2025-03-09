@@ -35950,5 +35950,26 @@
         "timestampUpload": 1740921501,
         "weekDay": 5,
         "year": 2025
+    },
+    "D7Yo8zCCYFux0BOKKzexwZC_1n9": {
+        "author": "53533000-79f5-4ac3-9831-46d107b55e9f",
+        "authorTime": 40533,
+        "bronzeTime": 61000,
+        "campaignId": 90780,
+        "goldTime": 43000,
+        "mapId": "68b7aa30-d227-4645-a248-7b58291d863a",
+        "mapUid": "D7Yo8zCCYFux0BOKKzexwZC_1n9",
+        "month": 3,
+        "monthDay": 9,
+        "name": "$0C0S$FFFolivia$39Fn",
+        "number": 1713,
+        "seasonUid": "749c9000-fb95-41ce-9c17-46cc5929d058",
+        "silverTime": 49000,
+        "submitter": "53533000-79f5-4ac3-9831-46d107b55e9f",
+        "timestampEnd": 1741629600,
+        "timestampStart": 1741543200,
+        "timestampUpload": 1740088390,
+        "weekDay": 6,
+        "year": 2025
     }
 }
