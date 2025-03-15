@@ -35107,7 +35107,7 @@
         "submitter": "f61cfc67-350f-4ec3-9c54-8959e80c2372",
         "timestampEnd": 1738087200,
         "timestampStart": 1738000800,
-        "timestampUpload": 1734449054,
+        "timestampUpload": 1742048021,
         "weekDay": 0,
         "year": 2025
     },
@@ -35695,7 +35695,7 @@
         "submitter": "f61cfc67-350f-4ec3-9c54-8959e80c2372",
         "timestampEnd": 1740506400,
         "timestampStart": 1740420000,
-        "timestampUpload": 1736699434,
+        "timestampUpload": 1742048024,
         "weekDay": 0,
         "year": 2025
     },
@@ -36075,6 +36075,27 @@
         "timestampStart": 1741975200,
         "timestampUpload": 1741021154,
         "weekDay": 4,
+        "year": 2025
+    },
+    "vGriFQyBwENAzgPBCky5uMOEGqb": {
+        "author": "05250075-a907-4dc8-a39f-552f7a698d16",
+        "authorTime": 44122,
+        "bronzeTime": 60000,
+        "campaignId": 91386,
+        "goldTime": 46000,
+        "mapId": "8aab68d2-ea06-465e-a29c-76f526e27213",
+        "mapUid": "vGriFQyBwENAzgPBCky5uMOEGqb",
+        "month": 3,
+        "monthDay": 15,
+        "name": "Cataclysm",
+        "number": 1719,
+        "seasonUid": "2ee4e587-51e2-4d83-92ae-d49e10bdb9f5",
+        "silverTime": 50000,
+        "submitter": "05250075-a907-4dc8-a39f-552f7a698d16",
+        "timestampEnd": 1742148000,
+        "timestampStart": 1742061600,
+        "timestampUpload": 1741023630,
+        "weekDay": 5,
         "year": 2025
     }
 }
