@@ -5351,6 +5351,56 @@
             "reason": null,
             "warriorTime": 23790,
             "worldRecord": 22579
+        },
+        {
+            "authorTime": 22209,
+            "custom": null,
+            "mapUid": "NUzTfFfiaLAVMPNp0BAHrh2Oq4f",
+            "name": "$390Waldszenen",
+            "number": 61,
+            "reason": null,
+            "warriorTime": 19037,
+            "worldRecord": 15864
+        },
+        {
+            "authorTime": 13698,
+            "custom": null,
+            "mapUid": "6mrfa71ges7I8Bn1wCaDvfgZsRa",
+            "name": "$s$i$05Clinarite$g* 'ft yrolg",
+            "number": 62,
+            "reason": null,
+            "warriorTime": 13363,
+            "worldRecord": 13028
+        },
+        {
+            "authorTime": 12275,
+            "custom": null,
+            "mapUid": "iaLAJEVgqz0ZvvGTYit9HXUiWh5",
+            "name": "$o$i$ff0THREE LANE",
+            "number": 63,
+            "reason": null,
+            "warriorTime": 11986,
+            "worldRecord": 11697
+        },
+        {
+            "authorTime": 17245,
+            "custom": null,
+            "mapUid": "pV9Sf6paWo1kjtLDqWIbD0XR349",
+            "name": "Remember week one?",
+            "number": 64,
+            "reason": null,
+            "warriorTime": 16537,
+            "worldRecord": 15828
+        },
+        {
+            "authorTime": 14750,
+            "custom": null,
+            "mapUid": "4P8lIbw2630AJhZ54_HiVUKwmZa",
+            "name": "Desert Storm",
+            "number": 65,
+            "reason": null,
+            "warriorTime": 13775,
+            "worldRecord": 12799
         }
     ],
     "Totd": [
