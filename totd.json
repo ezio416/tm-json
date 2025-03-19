@@ -36115,7 +36115,7 @@
         "submitter": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
         "timestampEnd": 1742234400,
         "timestampStart": 1742148000,
-        "timestampUpload": 1741689034,
+        "timestampUpload": 1742372467,
         "weekDay": 6,
         "year": 2025
     },
@@ -36136,7 +36136,7 @@
         "submitter": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
         "timestampEnd": 1742320800,
         "timestampStart": 1742234400,
-        "timestampUpload": 1733429944,
+        "timestampUpload": 1742405802,
         "weekDay": 0,
         "year": 2025
     },
@@ -36159,6 +36159,27 @@
         "timestampStart": 1742320800,
         "timestampUpload": 1741811524,
         "weekDay": 1,
+        "year": 2025
+    },
+    "p3Ec5OkTWpXjS70miELpNWUarBe": {
+        "author": "7cd60a75-609a-4e64-b286-16f329878249",
+        "authorTime": 49792,
+        "bronzeTime": 75000,
+        "campaignId": 91474,
+        "goldTime": 53000,
+        "mapId": "5d528bfc-ee93-4a4b-a605-3f916e67fd07",
+        "mapUid": "p3Ec5OkTWpXjS70miELpNWUarBe",
+        "month": 3,
+        "monthDay": 19,
+        "name": "Miramar",
+        "number": 1723,
+        "seasonUid": "85527b3a-1558-4172-beda-bf4a8fa976da",
+        "silverTime": 60000,
+        "submitter": "7cd60a75-609a-4e64-b286-16f329878249",
+        "timestampEnd": 1742493600,
+        "timestampStart": 1742407200,
+        "timestampUpload": 1741085475,
+        "weekDay": 2,
         "year": 2025
     }
 }
