@@ -22623,6 +22623,16 @@
             "reason": null,
             "warriorTime": 52380,
             "worldRecord": 52503
+        },
+        {
+            "authorTime": 49792,
+            "custom": null,
+            "date": "2025-03-19",
+            "mapUid": "p3Ec5OkTWpXjS70miELpNWUarBe",
+            "name": "Miramar",
+            "reason": null,
+            "warriorTime": 49723,
+            "worldRecord": 49238
         }
     ],
     "Other": [
