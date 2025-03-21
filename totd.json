@@ -36202,5 +36202,26 @@
         "timestampUpload": 1741950358,
         "weekDay": 3,
         "year": 2025
+    },
+    "35mH38U7BCU2rI2aNnee_ynYF8a": {
+        "author": "fb678553-f730-442a-a035-dfc50f4a5b7b",
+        "authorTime": 41851,
+        "bronzeTime": 55120,
+        "campaignId": 91473,
+        "goldTime": 44610,
+        "mapId": "06a748b2-b16d-4156-a9ef-aeef4d4fc0ba",
+        "mapUid": "35mH38U7BCU2rI2aNnee_ynYF8a",
+        "month": 3,
+        "monthDay": 21,
+        "name": "$i$s$b00Gamma Knife",
+        "number": 1725,
+        "seasonUid": "d104e489-2ee4-4d7f-8d3f-c32ac84c97ab",
+        "silverTime": 48490,
+        "submitter": "fb678553-f730-442a-a035-dfc50f4a5b7b",
+        "timestampEnd": 1742666400,
+        "timestampStart": 1742580000,
+        "timestampUpload": 1741691077,
+        "weekDay": 4,
+        "year": 2025
     }
 }
