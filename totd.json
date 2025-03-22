@@ -36223,5 +36223,26 @@
         "timestampUpload": 1741691077,
         "weekDay": 4,
         "year": 2025
+    },
+    "vMXoSQh6ra7uymMppUUb1LijRX8": {
+        "author": "7a2be083-53e0-4b15-afef-8a8aa14e89fb",
+        "authorTime": 42911,
+        "bronzeTime": 65000,
+        "campaignId": 91477,
+        "goldTime": 46000,
+        "mapId": "167c0f5b-bfe9-4843-ad74-81abd00cc4eb",
+        "mapUid": "vMXoSQh6ra7uymMppUUb1LijRX8",
+        "month": 3,
+        "monthDay": 22,
+        "name": "$S$B$066MALACHITE",
+        "number": 1726,
+        "seasonUid": "5afb38df-24dd-46bd-8e71-e4644b75e7ca",
+        "silverTime": 52000,
+        "submitter": "7a2be083-53e0-4b15-afef-8a8aa14e89fb",
+        "timestampEnd": 1742752800,
+        "timestampStart": 1742666400,
+        "timestampUpload": 1741388240,
+        "weekDay": 5,
+        "year": 2025
     }
 }
