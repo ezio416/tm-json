@@ -5401,6 +5401,56 @@
             "reason": null,
             "warriorTime": 13775,
             "worldRecord": 12799
+        },
+        {
+            "authorTime": 19714,
+            "custom": null,
+            "mapUid": "Ym5_W13aLq_jMqqpkbO10G6wqFl",
+            "name": "1 - Wide Jumps",
+            "number": 66,
+            "reason": null,
+            "warriorTime": 18677,
+            "worldRecord": 17640
+        },
+        {
+            "authorTime": 13715,
+            "custom": null,
+            "mapUid": "3vU4zfv2SUmS61vSUkoub4mNzv",
+            "name": "2 - $s$i$f80Vitamin C $c80'n' $fa3Tiny Drifts",
+            "number": 67,
+            "reason": null,
+            "warriorTime": 13294,
+            "worldRecord": 12872
+        },
+        {
+            "authorTime": 19653,
+            "custom": null,
+            "mapUid": "_M6CuPKjmmcmU0h9abXGpytv5bh",
+            "name": "3 - $b$s$ff5OPEN $ff5ENDED$fa0 JOURNEY",
+            "number": 68,
+            "reason": null,
+            "warriorTime": 18002,
+            "worldRecord": 16351
+        },
+        {
+            "authorTime": 17221,
+            "custom": null,
+            "mapUid": "a868h25Ki62OcU2zlYtOFOUQau",
+            "name": "$s$f21 4 - Locust",
+            "number": 69,
+            "reason": null,
+            "warriorTime": 16473,
+            "worldRecord": 15724
+        },
+        {
+            "authorTime": 16826,
+            "custom": null,
+            "mapUid": "j1C0mD5P79kdMQ8ecMO8jqZwDAa",
+            "name": "5 - Checkered $000a08",
+            "number": 70,
+            "reason": null,
+            "warriorTime": 12711,
+            "worldRecord": 8596
         }
     ],
     "Totd": [
