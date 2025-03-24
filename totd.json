@@ -36265,5 +36265,26 @@
         "timestampUpload": 1738839359,
         "weekDay": 6,
         "year": 2025
+    },
+    "kZuRZqjwqBU79AsYb0Lei3eHWPm": {
+        "author": "eba667ab-bb2d-421b-ab7c-e98ad72f4abb",
+        "authorTime": 46604,
+        "bronzeTime": 70000,
+        "campaignId": 92148,
+        "goldTime": 50000,
+        "mapId": "3c79d367-f0d2-4d73-bb48-d4c7e9dfe85d",
+        "mapUid": "kZuRZqjwqBU79AsYb0Lei3eHWPm",
+        "month": 3,
+        "monthDay": 24,
+        "name": "$FEBTenpines $FECBluff",
+        "number": 1728,
+        "seasonUid": "02942db4-f8c5-41b3-85e4-efe629438fb0",
+        "silverTime": 56000,
+        "submitter": "eba667ab-bb2d-421b-ab7c-e98ad72f4abb",
+        "timestampEnd": 1742925600,
+        "timestampStart": 1742839200,
+        "timestampUpload": 1742126478,
+        "weekDay": 0,
+        "year": 2025
     }
 }
