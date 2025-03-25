@@ -36286,5 +36286,26 @@
         "timestampUpload": 1742126478,
         "weekDay": 0,
         "year": 2025
+    },
+    "V0S_g1V8GdME0KYA19ula_bX2Ti": {
+        "author": "aaae15ed-ab4d-4292-ab70-48b0b3d75517",
+        "authorTime": 45765,
+        "bronzeTime": 69000,
+        "campaignId": 92306,
+        "goldTime": 49000,
+        "mapId": "678d908d-4ce3-43c7-ad2a-7036125fd565",
+        "mapUid": "V0S_g1V8GdME0KYA19ula_bX2Ti",
+        "month": 3,
+        "monthDay": 25,
+        "name": "factory reset",
+        "number": 1729,
+        "seasonUid": "f2197de7-aca1-4040-b215-39d1dfe02c6f",
+        "silverTime": 55000,
+        "submitter": "aaae15ed-ab4d-4292-ab70-48b0b3d75517",
+        "timestampEnd": 1743012000,
+        "timestampStart": 1742925600,
+        "timestampUpload": 1740004384,
+        "weekDay": 1,
+        "year": 2025
     }
 }
