@@ -36307,5 +36307,26 @@
         "timestampUpload": 1740004384,
         "weekDay": 1,
         "year": 2025
+    },
+    "7eXLuks_zFrd8BoV9jpS5pjdevh": {
+        "author": "77e81508-8431-42a3-941a-d77a809675c7",
+        "authorTime": 42885,
+        "bronzeTime": 65000,
+        "campaignId": 92150,
+        "goldTime": 46000,
+        "mapId": "4689c826-e31b-435f-b372-e888e263142d",
+        "mapUid": "7eXLuks_zFrd8BoV9jpS5pjdevh",
+        "month": 3,
+        "monthDay": 26,
+        "name": "DIPLO",
+        "number": 1730,
+        "seasonUid": "70eff481-73c5-4232-b01a-fa6fbbd0daf9",
+        "silverTime": 52000,
+        "submitter": "77e81508-8431-42a3-941a-d77a809675c7",
+        "timestampEnd": 1743098400,
+        "timestampStart": 1743012000,
+        "timestampUpload": 1742198488,
+        "weekDay": 2,
+        "year": 2025
     }
 }
