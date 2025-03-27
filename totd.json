@@ -34960,7 +34960,7 @@
         "submitter": "383df219-53b5-41ce-b7a8-bd53d95d531a",
         "timestampEnd": 1737482400,
         "timestampStart": 1737396000,
-        "timestampUpload": 1738099969,
+        "timestampUpload": 1743016260,
         "weekDay": 0,
         "year": 2025
     },
@@ -36327,6 +36327,27 @@
         "timestampStart": 1743012000,
         "timestampUpload": 1742198488,
         "weekDay": 2,
+        "year": 2025
+    },
+    "mcii3YYesYkF9HuKB9ycK2crbN9": {
+        "author": "3f1ced4a-6bc7-4056-b4aa-90e64e39ea3d",
+        "authorTime": 42241,
+        "bronzeTime": 64000,
+        "campaignId": 92307,
+        "goldTime": 45000,
+        "mapId": "6a25fce6-ba0f-45b2-84ba-3bb86c06adea",
+        "mapUid": "mcii3YYesYkF9HuKB9ycK2crbN9",
+        "month": 3,
+        "monthDay": 27,
+        "name": "$i$o$s$3CCAsguardia $i$o$s$FFFft Oclavukixus",
+        "number": 1731,
+        "seasonUid": "fd132731-3dca-4f1c-9412-cdf0439e88dc",
+        "silverTime": 51000,
+        "submitter": "3f1ced4a-6bc7-4056-b4aa-90e64e39ea3d",
+        "timestampEnd": 1743184800,
+        "timestampStart": 1743098400,
+        "timestampUpload": 1742858236,
+        "weekDay": 3,
         "year": 2025
     }
 }
