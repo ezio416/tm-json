@@ -5451,6 +5451,56 @@
             "reason": "cheated wr",
             "warriorTime": 12711,
             "worldRecord": 8596
+        },
+        {
+            "authorTime": 17782,
+            "custom": null,
+            "mapUid": "k8e5NC3dn_18WlVg_WGg7OfO1lk",
+            "name": "$s$i1 - $3ff\u00b0$fffAezuria$3ff\u00b0",
+            "number": 71,
+            "reason": null,
+            "warriorTime": 17095,
+            "worldRecord": 16408
+        },
+        {
+            "authorTime": 17075,
+            "custom": null,
+            "mapUid": "PYqc44sKqrDFfmm3gNSH7E07Twm",
+            "name": "2 - SkyDune",
+            "number": 72,
+            "reason": null,
+            "warriorTime": 16114,
+            "worldRecord": 15152
+        },
+        {
+            "authorTime": 17059,
+            "custom": null,
+            "mapUid": "TC9XtumnamhM8kRlPsuQVpwTUc7",
+            "name": "3 - $i$s$f6fCutting $f0fwith $f6fPink $f0fScissors",
+            "number": 73,
+            "reason": null,
+            "warriorTime": 15711,
+            "worldRecord": 14362
+        },
+        {
+            "authorTime": 16760,
+            "custom": null,
+            "mapUid": "OZG3kuXI456C97Wnf10vWHPIEfa",
+            "name": "4 - Grassy Slides",
+            "number": 74,
+            "reason": null,
+            "warriorTime": 16247,
+            "worldRecord": 15734
+        },
+        {
+            "authorTime": 17024,
+            "custom": null,
+            "mapUid": "j9HAs09slVMhMXsyMtawLcMmLk",
+            "name": "5 - $3FFSuper Splashout",
+            "number": 75,
+            "reason": null,
+            "warriorTime": 14725,
+            "worldRecord": 12425
         }
     ],
     "Totd": [
