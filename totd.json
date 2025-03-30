@@ -20722,7 +20722,7 @@
         "submitter": "02ffe7da-3eaa-4ffe-a2de-155bc8638af9",
         "timestampEnd": 1678903200,
         "timestampStart": 1678816800,
-        "timestampUpload": 1739022537,
+        "timestampUpload": 1743284202,
         "weekDay": 1,
         "year": 2023
     },
@@ -22570,7 +22570,7 @@
         "submitter": "02ffe7da-3eaa-4ffe-a2de-155bc8638af9",
         "timestampEnd": 1686502800,
         "timestampStart": 1686416400,
-        "timestampUpload": 1739022541,
+        "timestampUpload": 1743284179,
         "weekDay": 5,
         "year": 2023
     },
@@ -28492,7 +28492,7 @@
         "submitter": "02ffe7da-3eaa-4ffe-a2de-155bc8638af9",
         "timestampEnd": 1710871200,
         "timestampStart": 1710784800,
-        "timestampUpload": 1739022485,
+        "timestampUpload": 1743284183,
         "weekDay": 0,
         "year": 2024
     },
@@ -29668,7 +29668,7 @@
         "submitter": "02ffe7da-3eaa-4ffe-a2de-155bc8638af9",
         "timestampEnd": 1715706000,
         "timestampStart": 1715619600,
-        "timestampUpload": 1739022489,
+        "timestampUpload": 1743284193,
         "weekDay": 0,
         "year": 2024
     },
@@ -35149,7 +35149,7 @@
         "submitter": "02ffe7da-3eaa-4ffe-a2de-155bc8638af9",
         "timestampEnd": 1738260000,
         "timestampStart": 1738173600,
-        "timestampUpload": 1739022551,
+        "timestampUpload": 1743284189,
         "weekDay": 2,
         "year": 2025
     },
@@ -36390,6 +36390,27 @@
         "timestampStart": 1743271200,
         "timestampUpload": 1742928158,
         "weekDay": 5,
+        "year": 2025
+    },
+    "y3Fs_232YhYKJ3PkJUbFUaUNom": {
+        "author": "32269ea2-cfed-4fc9-b69a-161833d3f652",
+        "authorTime": 41485,
+        "bronzeTime": 63000,
+        "campaignId": 92305,
+        "goldTime": 44000,
+        "mapId": "56ba4e8f-fa5a-489a-aa6a-284c3a4e7ebc",
+        "mapUid": "y3Fs_232YhYKJ3PkJUbFUaUNom",
+        "month": 3,
+        "monthDay": 30,
+        "name": "$o$F93L$000idelse",
+        "number": 1734,
+        "seasonUid": "6a81e022-f41a-4ea5-9cfd-069c16948646",
+        "silverTime": 50000,
+        "submitter": "32269ea2-cfed-4fc9-b69a-161833d3f652",
+        "timestampEnd": 1743440400,
+        "timestampStart": 1743354000,
+        "timestampUpload": 1742504554,
+        "weekDay": 6,
         "year": 2025
     }
 }
