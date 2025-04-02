@@ -36454,5 +36454,26 @@
         "timestampUpload": 1743236494,
         "weekDay": 1,
         "year": 2025
+    },
+    "k48FvZBXyogFTuY4nRUhIR_vnUd": {
+        "author": "3b417a4c-c190-4951-90f4-6454e4475740",
+        "authorTime": 48949,
+        "bronzeTime": 74000,
+        "campaignId": 93068,
+        "goldTime": 52000,
+        "mapId": "e8e86f23-ff1c-443d-a06a-614e2cb6e9eb",
+        "mapUid": "k48FvZBXyogFTuY4nRUhIR_vnUd",
+        "month": 4,
+        "monthDay": 2,
+        "name": "$C96Kahvi",
+        "number": 1737,
+        "seasonUid": "2ab2fa3c-5405-42fd-b9ad-6a16caef3bc0",
+        "silverTime": 59000,
+        "submitter": "3b417a4c-c190-4951-90f4-6454e4475740",
+        "timestampEnd": 1743699600,
+        "timestampStart": 1743613200,
+        "timestampUpload": 1739986423,
+        "weekDay": 2,
+        "year": 2025
     }
 }
