@@ -34015,7 +34015,7 @@
         "submitter": "c05e95df-bc71-4dc0-a6b6-4ffc0dace3d5",
         "timestampEnd": 1733594400,
         "timestampStart": 1733508000,
-        "timestampUpload": 1732986365,
+        "timestampUpload": 1743671256,
         "weekDay": 4,
         "year": 2024
     },
@@ -36474,6 +36474,27 @@
         "timestampStart": 1743613200,
         "timestampUpload": 1739986423,
         "weekDay": 2,
+        "year": 2025
+    },
+    "xEsBte2NtePONKI9jTKCAgZ6Haj": {
+        "author": "701b9536-bc38-4a98-88eb-abe6cb174c0d",
+        "authorTime": 52382,
+        "bronzeTime": 79000,
+        "campaignId": 93069,
+        "goldTime": 56000,
+        "mapId": "4f3b3948-c397-4927-ab3f-60abc5915cd7",
+        "mapUid": "xEsBte2NtePONKI9jTKCAgZ6Haj",
+        "month": 4,
+        "monthDay": 3,
+        "name": "$i$E33crimson spires$E33 $FFFft MrPepsy$FFF$i",
+        "number": 1738,
+        "seasonUid": "a9d9ddba-fd30-4477-bae5-57e096b222fa",
+        "silverTime": 63000,
+        "submitter": "701b9536-bc38-4a98-88eb-abe6cb174c0d",
+        "timestampEnd": 1743786000,
+        "timestampStart": 1743699600,
+        "timestampUpload": 1741003020,
+        "weekDay": 3,
         "year": 2025
     }
 }
