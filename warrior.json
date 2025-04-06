@@ -5501,6 +5501,56 @@
             "reason": null,
             "warriorTime": 14725,
             "worldRecord": 12425
+        },
+        {
+            "authorTime": 17433,
+            "custom": null,
+            "mapUid": "JqjXengglGawr23RI6RPLNy84jh",
+            "name": "1 - Fun Valley",
+            "number": 76,
+            "reason": null,
+            "warriorTime": 16306,
+            "worldRecord": 15178
+        },
+        {
+            "authorTime": 17500,
+            "custom": null,
+            "mapUid": "gavRMUK61N175DfYPyuqJfImbE1",
+            "name": "$s2 - crawl",
+            "number": 77,
+            "reason": null,
+            "warriorTime": 16795,
+            "worldRecord": 16090
+        },
+        {
+            "authorTime": 21824,
+            "custom": null,
+            "mapUid": "8KFZVgEl4wc2FDL6YKzOTuUP2j1",
+            "name": "3 - Skatepark",
+            "number": 78,
+            "reason": null,
+            "warriorTime": 19884,
+            "worldRecord": 17944
+        },
+        {
+            "authorTime": 18863,
+            "custom": null,
+            "mapUid": "Ud10fBHPq8Baem2TO91mOD9AxQ7",
+            "name": "4 - Speedy Temple",
+            "number": 79,
+            "reason": null,
+            "warriorTime": 17511,
+            "worldRecord": 16158
+        },
+        {
+            "authorTime": 15945,
+            "custom": null,
+            "mapUid": "zkVhHpFRpPqJt1fn85x20eYMvVi",
+            "name": "5 - Flipmaster 25",
+            "number": 80,
+            "reason": null,
+            "warriorTime": 15135,
+            "worldRecord": 14324
         }
     ],
     "Totd": [
