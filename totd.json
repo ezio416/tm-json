@@ -36556,8 +36556,29 @@
         "submitter": "de590c4e-f98c-4783-afa8-a01efb069ceb",
         "timestampEnd": 1744045200,
         "timestampStart": 1743958800,
-        "timestampUpload": 1743724388,
+        "timestampUpload": 1743964132,
         "weekDay": 6,
+        "year": 2025
+    },
+    "yWfhA11m1Xb069mkqUo6vs_ipa9": {
+        "author": "b09527f2-b61d-4d9a-8cdc-73484590f81f",
+        "authorTime": 51458,
+        "bronzeTime": 78000,
+        "campaignId": 93072,
+        "goldTime": 55000,
+        "mapId": "c02577e7-b65e-4164-8978-0ea9d5848f54",
+        "mapUid": "yWfhA11m1Xb069mkqUo6vs_ipa9",
+        "month": 4,
+        "monthDay": 7,
+        "name": "$s$f33Igneatus \ud83d\udd25  $fffft$f33' $fffThounej",
+        "number": 1742,
+        "seasonUid": "0c8795a9-7472-47af-bbc7-e43c8c906c71",
+        "silverTime": 62000,
+        "submitter": "b09527f2-b61d-4d9a-8cdc-73484590f81f",
+        "timestampEnd": 1744131600,
+        "timestampStart": 1744045200,
+        "timestampUpload": 1742226001,
+        "weekDay": 0,
         "year": 2025
     }
 }
