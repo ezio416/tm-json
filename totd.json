@@ -36580,5 +36580,26 @@
         "timestampUpload": 1742226001,
         "weekDay": 0,
         "year": 2025
+    },
+    "BZgGMZ_sByJlmHJ1UGf4yHiUQl7": {
+        "author": "9c36b127-d1ce-4cf7-85fa-e9d11bcbb5fd",
+        "authorTime": 49520,
+        "bronzeTime": 75000,
+        "campaignId": 93577,
+        "goldTime": 53000,
+        "mapId": "939d93ac-1b93-4ec5-83b4-fe9704d52adb",
+        "mapUid": "BZgGMZ_sByJlmHJ1UGf4yHiUQl7",
+        "month": 4,
+        "monthDay": 8,
+        "name": "$i$o$DDDWWC - Ga$28Dga$C33rin$DDD $nft Notavailablenam",
+        "number": 1743,
+        "seasonUid": "83bb6435-9822-4f7e-8401-6c5ed52b61e5",
+        "silverTime": 60000,
+        "submitter": "9c36b127-d1ce-4cf7-85fa-e9d11bcbb5fd",
+        "timestampEnd": 1744218000,
+        "timestampStart": 1744131600,
+        "timestampUpload": 1744129262,
+        "weekDay": 1,
+        "year": 2025
     }
 }
