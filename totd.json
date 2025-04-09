@@ -36601,5 +36601,26 @@
         "timestampUpload": 1744129262,
         "weekDay": 1,
         "year": 2025
+    },
+    "LSoLneCkcYXrUaJZQXQmJ_M6j4f": {
+        "author": "73eba009-a074-4439-916f-d25d7fa7bc1c",
+        "authorTime": 50276,
+        "bronzeTime": 76000,
+        "campaignId": 93576,
+        "goldTime": 54000,
+        "mapId": "21b0fb3d-b365-4d34-ba55-efc988a4d2c8",
+        "mapUid": "LSoLneCkcYXrUaJZQXQmJ_M6j4f",
+        "month": 4,
+        "monthDay": 9,
+        "name": "$05fFormula E $fff- $E8AMiami $5CCE-Prix",
+        "number": 1744,
+        "seasonUid": "42c465ed-6c88-41de-8caf-e8ed0a222480",
+        "silverTime": 61000,
+        "submitter": "91ecc3e6-ef3c-4ed9-bf33-a79fdfc15129",
+        "timestampEnd": 1744304400,
+        "timestampStart": 1744218000,
+        "timestampUpload": 1743762154,
+        "weekDay": 2,
+        "year": 2025
     }
 }
