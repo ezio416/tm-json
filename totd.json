@@ -36622,5 +36622,26 @@
         "timestampUpload": 1743762154,
         "weekDay": 2,
         "year": 2025
+    },
+    "p1VtgJe818QPyzqrVduEYLYO2Pk": {
+        "author": "1f797be5-e425-4f6d-8ebd-e74fd26e5d0d",
+        "authorTime": 53915,
+        "bronzeTime": 81000,
+        "campaignId": 94089,
+        "goldTime": 58000,
+        "mapId": "2a1420e3-e8bb-4a25-be56-1c853f3f5c20",
+        "mapUid": "p1VtgJe818QPyzqrVduEYLYO2Pk",
+        "month": 4,
+        "monthDay": 10,
+        "name": "$5AD undrofi is real $FF lets try",
+        "number": 1745,
+        "seasonUid": "787bdc39-479f-4b06-ba84-0754ee3142a9",
+        "silverTime": 65000,
+        "submitter": "1f797be5-e425-4f6d-8ebd-e74fd26e5d0d",
+        "timestampEnd": 1744390800,
+        "timestampStart": 1744304400,
+        "timestampUpload": 1743365517,
+        "weekDay": 3,
+        "year": 2025
     }
 }
