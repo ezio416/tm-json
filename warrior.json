@@ -22866,11 +22866,11 @@
         },
         {
             "authorTime": 44225,
-            "custom": null,
+            "custom": 44164,
             "date": "2025-03-28",
             "mapUid": "4i0q2ZiR7XWDosymQMNHp0iarR0",
             "name": "$o$i$000Lore$300m $000Ipsu$300m",
-            "reason": null,
+            "reason": "cheated wr",
             "warriorTime": 43926,
             "worldRecord": 41830
         },
@@ -22993,6 +22993,16 @@
             "reason": null,
             "warriorTime": 50195,
             "worldRecord": 49625
+        },
+        {
+            "authorTime": 53915,
+            "custom": null,
+            "date": "2025-04-10",
+            "mapUid": "p1VtgJe818QPyzqrVduEYLYO2Pk",
+            "name": "$5AD undrofi is real $FF lets try",
+            "reason": null,
+            "warriorTime": 53703,
+            "worldRecord": 52213
         }
     ],
     "Other": [
