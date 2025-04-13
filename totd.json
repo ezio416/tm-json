@@ -36685,5 +36685,26 @@
         "timestampUpload": 1743234966,
         "weekDay": 5,
         "year": 2025
+    },
+    "5CjtyHfMVdGV9pJjf9y4PBbeaX9": {
+        "author": "f48996a1-07b3-4c97-9e32-d885e89b358c",
+        "authorTime": 45749,
+        "bronzeTime": 69000,
+        "campaignId": 94097,
+        "goldTime": 49000,
+        "mapId": "d65d0aca-14a7-46eb-bcde-35255337424a",
+        "mapUid": "5CjtyHfMVdGV9pJjf9y4PBbeaX9",
+        "month": 4,
+        "monthDay": 13,
+        "name": "DELPHINIUM",
+        "number": 1748,
+        "seasonUid": "06c7390f-561f-4484-affc-3e3cbbdbe248",
+        "silverTime": 55000,
+        "submitter": "f48996a1-07b3-4c97-9e32-d885e89b358c",
+        "timestampEnd": 1744650000,
+        "timestampStart": 1744563600,
+        "timestampUpload": 1743358236,
+        "weekDay": 6,
+        "year": 2025
     }
 }
