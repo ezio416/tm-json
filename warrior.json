@@ -5551,6 +5551,56 @@
             "reason": null,
             "warriorTime": 15135,
             "worldRecord": 14324
+        },
+        {
+            "authorTime": 15138,
+            "custom": null,
+            "mapUid": "mb0uDNRn5LR9GEJwHthdR0rQN41",
+            "name": "$s$f501$fff - $f50Y$fffour $f50F$fffirst $f50M$fffap",
+            "number": 81,
+            "reason": null,
+            "warriorTime": 14610,
+            "worldRecord": 14082
+        },
+        {
+            "authorTime": 17563,
+            "custom": null,
+            "mapUid": "U42k11jMcksX6VA8pnoJMTZonQi",
+            "name": "2 - Overgrown Tech",
+            "number": 82,
+            "reason": null,
+            "warriorTime": 16369,
+            "worldRecord": 15175
+        },
+        {
+            "authorTime": 18777,
+            "custom": null,
+            "mapUid": "rTcZRTdSo1xfRPMjNw8C1ctV7Yk",
+            "name": "3 - Canyon Run",
+            "number": 83,
+            "reason": null,
+            "warriorTime": 17821,
+            "worldRecord": 16864
+        },
+        {
+            "authorTime": 18203,
+            "custom": null,
+            "mapUid": "N61aZI2RpBNFg5wHlk5nBRiqmc9",
+            "name": "$o4 - $F93ALTAROCK $60CSPEED",
+            "number": 84,
+            "reason": null,
+            "warriorTime": 17339,
+            "worldRecord": 16475
+        },
+        {
+            "authorTime": 19653,
+            "custom": null,
+            "mapUid": "Uytv8RGVfXk5RKzAuWKhui493G5",
+            "name": "5 - $cffDownhill $ffcOasis",
+            "number": 85,
+            "reason": null,
+            "warriorTime": 16973,
+            "worldRecord": 14293
         }
     ],
     "Totd": [
