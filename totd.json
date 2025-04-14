@@ -36706,5 +36706,26 @@
         "timestampUpload": 1743358236,
         "weekDay": 6,
         "year": 2025
+    },
+    "QnKYn6Y_xeNWaD_0INLSygD_yJm": {
+        "author": "fb678553-f730-442a-a035-dfc50f4a5b7b",
+        "authorTime": 42231,
+        "bronzeTime": 64000,
+        "campaignId": 94496,
+        "goldTime": 45000,
+        "mapId": "6151d5de-b160-4f1e-b027-fe2d85be8a70",
+        "mapUid": "QnKYn6Y_xeNWaD_0INLSygD_yJm",
+        "month": 4,
+        "monthDay": 14,
+        "name": "$i$s$99d The Land Before Timeland",
+        "number": 1749,
+        "seasonUid": "2e15ebd5-cbcc-442f-9372-0df6c509c700",
+        "silverTime": 51000,
+        "submitter": "fb678553-f730-442a-a035-dfc50f4a5b7b",
+        "timestampEnd": 1744736400,
+        "timestampStart": 1744650000,
+        "timestampUpload": 1744129256,
+        "weekDay": 0,
+        "year": 2025
     }
 }
