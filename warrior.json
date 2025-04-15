@@ -4749,6 +4749,256 @@
             "reason": null,
             "warriorTime": 79231,
             "worldRecord": 76944
+        },
+        {
+            "authorTime": 25019,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "4QSvF9xQQD8u7oTPx7A9T6WMjja",
+            "name": "Spring 2025 - 01",
+            "reason": null,
+            "warriorTime": 24611,
+            "worldRecord": 23385
+        },
+        {
+            "authorTime": 30528,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "KhRjcdWrOexzOYBe8MB1SZh3ND9",
+            "name": "Spring 2025 - 02",
+            "reason": null,
+            "warriorTime": 29789,
+            "worldRecord": 27572
+        },
+        {
+            "authorTime": 26728,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "66n4EB3JF42oArBScZN_mF2jj5c",
+            "name": "Spring 2025 - 03",
+            "reason": null,
+            "warriorTime": 26010,
+            "worldRecord": 23853
+        },
+        {
+            "authorTime": 26392,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "kCDcQpAfr1kpznOMDu5um6Exlc7",
+            "name": "Spring 2025 - 04",
+            "reason": null,
+            "warriorTime": 25343,
+            "worldRecord": 22194
+        },
+        {
+            "authorTime": 30255,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "cyAsefOVqDysVX0D0O7zHoHMZ2j",
+            "name": "Spring 2025 - 05",
+            "reason": null,
+            "warriorTime": 29096,
+            "worldRecord": 25617
+        },
+        {
+            "authorTime": 27472,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "hlizrXlE7DLySa9sJxj91m2TdQd",
+            "name": "Spring 2025 - 06",
+            "reason": null,
+            "warriorTime": 27054,
+            "worldRecord": 25798
+        },
+        {
+            "authorTime": 34560,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "9bxEH5K6RHpM2C7nUJEicMEKZb4",
+            "name": "Spring 2025 - 07",
+            "reason": null,
+            "warriorTime": 33562,
+            "worldRecord": 30565
+        },
+        {
+            "authorTime": 24092,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "PFkzUsEOzLO5lny_l1G5SBCo2v0",
+            "name": "Spring 2025 - 08",
+            "reason": null,
+            "warriorTime": 23090,
+            "worldRecord": 20083
+        },
+        {
+            "authorTime": 33897,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "acegmsL_MGUg8Ig39gu00ToAc54",
+            "name": "Spring 2025 - 09",
+            "reason": null,
+            "warriorTime": 32883,
+            "worldRecord": 29841
+        },
+        {
+            "authorTime": 29663,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "UVMUUmv0F0tN4999jRKHBjq27ml",
+            "name": "Spring 2025 - 10",
+            "reason": null,
+            "warriorTime": 28840,
+            "worldRecord": 26368
+        },
+        {
+            "authorTime": 37288,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "ZIMtQO68cuRnoqdvBaE1EOw5kq",
+            "name": "Spring 2025 - 11",
+            "reason": null,
+            "warriorTime": 36647,
+            "worldRecord": 34724
+        },
+        {
+            "authorTime": 35722,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "ZUvXdSM4W5KbaYhrnQsO_j6Hukj",
+            "name": "Spring 2025 - 12",
+            "reason": null,
+            "warriorTime": 34789,
+            "worldRecord": 31988
+        },
+        {
+            "authorTime": 31700,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "tGzxfivbJLXkJP6YVU_wZiBRiz5",
+            "name": "Spring 2025 - 13",
+            "reason": null,
+            "warriorTime": 31348,
+            "worldRecord": 30292
+        },
+        {
+            "authorTime": 42650,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "fGIU_IxbvluhVGqW0yZohV1edFh",
+            "name": "Spring 2025 - 14",
+            "reason": null,
+            "warriorTime": 40946,
+            "worldRecord": 35832
+        },
+        {
+            "authorTime": 56252,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "Xw9hcWvmLIkdCCUJ5wk1YKogifd",
+            "name": "Spring 2025 - 15",
+            "reason": null,
+            "warriorTime": 55336,
+            "worldRecord": 52585
+        },
+        {
+            "authorTime": 42927,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "tvwusMWflYpYhHngh02CoO28vV0",
+            "name": "Spring 2025 - 16",
+            "reason": null,
+            "warriorTime": 42197,
+            "worldRecord": 40006
+        },
+        {
+            "authorTime": 53024,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "djsz9J5Wcwr3_WdEZLXh9NmLGem",
+            "name": "Spring 2025 - 17",
+            "reason": null,
+            "warriorTime": 52036,
+            "worldRecord": 49071
+        },
+        {
+            "authorTime": 44867,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "PpZolRHFZB1hVwqErSbIznemTRe",
+            "name": "Spring 2025 - 18",
+            "reason": null,
+            "warriorTime": 44062,
+            "worldRecord": 41646
+        },
+        {
+            "authorTime": 48638,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "pDR_gM4XGM_GhdlgeWn4qjvfnG3",
+            "name": "Spring 2025 - 19",
+            "reason": null,
+            "warriorTime": 47959,
+            "worldRecord": 45921
+        },
+        {
+            "authorTime": 53701,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "rxB4R5RKWSuaJepFQkbpgJys2A5",
+            "name": "Spring 2025 - 20",
+            "reason": null,
+            "warriorTime": 51818,
+            "worldRecord": 46168
+        },
+        {
+            "authorTime": 59815,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "PYDpOu3A5294LXTJzVgmY20G6Al",
+            "name": "Spring 2025 - 21",
+            "reason": null,
+            "warriorTime": 59050,
+            "worldRecord": 56752
+        },
+        {
+            "authorTime": 63814,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "HtUacKRlCmcXpsGGx9Qw2cYxym1",
+            "name": "Spring 2025 - 22",
+            "reason": null,
+            "warriorTime": 62735,
+            "worldRecord": 59498
+        },
+        {
+            "authorTime": 56358,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "kRI21bX4eVJjuVxfybMhK0f4fX7",
+            "name": "Spring 2025 - 23",
+            "reason": null,
+            "warriorTime": 54893,
+            "worldRecord": 50497
+        },
+        {
+            "authorTime": 53319,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "7Zc_qyKmZdHg_Fe06Bk4xkUuEL3",
+            "name": "Spring 2025 - 24",
+            "reason": null,
+            "warriorTime": 52205,
+            "worldRecord": 48860
+        },
+        {
+            "authorTime": 67118,
+            "campaignId": 92981,
+            "custom": null,
+            "mapUid": "lFNdC9PCOt37bqcsv_fnwr8vRha",
+            "name": "Spring 2025 - 25",
+            "reason": null,
+            "warriorTime": 66677,
+            "worldRecord": 65354
         }
     ],
     "Weekly": [
