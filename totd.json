@@ -36745,8 +36745,29 @@
         "submitter": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
         "timestampEnd": 1744822800,
         "timestampStart": 1744736400,
-        "timestampUpload": 1744401164,
+        "timestampUpload": 1744813023,
         "weekDay": 1,
+        "year": 2025
+    },
+    "TrXC_zLhfF5PFGEfQ65tpHf1vZm": {
+        "author": "50f95774-52f6-479b-aad3-2d06d1b94e69",
+        "authorTime": 45001,
+        "bronzeTime": 68000,
+        "campaignId": 94498,
+        "goldTime": 48000,
+        "mapId": "dd679042-270b-4eea-8195-12e1312a06cf",
+        "mapUid": "TrXC_zLhfF5PFGEfQ65tpHf1vZm",
+        "month": 4,
+        "monthDay": 16,
+        "name": "ought implies can and i cannot ft' cotton",
+        "number": 1751,
+        "seasonUid": "82b4fb81-4b99-4f9e-ac85-24bf64d8222d",
+        "silverTime": 55000,
+        "submitter": "50f95774-52f6-479b-aad3-2d06d1b94e69",
+        "timestampEnd": 1744909200,
+        "timestampStart": 1744822800,
+        "timestampUpload": 1744330108,
+        "weekDay": 2,
         "year": 2025
     }
 }
