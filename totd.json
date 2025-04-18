@@ -31600,7 +31600,7 @@
         "submitter": "383df219-53b5-41ce-b7a8-bd53d95d531a",
         "timestampEnd": 1723654800,
         "timestampStart": 1723568400,
-        "timestampUpload": 1728076029,
+        "timestampUpload": 1744984080,
         "weekDay": 1,
         "year": 2024
     },
@@ -32314,7 +32314,7 @@
         "submitter": "383df219-53b5-41ce-b7a8-bd53d95d531a",
         "timestampEnd": 1726592400,
         "timestampStart": 1726506000,
-        "timestampUpload": 1728076030,
+        "timestampUpload": 1744984083,
         "weekDay": 0,
         "year": 2024
     },
@@ -34246,7 +34246,7 @@
         "submitter": "383df219-53b5-41ce-b7a8-bd53d95d531a",
         "timestampEnd": 1734544800,
         "timestampStart": 1734458400,
-        "timestampUpload": 1734742915,
+        "timestampUpload": 1744984081,
         "weekDay": 1,
         "year": 2024
     },
@@ -34351,7 +34351,7 @@
         "submitter": "383df219-53b5-41ce-b7a8-bd53d95d531a",
         "timestampEnd": 1734976800,
         "timestampStart": 1734890400,
-        "timestampUpload": 1735242529,
+        "timestampUpload": 1744984082,
         "weekDay": 6,
         "year": 2024
     },
@@ -34960,7 +34960,7 @@
         "submitter": "383df219-53b5-41ce-b7a8-bd53d95d531a",
         "timestampEnd": 1737482400,
         "timestampStart": 1737396000,
-        "timestampUpload": 1743016260,
+        "timestampUpload": 1744984084,
         "weekDay": 0,
         "year": 2025
     },
@@ -36789,6 +36789,27 @@
         "timestampStart": 1744909200,
         "timestampUpload": 1743453520,
         "weekDay": 3,
+        "year": 2025
+    },
+    "QcsNqE0240lZurYAxuM1Y3c9m05": {
+        "author": "de590c4e-f98c-4783-afa8-a01efb069ceb",
+        "authorTime": 51244,
+        "bronzeTime": 77000,
+        "campaignId": 94943,
+        "goldTime": 55000,
+        "mapId": "44c368c2-737c-4f17-834e-fcd87be46770",
+        "mapUid": "QcsNqE0240lZurYAxuM1Y3c9m05",
+        "month": 4,
+        "monthDay": 18,
+        "name": "$s$i$fffRabbit hideout $0c6ft'Keissla",
+        "number": 1753,
+        "seasonUid": "576c75cd-14f2-4825-86db-7d1fe06b0c2f",
+        "silverTime": 62000,
+        "submitter": "91ecc3e6-ef3c-4ed9-bf33-a79fdfc15129",
+        "timestampEnd": 1745082000,
+        "timestampStart": 1744995600,
+        "timestampUpload": 1744799885,
+        "weekDay": 4,
         "year": 2025
     }
 }
