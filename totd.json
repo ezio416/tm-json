@@ -36832,5 +36832,26 @@
         "timestampUpload": 1744799889,
         "weekDay": 5,
         "year": 2025
+    },
+    "CCTzNXRQipNoFaj50QqfojWaVxd": {
+        "author": "2b3c5767-148b-4fba-9baa-2d5930db2973",
+        "authorTime": 46708,
+        "bronzeTime": 71000,
+        "campaignId": 95062,
+        "goldTime": 50000,
+        "mapId": "4f133c5b-3515-4c79-b02c-6de651300e3a",
+        "mapUid": "CCTzNXRQipNoFaj50QqfojWaVxd",
+        "month": 4,
+        "monthDay": 20,
+        "name": "$FF0Bunnymania$FF0$FFF ft tag6661 & Henkisme$FFF",
+        "number": 1755,
+        "seasonUid": "6fff8791-99ea-4e3c-a043-2f3e377927b9",
+        "silverTime": 57000,
+        "submitter": "2b3c5767-148b-4fba-9baa-2d5930db2973",
+        "timestampEnd": 1745254800,
+        "timestampStart": 1745168400,
+        "timestampUpload": 1744863805,
+        "weekDay": 6,
+        "year": 2025
     }
 }
