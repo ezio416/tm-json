@@ -5851,6 +5851,56 @@
             "reason": null,
             "warriorTime": 16973,
             "worldRecord": 14293
+        },
+        {
+            "authorTime": 19796,
+            "custom": null,
+            "mapUid": "T5L5IsRPM8XQGAr3eI1kYg0VHz8",
+            "name": "1 - Throwback",
+            "number": 86,
+            "reason": null,
+            "warriorTime": 19220,
+            "worldRecord": 18643
+        },
+        {
+            "authorTime": 18213,
+            "custom": null,
+            "mapUid": "bqCQ2HCTA2V7BIj5h1dY9PlKGth",
+            "name": "2 - Cliffside",
+            "number": 87,
+            "reason": null,
+            "warriorTime": 17129,
+            "worldRecord": 16045
+        },
+        {
+            "authorTime": 16786,
+            "custom": null,
+            "mapUid": "xl5sQgfz4T6IkY_4K8Lv5iji8Ea",
+            "name": "3 - $f80Cut $000between $fffblocks",
+            "number": 88,
+            "reason": null,
+            "warriorTime": 15332,
+            "worldRecord": 13878
+        },
+        {
+            "authorTime": 19728,
+            "custom": null,
+            "mapUid": "JRpNGuL90N2NzzMiNL0g6LK5Dm4",
+            "name": "4 - TOURNICHATEAU",
+            "number": 89,
+            "reason": null,
+            "warriorTime": 18302,
+            "worldRecord": 16875
+        },
+        {
+            "authorTime": 19896,
+            "custom": null,
+            "mapUid": "pYam0PsHuVFuxkm2wYM3uxOdZp7",
+            "name": "5- Marble Fever",
+            "number": 90,
+            "reason": null,
+            "warriorTime": 14546,
+            "worldRecord": 9195
         }
     ],
     "Totd": [
