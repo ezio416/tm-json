@@ -36874,5 +36874,26 @@
         "timestampUpload": 1744648420,
         "weekDay": 0,
         "year": 2025
+    },
+    "Rh4BPjbPg6mi59_vpRwVfUpBCW0": {
+        "author": "8734f99c-fc4e-43e0-83d5-65291d8a0878",
+        "authorTime": 43582,
+        "bronzeTime": 66000,
+        "campaignId": 95320,
+        "goldTime": 47000,
+        "mapId": "a3ce82a5-d3fd-456f-b670-a39c1f240bca",
+        "mapUid": "Rh4BPjbPg6mi59_vpRwVfUpBCW0",
+        "month": 4,
+        "monthDay": 22,
+        "name": "DuckSlide",
+        "number": 1757,
+        "seasonUid": "06251ff5-b29f-46c5-a276-954b592cf801",
+        "silverTime": 53000,
+        "submitter": "8734f99c-fc4e-43e0-83d5-65291d8a0878",
+        "timestampEnd": 1745427600,
+        "timestampStart": 1745341200,
+        "timestampUpload": 1744371052,
+        "weekDay": 1,
+        "year": 2025
     }
 }
