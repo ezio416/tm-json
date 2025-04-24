@@ -36916,5 +36916,26 @@
         "timestampUpload": 1745271761,
         "weekDay": 2,
         "year": 2025
+    },
+    "RSDxy44J7b6nrkvKjW5DjVY3A21": {
+        "author": "a951feb8-d900-414b-871f-7b8fe6edf1ee",
+        "authorTime": 46328,
+        "bronzeTime": 70000,
+        "campaignId": 95589,
+        "goldTime": 50000,
+        "mapId": "949f67b4-2a93-4a21-a1a6-abe5daf03084",
+        "mapUid": "RSDxy44J7b6nrkvKjW5DjVY3A21",
+        "month": 4,
+        "monthDay": 24,
+        "name": "$s$iVreden ft' Fecot",
+        "number": 1759,
+        "seasonUid": "51ac61a1-b8f6-48ed-a912-48e9a51fea6e",
+        "silverTime": 56000,
+        "submitter": "a951feb8-d900-414b-871f-7b8fe6edf1ee",
+        "timestampEnd": 1745600400,
+        "timestampStart": 1745514000,
+        "timestampUpload": 1743958265,
+        "weekDay": 3,
+        "year": 2025
     }
 }
