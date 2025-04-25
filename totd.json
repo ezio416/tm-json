@@ -36937,5 +36937,26 @@
         "timestampUpload": 1743958265,
         "weekDay": 3,
         "year": 2025
+    },
+    "u7bTHRj61Jy3aKxK6H_ozdQL8Ei": {
+        "author": "34fdec71-7121-418a-918b-cb24257f2a68",
+        "authorTime": 41685,
+        "bronzeTime": 63000,
+        "campaignId": 95591,
+        "goldTime": 45000,
+        "mapId": "d501ff57-ea0d-402d-9d5b-cb7eed1b3a3b",
+        "mapUid": "u7bTHRj61Jy3aKxK6H_ozdQL8Ei",
+        "month": 4,
+        "monthDay": 25,
+        "name": "$s$f00A$fffscend - Code Red",
+        "number": 1760,
+        "seasonUid": "56871106-6dcb-4417-baab-cade9b97277f",
+        "silverTime": 51000,
+        "submitter": "34fdec71-7121-418a-918b-cb24257f2a68",
+        "timestampEnd": 1745686800,
+        "timestampStart": 1745600400,
+        "timestampUpload": 1744211913,
+        "weekDay": 4,
+        "year": 2025
     }
 }
