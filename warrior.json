@@ -5901,6 +5901,56 @@
             "reason": null,
             "warriorTime": 14546,
             "worldRecord": 9195
+        },
+        {
+            "authorTime": 20750,
+            "custom": null,
+            "mapUid": "eyyyoYf50plBszRbZkOp9Mzmwaf",
+            "name": "1 - Sunny Paradise",
+            "number": 91,
+            "reason": null,
+            "warriorTime": 19200,
+            "worldRecord": 17650
+        },
+        {
+            "authorTime": 16017,
+            "custom": null,
+            "mapUid": "x_q5iOmQP0X3qmhjV6izZHwYFaa",
+            "name": "$s$ccc2 - $0a0Green $cccLane",
+            "number": 92,
+            "reason": null,
+            "warriorTime": 15693,
+            "worldRecord": 15369
+        },
+        {
+            "authorTime": 17845,
+            "custom": null,
+            "mapUid": "1yWcSuBnKdwop7NVWkjM07eSxEj",
+            "name": "3 - $9f6$i$o$nPalm $6f3Tree $3C0Water",
+            "number": 93,
+            "reason": null,
+            "warriorTime": 10288,
+            "worldRecord": 2730
+        },
+        {
+            "authorTime": 18887,
+            "custom": null,
+            "mapUid": "wqimMOwCULIzfJ1RMMG3vvy9Pr6",
+            "name": "4 - Small Hops",
+            "number": 94,
+            "reason": null,
+            "warriorTime": 18050,
+            "worldRecord": 17212
+        },
+        {
+            "authorTime": 18505,
+            "custom": null,
+            "mapUid": "n8ErCoVjSHmnQcHEsWhSiw6GCja",
+            "name": "5 - Stunt Hunt",
+            "number": 95,
+            "reason": null,
+            "warriorTime": 15320,
+            "worldRecord": 12134
         }
     ],
     "Totd": [
