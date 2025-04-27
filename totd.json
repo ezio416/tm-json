@@ -36979,5 +36979,26 @@
         "timestampUpload": 1744566952,
         "weekDay": 5,
         "year": 2025
+    },
+    "K5aN59uG1jA2QgDsilBrmOs76x0": {
+        "author": "01ad11a4-d86f-437e-8164-46de59e9a541",
+        "authorTime": 50245,
+        "bronzeTime": 76000,
+        "campaignId": 95592,
+        "goldTime": 54000,
+        "mapId": "338c2d8e-16a4-446a-b5ad-7304223f20d7",
+        "mapUid": "K5aN59uG1jA2QgDsilBrmOs76x0",
+        "month": 4,
+        "monthDay": 27,
+        "name": "$i$o$FFFS$F60olmira",
+        "number": 1762,
+        "seasonUid": "c3256ff3-9d6b-4116-a4e8-f4b6b6b91780",
+        "silverTime": 61000,
+        "submitter": "01ad11a4-d86f-437e-8164-46de59e9a541",
+        "timestampEnd": 1745859600,
+        "timestampStart": 1745773200,
+        "timestampUpload": 1744508745,
+        "weekDay": 6,
+        "year": 2025
     }
 }
