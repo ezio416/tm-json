@@ -36472,7 +36472,7 @@
         "submitter": "3b417a4c-c190-4951-90f4-6454e4475740",
         "timestampEnd": 1743699600,
         "timestampStart": 1743613200,
-        "timestampUpload": 1739986423,
+        "timestampUpload": 1745962970,
         "weekDay": 2,
         "year": 2025
     },
@@ -37041,6 +37041,27 @@
         "timestampStart": 1745946000,
         "timestampUpload": 1742929916,
         "weekDay": 1,
+        "year": 2025
+    },
+    "84yylVo5G7xZ46QTx6vmedsEH11": {
+        "author": "8734f99c-fc4e-43e0-83d5-65291d8a0878",
+        "authorTime": 41582,
+        "bronzeTime": 63000,
+        "campaignId": 96197,
+        "goldTime": 45000,
+        "mapId": "6c2ad035-4bd2-4237-8488-7d63d951ce20",
+        "mapUid": "84yylVo5G7xZ46QTx6vmedsEH11",
+        "month": 4,
+        "monthDay": 30,
+        "name": "$o$c90Caught $n$fffft Cotton",
+        "number": 1765,
+        "seasonUid": "c1d62651-b5ed-45ff-8f0b-e9b0e09dc6e2",
+        "silverTime": 50000,
+        "submitter": "8734f99c-fc4e-43e0-83d5-65291d8a0878",
+        "timestampEnd": 1746118800,
+        "timestampStart": 1746032400,
+        "timestampUpload": 1745271759,
+        "weekDay": 2,
         "year": 2025
     }
 }
