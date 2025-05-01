@@ -5924,11 +5924,11 @@
         },
         {
             "authorTime": 17845,
-            "custom": null,
+            "custom": 16607,
             "mapUid": "1yWcSuBnKdwop7NVWkjM07eSxEj",
             "name": "3 - $9f6$i$o$nPalm $6f3Tree $3C0Water",
             "number": 93,
-            "reason": null,
+            "reason": "cheated wr",
             "warriorTime": 10288,
             "worldRecord": 2730
         },
@@ -23603,6 +23603,16 @@
             "reason": null,
             "warriorTime": 41471,
             "worldRecord": 40691
+        },
+        {
+            "authorTime": 44208,
+            "custom": null,
+            "date": "2025-05-01",
+            "mapUid": "YrHoak9xE3GVpST5xpvSzuxPqce",
+            "name": "$BC2Backw\u039b\u0550ds",
+            "reason": null,
+            "warriorTime": 43987,
+            "worldRecord": 42436
         }
     ],
     "Other": [
