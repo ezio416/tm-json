@@ -37063,5 +37063,26 @@
         "timestampUpload": 1745271759,
         "weekDay": 2,
         "year": 2025
+    },
+    "YrHoak9xE3GVpST5xpvSzuxPqce": {
+        "author": "26fd15e7-e321-4c4a-9d74-38a44b667dde",
+        "authorTime": 44208,
+        "bronzeTime": 67000,
+        "campaignId": 96399,
+        "goldTime": 47000,
+        "mapId": "7a188a82-13a2-4360-b78d-deb27bbf5b1c",
+        "mapUid": "YrHoak9xE3GVpST5xpvSzuxPqce",
+        "month": 5,
+        "monthDay": 1,
+        "name": "$BC2Backw\u039b\u0550ds",
+        "number": 1766,
+        "seasonUid": "8a3629e2-9618-4196-bcce-4f5e70cd38af",
+        "silverTime": 54000,
+        "submitter": "26fd15e7-e321-4c4a-9d74-38a44b667dde",
+        "timestampEnd": 1746205200,
+        "timestampStart": 1746118800,
+        "timestampUpload": 1743797108,
+        "weekDay": 3,
+        "year": 2025
     }
 }
