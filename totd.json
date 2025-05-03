@@ -37105,5 +37105,26 @@
         "timestampUpload": 1745492622,
         "weekDay": 4,
         "year": 2025
+    },
+    "WkKINu30anjfCbEENbzQ1vrz_Fk": {
+        "author": "e8f00945-acdd-4f20-b468-a3cc046e40db",
+        "authorTime": 50555,
+        "bronzeTime": 76000,
+        "campaignId": 96553,
+        "goldTime": 54000,
+        "mapId": "597ceea1-ca18-479e-a0ff-9013dae5632e",
+        "mapUid": "WkKINu30anjfCbEENbzQ1vrz_Fk",
+        "month": 5,
+        "monthDay": 3,
+        "name": "$n$s$o$ff0\u30cd\u30b3$000\u30c8\u30d4\u30a2 $ff0- $fffNekotopia",
+        "number": 1768,
+        "seasonUid": "81a97eb9-7da9-4259-86fc-ec16d54bcf97",
+        "silverTime": 61000,
+        "submitter": "e8f00945-acdd-4f20-b468-a3cc046e40db",
+        "timestampEnd": 1746378000,
+        "timestampStart": 1746291600,
+        "timestampUpload": 1743121426,
+        "weekDay": 5,
+        "year": 2025
     }
 }
