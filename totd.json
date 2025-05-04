@@ -37126,5 +37126,26 @@
         "timestampUpload": 1743121426,
         "weekDay": 5,
         "year": 2025
+    },
+    "ZDxWvD1lGWh9XySrL9fCcpMU0Ih": {
+        "author": "931e9842-5193-4f39-aab6-abc593b39fcf",
+        "authorTime": 42398,
+        "bronzeTime": 64000,
+        "campaignId": 96554,
+        "goldTime": 45000,
+        "mapId": "97092524-3171-459c-88eb-31ea39dfbc3f",
+        "mapUid": "ZDxWvD1lGWh9XySrL9fCcpMU0Ih",
+        "month": 5,
+        "monthDay": 4,
+        "name": "$6FENothing Back the Way We Came",
+        "number": 1769,
+        "seasonUid": "59254eee-f406-4b36-a430-af5e19ee36b1",
+        "silverTime": 51000,
+        "submitter": "931e9842-5193-4f39-aab6-abc593b39fcf",
+        "timestampEnd": 1746464400,
+        "timestampStart": 1746378000,
+        "timestampUpload": 1744887939,
+        "weekDay": 6,
+        "year": 2025
     }
 }
