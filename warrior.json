@@ -5951,6 +5951,56 @@
             "reason": null,
             "warriorTime": 15320,
             "worldRecord": 12134
+        },
+        {
+            "authorTime": 16107,
+            "custom": null,
+            "mapUid": "OCdcczTAn1LVrqNSLcSkfk9mXx",
+            "name": "$i$s$0ff1 - Quarterpipe Quest",
+            "number": 96,
+            "reason": null,
+            "warriorTime": 12880,
+            "worldRecord": 9652
+        },
+        {
+            "authorTime": 19869,
+            "custom": null,
+            "mapUid": "9WsIo7UipK7e1yUHmxvKcupVqjg",
+            "name": "2 - $000S$FFFir $000J$FFFumpsalot",
+            "number": 97,
+            "reason": null,
+            "warriorTime": 17974,
+            "worldRecord": 16079
+        },
+        {
+            "authorTime": 18609,
+            "custom": null,
+            "mapUid": "JjBvdsRlPQjYQt4HNrQlbmk6KUh",
+            "name": " 3 - $CFFOm$9FCnes $6FFVi$0CCae",
+            "number": 98,
+            "reason": null,
+            "warriorTime": 14711,
+            "worldRecord": 10812
+        },
+        {
+            "authorTime": 18885,
+            "custom": null,
+            "mapUid": "BqyN_d5T8KtjhGOIbfE7takW7hf",
+            "name": "4 - Gorge of the Sands",
+            "number": 99,
+            "reason": null,
+            "warriorTime": 17190,
+            "worldRecord": 15495
+        },
+        {
+            "authorTime": 19669,
+            "custom": null,
+            "mapUid": "YtEMkR0JpxI20jvhsEbI0tG9ns5",
+            "name": "5 - Summer Day",
+            "number": 100,
+            "reason": null,
+            "warriorTime": 17468,
+            "worldRecord": 15267
         }
     ],
     "Totd": [
