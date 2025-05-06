@@ -37168,5 +37168,26 @@
         "timestampUpload": 1744830362,
         "weekDay": 0,
         "year": 2025
+    },
+    "cCK32weZn2Rt11C6edh1rjzBZHa": {
+        "author": "07fc0309-fdbc-4926-97c1-16776db374f6",
+        "authorTime": 41265,
+        "bronzeTime": 62000,
+        "campaignId": 96556,
+        "goldTime": 44000,
+        "mapId": "2bfd82e5-62fe-4f28-acb1-55096937b5bd",
+        "mapUid": "cCK32weZn2Rt11C6edh1rjzBZHa",
+        "month": 5,
+        "monthDay": 6,
+        "name": "$i$o$F00Met$900Bi$C9FDuo$93FDi $o$FFFFt Oclavukixus",
+        "number": 1771,
+        "seasonUid": "04650ee7-8ad4-404e-9a84-3cfe81928d1e",
+        "silverTime": 50000,
+        "submitter": "07fc0309-fdbc-4926-97c1-16776db374f6",
+        "timestampEnd": 1746637200,
+        "timestampStart": 1746550800,
+        "timestampUpload": 1726161546,
+        "weekDay": 1,
+        "year": 2025
     }
 }
