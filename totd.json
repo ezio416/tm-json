@@ -37189,5 +37189,26 @@
         "timestampUpload": 1726161546,
         "weekDay": 1,
         "year": 2025
+    },
+    "sRcu1eN7qtOu0aH98QGYNS0CQPm": {
+        "author": "435ecb19-a003-4a79-9f3c-a5572a0dc8a8",
+        "authorTime": 47134,
+        "bronzeTime": 71000,
+        "campaignId": 96557,
+        "goldTime": 50000,
+        "mapId": "f6028124-f625-4037-96fd-1d8afcb3938c",
+        "mapUid": "sRcu1eN7qtOu0aH98QGYNS0CQPm",
+        "month": 5,
+        "monthDay": 7,
+        "name": "$f00$oCrimson Carnation $z ft' Cobla",
+        "number": 1772,
+        "seasonUid": "ae21e099-c258-4a95-8028-d2137104be7d",
+        "silverTime": 57000,
+        "submitter": "435ecb19-a003-4a79-9f3c-a5572a0dc8a8",
+        "timestampEnd": 1746723600,
+        "timestampStart": 1746637200,
+        "timestampUpload": 1745262520,
+        "weekDay": 2,
+        "year": 2025
     }
 }
