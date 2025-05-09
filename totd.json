@@ -37231,5 +37231,26 @@
         "timestampUpload": 1745512148,
         "weekDay": 3,
         "year": 2025
+    },
+    "8_uSYh7HlqXkwfSCVqvUhc2jQXm": {
+        "author": "8e8ea58e-72b1-42eb-bd63-8183bf3add50",
+        "authorTime": 45342,
+        "bronzeTime": 69000,
+        "campaignId": 97275,
+        "goldTime": 49000,
+        "mapId": "1eee2e58-c870-4056-8498-8e123241995d",
+        "mapUid": "8_uSYh7HlqXkwfSCVqvUhc2jQXm",
+        "month": 5,
+        "monthDay": 9,
+        "name": "Glacial Ice Campaign [CE]",
+        "number": 1774,
+        "seasonUid": "a77dee60-2d2a-47a9-8363-c432aacb2e26",
+        "silverTime": 55000,
+        "submitter": "91ecc3e6-ef3c-4ed9-bf33-a79fdfc15129",
+        "timestampEnd": 1746896400,
+        "timestampStart": 1746810000,
+        "timestampUpload": 1746621325,
+        "weekDay": 4,
+        "year": 2025
     }
 }
