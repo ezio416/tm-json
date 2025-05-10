@@ -37252,5 +37252,26 @@
         "timestampUpload": 1746621325,
         "weekDay": 4,
         "year": 2025
+    },
+    "36lGXOqUbasV9PHLr7YFPgTVck0": {
+        "author": "c68d831c-16b2-4134-91d4-bdace1291a79",
+        "authorTime": 40534,
+        "bronzeTime": 61000,
+        "campaignId": 97225,
+        "goldTime": 43000,
+        "mapId": "680c3dd1-e13d-4e24-9972-f67032a259fa",
+        "mapUid": "36lGXOqUbasV9PHLr7YFPgTVck0",
+        "month": 5,
+        "monthDay": 10,
+        "name": "Treeline",
+        "number": 1775,
+        "seasonUid": "7b7257c2-0cf4-499c-ae81-e3f989a051eb",
+        "silverTime": 49000,
+        "submitter": "c68d831c-16b2-4134-91d4-bdace1291a79",
+        "timestampEnd": 1746982800,
+        "timestampStart": 1746896400,
+        "timestampUpload": 1745415624,
+        "weekDay": 5,
+        "year": 2025
     }
 }
