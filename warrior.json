@@ -6001,6 +6001,56 @@
             "reason": null,
             "warriorTime": 17468,
             "worldRecord": 15267
+        },
+        {
+            "authorTime": 19886,
+            "custom": null,
+            "mapUid": "03IrZ1dmdDdwgzcL8BmIpZUB60b",
+            "name": "1 - $0f0S$1eeU$2ddM$3ccM$4bbE$5aaR $6aaD$79bR$88cI$97dV$a6eE",
+            "number": 101,
+            "reason": null,
+            "warriorTime": 19343,
+            "worldRecord": 18800
+        },
+        {
+            "authorTime": 19868,
+            "custom": null,
+            "mapUid": "0BfIkFWcqPIcAn_qSaMP2dBHYI9",
+            "name": "2 - Mountain Cliff",
+            "number": 102,
+            "reason": null,
+            "warriorTime": 19052,
+            "worldRecord": 18235
+        },
+        {
+            "authorTime": 17472,
+            "custom": null,
+            "mapUid": "08ylHnS3ZfEv46bS5bfX2mvhgT8",
+            "name": "3 - $15FTr$14Ey$23E-$22Da$31Dl$30Cl $i$fff(ft' classjan)",
+            "number": 103,
+            "reason": null,
+            "warriorTime": 12261,
+            "worldRecord": 7050
+        },
+        {
+            "authorTime": 19914,
+            "custom": null,
+            "mapUid": "MEYWUjsbsj3h21Xo2eeSZ0hnHOm",
+            "name": "4 - Quick Quip",
+            "number": 104,
+            "reason": null,
+            "warriorTime": 18166,
+            "worldRecord": 16418
+        },
+        {
+            "authorTime": 19970,
+            "custom": null,
+            "mapUid": "AeslzlL4sD2KzLlZsINjz3Cjg8c",
+            "name": "5 - HIDE BOOST",
+            "number": 105,
+            "reason": null,
+            "warriorTime": 18132,
+            "worldRecord": 16294
         }
     ],
     "Totd": [
