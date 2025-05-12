@@ -6024,11 +6024,11 @@
         },
         {
             "authorTime": 17472,
-            "custom": null,
+            "custom": 15810,
             "mapUid": "08ylHnS3ZfEv46bS5bfX2mvhgT8",
             "name": "3 - $15FTr$14Ey$23E-$22Da$31Dl$30Cl $i$fff(ft' classjan)",
             "number": 103,
-            "reason": null,
+            "reason": "cheated wr",
             "warriorTime": 12261,
             "worldRecord": 7050
         },
@@ -23813,6 +23813,16 @@
             "reason": null,
             "warriorTime": 40028,
             "worldRecord": 38614
+        },
+        {
+            "authorTime": 40000,
+            "custom": null,
+            "date": "2025-05-12",
+            "mapUid": "2DROVQwf7jDp0_3RvSgkju2xXWc",
+            "name": "$i$s$fffCastral $b02Roc $fffft$b02' Svendsenz",
+            "reason": null,
+            "warriorTime": 39660,
+            "worldRecord": 37275
         }
     ],
     "Other": [
