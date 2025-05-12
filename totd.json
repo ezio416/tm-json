@@ -37294,5 +37294,26 @@
         "timestampUpload": 1721181711,
         "weekDay": 6,
         "year": 2025
+    },
+    "2DROVQwf7jDp0_3RvSgkju2xXWc": {
+        "author": "d0026db8-1049-4b52-a235-486a866ea970",
+        "authorTime": 40000,
+        "bronzeTime": 61000,
+        "campaignId": 97538,
+        "goldTime": 43000,
+        "mapId": "a614a53f-e69c-41ae-9dbd-684ca7e24e7c",
+        "mapUid": "2DROVQwf7jDp0_3RvSgkju2xXWc",
+        "month": 5,
+        "monthDay": 12,
+        "name": "$i$s$fffCastral $b02Roc $fffft$b02' Svendsenz",
+        "number": 1777,
+        "seasonUid": "bb8421b9-a957-44ca-a6cb-472a54e77604",
+        "silverTime": 49000,
+        "submitter": "d0026db8-1049-4b52-a235-486a866ea970",
+        "timestampEnd": 1747155600,
+        "timestampStart": 1747069200,
+        "timestampUpload": 1742142756,
+        "weekDay": 0,
+        "year": 2025
     }
 }
