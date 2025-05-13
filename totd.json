@@ -37315,5 +37315,26 @@
         "timestampUpload": 1742142756,
         "weekDay": 0,
         "year": 2025
+    },
+    "1WNtvaq8uOAhXRXhY3NZB4Pn7Re": {
+        "author": "3a07ad9f-98b1-4299-808e-768a00ff7dc9",
+        "authorTime": 50414,
+        "bronzeTime": 76000,
+        "campaignId": 97719,
+        "goldTime": 54000,
+        "mapId": "ef36359e-2340-44ce-b92a-20a5fc260c83",
+        "mapUid": "1WNtvaq8uOAhXRXhY3NZB4Pn7Re",
+        "month": 5,
+        "monthDay": 13,
+        "name": "la premi\u00e8re map",
+        "number": 1778,
+        "seasonUid": "55bfa49a-7202-40c5-976b-71595d4ac187",
+        "silverTime": 61000,
+        "submitter": "3a07ad9f-98b1-4299-808e-768a00ff7dc9",
+        "timestampEnd": 1747242000,
+        "timestampStart": 1747155600,
+        "timestampUpload": 1742993062,
+        "weekDay": 1,
+        "year": 2025
     }
 }
