@@ -37336,5 +37336,26 @@
         "timestampUpload": 1742993062,
         "weekDay": 1,
         "year": 2025
+    },
+    "447BgcinPFyqDFvcfdsgGJQ3fp": {
+        "author": "2f07f855-b2d8-4256-bd08-a7ffbfe22ab9",
+        "authorTime": 50165,
+        "bronzeTime": 76000,
+        "campaignId": 97727,
+        "goldTime": 54000,
+        "mapId": "e1caa97f-fba8-4509-921b-a6ae7f8698c5",
+        "mapUid": "447BgcinPFyqDFvcfdsgGJQ3fp",
+        "month": 5,
+        "monthDay": 14,
+        "name": "$s$C13Cwpan$fff | Pistyll Rhaeadr",
+        "number": 1779,
+        "seasonUid": "eba8008f-aa29-4f43-9268-41dc83eb56e2",
+        "silverTime": 61000,
+        "submitter": "91ecc3e6-ef3c-4ed9-bf33-a79fdfc15129",
+        "timestampEnd": 1747328400,
+        "timestampStart": 1747242000,
+        "timestampUpload": 1747058795,
+        "weekDay": 2,
+        "year": 2025
     }
 }
