@@ -37375,8 +37375,29 @@
         "submitter": "6f67d602-f64b-4bed-a608-347adcf8cad1",
         "timestampEnd": 1747414800,
         "timestampStart": 1747328400,
-        "timestampUpload": 1746958141,
+        "timestampUpload": 1747334487,
         "weekDay": 3,
+        "year": 2025
+    },
+    "ZArLc1aiHYzWdrpoLJ2yED7KP3e": {
+        "author": "cf1f09fd-ee62-4056-bc04-9e9847de6766",
+        "authorTime": 42416,
+        "bronzeTime": 64000,
+        "campaignId": 97623,
+        "goldTime": 45000,
+        "mapId": "376ad841-45cc-40bb-a0ae-fcba89888508",
+        "mapUid": "ZArLc1aiHYzWdrpoLJ2yED7KP3e",
+        "month": 5,
+        "monthDay": 16,
+        "name": "$o$i$s$F66Icarus $F96Ascent $F66ft $0C6Tailgrab",
+        "number": 1781,
+        "seasonUid": "78f709e2-6961-4078-a72f-973682aaf5a4",
+        "silverTime": 51000,
+        "submitter": "cf1f09fd-ee62-4056-bc04-9e9847de6766",
+        "timestampEnd": 1747501200,
+        "timestampStart": 1747414800,
+        "timestampUpload": 1745437859,
+        "weekDay": 4,
         "year": 2025
     }
 }
