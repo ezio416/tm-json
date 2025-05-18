@@ -31138,7 +31138,7 @@
         "submitter": "36981334-447c-43ed-875c-89fe6f10e2e1",
         "timestampEnd": 1721754000,
         "timestampStart": 1721667600,
-        "timestampUpload": 1720372112,
+        "timestampUpload": 1747505181,
         "weekDay": 0,
         "year": 2024
     },
@@ -37419,6 +37419,27 @@
         "timestampStart": 1747501200,
         "timestampUpload": 1746043559,
         "weekDay": 5,
+        "year": 2025
+    },
+    "xyETmrDyC7RAhdQlvyJSquhyZyj": {
+        "author": "b51397f5-aef7-4bca-9cdf-e9dccd0829d3",
+        "authorTime": 64617,
+        "bronzeTime": 97000,
+        "campaignId": 97625,
+        "goldTime": 69000,
+        "mapId": "3a9c7ad1-e292-430a-8c55-f51d9b3f5307",
+        "mapUid": "xyETmrDyC7RAhdQlvyJSquhyZyj",
+        "month": 5,
+        "monthDay": 18,
+        "name": "Brush Tech",
+        "number": 1783,
+        "seasonUid": "1ef4137e-3fc0-4bb7-ab2d-72aff55dcfe7",
+        "silverTime": 78000,
+        "submitter": "b51397f5-aef7-4bca-9cdf-e9dccd0829d3",
+        "timestampEnd": 1747674000,
+        "timestampStart": 1747587600,
+        "timestampUpload": 1747011558,
+        "weekDay": 6,
         "year": 2025
     }
 }
