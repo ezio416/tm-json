@@ -37525,5 +37525,26 @@
         "timestampUpload": 1747495910,
         "weekDay": 3,
         "year": 2025
+    },
+    "WTk848MsqX3WBKuYXA4OOqnDgL0": {
+        "author": "7599d4de-2ced-46d0-abf6-91612e1dca30",
+        "authorTime": 43465,
+        "bronzeTime": 66000,
+        "campaignId": 98522,
+        "goldTime": 47000,
+        "mapId": "062692ca-6243-4f76-ac8a-b88c631c08e8",
+        "mapUid": "WTk848MsqX3WBKuYXA4OOqnDgL0",
+        "month": 5,
+        "monthDay": 23,
+        "name": "silent wings",
+        "number": 1788,
+        "seasonUid": "4018edd1-27c2-4d47-87a1-8cf2dea86f8b",
+        "silverTime": 53000,
+        "submitter": "d6e02f30-8e15-4290-9e35-7e47ef14168d",
+        "timestampEnd": 1748106000,
+        "timestampStart": 1748019600,
+        "timestampUpload": 1746898089,
+        "weekDay": 4,
+        "year": 2025
     }
 }
