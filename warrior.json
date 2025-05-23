@@ -23945,16 +23945,6 @@
             "worldRecord": 41685
         },
         {
-            "authorTime": 34341,
-            "custom": null,
-            "date": "2025-05-21",
-            "mapUid": "I3oL0p56IjxFlpxA1ECs9FlH_S8",
-            "name": "Castles in the Sand",
-            "reason": null,
-            "warriorTime": 33990,
-            "worldRecord": 31528
-        },
-        {
             "authorTime": 52008,
             "custom": null,
             "date": "2025-05-20",
@@ -23965,6 +23955,16 @@
             "worldRecord": 51315
         },
         {
+            "authorTime": 34341,
+            "custom": null,
+            "date": "2025-05-21",
+            "mapUid": "I3oL0p56IjxFlpxA1ECs9FlH_S8",
+            "name": "Castles in the Sand",
+            "reason": null,
+            "warriorTime": 33990,
+            "worldRecord": 31528
+        },
+        {
             "authorTime": 49346,
             "custom": null,
             "date": "2025-05-22",
@@ -23973,6 +23973,16 @@
             "reason": null,
             "warriorTime": 49249,
             "worldRecord": 48568
+        },
+        {
+            "authorTime": 43465,
+            "custom": null,
+            "date": "2025-05-23",
+            "mapUid": "WTk848MsqX3WBKuYXA4OOqnDgL0",
+            "name": "silent wings",
+            "reason": null,
+            "warriorTime": 43387,
+            "worldRecord": 42835
         }
     ],
     "Other": [
