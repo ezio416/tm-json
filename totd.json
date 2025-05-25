@@ -37039,7 +37039,7 @@
         "submitter": "2a1dd7a0-a4ce-4a1b-a4c0-a9ce0c79837e",
         "timestampEnd": 1746032400,
         "timestampStart": 1745946000,
-        "timestampUpload": 1742929916,
+        "timestampUpload": 1748176051,
         "weekDay": 1,
         "year": 2025
     },
@@ -37566,6 +37566,27 @@
         "timestampStart": 1748106000,
         "timestampUpload": 1747000510,
         "weekDay": 5,
+        "year": 2025
+    },
+    "tX0Qx4O_AyH4fFUJeP8gNlBzV33": {
+        "author": "1fd61635-57f7-46a7-aa4e-6bc93046b325",
+        "authorTime": 52815,
+        "bronzeTime": 80000,
+        "campaignId": 98442,
+        "goldTime": 56000,
+        "mapId": "47d8337d-d487-46b3-ae1c-485f0f31f15e",
+        "mapUid": "tX0Qx4O_AyH4fFUJeP8gNlBzV33",
+        "month": 5,
+        "monthDay": 25,
+        "name": "SNRGY - Future Of The Past",
+        "number": 1790,
+        "seasonUid": "f5e36d8c-0c39-4861-8cbd-7eab0eb1990f",
+        "silverTime": 64000,
+        "submitter": "91ecc3e6-ef3c-4ed9-bf33-a79fdfc15129",
+        "timestampEnd": 1748278800,
+        "timestampStart": 1748192400,
+        "timestampUpload": 1747703232,
+        "weekDay": 6,
         "year": 2025
     }
 }
