@@ -37630,5 +37630,26 @@
         "timestampUpload": 1748109111,
         "weekDay": 1,
         "year": 2025
+    },
+    "d7DLitECYBjmv8K7evZo_uIIhOj": {
+        "author": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
+        "authorTime": 40278,
+        "bronzeTime": 61000,
+        "campaignId": 98774,
+        "goldTime": 43000,
+        "mapId": "42b4961a-5130-4d9f-b20e-76f4a8308035",
+        "mapUid": "d7DLitECYBjmv8K7evZo_uIIhOj",
+        "month": 5,
+        "monthDay": 28,
+        "name": "$FC9Herzrasen kann man nicht $ADEm\u00e4hen",
+        "number": 1793,
+        "seasonUid": "395caadd-e8b5-4566-b0a1-411fa22fc047",
+        "silverTime": 49000,
+        "submitter": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
+        "timestampEnd": 1748538000,
+        "timestampStart": 1748451600,
+        "timestampUpload": 1747938928,
+        "weekDay": 2,
+        "year": 2025
     }
 }
