@@ -23221,7 +23221,7 @@
         "submitter": "ce6c0db0-2dd9-463f-aaec-463032bad4c5",
         "timestampEnd": 1689181200,
         "timestampStart": 1689094800,
-        "timestampUpload": 1748642682,
+        "timestampUpload": 1687721431,
         "weekDay": 1,
         "year": 2023
     },
@@ -25720,7 +25720,7 @@
         "submitter": "ce6c0db0-2dd9-463f-aaec-463032bad4c5",
         "timestampEnd": 1699466400,
         "timestampStart": 1699380000,
-        "timestampUpload": 1748642681,
+        "timestampUpload": 1725705894,
         "weekDay": 1,
         "year": 2023
     },
@@ -27127,7 +27127,7 @@
         "submitter": "ce6c0db0-2dd9-463f-aaec-463032bad4c5",
         "timestampEnd": 1705255200,
         "timestampStart": 1705168800,
-        "timestampUpload": 1748642679,
+        "timestampUpload": 1705273167,
         "weekDay": 5,
         "year": 2024
     },
@@ -28870,7 +28870,7 @@
         "submitter": "ce6c0db0-2dd9-463f-aaec-463032bad4c5",
         "timestampEnd": 1712422800,
         "timestampStart": 1712336400,
-        "timestampUpload": 1748642673,
+        "timestampUpload": 1716141701,
         "weekDay": 4,
         "year": 2024
     },
@@ -29353,7 +29353,7 @@
         "submitter": "ce6c0db0-2dd9-463f-aaec-463032bad4c5",
         "timestampEnd": 1714410000,
         "timestampStart": 1714323600,
-        "timestampUpload": 1748642671,
+        "timestampUpload": 1716141702,
         "weekDay": 6,
         "year": 2024
     },
@@ -31495,7 +31495,7 @@
         "submitter": "ce6c0db0-2dd9-463f-aaec-463032bad4c5",
         "timestampEnd": 1723222800,
         "timestampStart": 1723136400,
-        "timestampUpload": 1748642667,
+        "timestampUpload": 1723590534,
         "weekDay": 3,
         "year": 2024
     },
@@ -33826,7 +33826,7 @@
         "submitter": "ce6c0db0-2dd9-463f-aaec-463032bad4c5",
         "timestampEnd": 1732816800,
         "timestampStart": 1732730400,
-        "timestampUpload": 1748642658,
+        "timestampUpload": 1732915101,
         "weekDay": 2,
         "year": 2024
     },
@@ -34708,7 +34708,7 @@
         "submitter": "ce6c0db0-2dd9-463f-aaec-463032bad4c5",
         "timestampEnd": 1736445600,
         "timestampStart": 1736359200,
-        "timestampUpload": 1748642660,
+        "timestampUpload": 1736375631,
         "weekDay": 2,
         "year": 2025
     },
@@ -37692,27 +37692,6 @@
         "timestampStart": 1748624400,
         "timestampUpload": 1748393321,
         "weekDay": 4,
-        "year": 2025
-    },
-    "giykhdIBX0LwdLXtovxR_bkEdUc": {
-        "author": "07819a07-7968-41e6-94be-f2f28b6922eb",
-        "authorTime": 42254,
-        "bronzeTime": 64000,
-        "campaignId": 98771,
-        "goldTime": 45000,
-        "mapId": "50c88ec0-90f2-45ba-9bd0-c398575d7412",
-        "mapUid": "giykhdIBX0LwdLXtovxR_bkEdUc",
-        "month": 5,
-        "monthDay": 31,
-        "name": "$o$090M$fffossy $090P$fffaths",
-        "number": 1796,
-        "seasonUid": "8016be8e-6e39-4886-aee8-6502bb456a82",
-        "silverTime": 51000,
-        "submitter": "7319c311-8061-49ef-a143-93d63b961bdf",
-        "timestampEnd": 1748797200,
-        "timestampStart": 1748710800,
-        "timestampUpload": 1745848963,
-        "weekDay": 5,
         "year": 2025
     }
 }
