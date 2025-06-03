@@ -37756,5 +37756,26 @@
         "timestampUpload": 1748712196,
         "weekDay": 0,
         "year": 2025
+    },
+    "m_LGyIScSmbhvBz2vwz4MvbEGO": {
+        "author": "041623e9-57de-4dea-8fd2-6adf967ba558",
+        "authorTime": 47925,
+        "bronzeTime": 72000,
+        "campaignId": 99681,
+        "goldTime": 51000,
+        "mapId": "bd7f66c9-039d-4a02-972d-011cbb000526",
+        "mapUid": "m_LGyIScSmbhvBz2vwz4MvbEGO",
+        "month": 6,
+        "monthDay": 3,
+        "name": "$oMUSPELHEIM",
+        "number": 1799,
+        "seasonUid": "729ee9fd-f19e-4866-9f74-185b3f067df9",
+        "silverTime": 58000,
+        "submitter": "041623e9-57de-4dea-8fd2-6adf967ba558",
+        "timestampEnd": 1749056400,
+        "timestampStart": 1748970000,
+        "timestampUpload": 1748382496,
+        "weekDay": 1,
+        "year": 2025
     }
 }
