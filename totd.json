@@ -37777,5 +37777,26 @@
         "timestampUpload": 1748382496,
         "weekDay": 1,
         "year": 2025
+    },
+    "7Dpc8ayEqa7tkMPQRxIvBBymY75": {
+        "author": "77e81508-8431-42a3-941a-d77a809675c7",
+        "authorTime": 44398,
+        "bronzeTime": 67000,
+        "campaignId": 99683,
+        "goldTime": 48000,
+        "mapId": "7c972628-994d-4b98-baeb-c3f0b250362c",
+        "mapUid": "7Dpc8ayEqa7tkMPQRxIvBBymY75",
+        "month": 6,
+        "monthDay": 4,
+        "name": "REBOOT NATURE ft Svendsenz",
+        "number": 1800,
+        "seasonUid": "55efb290-94e7-4609-8546-738b5e2adc1c",
+        "silverTime": 54000,
+        "submitter": "77e81508-8431-42a3-941a-d77a809675c7",
+        "timestampEnd": 1749142800,
+        "timestampStart": 1749056400,
+        "timestampUpload": 1748723470,
+        "weekDay": 2,
+        "year": 2025
     }
 }
