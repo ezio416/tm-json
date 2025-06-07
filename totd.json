@@ -35737,7 +35737,7 @@
         "submitter": "9299532e-b799-4358-b145-3784b6a75301",
         "timestampEnd": 1740679200,
         "timestampStart": 1740592800,
-        "timestampUpload": 1745426964,
+        "timestampUpload": 1749249451,
         "weekDay": 2,
         "year": 2025
     },
@@ -37839,6 +37839,27 @@
         "timestampStart": 1749229200,
         "timestampUpload": 1748447382,
         "weekDay": 4,
+        "year": 2025
+    },
+    "vY44wJTEBJO2Odkf8UYIAamo4Ua": {
+        "author": "f4fe9668-8937-4faf-a565-cfbcbdc15b42",
+        "authorTime": 42318,
+        "bronzeTime": 60000,
+        "campaignId": 99768,
+        "goldTime": 45000,
+        "mapId": "9644ab61-0bb4-480b-8549-6156003bde8c",
+        "mapUid": "vY44wJTEBJO2Odkf8UYIAamo4Ua",
+        "month": 6,
+        "monthDay": 7,
+        "name": "Quebance",
+        "number": 1803,
+        "seasonUid": "de05ac40-2cf6-40cc-999e-5d26c40834d7",
+        "silverTime": 50000,
+        "submitter": "f4fe9668-8937-4faf-a565-cfbcbdc15b42",
+        "timestampEnd": 1749402000,
+        "timestampStart": 1749315600,
+        "timestampUpload": 1745685678,
+        "weekDay": 5,
         "year": 2025
     }
 }
