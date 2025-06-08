@@ -6201,6 +6201,56 @@
             "reason": "cheated wr",
             "warriorTime": 9455,
             "worldRecord": 494
+        },
+        {
+            "authorTime": 19341,
+            "custom": null,
+            "mapUid": "KsccKtctBbnqiRsliKxybogrYph",
+            "name": "1 - Road Trip",
+            "number": 121,
+            "reason": null,
+            "warriorTime": 18857,
+            "worldRecord": 18373
+        },
+        {
+            "authorTime": 19905,
+            "custom": null,
+            "mapUid": "y_lwFQriinvEChGTf0N2fl6A3ll",
+            "name": "2 - Under the Dust",
+            "number": 122,
+            "reason": null,
+            "warriorTime": 18498,
+            "worldRecord": 17091
+        },
+        {
+            "authorTime": 19586,
+            "custom": null,
+            "mapUid": "TwYO4BKiOh0aSCmMId9XYKHxA5b",
+            "name": " $o3 - $f90way $ffftoo $f90many $fffpaths",
+            "number": 123,
+            "reason": null,
+            "warriorTime": 14136,
+            "worldRecord": 8686
+        },
+        {
+            "authorTime": 19956,
+            "custom": null,
+            "mapUid": "mMTp1RNVJXElnqMhhrllj2F2Pc1",
+            "name": "4 - SpringFlow",
+            "number": 124,
+            "reason": null,
+            "warriorTime": 18186,
+            "worldRecord": 16415
+        },
+        {
+            "authorTime": 19947,
+            "custom": null,
+            "mapUid": "5CJ8yaCzNIw0fJBk5w2ozzc64P9",
+            "name": "5 - $93FWonderRoads $CCCfeat skidtz",
+            "number": 125,
+            "reason": null,
+            "warriorTime": 18086,
+            "worldRecord": 16225
         }
     ],
     "Totd": [
