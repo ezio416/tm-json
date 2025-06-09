@@ -32818,7 +32818,7 @@
         "submitter": "ac424f5e-5612-4a44-8b87-6403be2b690f",
         "timestampEnd": 1728666000,
         "timestampStart": 1728579600,
-        "timestampUpload": 1732255907,
+        "timestampUpload": 1749468492,
         "weekDay": 3,
         "year": 2024
     },
@@ -33616,7 +33616,7 @@
         "submitter": "ac424f5e-5612-4a44-8b87-6403be2b690f",
         "timestampEnd": 1731952800,
         "timestampStart": 1731866400,
-        "timestampUpload": 1732454854,
+        "timestampUpload": 1749468494,
         "weekDay": 6,
         "year": 2024
     },
@@ -37881,6 +37881,27 @@
         "timestampStart": 1749402000,
         "timestampUpload": 1748966240,
         "weekDay": 6,
+        "year": 2025
+    },
+    "CsJxCCh7Lgdwc3PvxDwrqjQVztk": {
+        "author": "7dbb1f78-0360-472f-ab09-8037c89e505e",
+        "authorTime": 57395,
+        "bronzeTime": 87000,
+        "campaignId": 100253,
+        "goldTime": 61000,
+        "mapId": "b874dc19-13fc-43c5-b535-a57d0e96f727",
+        "mapUid": "CsJxCCh7Lgdwc3PvxDwrqjQVztk",
+        "month": 6,
+        "monthDay": 9,
+        "name": "$oGozumi $zft' Xefas & JakeRay",
+        "number": 1805,
+        "seasonUid": "a1194031-eeb7-44fc-b7b7-b8b70dace2bc",
+        "silverTime": 69000,
+        "submitter": "7dbb1f78-0360-472f-ab09-8037c89e505e",
+        "timestampEnd": 1749574800,
+        "timestampStart": 1749488400,
+        "timestampUpload": 1704628984,
+        "weekDay": 0,
         "year": 2025
     }
 }
