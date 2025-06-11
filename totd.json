@@ -37924,5 +37924,26 @@
         "timestampUpload": 1744949949,
         "weekDay": 1,
         "year": 2025
+    },
+    "PUl0YsB8Xfmq4Royrkm7BwMb3ue": {
+        "author": "46dcc889-73cb-4df5-8b44-d5a5e6addfec",
+        "authorTime": 42851,
+        "bronzeTime": 65000,
+        "campaignId": 100009,
+        "goldTime": 46000,
+        "mapId": "d1cab08e-434e-41f0-a7fd-3b607276ede0",
+        "mapUid": "PUl0YsB8Xfmq4Royrkm7BwMb3ue",
+        "month": 6,
+        "monthDay": 11,
+        "name": "$07F$s$o$iAzure Cascade",
+        "number": 1807,
+        "seasonUid": "0d1fe442-4f92-4754-9e91-33964cdd29ca",
+        "silverTime": 52000,
+        "submitter": "46dcc889-73cb-4df5-8b44-d5a5e6addfec",
+        "timestampEnd": 1749747600,
+        "timestampStart": 1749661200,
+        "timestampUpload": 1748939189,
+        "weekDay": 2,
+        "year": 2025
     }
 }
