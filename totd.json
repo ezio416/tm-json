@@ -37945,5 +37945,26 @@
         "timestampUpload": 1748939189,
         "weekDay": 2,
         "year": 2025
+    },
+    "ovqUud828Tm6RMsq8ddcLzjRHT8": {
+        "author": "aaae15ed-ab4d-4292-ab70-48b0b3d75517",
+        "authorTime": 46808,
+        "bronzeTime": 71000,
+        "campaignId": 100010,
+        "goldTime": 50000,
+        "mapId": "55f76d5b-b77e-4862-9164-6eb6da439237",
+        "mapUid": "ovqUud828Tm6RMsq8ddcLzjRHT8",
+        "month": 6,
+        "monthDay": 12,
+        "name": "cold nights",
+        "number": 1808,
+        "seasonUid": "db7ccefa-99e4-4eee-8fbd-4b25984f2918",
+        "silverTime": 57000,
+        "submitter": "aaae15ed-ab4d-4292-ab70-48b0b3d75517",
+        "timestampEnd": 1749834000,
+        "timestampStart": 1749747600,
+        "timestampUpload": 1744033475,
+        "weekDay": 3,
+        "year": 2025
     }
 }
