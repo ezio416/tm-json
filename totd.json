@@ -37966,5 +37966,26 @@
         "timestampUpload": 1744033475,
         "weekDay": 3,
         "year": 2025
+    },
+    "ZTotJ9Szu7mjvrFKApvdamRGLx7": {
+        "author": "433b5c82-6fb4-4dc2-b686-5a9534189021",
+        "authorTime": 44018,
+        "bronzeTime": 67000,
+        "campaignId": 100007,
+        "goldTime": 47000,
+        "mapId": "192e3882-fe06-48b1-8942-6791b5287afc",
+        "mapUid": "ZTotJ9Szu7mjvrFKApvdamRGLx7",
+        "month": 6,
+        "monthDay": 13,
+        "name": "$s $iChiaotzu ft Hugs",
+        "number": 1809,
+        "seasonUid": "e0c5da2d-9b10-43a0-b027-084aa4e5ef43",
+        "silverTime": 53000,
+        "submitter": "433b5c82-6fb4-4dc2-b686-5a9534189021",
+        "timestampEnd": 1749920400,
+        "timestampStart": 1749834000,
+        "timestampUpload": 1745131293,
+        "weekDay": 4,
+        "year": 2025
     }
 }
