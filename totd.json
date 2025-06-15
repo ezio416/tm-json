@@ -38008,5 +38008,26 @@
         "timestampUpload": 1742317334,
         "weekDay": 5,
         "year": 2025
+    },
+    "pHQJRFfZXgjM6NHJ_QAe4O5YUn0": {
+        "author": "46178b0a-1589-40ed-a06c-16c0e1673396",
+        "authorTime": 50000,
+        "bronzeTime": 75000,
+        "campaignId": 100008,
+        "goldTime": 55000,
+        "mapId": "1f09815a-2b31-459e-998b-22060f29ddaa",
+        "mapUid": "pHQJRFfZXgjM6NHJ_QAe4O5YUn0",
+        "month": 6,
+        "monthDay": 15,
+        "name": "$sVCC Showacse 14 - $s $4E4Airborne$4E4",
+        "number": 1811,
+        "seasonUid": "c5435c60-0aa4-4ccb-a5bb-e923a4c55dbc",
+        "silverTime": 60000,
+        "submitter": "46178b0a-1589-40ed-a06c-16c0e1673396",
+        "timestampEnd": 1750093200,
+        "timestampStart": 1750006800,
+        "timestampUpload": 1748766761,
+        "weekDay": 6,
+        "year": 2025
     }
 }
