@@ -38050,5 +38050,26 @@
         "timestampUpload": 1749163026,
         "weekDay": 0,
         "year": 2025
+    },
+    "AUoFqM0GiEqC3uRj4iijweoaJ7k": {
+        "author": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
+        "authorTime": 39068,
+        "bronzeTime": 59000,
+        "campaignId": 100927,
+        "goldTime": 42000,
+        "mapId": "79755f04-c586-42d2-adee-28e243106332",
+        "mapUid": "AUoFqM0GiEqC3uRj4iijweoaJ7k",
+        "month": 6,
+        "monthDay": 17,
+        "name": "$FFCZyklop beim Augearzt",
+        "number": 1813,
+        "seasonUid": "ca2259a2-a8b9-4bd5-9afb-ad64d2bdce9f",
+        "silverTime": 47000,
+        "submitter": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
+        "timestampEnd": 1750266000,
+        "timestampStart": 1750179600,
+        "timestampUpload": 1749492554,
+        "weekDay": 1,
+        "year": 2025
     }
 }
