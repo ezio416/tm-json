@@ -38071,5 +38071,26 @@
         "timestampUpload": 1749492554,
         "weekDay": 1,
         "year": 2025
+    },
+    "mpVxPVwTunPQ2ApRpotbGn8wOMj": {
+        "author": "34fdec71-7121-418a-918b-cb24257f2a68",
+        "authorTime": 46015,
+        "bronzeTime": 70000,
+        "campaignId": 100931,
+        "goldTime": 49000,
+        "mapId": "1b07deae-e890-4dc6-a651-199de450a7d3",
+        "mapUid": "mpVxPVwTunPQ2ApRpotbGn8wOMj",
+        "month": 6,
+        "monthDay": 18,
+        "name": "$sIslet",
+        "number": 1814,
+        "seasonUid": "2a23818d-1dcd-4287-8448-cc8e4f28a739",
+        "silverTime": 56000,
+        "submitter": "34fdec71-7121-418a-918b-cb24257f2a68",
+        "timestampEnd": 1750352400,
+        "timestampStart": 1750266000,
+        "timestampUpload": 1748188784,
+        "weekDay": 2,
+        "year": 2025
     }
 }
