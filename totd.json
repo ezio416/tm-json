@@ -38113,5 +38113,26 @@
         "timestampUpload": 1744732183,
         "weekDay": 3,
         "year": 2025
+    },
+    "CtIk5FDQr8QheTO6j1ITb2Vbf79": {
+        "author": "931e9842-5193-4f39-aab6-abc593b39fcf",
+        "authorTime": 44588,
+        "bronzeTime": 67000,
+        "campaignId": 100928,
+        "goldTime": 48000,
+        "mapId": "91782103-3053-4566-8fea-97ca41cb8e11",
+        "mapUid": "CtIk5FDQr8QheTO6j1ITb2Vbf79",
+        "month": 6,
+        "monthDay": 20,
+        "name": "$17FEl$28Fys$29Fia$3AFn $3BFDa$4CFys",
+        "number": 1816,
+        "seasonUid": "5969831c-89e4-4ad4-84f2-c6627461255c",
+        "silverTime": 54000,
+        "submitter": "931e9842-5193-4f39-aab6-abc593b39fcf",
+        "timestampEnd": 1750525200,
+        "timestampStart": 1750438800,
+        "timestampUpload": 1749125334,
+        "weekDay": 4,
+        "year": 2025
     }
 }
