@@ -38134,5 +38134,26 @@
         "timestampUpload": 1749125334,
         "weekDay": 4,
         "year": 2025
+    },
+    "v3F2qihEgySNAuzPlPGsPpxa6Yd": {
+        "author": "60423a46-d97a-4929-8379-81d8919cfe47",
+        "authorTime": 46725,
+        "bronzeTime": 71000,
+        "campaignId": 100935,
+        "goldTime": 50000,
+        "mapId": "8ea9c9f5-5da2-4264-9fb5-c624c9b06f64",
+        "mapUid": "v3F2qihEgySNAuzPlPGsPpxa6Yd",
+        "month": 6,
+        "monthDay": 21,
+        "name": "Shadonyx",
+        "number": 1817,
+        "seasonUid": "acd22917-4833-4727-a686-3b4a101e9596",
+        "silverTime": 57000,
+        "submitter": "60423a46-d97a-4929-8379-81d8919cfe47",
+        "timestampEnd": 1750611600,
+        "timestampStart": 1750525200,
+        "timestampUpload": 1749155268,
+        "weekDay": 5,
+        "year": 2025
     }
 }
