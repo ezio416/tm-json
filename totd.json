@@ -38155,5 +38155,26 @@
         "timestampUpload": 1749155268,
         "weekDay": 5,
         "year": 2025
+    },
+    "FvNtNq7LKA0OCFgbRD8BRYlf205": {
+        "author": "d516a357-db8a-4680-806e-b52564966a25",
+        "authorTime": 52798,
+        "bronzeTime": 80000,
+        "campaignId": 100934,
+        "goldTime": 56000,
+        "mapId": "6be31985-19ef-40a3-84c6-625725a066f9",
+        "mapUid": "FvNtNq7LKA0OCFgbRD8BRYlf205",
+        "month": 6,
+        "monthDay": 22,
+        "name": "$o$i$363Running $5A3Raceway",
+        "number": 1818,
+        "seasonUid": "47e37b25-3bbd-4059-aa06-d7a6d2251421",
+        "silverTime": 64000,
+        "submitter": "d516a357-db8a-4680-806e-b52564966a25",
+        "timestampEnd": 1750698000,
+        "timestampStart": 1750611600,
+        "timestampUpload": 1749499949,
+        "weekDay": 6,
+        "year": 2025
     }
 }
