@@ -38176,5 +38176,26 @@
         "timestampUpload": 1749499949,
         "weekDay": 6,
         "year": 2025
+    },
+    "3oDUFmfpEEVb3rES_oZKsKwU1_5": {
+        "author": "eafc2ccc-f7df-4e5b-a0eb-3ad39d288fcd",
+        "authorTime": 41564,
+        "bronzeTime": 63000,
+        "campaignId": 101561,
+        "goldTime": 45000,
+        "mapId": "60fd366e-fc0b-43b3-9bcf-2709568b3a13",
+        "mapUid": "3oDUFmfpEEVb3rES_oZKsKwU1_5",
+        "month": 6,
+        "monthDay": 23,
+        "name": "$FC3Windborne Sons",
+        "number": 1819,
+        "seasonUid": "b31ab62f-75b9-42ad-98c0-242d41462204",
+        "silverTime": 50000,
+        "submitter": "eafc2ccc-f7df-4e5b-a0eb-3ad39d288fcd",
+        "timestampEnd": 1750784400,
+        "timestampStart": 1750698000,
+        "timestampUpload": 1750098172,
+        "weekDay": 0,
+        "year": 2025
     }
 }
