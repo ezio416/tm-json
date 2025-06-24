@@ -38197,5 +38197,26 @@
         "timestampUpload": 1750098172,
         "weekDay": 0,
         "year": 2025
+    },
+    "AYiX0JCvaCuBiPTNgJQxrcneuZi": {
+        "author": "bb50cb56-b104-4314-a7bd-49ab725fd2d9",
+        "authorTime": 45765,
+        "bronzeTime": 69000,
+        "campaignId": 101659,
+        "goldTime": 49000,
+        "mapId": "9411e171-42cc-43ba-abfb-de1ca92cfdcf",
+        "mapUid": "AYiX0JCvaCuBiPTNgJQxrcneuZi",
+        "month": 6,
+        "monthDay": 24,
+        "name": "Isle of Peace",
+        "number": 1820,
+        "seasonUid": "ad9ff62d-bb8a-470b-a58a-6cb48905c7a8",
+        "silverTime": 55000,
+        "submitter": "bb50cb56-b104-4314-a7bd-49ab725fd2d9",
+        "timestampEnd": 1750870800,
+        "timestampStart": 1750784400,
+        "timestampUpload": 1749777570,
+        "weekDay": 1,
+        "year": 2025
     }
 }
