@@ -4048,7 +4048,7 @@
         "submitter": "714f94a3-16a9-4856-97e3-49db5e8a610f",
         "timestampEnd": 1610301600,
         "timestampStart": 1610215200,
-        "timestampUpload": 1638116113,
+        "timestampUpload": 1750804752,
         "weekDay": 5,
         "year": 2021
     },
@@ -38217,6 +38217,27 @@
         "timestampStart": 1750784400,
         "timestampUpload": 1749777570,
         "weekDay": 1,
+        "year": 2025
+    },
+    "0VMY9l4ftCAv8JX3TaxrxHVyoOb": {
+        "author": "babd5821-8cad-4ccd-9a80-218d0e3afd50",
+        "authorTime": 56245,
+        "bronzeTime": 85000,
+        "campaignId": 101660,
+        "goldTime": 61000,
+        "mapId": "79a577c5-7bdd-4f7e-81c6-1f07016edc00",
+        "mapUid": "0VMY9l4ftCAv8JX3TaxrxHVyoOb",
+        "month": 6,
+        "monthDay": 25,
+        "name": "Volcanic Temple",
+        "number": 1821,
+        "seasonUid": "da011e36-e0a8-4c89-9ab4-f174e62e0103",
+        "silverTime": 68000,
+        "submitter": "babd5821-8cad-4ccd-9a80-218d0e3afd50",
+        "timestampEnd": 1750957200,
+        "timestampStart": 1750870800,
+        "timestampUpload": 1749882591,
+        "weekDay": 2,
         "year": 2025
     }
 }
