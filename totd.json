@@ -38323,5 +38323,26 @@
         "timestampUpload": 1749210990,
         "weekDay": 6,
         "year": 2025
+    },
+    "m1EyV_FhJt1kwnbqC2UhwjvGs8g": {
+        "author": "a1f54607-ca67-4030-bf43-da2779b024b2",
+        "authorTime": 43722,
+        "bronzeTime": 66000,
+        "campaignId": 101944,
+        "goldTime": 47000,
+        "mapId": "e0396f0f-a5c1-4199-a2ba-a18033043a60",
+        "mapUid": "m1EyV_FhJt1kwnbqC2UhwjvGs8g",
+        "month": 6,
+        "monthDay": 30,
+        "name": "$0F0Pizza $FFFDelivery $F30Guy",
+        "number": 1826,
+        "seasonUid": "31322e8e-fd12-438d-9fee-de0f6f683535",
+        "silverTime": 53000,
+        "submitter": "a1f54607-ca67-4030-bf43-da2779b024b2",
+        "timestampEnd": 1751389200,
+        "timestampStart": 1751302800,
+        "timestampUpload": 1749492201,
+        "weekDay": 0,
+        "year": 2025
     }
 }
