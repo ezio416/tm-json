@@ -38386,5 +38386,26 @@
         "timestampUpload": 1749650217,
         "weekDay": 2,
         "year": 2025
+    },
+    "pbkpxxdhgyJ_j4HTIMw8mw3y873": {
+        "author": "35557121-359a-4859-864f-98fa1ced13d6",
+        "authorTime": 44481,
+        "bronzeTime": 68000,
+        "campaignId": 102231,
+        "goldTime": 49000,
+        "mapId": "e08ffa5d-447a-4740-a7a7-eed94ae0ffd0",
+        "mapUid": "pbkpxxdhgyJ_j4HTIMw8mw3y873",
+        "month": 7,
+        "monthDay": 3,
+        "name": "$s$i$o$ADEAurora $FFFDigitalis",
+        "number": 1829,
+        "seasonUid": "6f8a9efc-8c3a-4fed-baa3-4e771c720e3f",
+        "silverTime": 56000,
+        "submitter": "35557121-359a-4859-864f-98fa1ced13d6",
+        "timestampEnd": 1751648400,
+        "timestampStart": 1751562000,
+        "timestampUpload": 1698657713,
+        "weekDay": 3,
+        "year": 2025
     }
 }
