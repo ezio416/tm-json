@@ -29857,7 +29857,7 @@
         "submitter": "a07f01cd-afb0-4230-9c13-868c1ede28a3",
         "timestampEnd": 1716483600,
         "timestampStart": 1716397200,
-        "timestampUpload": 1716363279,
+        "timestampUpload": 1751584903,
         "weekDay": 2,
         "year": 2024
     },
@@ -34036,7 +34036,7 @@
         "submitter": "a07f01cd-afb0-4230-9c13-868c1ede28a3",
         "timestampEnd": 1733680800,
         "timestampStart": 1733594400,
-        "timestampUpload": 1731927590,
+        "timestampUpload": 1751583116,
         "weekDay": 5,
         "year": 2024
     },
@@ -38406,6 +38406,27 @@
         "timestampStart": 1751562000,
         "timestampUpload": 1698657713,
         "weekDay": 3,
+        "year": 2025
+    },
+    "j4ZlIAZGa6jE4ns_TkB0PrLwl57": {
+        "author": "c4d583af-15c4-4f6f-8188-a2b6aa0c5e09",
+        "authorTime": 41463,
+        "bronzeTime": 63000,
+        "campaignId": 102125,
+        "goldTime": 44000,
+        "mapId": "2d947cea-4303-4eda-a9a5-fc205117bc01",
+        "mapUid": "j4ZlIAZGa6jE4ns_TkB0PrLwl57",
+        "month": 7,
+        "monthDay": 4,
+        "name": "DeepSlip | Floor 0 - Cup Edition",
+        "number": 1830,
+        "seasonUid": "e8b265ca-3e5b-4071-a359-43cd1ff7ef58",
+        "silverTime": 50000,
+        "submitter": "aa02b90e-0652-4a1c-b705-4677e2983003",
+        "timestampEnd": 1751734800,
+        "timestampStart": 1751648400,
+        "timestampUpload": 1751263309,
+        "weekDay": 4,
         "year": 2025
     }
 }
