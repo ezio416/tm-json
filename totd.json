@@ -38428,5 +38428,26 @@
         "timestampUpload": 1751263309,
         "weekDay": 4,
         "year": 2025
+    },
+    "ZZdIAqAeupuRrOM084mSjAWO8Fb": {
+        "author": "ac424f5e-5612-4a44-8b87-6403be2b690f",
+        "authorTime": 43908,
+        "bronzeTime": 66000,
+        "campaignId": 102232,
+        "goldTime": 47000,
+        "mapId": "115b5348-6567-4c00-83c2-a20c32bb9990",
+        "mapUid": "ZZdIAqAeupuRrOM084mSjAWO8Fb",
+        "month": 7,
+        "monthDay": 5,
+        "name": "$s$i$bbbI $cccthink $dddI $f00overcooked $dddthe $eeechicken",
+        "number": 1831,
+        "seasonUid": "610762c1-5235-4827-ba5f-57f22b9704f7",
+        "silverTime": 53000,
+        "submitter": "ac424f5e-5612-4a44-8b87-6403be2b690f",
+        "timestampEnd": 1751821200,
+        "timestampStart": 1751734800,
+        "timestampUpload": 1750505311,
+        "weekDay": 5,
+        "year": 2025
     }
 }
