@@ -6404,11 +6404,11 @@
         },
         {
             "authorTime": 20000,
-            "custom": null,
+            "custom": 18213,
             "mapUid": "j8rRI46T5hw_Y65FXZWDhsAuqN2",
             "name": "1 - Week of Shorts",
             "number": 141,
-            "reason": null,
+            "reason": "bugged wr?",
             "warriorTime": 18169,
             "worldRecord": 16338
         },
@@ -24763,6 +24763,16 @@
             "reason": null,
             "warriorTime": 43759,
             "worldRecord": 42711
+        },
+        {
+            "authorTime": 42182,
+            "custom": null,
+            "date": "2025-07-06",
+            "mapUid": "aZNsRC1seuH1eKbkdJwK1N_Az_d",
+            "name": "wowie [ce] ft' Pac042",
+            "reason": null,
+            "warriorTime": 42089,
+            "worldRecord": 41432
         }
     ],
     "Other": [
