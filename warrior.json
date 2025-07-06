@@ -6401,6 +6401,56 @@
             "reason": null,
             "warriorTime": 11397,
             "worldRecord": 8941
+        },
+        {
+            "authorTime": 20000,
+            "custom": null,
+            "mapUid": "j8rRI46T5hw_Y65FXZWDhsAuqN2",
+            "name": "1 - Week of Shorts",
+            "number": 141,
+            "reason": null,
+            "warriorTime": 18169,
+            "worldRecord": 16338
+        },
+        {
+            "authorTime": 20000,
+            "custom": null,
+            "mapUid": "NOoZ51_mn8IEbD3uHkwtAua5zGd",
+            "name": "2 - You, from Us",
+            "number": 142,
+            "reason": null,
+            "warriorTime": 18458,
+            "worldRecord": 16915
+        },
+        {
+            "authorTime": 18500,
+            "custom": null,
+            "mapUid": "gYie5DKYD0Ghg_VzUwqDCUD0HBh",
+            "name": "3 - To Play",
+            "number": 143,
+            "reason": null,
+            "warriorTime": 16849,
+            "worldRecord": 15198
+        },
+        {
+            "authorTime": 16000,
+            "custom": null,
+            "mapUid": "2UVikCguohUYkBwxmWUAUmjUg7k",
+            "name": "4 - The Celebration of",
+            "number": 144,
+            "reason": null,
+            "warriorTime": 15261,
+            "worldRecord": 14521
+        },
+        {
+            "authorTime": 19000,
+            "custom": null,
+            "mapUid": "pD3p3y6raG8wb8x6a0ypTeddfcl",
+            "name": "5 - Years of Trackmania",
+            "number": 145,
+            "reason": null,
+            "warriorTime": 16417,
+            "worldRecord": 13834
         }
     ],
     "Totd": [
