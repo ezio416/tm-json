@@ -38449,5 +38449,26 @@
         "timestampUpload": 1750505311,
         "weekDay": 5,
         "year": 2025
+    },
+    "aZNsRC1seuH1eKbkdJwK1N_Az_d": {
+        "author": "aedb0d10-dea8-4ecc-83a3-819aaedff886",
+        "authorTime": 42182,
+        "bronzeTime": 64000,
+        "campaignId": 103166,
+        "goldTime": 45000,
+        "mapId": "2f0849c0-112f-4418-98b3-7f810dc7ad52",
+        "mapUid": "aZNsRC1seuH1eKbkdJwK1N_Az_d",
+        "month": 7,
+        "monthDay": 6,
+        "name": "wowie [ce] ft' Pac042",
+        "number": 1832,
+        "seasonUid": "0d5d4bcc-9692-4ab0-a397-7cb71b00e0a8",
+        "silverTime": 51000,
+        "submitter": "aedb0d10-dea8-4ecc-83a3-819aaedff886",
+        "timestampEnd": 1751907600,
+        "timestampStart": 1751821200,
+        "timestampUpload": 1751360012,
+        "weekDay": 6,
+        "year": 2025
     }
 }
