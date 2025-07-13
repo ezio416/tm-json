@@ -38596,5 +38596,26 @@
         "timestampUpload": 1751145943,
         "weekDay": 5,
         "year": 2025
+    },
+    "oB79Z2ngeFzC1rXxLadZDEBevDh": {
+        "author": "46dcc889-73cb-4df5-8b44-d5a5e6addfec",
+        "authorTime": 44124,
+        "bronzeTime": 67000,
+        "campaignId": 103857,
+        "goldTime": 47000,
+        "mapId": "414a20a2-3892-4f58-9f29-1a890412100e",
+        "mapUid": "oB79Z2ngeFzC1rXxLadZDEBevDh",
+        "month": 7,
+        "monthDay": 13,
+        "name": "$S$I$999Piece of Oblivion ft Quinn22b1",
+        "number": 1839,
+        "seasonUid": "b3a4890b-0ff2-4107-bc8a-dd9c3fffb844",
+        "silverTime": 53000,
+        "submitter": "46dcc889-73cb-4df5-8b44-d5a5e6addfec",
+        "timestampEnd": 1752512400,
+        "timestampStart": 1752426000,
+        "timestampUpload": 1748787256,
+        "weekDay": 6,
+        "year": 2025
     }
 }
