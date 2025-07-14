@@ -38617,5 +38617,26 @@
         "timestampUpload": 1748787256,
         "weekDay": 6,
         "year": 2025
+    },
+    "IHdzBWNkxMWv69vT9Bndlh6lzRg": {
+        "author": "32269ea2-cfed-4fc9-b69a-161833d3f652",
+        "authorTime": 41654,
+        "bronzeTime": 63000,
+        "campaignId": 103858,
+        "goldTime": 45000,
+        "mapId": "3bfb471f-c908-425e-9b80-c82478b677fc",
+        "mapUid": "IHdzBWNkxMWv69vT9Bndlh6lzRg",
+        "month": 7,
+        "monthDay": 14,
+        "name": "$f00D$000o$000l$000o$000r$000e ft' AtomeTM",
+        "number": 1840,
+        "seasonUid": "2b936818-b433-47b0-a48c-73a6f47397b6",
+        "silverTime": 50000,
+        "submitter": "32269ea2-cfed-4fc9-b69a-161833d3f652",
+        "timestampEnd": 1752598800,
+        "timestampStart": 1752512400,
+        "timestampUpload": 1752056710,
+        "weekDay": 0,
+        "year": 2025
     }
 }
