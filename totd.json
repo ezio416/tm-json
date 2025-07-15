@@ -38638,5 +38638,26 @@
         "timestampUpload": 1752056710,
         "weekDay": 0,
         "year": 2025
+    },
+    "lB5RbOIcS17IF4bRMLuJjKAjwe5": {
+        "author": "abea35a1-34d9-42e0-8b45-572d20b8f2d7",
+        "authorTime": 41486,
+        "bronzeTime": 63000,
+        "campaignId": 103860,
+        "goldTime": 44000,
+        "mapId": "56d75e3c-348f-4519-9780-75a734948c91",
+        "mapUid": "lB5RbOIcS17IF4bRMLuJjKAjwe5",
+        "month": 7,
+        "monthDay": 15,
+        "name": "$o$i$s$DA2Act of Defiance",
+        "number": 1841,
+        "seasonUid": "fe773bd1-3b43-4fd8-936b-4efd8e0cae7c",
+        "silverTime": 50000,
+        "submitter": "abea35a1-34d9-42e0-8b45-572d20b8f2d7",
+        "timestampEnd": 1752685200,
+        "timestampStart": 1752598800,
+        "timestampUpload": 1750360206,
+        "weekDay": 1,
+        "year": 2025
     }
 }
