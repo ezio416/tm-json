@@ -38593,7 +38593,7 @@
         "submitter": "6c36a836-7c69-4e84-b192-f2e2c5772db0",
         "timestampEnd": 1752426000,
         "timestampStart": 1752339600,
-        "timestampUpload": 1751145943,
+        "timestampUpload": 1752689158,
         "weekDay": 5,
         "year": 2025
     },
@@ -38635,7 +38635,7 @@
         "submitter": "32269ea2-cfed-4fc9-b69a-161833d3f652",
         "timestampEnd": 1752598800,
         "timestampStart": 1752512400,
-        "timestampUpload": 1752628900,
+        "timestampUpload": 1752734802,
         "weekDay": 0,
         "year": 2025
     },
@@ -38679,6 +38679,27 @@
         "timestampStart": 1752685200,
         "timestampUpload": 1749524837,
         "weekDay": 2,
+        "year": 2025
+    },
+    "zCPQxGZ37tMUoatwkTHV683zkim": {
+        "author": "af03d9d3-9693-41cb-9270-da7d34c48bb6",
+        "authorTime": 39315,
+        "bronzeTime": 59000,
+        "campaignId": 103862,
+        "goldTime": 42000,
+        "mapId": "0f8253a8-56c7-4352-a5dc-072e2b8af778",
+        "mapUid": "zCPQxGZ37tMUoatwkTHV683zkim",
+        "month": 7,
+        "monthDay": 17,
+        "name": "$i$o$n$5BFYearning for Simpler Times",
+        "number": 1843,
+        "seasonUid": "8b6a945e-d1e3-4a58-be8f-90e05768b7d1",
+        "silverTime": 48000,
+        "submitter": "af03d9d3-9693-41cb-9270-da7d34c48bb6",
+        "timestampEnd": 1752858000,
+        "timestampStart": 1752771600,
+        "timestampUpload": 1750260416,
+        "weekDay": 3,
         "year": 2025
     }
 }
