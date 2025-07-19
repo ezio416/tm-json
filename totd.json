@@ -38722,5 +38722,26 @@
         "timestampUpload": 1746905623,
         "weekDay": 4,
         "year": 2025
+    },
+    "tKYSogfyw4ISeAd0RGX7WHFA5ce": {
+        "author": "95454332-93e6-4099-a477-609ff3bc78a0",
+        "authorTime": 40502,
+        "bronzeTime": 61000,
+        "campaignId": 103854,
+        "goldTime": 43000,
+        "mapId": "29d81a71-9a3a-4024-bd11-8d6f3c614267",
+        "mapUid": "tKYSogfyw4ISeAd0RGX7WHFA5ce",
+        "month": 7,
+        "monthDay": 19,
+        "name": "Never $e32Odd $fffor $2e4Even $fffft Pepsy",
+        "number": 1845,
+        "seasonUid": "1e02af2e-7824-4de6-8764-05dac42a93a3",
+        "silverTime": 49000,
+        "submitter": "962a2970-ac04-4475-885f-4dc1376fc062",
+        "timestampEnd": 1753030800,
+        "timestampStart": 1752944400,
+        "timestampUpload": 1750865337,
+        "weekDay": 5,
+        "year": 2025
     }
 }
