@@ -5786,7 +5786,9 @@
             "warriorTime": 16819,
             "worldRecord": 16005,
             "mapId": "1e5c7dbc-bdb1-44e5-a951-7ab5df3a6154",
-            "goldTime": 19000
+            "goldTime": 19000,
+            "campaignId": 83682,
+            "week": 1
         },
         {
             "authorTime": 22077,
@@ -5797,7 +5799,9 @@
             "warriorTime": 20355,
             "worldRecord": 18632,
             "mapId": "952051aa-cee7-44db-9f18-0269d0eb0625",
-            "goldTime": 24000
+            "goldTime": 24000,
+            "campaignId": 83682,
+            "week": 1
         },
         {
             "authorTime": 21649,
@@ -5808,7 +5812,9 @@
             "warriorTime": 19989,
             "worldRecord": 18328,
             "mapId": "6c3ea9f3-f10c-4700-ad3d-bb016b0fdbb2",
-            "goldTime": 23000
+            "goldTime": 23000,
+            "campaignId": 83682,
+            "week": 1
         },
         {
             "authorTime": 14304,
@@ -5819,7 +5825,9 @@
             "warriorTime": 10768,
             "worldRecord": 7231,
             "mapId": "327a17ce-f236-4bd9-9a43-23a85b585ce7",
-            "goldTime": 16000
+            "goldTime": 16000,
+            "campaignId": 83682,
+            "week": 1
         },
         {
             "authorTime": 22752,
@@ -5830,7 +5838,9 @@
             "warriorTime": 20223,
             "worldRecord": 17693,
             "mapId": "06721f8c-90cb-4da7-aa2b-e123865352b1",
-            "goldTime": 25000
+            "goldTime": 25000,
+            "campaignId": 83682,
+            "week": 1
         },
         {
             "authorTime": 20517,
@@ -5841,7 +5851,9 @@
             "warriorTime": 18929,
             "worldRecord": 17341,
             "mapId": "70ac0247-8b0e-4292-bac4-0ca28a126c94",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 83986,
+            "week": 2
         },
         {
             "authorTime": 24101,
@@ -5852,7 +5864,9 @@
             "warriorTime": 22123,
             "worldRecord": 20145,
             "mapId": "fcce1dfa-4459-456d-ac06-216548dd4427",
-            "goldTime": 26000
+            "goldTime": 26000,
+            "campaignId": 83986,
+            "week": 2
         },
         {
             "authorTime": 23142,
@@ -5863,7 +5877,9 @@
             "warriorTime": 21208,
             "worldRecord": 19274,
             "mapId": "3b5e9a5d-fec4-4970-8873-92641bca476c",
-            "goldTime": 25000
+            "goldTime": 25000,
+            "campaignId": 83986,
+            "week": 2
         },
         {
             "authorTime": 24230,
@@ -5874,7 +5890,9 @@
             "warriorTime": 22973,
             "worldRecord": 21715,
             "mapId": "e424be40-5b82-422c-a651-25d2243bf3bb",
-            "goldTime": 26000
+            "goldTime": 26000,
+            "campaignId": 83986,
+            "week": 2
         },
         {
             "authorTime": 17724,
@@ -5885,7 +5903,9 @@
             "warriorTime": 16476,
             "worldRecord": 15228,
             "mapId": "f203f521-73ee-4b9b-b6f1-6b958c322faf",
-            "goldTime": 19000
+            "goldTime": 19000,
+            "campaignId": 83986,
+            "week": 2
         },
         {
             "authorTime": 25318,
@@ -5896,7 +5916,9 @@
             "warriorTime": 23799,
             "worldRecord": 22280,
             "mapId": "9a536edb-3e05-4c82-9f32-499cf94ed637",
-            "goldTime": 27000
+            "goldTime": 27000,
+            "campaignId": 84675,
+            "week": 3
         },
         {
             "authorTime": 21418,
@@ -5907,7 +5929,9 @@
             "warriorTime": 19254,
             "worldRecord": 17089,
             "mapId": "d45e05d6-9e2f-4fd1-b844-6d8512294ff1",
-            "goldTime": 23000
+            "goldTime": 23000,
+            "campaignId": 84675,
+            "week": 3
         },
         {
             "authorTime": 22205,
@@ -5918,7 +5942,9 @@
             "warriorTime": 20594,
             "worldRecord": 18982,
             "mapId": "9bd4cb58-13fa-4ae7-b06f-da24bc503337",
-            "goldTime": 24000
+            "goldTime": 24000,
+            "campaignId": 84675,
+            "week": 3
         },
         {
             "authorTime": 20941,
@@ -5929,7 +5955,9 @@
             "warriorTime": 19276,
             "worldRecord": 17610,
             "mapId": "57210e32-4c4b-4b8e-8f31-87ce94f7d950",
-            "goldTime": 23000
+            "goldTime": 23000,
+            "campaignId": 84675,
+            "week": 3
         },
         {
             "authorTime": 26085,
@@ -5940,7 +5968,9 @@
             "warriorTime": 23235,
             "worldRecord": 20384,
             "mapId": "8ac819f6-621e-4f3c-bb8e-ab6c7baa694f",
-            "goldTime": 28000
+            "goldTime": 28000,
+            "campaignId": 84675,
+            "week": 3
         },
         {
             "authorTime": 19768,
@@ -5951,7 +5981,9 @@
             "warriorTime": 17803,
             "worldRecord": 15838,
             "mapId": "8b49421a-8946-4dde-a8d6-59e7cc6f4d19",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 84679,
+            "week": 4
         },
         {
             "authorTime": 31656,
@@ -5962,7 +5994,9 @@
             "warriorTime": 30421,
             "worldRecord": 29186,
             "mapId": "ed17ea6c-bedc-4a1b-a53c-d1470dc86cec",
-            "goldTime": 34000
+            "goldTime": 34000,
+            "campaignId": 84679,
+            "week": 4
         },
         {
             "authorTime": 23626,
@@ -5973,7 +6007,9 @@
             "warriorTime": 19999,
             "worldRecord": 16371,
             "mapId": "9fccc6d3-b874-4f87-98d2-1baca2ecba8b",
-            "goldTime": 26000
+            "goldTime": 26000,
+            "campaignId": 84679,
+            "week": 4
         },
         {
             "authorTime": 30468,
@@ -5984,7 +6020,9 @@
             "warriorTime": 28184,
             "worldRecord": 25899,
             "mapId": "9eefd683-1e31-47ba-b315-89163fff159c",
-            "goldTime": 33000
+            "goldTime": 33000,
+            "campaignId": 84679,
+            "week": 4
         },
         {
             "authorTime": 35648,
@@ -5995,7 +6033,9 @@
             "warriorTime": 33832,
             "worldRecord": 32015,
             "mapId": "0ecac013-d679-4a15-b523-7dd29fd839f4",
-            "goldTime": 38000
+            "goldTime": 38000,
+            "campaignId": 84679,
+            "week": 4
         },
         {
             "authorTime": 17409,
@@ -6006,7 +6046,9 @@
             "warriorTime": 16459,
             "worldRecord": 15508,
             "mapId": "a4018350-c9a7-4b53-a4a5-3657b75c88d1",
-            "goldTime": 19000
+            "goldTime": 19000,
+            "campaignId": 84788,
+            "week": 5
         },
         {
             "authorTime": 18000,
@@ -6017,7 +6059,9 @@
             "warriorTime": 16728,
             "worldRecord": 15455,
             "mapId": "737f4b6c-77ad-4f8a-9ae8-1b6fa9b5c74e",
-            "goldTime": 19000
+            "goldTime": 19000,
+            "campaignId": 84788,
+            "week": 5
         },
         {
             "authorTime": 11204,
@@ -6028,7 +6072,9 @@
             "warriorTime": 10662,
             "worldRecord": 10119,
             "mapId": "ac71f5e7-399e-458f-a570-3574755c69e3",
-            "goldTime": 12000
+            "goldTime": 12000,
+            "campaignId": 84788,
+            "week": 5
         },
         {
             "authorTime": 15500,
@@ -6039,7 +6085,9 @@
             "warriorTime": 14640,
             "worldRecord": 13780,
             "mapId": "287e7458-a79c-4dba-93f7-0118350a7743",
-            "goldTime": 17000
+            "goldTime": 17000,
+            "campaignId": 84788,
+            "week": 5
         },
         {
             "authorTime": 20545,
@@ -6050,7 +6098,9 @@
             "warriorTime": 20039,
             "worldRecord": 19532,
             "mapId": "0c031b16-f8d9-49a1-a9c8-7d7e40a989be",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 84788,
+            "week": 5
         },
         {
             "authorTime": 17185,
@@ -6061,7 +6111,9 @@
             "warriorTime": 16739,
             "worldRecord": 16292,
             "mapId": "828d8557-aed3-4a01-8e16-130bedc24364",
-            "goldTime": 19000
+            "goldTime": 19000,
+            "campaignId": 86907,
+            "week": 6
         },
         {
             "authorTime": 16585,
@@ -6072,7 +6124,9 @@
             "warriorTime": 15730,
             "worldRecord": 14875,
             "mapId": "aee0376e-271e-4fed-9cd9-3d96e6b00600",
-            "goldTime": 18000
+            "goldTime": 18000,
+            "campaignId": 86907,
+            "week": 6
         },
         {
             "authorTime": 20478,
@@ -6083,7 +6137,9 @@
             "warriorTime": 19943,
             "worldRecord": 19408,
             "mapId": "7ed44d98-8a77-4707-99b6-0fbe21763de5",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 86907,
+            "week": 6
         },
         {
             "authorTime": 10495,
@@ -6094,7 +6150,9 @@
             "warriorTime": 10195,
             "worldRecord": 9895,
             "mapId": "2bcc3559-e09a-4019-8b83-2c38aaebb213",
-            "goldTime": 12000
+            "goldTime": 12000,
+            "campaignId": 86907,
+            "week": 6
         },
         {
             "authorTime": 30730,
@@ -6105,7 +6163,9 @@
             "warriorTime": 29924,
             "worldRecord": 29118,
             "mapId": "87157bef-aba0-4fe7-b857-c848dd4279bc",
-            "goldTime": 33000
+            "goldTime": 33000,
+            "campaignId": 86907,
+            "week": 6
         },
         {
             "authorTime": 21730,
@@ -6116,7 +6176,9 @@
             "warriorTime": 20574,
             "worldRecord": 19417,
             "mapId": "ee21a2a0-010e-4190-8703-5241897d1544",
-            "goldTime": 24000
+            "goldTime": 24000,
+            "campaignId": 87457,
+            "week": 7
         },
         {
             "authorTime": 22543,
@@ -6127,7 +6189,9 @@
             "warriorTime": 20189,
             "worldRecord": 17834,
             "mapId": "22d521e3-06e8-44bb-b758-e58b7266ff73",
-            "goldTime": 24000
+            "goldTime": 24000,
+            "campaignId": 87457,
+            "week": 7
         },
         {
             "authorTime": 19609,
@@ -6138,7 +6202,9 @@
             "warriorTime": 17616,
             "worldRecord": 15622,
             "mapId": "18b42598-8f29-4d06-aa7a-3e13f7f78f20",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 87457,
+            "week": 7
         },
         {
             "authorTime": 20376,
@@ -6149,7 +6215,9 @@
             "warriorTime": 19278,
             "worldRecord": 18179,
             "mapId": "4610e4bc-1281-4328-9062-58d790edbdfa",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 87457,
+            "week": 7
         },
         {
             "authorTime": 19979,
@@ -6160,7 +6228,9 @@
             "warriorTime": 19096,
             "worldRecord": 18212,
             "mapId": "b51b5dc3-5c1d-4fe6-8bc8-1ab95d5aab4e",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 87457,
+            "week": 7
         },
         {
             "authorTime": 21698,
@@ -6171,7 +6241,9 @@
             "warriorTime": 21392,
             "worldRecord": 21086,
             "mapId": "67056ba6-9bad-484e-bea7-6b78085d513e",
-            "goldTime": 23000
+            "goldTime": 23000,
+            "campaignId": 88038,
+            "week": 8
         },
         {
             "authorTime": 15139,
@@ -6182,7 +6254,9 @@
             "warriorTime": 12192,
             "worldRecord": 9244,
             "mapId": "5ea8376d-1683-4153-9cff-d9499bcd719c",
-            "goldTime": 17000
+            "goldTime": 17000,
+            "campaignId": 88038,
+            "week": 8
         },
         {
             "authorTime": 18989,
@@ -6193,7 +6267,9 @@
             "warriorTime": 18322,
             "worldRecord": 17654,
             "mapId": "ad13c67e-47bc-4673-b899-2144d7897fd1",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 88038,
+            "week": 8
         },
         {
             "authorTime": 20000,
@@ -6204,7 +6280,9 @@
             "warriorTime": 18564,
             "worldRecord": 17128,
             "mapId": "b5f86b7c-14d0-4a21-ab3b-b5ec908a34da",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 88038,
+            "week": 8
         },
         {
             "authorTime": 21322,
@@ -6215,7 +6293,9 @@
             "warriorTime": 19822,
             "worldRecord": 18322,
             "mapId": "3efc1c96-3614-4631-bbf3-ea359f7b44fe",
-            "goldTime": 23000
+            "goldTime": 23000,
+            "campaignId": 88038,
+            "week": 8
         },
         {
             "authorTime": 21298,
@@ -6226,7 +6306,9 @@
             "warriorTime": 21159,
             "worldRecord": 21020,
             "mapId": "2a76ffac-5c3d-4b9f-9196-4f7793141e84",
-            "goldTime": 23000
+            "goldTime": 23000,
+            "campaignId": 88660,
+            "week": 9
         },
         {
             "authorTime": 21722,
@@ -6237,7 +6319,9 @@
             "warriorTime": 21138,
             "worldRecord": 20554,
             "mapId": "a0832245-80f9-45df-a7ee-c0951ea2c16e",
-            "goldTime": 24000
+            "goldTime": 24000,
+            "campaignId": 88660,
+            "week": 9
         },
         {
             "authorTime": 21857,
@@ -6248,7 +6332,9 @@
             "warriorTime": 20258,
             "worldRecord": 18659,
             "mapId": "4a768d33-f42a-4040-9df7-1cd339cd8119",
-            "goldTime": 24000
+            "goldTime": 24000,
+            "campaignId": 88660,
+            "week": 9
         },
         {
             "authorTime": 23371,
@@ -6259,7 +6345,9 @@
             "warriorTime": 22909,
             "worldRecord": 22446,
             "mapId": "348ab28e-1054-4cae-a0fa-cc871154ecbc",
-            "goldTime": 25000
+            "goldTime": 25000,
+            "campaignId": 88660,
+            "week": 9
         },
         {
             "authorTime": 15195,
@@ -6270,7 +6358,9 @@
             "warriorTime": 15002,
             "worldRecord": 14808,
             "mapId": "f17570c1-56c3-41f0-83ec-78f00247c882",
-            "goldTime": 17000
+            "goldTime": 17000,
+            "campaignId": 88660,
+            "week": 9
         },
         {
             "authorTime": 18448,
@@ -6281,7 +6371,9 @@
             "warriorTime": 17827,
             "worldRecord": 17206,
             "mapId": "57150946-22dc-4cb7-9366-6d8ab6c11c2e",
-            "goldTime": 20000
+            "goldTime": 20000,
+            "campaignId": 89166,
+            "week": 10
         },
         {
             "authorTime": 20826,
@@ -6292,7 +6384,9 @@
             "warriorTime": 19513,
             "worldRecord": 18199,
             "mapId": "93862e8e-b8be-4e55-af59-fe5935bf37db",
-            "goldTime": 23000
+            "goldTime": 23000,
+            "campaignId": 89166,
+            "week": 10
         },
         {
             "authorTime": 27242,
@@ -6303,7 +6397,9 @@
             "warriorTime": 23920,
             "worldRecord": 20597,
             "mapId": "6765bc06-aedc-4aa4-8ced-9fe9adb74132",
-            "goldTime": 29000
+            "goldTime": 29000,
+            "campaignId": 89166,
+            "week": 10
         },
         {
             "authorTime": 21000,
@@ -6314,7 +6410,9 @@
             "warriorTime": 17698,
             "worldRecord": 14396,
             "mapId": "6b47c948-c906-4a00-bcb0-49bebbfbf0f0",
-            "goldTime": 23000
+            "goldTime": 23000,
+            "campaignId": 89166,
+            "week": 10
         },
         {
             "authorTime": 21842,
@@ -6325,7 +6423,9 @@
             "warriorTime": 21395,
             "worldRecord": 20947,
             "mapId": "edce7907-b01a-405e-a140-98e2ce0b0db8",
-            "goldTime": 22690
+            "goldTime": 22690,
+            "campaignId": 89166,
+            "week": 10
         },
         {
             "authorTime": 15855,
@@ -6336,7 +6436,9 @@
             "warriorTime": 15650,
             "worldRecord": 15445,
             "mapId": "d9a3c5ad-cdbf-45fc-a8ad-a234aa005ac6",
-            "goldTime": 17000
+            "goldTime": 17000,
+            "campaignId": 89750,
+            "week": 11
         },
         {
             "authorTime": 25008,
@@ -6347,7 +6449,9 @@
             "warriorTime": 22729,
             "worldRecord": 20450,
             "mapId": "e13d3f64-6440-4b5d-a5c3-fbf5b4bb163e",
-            "goldTime": 27000
+            "goldTime": 27000,
+            "campaignId": 89750,
+            "week": 11
         },
         {
             "authorTime": 28000,
@@ -6358,7 +6462,9 @@
             "warriorTime": 25553,
             "worldRecord": 23106,
             "mapId": "5f93c4f5-fe91-4e16-b215-7e85e2cb63c5",
-            "goldTime": 30000
+            "goldTime": 30000,
+            "campaignId": 89750,
+            "week": 11
         },
         {
             "authorTime": 17006,
@@ -6369,7 +6475,9 @@
             "warriorTime": 15452,
             "worldRecord": 13897,
             "mapId": "f252cdfe-7738-4649-b819-056008caaf81",
-            "goldTime": 19000
+            "goldTime": 19000,
+            "campaignId": 89750,
+            "week": 11
         },
         {
             "authorTime": 32117,
@@ -6380,7 +6488,9 @@
             "warriorTime": 30083,
             "worldRecord": 28048,
             "mapId": "db5775a4-278e-45c9-a610-9dd257d7856c",
-            "goldTime": 35000
+            "goldTime": 35000,
+            "campaignId": 89750,
+            "week": 11
         },
         {
             "authorTime": 21488,
@@ -6391,7 +6501,9 @@
             "warriorTime": 19815,
             "worldRecord": 18142,
             "mapId": "66be7390-9f2c-4929-b38d-44103fcd1943",
-            "goldTime": 23000
+            "goldTime": 23000,
+            "campaignId": 90376,
+            "week": 12
         },
         {
             "authorTime": 29402,
@@ -6402,7 +6514,9 @@
             "warriorTime": 24532,
             "worldRecord": 19661,
             "mapId": "ff48e69f-943d-41a3-afa7-69f624bf29b3",
-            "goldTime": 32000
+            "goldTime": 32000,
+            "campaignId": 90376,
+            "week": 12
         },
         {
             "authorTime": 15164,
@@ -6413,7 +6527,9 @@
             "warriorTime": 14472,
             "worldRecord": 13780,
             "mapId": "54ef7896-c93e-4718-8fc3-ea396b113868",
-            "goldTime": 17000
+            "goldTime": 17000,
+            "campaignId": 90376,
+            "week": 12
         },
         {
             "authorTime": 18307,
@@ -6424,7 +6540,9 @@
             "warriorTime": 16417,
             "worldRecord": 14527,
             "mapId": "6483d052-f2af-4cad-b00a-9261f800490f",
-            "goldTime": 20000
+            "goldTime": 20000,
+            "campaignId": 90376,
+            "week": 12
         },
         {
             "authorTime": 25000,
@@ -6435,7 +6553,9 @@
             "warriorTime": 23790,
             "worldRecord": 22579,
             "mapId": "a7d70585-0def-4243-9875-c47aa91c595f",
-            "goldTime": 27000
+            "goldTime": 27000,
+            "campaignId": 90376,
+            "week": 12
         },
         {
             "authorTime": 22209,
@@ -6446,7 +6566,9 @@
             "warriorTime": 19037,
             "worldRecord": 15864,
             "mapId": "744e09c3-d98a-461b-8233-d06f2385f861",
-            "goldTime": 24000
+            "goldTime": 24000,
+            "campaignId": 90928,
+            "week": 13
         },
         {
             "authorTime": 13698,
@@ -6457,7 +6579,9 @@
             "warriorTime": 13363,
             "worldRecord": 13028,
             "mapId": "58cb5d6a-b3d7-4995-a4a4-464861e50855",
-            "goldTime": 15000
+            "goldTime": 15000,
+            "campaignId": 90928,
+            "week": 13
         },
         {
             "authorTime": 12275,
@@ -6468,7 +6592,9 @@
             "warriorTime": 11986,
             "worldRecord": 11697,
             "mapId": "24c94673-4c18-4def-b771-9ba8725bae65",
-            "goldTime": 14000
+            "goldTime": 14000,
+            "campaignId": 90928,
+            "week": 13
         },
         {
             "authorTime": 17245,
@@ -6479,7 +6605,9 @@
             "warriorTime": 16537,
             "worldRecord": 15828,
             "mapId": "fff543f2-1acf-4eb1-b158-ed6918b27cff",
-            "goldTime": 19000
+            "goldTime": 19000,
+            "campaignId": 90928,
+            "week": 13
         },
         {
             "authorTime": 14750,
@@ -6490,7 +6618,9 @@
             "warriorTime": 13775,
             "worldRecord": 12799,
             "mapId": "0828938a-49de-49f8-9617-ec3367989573",
-            "goldTime": 16000
+            "goldTime": 16000,
+            "campaignId": 90928,
+            "week": 13
         },
         {
             "authorTime": 19714,
@@ -6501,7 +6631,9 @@
             "warriorTime": 18677,
             "worldRecord": 17640,
             "mapId": "c3040c46-1fc6-403c-a655-173b87bb6956",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 91471,
+            "week": 14
         },
         {
             "authorTime": 13715,
@@ -6512,7 +6644,9 @@
             "warriorTime": 13294,
             "worldRecord": 12872,
             "mapId": "984ff40c-5b19-471f-8f70-ec6ccdadd034",
-            "goldTime": 15000
+            "goldTime": 15000,
+            "campaignId": 91471,
+            "week": 14
         },
         {
             "authorTime": 19653,
@@ -6523,7 +6657,9 @@
             "warriorTime": 18002,
             "worldRecord": 16351,
             "mapId": "61be1bd7-7b63-4ad2-a687-f8e2ded989f9",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 91471,
+            "week": 14
         },
         {
             "authorTime": 17221,
@@ -6534,7 +6670,9 @@
             "warriorTime": 16473,
             "worldRecord": 15724,
             "mapId": "5c5201fa-d493-473b-8dbf-884fe204e925",
-            "goldTime": 19000
+            "goldTime": 19000,
+            "campaignId": 91471,
+            "week": 14
         },
         {
             "authorTime": 16826,
@@ -6545,7 +6683,9 @@
             "warriorTime": 15352,
             "worldRecord": 13878,
             "mapId": "73525f1f-d0fa-4afa-811c-ab9bba05f315",
-            "goldTime": 18000
+            "goldTime": 18000,
+            "campaignId": 91471,
+            "week": 14
         },
         {
             "authorTime": 17782,
@@ -6556,7 +6696,9 @@
             "warriorTime": 17095,
             "worldRecord": 16408,
             "mapId": "2396d95e-bafe-4efc-9884-c0d07725d0a0",
-            "goldTime": 19000
+            "goldTime": 19000,
+            "campaignId": 92043,
+            "week": 15
         },
         {
             "authorTime": 17075,
@@ -6567,7 +6709,9 @@
             "warriorTime": 16114,
             "worldRecord": 15152,
             "mapId": "a9cd7e19-f067-4fd8-9313-3450fb607a9f",
-            "goldTime": 19000
+            "goldTime": 19000,
+            "campaignId": 92043,
+            "week": 15
         },
         {
             "authorTime": 17059,
@@ -6578,7 +6722,9 @@
             "warriorTime": 15711,
             "worldRecord": 14362,
             "mapId": "86abfb6d-943b-431b-b057-259452cf74e4",
-            "goldTime": 19000
+            "goldTime": 19000,
+            "campaignId": 92043,
+            "week": 15
         },
         {
             "authorTime": 16760,
@@ -6589,7 +6735,9 @@
             "warriorTime": 16247,
             "worldRecord": 15734,
             "mapId": "e1c1d447-edd4-4f8d-9408-9746bd483e51",
-            "goldTime": 18000
+            "goldTime": 18000,
+            "campaignId": 92043,
+            "week": 15
         },
         {
             "authorTime": 17024,
@@ -6600,7 +6748,9 @@
             "warriorTime": 14725,
             "worldRecord": 12425,
             "mapId": "d762706a-20dd-4aee-a2f1-239d7448d56d",
-            "goldTime": 19000
+            "goldTime": 19000,
+            "campaignId": 92043,
+            "week": 15
         },
         {
             "authorTime": 17433,
@@ -6611,7 +6761,9 @@
             "warriorTime": 16306,
             "worldRecord": 15178,
             "mapId": "e6c3851d-0f92-4520-b997-92fa432ee81d",
-            "goldTime": 19000
+            "goldTime": 19000,
+            "campaignId": 92659,
+            "week": 16
         },
         {
             "authorTime": 17500,
@@ -6622,7 +6774,9 @@
             "warriorTime": 16795,
             "worldRecord": 16090,
             "mapId": "07a96b40-0fc9-477f-9ce8-8819582b5a49",
-            "goldTime": 19000
+            "goldTime": 19000,
+            "campaignId": 92659,
+            "week": 16
         },
         {
             "authorTime": 21824,
@@ -6633,7 +6787,9 @@
             "warriorTime": 19884,
             "worldRecord": 17944,
             "mapId": "4774688b-3150-4579-97fe-0c5bd6a739e2",
-            "goldTime": 24000
+            "goldTime": 24000,
+            "campaignId": 92659,
+            "week": 16
         },
         {
             "authorTime": 18863,
@@ -6644,7 +6800,9 @@
             "warriorTime": 17511,
             "worldRecord": 16158,
             "mapId": "9a312480-ea06-4903-8c09-c9d50dd4e249",
-            "goldTime": 20000
+            "goldTime": 20000,
+            "campaignId": 92659,
+            "week": 16
         },
         {
             "authorTime": 15945,
@@ -6655,7 +6813,9 @@
             "warriorTime": 15135,
             "worldRecord": 14324,
             "mapId": "d731a452-1d98-4bc1-872f-94eb51166024",
-            "goldTime": 17000
+            "goldTime": 17000,
+            "campaignId": 92659,
+            "week": 16
         },
         {
             "authorTime": 15138,
@@ -6666,7 +6826,9 @@
             "warriorTime": 14610,
             "worldRecord": 14082,
             "mapId": "37b13f81-6150-42c1-8208-a42d27465274",
-            "goldTime": 17000
+            "goldTime": 17000,
+            "campaignId": 93578,
+            "week": 17
         },
         {
             "authorTime": 17563,
@@ -6677,7 +6839,9 @@
             "warriorTime": 16369,
             "worldRecord": 15175,
             "mapId": "c568ef10-e6a6-410f-8191-918fc1d15f4e",
-            "goldTime": 19000
+            "goldTime": 19000,
+            "campaignId": 93578,
+            "week": 17
         },
         {
             "authorTime": 18777,
@@ -6688,7 +6852,9 @@
             "warriorTime": 17821,
             "worldRecord": 16864,
             "mapId": "3a0ea8f6-96e3-44fd-b2be-2c89939502f9",
-            "goldTime": 20000
+            "goldTime": 20000,
+            "campaignId": 93578,
+            "week": 17
         },
         {
             "authorTime": 18203,
@@ -6699,7 +6865,9 @@
             "warriorTime": 17339,
             "worldRecord": 16475,
             "mapId": "c66ceb43-21eb-4461-afcd-69fec826cd87",
-            "goldTime": 19000
+            "goldTime": 19000,
+            "campaignId": 93578,
+            "week": 17
         },
         {
             "authorTime": 19653,
@@ -6710,7 +6878,9 @@
             "warriorTime": 16973,
             "worldRecord": 14293,
             "mapId": "83bdd79e-c5d7-4e87-97fb-e2fdf149d91f",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 93578,
+            "week": 17
         },
         {
             "authorTime": 19796,
@@ -6721,7 +6891,9 @@
             "warriorTime": 19220,
             "worldRecord": 18643,
             "mapId": "f794e9c5-7028-48c8-b73c-a1a81c482586",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 94417,
+            "week": 18
         },
         {
             "authorTime": 18213,
@@ -6732,7 +6904,9 @@
             "warriorTime": 17129,
             "worldRecord": 16045,
             "mapId": "7d73511d-d5a7-4b67-9b02-971ea0b560a1",
-            "goldTime": 20000
+            "goldTime": 20000,
+            "campaignId": 94417,
+            "week": 18
         },
         {
             "authorTime": 16786,
@@ -6743,7 +6917,9 @@
             "warriorTime": 15332,
             "worldRecord": 13878,
             "mapId": "058458d1-7019-45dd-9478-56babd539d98",
-            "goldTime": 18000
+            "goldTime": 18000,
+            "campaignId": 94417,
+            "week": 18
         },
         {
             "authorTime": 19728,
@@ -6754,7 +6930,9 @@
             "warriorTime": 18302,
             "worldRecord": 16875,
             "mapId": "7784af8c-b7f7-4d43-91ba-1db9720a0414",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 94417,
+            "week": 18
         },
         {
             "authorTime": 19896,
@@ -6765,7 +6943,9 @@
             "warriorTime": 14546,
             "worldRecord": 9195,
             "mapId": "f25fe7f4-36dd-4063-812c-3b942bd1c8b8",
-            "goldTime": 24690
+            "goldTime": 24690,
+            "campaignId": 94417,
+            "week": 18
         },
         {
             "authorTime": 20750,
@@ -6776,7 +6956,9 @@
             "warriorTime": 19200,
             "worldRecord": 17650,
             "mapId": "5a9fcfbc-6b8f-495f-8042-494a9156d5c4",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 95167,
+            "week": 19
         },
         {
             "authorTime": 16017,
@@ -6787,7 +6969,9 @@
             "warriorTime": 15693,
             "worldRecord": 15369,
             "mapId": "ec36f72f-92eb-4ac1-a863-4c94c848015b",
-            "goldTime": 17000
+            "goldTime": 17000,
+            "campaignId": 95167,
+            "week": 19
         },
         {
             "authorTime": 17845,
@@ -6798,7 +6982,9 @@
             "warriorTime": 16607,
             "worldRecord": 15368,
             "mapId": "8e8310bd-c082-437f-ba0a-c51d21718145",
-            "goldTime": 19000
+            "goldTime": 19000,
+            "campaignId": 95167,
+            "week": 19
         },
         {
             "authorTime": 18887,
@@ -6809,7 +6995,9 @@
             "warriorTime": 18050,
             "worldRecord": 17212,
             "mapId": "3b93842e-e883-49c7-9629-9bcb3b8e2ebc",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 95167,
+            "week": 19
         },
         {
             "authorTime": 18505,
@@ -6820,7 +7008,9 @@
             "warriorTime": 15320,
             "worldRecord": 12134,
             "mapId": "49d5c3f2-a6de-4410-9c94-e4bfa14c9f20",
-            "goldTime": 23000
+            "goldTime": 23000,
+            "campaignId": 95167,
+            "week": 19
         },
         {
             "authorTime": 16107,
@@ -6831,7 +7021,9 @@
             "warriorTime": 12880,
             "worldRecord": 9652,
             "mapId": "9c03ccda-6244-408c-bbda-d826194059fd",
-            "goldTime": 18000
+            "goldTime": 18000,
+            "campaignId": 96021,
+            "week": 20
         },
         {
             "authorTime": 19869,
@@ -6842,7 +7034,9 @@
             "warriorTime": 17974,
             "worldRecord": 16079,
             "mapId": "8b51d3ea-50b6-468c-be02-6367941edaa2",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 96021,
+            "week": 20
         },
         {
             "authorTime": 18609,
@@ -6853,7 +7047,9 @@
             "warriorTime": 14711,
             "worldRecord": 10812,
             "mapId": "9da976dd-bc99-4343-b80d-c8d26bd452b5",
-            "goldTime": 20000
+            "goldTime": 20000,
+            "campaignId": 96021,
+            "week": 20
         },
         {
             "authorTime": 18885,
@@ -6864,7 +7060,9 @@
             "warriorTime": 17190,
             "worldRecord": 15495,
             "mapId": "45355061-09fb-45de-80f5-b34fe00b104e",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 96021,
+            "week": 20
         },
         {
             "authorTime": 19669,
@@ -6875,7 +7073,9 @@
             "warriorTime": 17468,
             "worldRecord": 15267,
             "mapId": "b1976165-74cd-4422-a9f8-59d484a6f3d9",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 96021,
+            "week": 20
         },
         {
             "authorTime": 19886,
@@ -6886,7 +7086,9 @@
             "warriorTime": 19343,
             "worldRecord": 18800,
             "mapId": "43c6cc77-8200-42fb-a0a5-f2069814a162",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 96711,
+            "week": 21
         },
         {
             "authorTime": 19868,
@@ -6897,7 +7099,9 @@
             "warriorTime": 19052,
             "worldRecord": 18235,
             "mapId": "8653a2bb-a919-407e-95be-19050947daf7",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 96711,
+            "week": 21
         },
         {
             "authorTime": 17472,
@@ -6908,7 +7112,9 @@
             "warriorTime": 15810,
             "worldRecord": 14148,
             "mapId": "2a30de21-9fbf-4666-bb08-e92dd8494398",
-            "goldTime": 19000
+            "goldTime": 19000,
+            "campaignId": 96711,
+            "week": 21
         },
         {
             "authorTime": 19914,
@@ -6919,7 +7125,9 @@
             "warriorTime": 18166,
             "worldRecord": 16418,
             "mapId": "c294be67-fbc1-4f01-b2ca-d30e777d9ff6",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 96711,
+            "week": 21
         },
         {
             "authorTime": 19970,
@@ -6930,7 +7138,9 @@
             "warriorTime": 18132,
             "worldRecord": 16294,
             "mapId": "b610c0bd-1738-4723-bef5-627a09d66a99",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 96711,
+            "week": 21
         },
         {
             "authorTime": 19873,
@@ -6941,7 +7151,9 @@
             "warriorTime": 18398,
             "worldRecord": 16922,
             "mapId": "226cef77-8f1d-42c9-a7c3-42ff897326d6",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 97372,
+            "week": 22
         },
         {
             "authorTime": 19084,
@@ -6952,7 +7164,9 @@
             "warriorTime": 17174,
             "worldRecord": 15264,
             "mapId": "17cf04f8-c183-4b9b-975c-1facedbc5ecb",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 97372,
+            "week": 22
         },
         {
             "authorTime": 18421,
@@ -6963,7 +7177,9 @@
             "warriorTime": 16686,
             "worldRecord": 14950,
             "mapId": "325d05a8-2716-4c92-95d0-fa77dd5134cb",
-            "goldTime": 20000
+            "goldTime": 20000,
+            "campaignId": 97372,
+            "week": 22
         },
         {
             "authorTime": 17041,
@@ -6974,7 +7190,9 @@
             "warriorTime": 16091,
             "worldRecord": 15141,
             "mapId": "2d212d2e-4d9f-4c12-b227-9395479c3993",
-            "goldTime": 19000
+            "goldTime": 19000,
+            "campaignId": 97372,
+            "week": 22
         },
         {
             "authorTime": 19537,
@@ -6985,7 +7203,9 @@
             "warriorTime": 17090,
             "worldRecord": 14643,
             "mapId": "546ee9f5-46c3-4ffb-a34b-5faa7640da11",
-            "goldTime": 20000
+            "goldTime": 20000,
+            "campaignId": 97372,
+            "week": 22
         },
         {
             "authorTime": 19448,
@@ -6996,7 +7216,9 @@
             "warriorTime": 16439,
             "worldRecord": 13429,
             "mapId": "3e9e985d-6765-45ba-b142-94c5b1bd3083",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 97982,
+            "week": 23
         },
         {
             "authorTime": 16213,
@@ -7007,7 +7229,9 @@
             "warriorTime": 15509,
             "worldRecord": 14804,
             "mapId": "2e3b4977-bc3f-4bd4-afbc-28b50f38cb87",
-            "goldTime": 18000
+            "goldTime": 18000,
+            "campaignId": 97982,
+            "week": 23
         },
         {
             "authorTime": 18496,
@@ -7018,7 +7242,9 @@
             "warriorTime": 15393,
             "worldRecord": 12290,
             "mapId": "59521431-a21f-43de-bc5f-b2e3ec452413",
-            "goldTime": 20000
+            "goldTime": 20000,
+            "campaignId": 97982,
+            "week": 23
         },
         {
             "authorTime": 19918,
@@ -7029,7 +7255,9 @@
             "warriorTime": 18757,
             "worldRecord": 17595,
             "mapId": "2d31479c-2a26-4600-b226-f1313acbda0a",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 97982,
+            "week": 23
         },
         {
             "authorTime": 19903,
@@ -7040,7 +7268,9 @@
             "warriorTime": 17398,
             "worldRecord": 14893,
             "mapId": "19149896-8907-440e-a56d-b3d8c5e7d0db",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 97982,
+            "week": 23
         },
         {
             "authorTime": 19593,
@@ -7051,7 +7281,9 @@
             "warriorTime": 18529,
             "worldRecord": 17465,
             "mapId": "e7a71aeb-8661-4d3e-8149-d082ef55e178",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 98735,
+            "week": 24
         },
         {
             "authorTime": 19374,
@@ -7062,7 +7294,9 @@
             "warriorTime": 18355,
             "worldRecord": 17335,
             "mapId": "97428d52-05bb-4b32-a5fb-b3e30e32eb75",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 98735,
+            "week": 24
         },
         {
             "authorTime": 19407,
@@ -7073,7 +7307,9 @@
             "warriorTime": 19407,
             "worldRecord": 14252,
             "mapId": "17418d1f-9f0e-4c2a-b55d-be4d4b944fc1",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 98735,
+            "week": 24
         },
         {
             "authorTime": 19805,
@@ -7084,7 +7320,9 @@
             "warriorTime": 18267,
             "worldRecord": 16728,
             "mapId": "d72495fa-9a0a-44a9-8b61-110afee26d4c",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 98735,
+            "week": 24
         },
         {
             "authorTime": 18415,
@@ -7095,7 +7333,9 @@
             "warriorTime": 16846,
             "worldRecord": 15277,
             "mapId": "afbccddf-1960-489d-9652-c5aa66acd1d7",
-            "goldTime": 20000
+            "goldTime": 20000,
+            "campaignId": 98735,
+            "week": 24
         },
         {
             "authorTime": 19341,
@@ -7106,7 +7346,9 @@
             "warriorTime": 18857,
             "worldRecord": 18373,
             "mapId": "8ea71a14-bcd4-48b9-8e11-3bdcf68c7f05",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 99361,
+            "week": 25
         },
         {
             "authorTime": 19905,
@@ -7117,7 +7359,9 @@
             "warriorTime": 18498,
             "worldRecord": 17091,
             "mapId": "2a2edce7-a8d5-4c63-9dba-8cca612ec88c",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 99361,
+            "week": 25
         },
         {
             "authorTime": 19586,
@@ -7128,7 +7372,9 @@
             "warriorTime": 14136,
             "worldRecord": 8686,
             "mapId": "bb56431f-1127-426d-8a13-903877deb0f1",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 99361,
+            "week": 25
         },
         {
             "authorTime": 19956,
@@ -7139,7 +7385,9 @@
             "warriorTime": 18186,
             "worldRecord": 16415,
             "mapId": "9140f612-8a13-406c-a311-6015f74855b0",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 99361,
+            "week": 25
         },
         {
             "authorTime": 19947,
@@ -7150,7 +7398,9 @@
             "warriorTime": 18086,
             "worldRecord": 16225,
             "mapId": "c1bee63a-e3d9-47b4-b3cc-7ab46a298141",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 99361,
+            "week": 25
         },
         {
             "authorTime": 19741,
@@ -7161,7 +7411,9 @@
             "warriorTime": 17803,
             "worldRecord": 15865,
             "mapId": "34a44cae-b24d-4083-91c0-23b5585920e5",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 99925,
+            "week": 26
         },
         {
             "authorTime": 16136,
@@ -7172,7 +7424,9 @@
             "warriorTime": 15140,
             "worldRecord": 14144,
             "mapId": "b412f535-b9ca-49d5-9516-bd95c682e8ae",
-            "goldTime": 18000
+            "goldTime": 18000,
+            "campaignId": 99925,
+            "week": 26
         },
         {
             "authorTime": 19835,
@@ -7183,7 +7437,9 @@
             "warriorTime": 17975,
             "worldRecord": 16115,
             "mapId": "1621a3a9-4b63-4730-a95e-51d7617874a9",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 99925,
+            "week": 26
         },
         {
             "authorTime": 17882,
@@ -7194,7 +7450,9 @@
             "warriorTime": 16752,
             "worldRecord": 15621,
             "mapId": "e95d64a2-2770-46dc-a449-ef8f10c6a29c",
-            "goldTime": 19000
+            "goldTime": 19000,
+            "campaignId": 99925,
+            "week": 26
         },
         {
             "authorTime": 19439,
@@ -7205,7 +7463,9 @@
             "warriorTime": 15015,
             "worldRecord": 10591,
             "mapId": "fd9c51b8-9e3f-404a-9927-83a2cffc002c",
-            "goldTime": 26000
+            "goldTime": 26000,
+            "campaignId": 99925,
+            "week": 26
         },
         {
             "authorTime": 19830,
@@ -7216,7 +7476,9 @@
             "warriorTime": 17899,
             "worldRecord": 15968,
             "mapId": "f433c91b-95f2-4a17-bb50-3db75694f0e6",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 100727,
+            "week": 27
         },
         {
             "authorTime": 20000,
@@ -7227,7 +7489,9 @@
             "warriorTime": 17139,
             "worldRecord": 14277,
             "mapId": "ca2b572a-191e-4b16-a886-456af28939d2",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 100727,
+            "week": 27
         },
         {
             "authorTime": 19873,
@@ -7238,7 +7502,9 @@
             "warriorTime": 15401,
             "worldRecord": 10928,
             "mapId": "9b310085-25c4-42d3-a4e1-ec2a3628ff05",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 100727,
+            "week": 27
         },
         {
             "authorTime": 18385,
@@ -7249,7 +7515,9 @@
             "warriorTime": 16908,
             "worldRecord": 15430,
             "mapId": "1853448b-0995-4e62-a4df-7dadbea572be",
-            "goldTime": 20000
+            "goldTime": 20000,
+            "campaignId": 100727,
+            "week": 27
         },
         {
             "authorTime": 19275,
@@ -7260,7 +7528,9 @@
             "warriorTime": 16421,
             "worldRecord": 13567,
             "mapId": "f03847cb-99cb-4acb-a10a-18f446b1227c",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 100727,
+            "week": 27
         },
         {
             "authorTime": 17971,
@@ -7271,7 +7541,9 @@
             "warriorTime": 15853,
             "worldRecord": 13735,
             "mapId": "30494bc4-1d2d-4f6f-ae09-9c410c1058dd",
-            "goldTime": 20000
+            "goldTime": 20000,
+            "campaignId": 101358,
+            "week": 28
         },
         {
             "authorTime": 19989,
@@ -7282,7 +7554,9 @@
             "warriorTime": 18869,
             "worldRecord": 17749,
             "mapId": "d5aa441f-ccd9-4b73-865d-d9b36ed57330",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 101358,
+            "week": 28
         },
         {
             "authorTime": 19947,
@@ -7293,7 +7567,9 @@
             "warriorTime": 15811,
             "worldRecord": 11675,
             "mapId": "9386156a-91a5-4df9-b6ae-90ba3d23f577",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 101358,
+            "week": 28
         },
         {
             "authorTime": 19988,
@@ -7304,7 +7580,9 @@
             "warriorTime": 17726,
             "worldRecord": 15463,
             "mapId": "6ba96dc0-2b4b-4f85-9494-501ad12a71a9",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 101358,
+            "week": 28
         },
         {
             "authorTime": 13852,
@@ -7315,7 +7593,9 @@
             "warriorTime": 11397,
             "worldRecord": 8941,
             "mapId": "0942db42-246f-45cf-b01f-c20d517d542a",
-            "goldTime": 15000
+            "goldTime": 15000,
+            "campaignId": 101358,
+            "week": 28
         },
         {
             "authorTime": 20000,
@@ -7326,7 +7606,9 @@
             "warriorTime": 18213,
             "worldRecord": 16426,
             "mapId": "a97cf564-39db-487b-9329-3389eeab3502",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 101810,
+            "week": 29
         },
         {
             "authorTime": 20000,
@@ -7337,7 +7619,9 @@
             "warriorTime": 18458,
             "worldRecord": 16915,
             "mapId": "1209e217-409b-46e8-8498-84953559b46e",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 101810,
+            "week": 29
         },
         {
             "authorTime": 18500,
@@ -7348,7 +7632,9 @@
             "warriorTime": 16849,
             "worldRecord": 15198,
             "mapId": "9d777bdb-805e-4c94-bca6-623abaad4a52",
-            "goldTime": 20000
+            "goldTime": 20000,
+            "campaignId": 101810,
+            "week": 29
         },
         {
             "authorTime": 16000,
@@ -7359,7 +7645,9 @@
             "warriorTime": 15261,
             "worldRecord": 14521,
             "mapId": "07dc115e-bcb7-49e6-bb00-76384525c033",
-            "goldTime": 17000
+            "goldTime": 17000,
+            "campaignId": 101810,
+            "week": 29
         },
         {
             "authorTime": 19000,
@@ -7370,7 +7658,9 @@
             "warriorTime": 16417,
             "worldRecord": 13834,
             "mapId": "8aca5ace-2fc4-4007-81a0-3729c1f805f8",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 101810,
+            "week": 29
         },
         {
             "authorTime": 19788,
@@ -7381,7 +7671,9 @@
             "warriorTime": 18129,
             "worldRecord": 16470,
             "mapId": "5b5d94f9-811c-4157-bac3-ac5675e8458e",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 102986,
+            "week": 30
         },
         {
             "authorTime": 19269,
@@ -7392,7 +7684,9 @@
             "warriorTime": 16966,
             "worldRecord": 14662,
             "mapId": "c80a291d-4b03-4ac1-818b-4968af63f8a0",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 102986,
+            "week": 30
         },
         {
             "authorTime": 19308,
@@ -7403,7 +7697,9 @@
             "warriorTime": 15244,
             "worldRecord": 11179,
             "mapId": "93a90344-56cf-4cc6-8cff-266f79d22d66",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignId": 102986,
+            "week": 30
         },
         {
             "authorTime": 19965,
@@ -7414,7 +7710,9 @@
             "warriorTime": 18210,
             "worldRecord": 16455,
             "mapId": "631918ab-f585-4c28-bb4f-b4256484af1d",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignId": 102986,
+            "week": 30
         },
         {
             "authorTime": 16150,
@@ -7425,7 +7723,9 @@
             "warriorTime": 14010,
             "worldRecord": 11869,
             "mapId": "503a8e45-de46-461b-a401-feb0e4a68dfb",
-            "goldTime": 18000
+            "goldTime": 18000,
+            "campaignId": 102986,
+            "week": 30
         }
     ],
     "Totd": [
