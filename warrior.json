@@ -7726,6 +7726,71 @@
             "goldTime": 18000,
             "campaignId": 102986,
             "week": 30
+        },
+        {
+            "authorTime": 19994,
+            "mapUid": "Jhgyp4T4tdeXXwcGhllbg3zoHW4",
+            "name": "$i$o$s$FF01 - $FF0H$9E8a$3CFp$3CFp$F6Fy",
+            "number": 151,
+            "reason": null,
+            "warriorTime": 17806,
+            "worldRecord": 15618,
+            "mapId": "1335c919-d336-46dc-af18-687339a2aee3",
+            "goldTime": 22000,
+            "campaignId": null,
+            "week": null
+        },
+        {
+            "authorTime": 19263,
+            "mapUid": "p_1XwRNGFNPaWO8xCpq6b2bpSV3",
+            "name": "2 - $s$o$33CScuba$39Fdiving",
+            "number": 152,
+            "reason": null,
+            "warriorTime": 18131,
+            "worldRecord": 16998,
+            "mapId": "f4a353fb-5cc6-431a-96dc-e2b6369a9a76",
+            "goldTime": 21000,
+            "campaignId": null,
+            "week": null
+        },
+        {
+            "authorTime": 16209,
+            "mapUid": "wFJ7Imq2EK6MgZaR3i2NeMt70El",
+            "name": "$o3 - $F00Pla$F90ygr$FF0oun$0F0d of $09Fco$93Flo$C3Crs",
+            "number": 153,
+            "reason": null,
+            "warriorTime": 13738,
+            "worldRecord": 11266,
+            "mapId": "717a9a26-1f41-40ae-ad66-b2f0016f34dc",
+            "goldTime": 18000,
+            "campaignId": null,
+            "week": null
+        },
+        {
+            "authorTime": 19805,
+            "mapUid": "cX9mTXxNyypFHiTtPxH9vR6dV90",
+            "name": "4 - $C9FSnowo Mobile",
+            "number": 154,
+            "reason": null,
+            "warriorTime": 17760,
+            "worldRecord": 15715,
+            "mapId": "88d58ec1-b435-434b-abc1-80bc940f9552",
+            "goldTime": 21000,
+            "campaignId": null,
+            "week": null
+        },
+        {
+            "authorTime": 14061,
+            "mapUid": "mgb5NsSjTGMgUHstGK4C5Gcc227",
+            "name": "5 - Pinball",
+            "number": 155,
+            "reason": null,
+            "warriorTime": 9476,
+            "worldRecord": 4890,
+            "mapId": "9af4701c-e123-4c9b-af64-8c5780bcf973",
+            "goldTime": 15000,
+            "campaignId": null,
+            "week": null
         }
     ],
     "Totd": [
