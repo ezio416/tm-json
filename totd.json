@@ -38764,5 +38764,26 @@
         "timestampUpload": 1750865344,
         "weekDay": 6,
         "year": 2025
+    },
+    "zOlkUQGtiznHGBWAFH2d_t03me4": {
+        "author": "5caf0042-0e73-4766-bbcc-a1c16cb4afd7",
+        "authorTime": 44370,
+        "bronzeTime": 67000,
+        "campaignId": 104704,
+        "goldTime": 48000,
+        "mapId": "d3c2195a-dcdb-4e10-a0a6-9680113531c3",
+        "mapUid": "zOlkUQGtiznHGBWAFH2d_t03me4",
+        "month": 7,
+        "monthDay": 21,
+        "name": "$s$0c0T$fffhe$0c0 V$fffoices  $fffAre $0c0G$fffetting Louder",
+        "number": 1847,
+        "seasonUid": "2c5a5897-4ebf-4c82-bc70-a37398649d5e",
+        "silverTime": 54000,
+        "submitter": "5caf0042-0e73-4766-bbcc-a1c16cb4afd7",
+        "timestampEnd": 1753203600,
+        "timestampStart": 1753117200,
+        "timestampUpload": 1749409866,
+        "weekDay": 0,
+        "year": 2025
     }
 }
