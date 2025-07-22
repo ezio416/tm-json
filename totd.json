@@ -37690,7 +37690,7 @@
         "submitter": "2c58a171-6a36-4129-9bb4-5abe9b980c81",
         "timestampEnd": 1748710800,
         "timestampStart": 1748624400,
-        "timestampUpload": 1751837634,
+        "timestampUpload": 1753158406,
         "weekDay": 4,
         "year": 2025
     },
@@ -38784,6 +38784,27 @@
         "timestampStart": 1753117200,
         "timestampUpload": 1749409866,
         "weekDay": 0,
+        "year": 2025
+    },
+    "e8odsqFXZFjj3gh0fRyykTrDGIe": {
+        "author": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
+        "authorTime": 42667,
+        "bronzeTime": 60000,
+        "campaignId": 104707,
+        "goldTime": 45000,
+        "mapId": "dbc6dd78-cd55-4756-85a0-97848ecfd25e",
+        "mapUid": "e8odsqFXZFjj3gh0fRyykTrDGIe",
+        "month": 7,
+        "monthDay": 22,
+        "name": "$z$cec$s\u0995 ft' cotton",
+        "number": 1848,
+        "seasonUid": "b15a5d29-1ab6-4dc9-8610-eafaccf25511",
+        "silverTime": 50000,
+        "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
+        "timestampEnd": 1753290000,
+        "timestampStart": 1753203600,
+        "timestampUpload": 1752777172,
+        "weekDay": 1,
         "year": 2025
     }
 }
