@@ -38806,5 +38806,26 @@
         "timestampUpload": 1752777172,
         "weekDay": 1,
         "year": 2025
+    },
+    "L3TmJZGemdv8zfIRbhad5xEKhIk": {
+        "author": "0011d4b9-a323-474d-9fe2-92cb38b9fd05",
+        "authorTime": 51762,
+        "bronzeTime": 78000,
+        "campaignId": 104708,
+        "goldTime": 55000,
+        "mapId": "71a14fcc-d944-443e-a349-c8ed798aab85",
+        "mapUid": "L3TmJZGemdv8zfIRbhad5xEKhIk",
+        "month": 7,
+        "monthDay": 23,
+        "name": "Prohibit ft' speq",
+        "number": 1849,
+        "seasonUid": "7023d201-0a16-403b-a1a7-c4487ee221e8",
+        "silverTime": 63000,
+        "submitter": "0011d4b9-a323-474d-9fe2-92cb38b9fd05",
+        "timestampEnd": 1753376400,
+        "timestampStart": 1753290000,
+        "timestampUpload": 1753037296,
+        "weekDay": 2,
+        "year": 2025
     }
 }
