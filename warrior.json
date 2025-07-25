@@ -28143,6 +28143,17 @@
             "worldRecord": 45102,
             "mapId": "a78f0de2-d99c-434d-b8d9-2b62524c9907",
             "goldTime": 50000
+        },
+        {
+            "authorTime": 61973,
+            "date": "2025-07-25",
+            "mapUid": "qhiGm06nUCartUVkCQYomoWiHn2",
+            "name": "Arrakko",
+            "reason": null,
+            "warriorTime": 61684,
+            "worldRecord": 59654,
+            "mapId": "d4491f05-da96-4a9a-ad9e-f8a69f4ee81d",
+            "goldTime": 64000
         }
     ],
     "Other": [
