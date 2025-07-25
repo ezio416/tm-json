@@ -38848,5 +38848,26 @@
         "timestampUpload": 1750607627,
         "weekDay": 3,
         "year": 2025
+    },
+    "qhiGm06nUCartUVkCQYomoWiHn2": {
+        "author": "ff6285e5-f367-44ea-9a79-221779d1ec2f",
+        "authorTime": 61973,
+        "bronzeTime": 80000,
+        "campaignId": 104705,
+        "goldTime": 64000,
+        "mapId": "d4491f05-da96-4a9a-ad9e-f8a69f4ee81d",
+        "mapUid": "qhiGm06nUCartUVkCQYomoWiHn2",
+        "month": 7,
+        "monthDay": 25,
+        "name": "Arrakko",
+        "number": 1851,
+        "seasonUid": "b4d4fe59-4c01-4823-b291-9910611b3540",
+        "silverTime": 70000,
+        "submitter": "ff6285e5-f367-44ea-9a79-221779d1ec2f",
+        "timestampEnd": 1753549200,
+        "timestampStart": 1753462800,
+        "timestampUpload": 1751342923,
+        "weekDay": 4,
+        "year": 2025
     }
 }
