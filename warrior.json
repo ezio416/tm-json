@@ -28154,6 +28154,17 @@
             "worldRecord": 59654,
             "mapId": "d4491f05-da96-4a9a-ad9e-f8a69f4ee81d",
             "goldTime": 64000
+        },
+        {
+            "authorTime": 47492,
+            "date": "2025-07-26",
+            "mapUid": "tZsB67BtDJ4Y1pZDT_uoT3Qv5sj",
+            "name": "$s$AAAFlow State",
+            "reason": null,
+            "warriorTime": 47442,
+            "worldRecord": 47085,
+            "mapId": "7a5c84aa-7b4c-41d3-95f4-116e404ec457",
+            "goldTime": 51000
         }
     ],
     "Other": [
