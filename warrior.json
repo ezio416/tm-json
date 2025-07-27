@@ -7791,6 +7791,71 @@
             "goldTime": 15000,
             "campaignId": 103863,
             "week": 31
+        },
+        {
+            "authorTime": 19901,
+            "mapUid": "DjFV3YNUHOFo1Zxl6vLKcAnFZ30",
+            "name": "1 - $o$F90R$F60e$F30d $FFFDriveby",
+            "number": 156,
+            "reason": null,
+            "warriorTime": 18603,
+            "worldRecord": 17305,
+            "mapId": "86a11fe9-e5e3-42e5-9d67-1303e4c977e0",
+            "goldTime": 22000,
+            "campaignId": 104528,
+            "week": 32
+        },
+        {
+            "authorTime": 19507,
+            "mapUid": "Q1QBka2u2mr1hYH49umDP4XCR0c",
+            "name": "2 - $oM$eeei$cccr$6afa$3afg$0afe",
+            "number": 157,
+            "reason": null,
+            "warriorTime": 18223,
+            "worldRecord": 16938,
+            "mapId": "14b3b6b3-76d9-40c7-8972-c074e92e38b3",
+            "goldTime": 21000,
+            "campaignId": 104528,
+            "week": 32
+        },
+        {
+            "authorTime": 19148,
+            "mapUid": "EwNH3Cn80Rgkq5Md9nSBNNZs2Hf",
+            "name": "3 - $080D$180a$280w$380n$470s$570p$670ir$770e$870 $960Pass",
+            "number": 158,
+            "reason": null,
+            "warriorTime": 16823,
+            "worldRecord": 14498,
+            "mapId": "82260934-95f3-4cfb-bdb5-b2b0bcbfbdc6",
+            "goldTime": 21000,
+            "campaignId": 104528,
+            "week": 32
+        },
+        {
+            "authorTime": 19501,
+            "mapUid": "0xzWXgDUHnKo86pBnjOU9jyWuVh",
+            "name": "$6C04 $7D0- $8E0Co$9F0ve$9F0 G$AE0ar$BD0de$CC0ns",
+            "number": 159,
+            "reason": null,
+            "warriorTime": 18539,
+            "worldRecord": 17576,
+            "mapId": "fa89f55f-3d6d-451e-868a-4012ae84da39",
+            "goldTime": 21000,
+            "campaignId": 104528,
+            "week": 32
+        },
+        {
+            "authorTime": 16914,
+            "mapUid": "ITxKcqBZXkDfRrdjzunLB8OGxC4",
+            "name": "5 - Pluto",
+            "number": 160,
+            "reason": null,
+            "warriorTime": 13971,
+            "worldRecord": 11027,
+            "mapId": "f8b823ae-e46d-428a-a31b-860f4a0d8a55",
+            "goldTime": 18000,
+            "campaignId": 104528,
+            "week": 32
         }
     ],
     "Totd": [
