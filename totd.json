@@ -38890,5 +38890,26 @@
         "timestampUpload": 1752599871,
         "weekDay": 5,
         "year": 2025
+    },
+    "u1fdMjw8zchIXDze4pE5OSN1Gl7": {
+        "author": "02ffe7da-3eaa-4ffe-a2de-155bc8638af9",
+        "authorTime": 47598,
+        "bronzeTime": 72000,
+        "campaignId": 104713,
+        "goldTime": 51000,
+        "mapId": "53c57e17-c3e6-410a-8b87-f85c42bd890e",
+        "mapUid": "u1fdMjw8zchIXDze4pE5OSN1Gl7",
+        "month": 7,
+        "monthDay": 27,
+        "name": "$o$n$sHYDROCORE $39f-$fff KELVAR $39fft' $fffPROFF10",
+        "number": 1853,
+        "seasonUid": "daadb880-a079-4802-8d5e-cd176cb08a14",
+        "silverTime": 58000,
+        "submitter": "02ffe7da-3eaa-4ffe-a2de-155bc8638af9",
+        "timestampEnd": 1753722000,
+        "timestampStart": 1753635600,
+        "timestampUpload": 1752741211,
+        "weekDay": 6,
+        "year": 2025
     }
 }
