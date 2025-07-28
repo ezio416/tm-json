@@ -38911,5 +38911,26 @@
         "timestampUpload": 1752741211,
         "weekDay": 6,
         "year": 2025
+    },
+    "a2tbL9hCVEITKFplL01miPsNDme": {
+        "author": "043d9f0f-3a04-4910-bfb8-36ef33435826",
+        "authorTime": 45454,
+        "bronzeTime": 69000,
+        "campaignId": 105457,
+        "goldTime": 49000,
+        "mapId": "619ba79a-8962-42f1-a57c-5b8b5eba9728",
+        "mapUid": "a2tbL9hCVEITKFplL01miPsNDme",
+        "month": 7,
+        "monthDay": 28,
+        "name": "Isle of Nascar",
+        "number": 1854,
+        "seasonUid": "0e6f322e-a5c4-47cc-b964-42d0677b1e23",
+        "silverTime": 55000,
+        "submitter": "043d9f0f-3a04-4910-bfb8-36ef33435826",
+        "timestampEnd": 1753808400,
+        "timestampStart": 1753722000,
+        "timestampUpload": 1752085422,
+        "weekDay": 0,
+        "year": 2025
     }
 }
