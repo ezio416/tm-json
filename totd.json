@@ -31894,7 +31894,7 @@
         "submitter": "d8a22885-4eb7-4e23-9b72-7c7e64d033c0",
         "timestampEnd": 1724864400,
         "timestampStart": 1724778000,
-        "timestampUpload": 1748314000,
+        "timestampUpload": 1753859023,
         "weekDay": 1,
         "year": 2024
     },
@@ -37459,7 +37459,7 @@
         "submitter": "d8a22885-4eb7-4e23-9b72-7c7e64d033c0",
         "timestampEnd": 1747760400,
         "timestampStart": 1747674000,
-        "timestampUpload": 1745196581,
+        "timestampUpload": 1753853518,
         "weekDay": 0,
         "year": 2025
     },
@@ -38952,6 +38952,27 @@
         "timestampStart": 1753808400,
         "timestampUpload": 1753395955,
         "weekDay": 1,
+        "year": 2025
+    },
+    "Ed3HKp4XaVrgL2BU3dwDFrqICsh": {
+        "author": "c68d831c-16b2-4134-91d4-bdace1291a79",
+        "authorTime": 52644,
+        "bronzeTime": 79000,
+        "campaignId": 105524,
+        "goldTime": 56000,
+        "mapId": "7088648f-0f4b-4982-9388-729ede6be805",
+        "mapUid": "Ed3HKp4XaVrgL2BU3dwDFrqICsh",
+        "month": 7,
+        "monthDay": 30,
+        "name": "Red Rush Raceway",
+        "number": 1856,
+        "seasonUid": "8433f50b-3ad0-4a0e-aacc-21bb74a7e4c8",
+        "silverTime": 64000,
+        "submitter": "c68d831c-16b2-4134-91d4-bdace1291a79",
+        "timestampEnd": 1753981200,
+        "timestampStart": 1753894800,
+        "timestampUpload": 1753559009,
+        "weekDay": 2,
         "year": 2025
     }
 }
