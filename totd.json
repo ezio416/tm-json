@@ -38995,5 +38995,26 @@
         "timestampUpload": 1753194615,
         "weekDay": 3,
         "year": 2025
+    },
+    "JjPRjxV581giDLISK77aZVfT6t1": {
+        "author": "7d24ffac-5b47-46c4-9023-1a8cc6a90075",
+        "authorTime": 23309,
+        "bronzeTime": 35000,
+        "campaignId": 105521,
+        "goldTime": 25000,
+        "mapId": "0bd128bc-f7e8-4f2b-be2f-27336ffd8a95",
+        "mapUid": "JjPRjxV581giDLISK77aZVfT6t1",
+        "month": 8,
+        "monthDay": 1,
+        "name": "$S$34CA $F93Crumpled $D35Up $0C7Piece $34Cof $F93Paper",
+        "number": 1858,
+        "seasonUid": "60060c26-6d8b-4c6f-a2c4-d87374abc7e0",
+        "silverTime": 28000,
+        "submitter": "7d24ffac-5b47-46c4-9023-1a8cc6a90075",
+        "timestampEnd": 1754154000,
+        "timestampStart": 1754067600,
+        "timestampUpload": 1750909177,
+        "weekDay": 4,
+        "year": 2025
     }
 }
