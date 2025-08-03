@@ -7856,6 +7856,71 @@
             "goldTime": 18000,
             "campaignId": 104528,
             "week": 32
+        },
+        {
+            "authorTime": 19998,
+            "mapUid": "hDZIumjl2ynHy1Oplx3sm2H1Xtm",
+            "name": "1 - $F70M$F80i$F90r$FA0a$FB0g$FC0e $zft $0DFB$0BF1$0AFE$08FM",
+            "number": 161,
+            "reason": null,
+            "warriorTime": 14598,
+            "worldRecord": 9198,
+            "mapId": "8db35d58-221a-4572-8675-902bb5d159b3",
+            "goldTime": 22000,
+            "campaignId": 105237,
+            "week": 33
+        },
+        {
+            "authorTime": 19481,
+            "mapUid": "Of92TaxKVXEVMBZWrdcalCaBSli",
+            "name": "2 - $o$06FF$27Fr$38Fo$59Fs$6BFt$8CFv$9DFe$BEFil Village",
+            "number": 162,
+            "reason": null,
+            "warriorTime": 17148,
+            "worldRecord": 14814,
+            "mapId": "8d82853d-0b48-4744-b9ae-9da0c25b3b18",
+            "goldTime": 21000,
+            "campaignId": 105237,
+            "week": 33
+        },
+        {
+            "authorTime": 19876,
+            "mapUid": "XLodIkMWjgy0sLKIVchpBz05Gu2",
+            "name": "3 - $oFreedom$z of $oChoice",
+            "number": 163,
+            "reason": null,
+            "warriorTime": 12833,
+            "worldRecord": 5790,
+            "mapId": "14a779d8-ac70-4540-a3be-3af451a080cb",
+            "goldTime": 22220,
+            "campaignId": 105237,
+            "week": 33
+        },
+        {
+            "authorTime": 18518,
+            "mapUid": "LWVAaxMBTSdPHAQxwcqQaBYiwai",
+            "name": "4 - $o$2AFvelo$FFFcit\u00e0",
+            "number": 164,
+            "reason": null,
+            "warriorTime": 16301,
+            "worldRecord": 14084,
+            "mapId": "1d57ddfa-378d-4c77-969e-555e6d6fe4a9",
+            "goldTime": 20000,
+            "campaignId": 105237,
+            "week": 33
+        },
+        {
+            "authorTime": 19145,
+            "mapUid": "kGwTUl2kXR55jxSwfwQ4yAplESi",
+            "name": "5 - Party at the Bounce House",
+            "number": 165,
+            "reason": null,
+            "warriorTime": 13355,
+            "worldRecord": 7565,
+            "mapId": "f120ad9b-b781-49c4-bf79-c2d33d61fa9c",
+            "goldTime": 21000,
+            "campaignId": 105237,
+            "week": 33
         }
     ],
     "Totd": [
