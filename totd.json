@@ -39037,5 +39037,26 @@
         "timestampUpload": 1752875039,
         "weekDay": 5,
         "year": 2025
+    },
+    "6Y3XzVPpmONDvBaR9pD2vInlLYl": {
+        "author": "931e9842-5193-4f39-aab6-abc593b39fcf",
+        "authorTime": 46945,
+        "bronzeTime": 71000,
+        "campaignId": 105523,
+        "goldTime": 50000,
+        "mapId": "5a5a547a-0919-4d09-9a45-2e9b1498aead",
+        "mapUid": "6Y3XzVPpmONDvBaR9pD2vInlLYl",
+        "month": 8,
+        "monthDay": 3,
+        "name": "$267Polar Bear Proactivity$z ft' Prizzly",
+        "number": 1860,
+        "seasonUid": "aa3c5dcf-2193-468b-aaf5-0eea0bb73675",
+        "silverTime": 57000,
+        "submitter": "931e9842-5193-4f39-aab6-abc593b39fcf",
+        "timestampEnd": 1754326800,
+        "timestampStart": 1754240400,
+        "timestampUpload": 1752613349,
+        "weekDay": 6,
+        "year": 2025
     }
 }
