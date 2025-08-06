@@ -38929,7 +38929,7 @@
         "submitter": "043d9f0f-3a04-4910-bfb8-36ef33435826",
         "timestampEnd": 1753808400,
         "timestampStart": 1753722000,
-        "timestampUpload": 1752085422,
+        "timestampUpload": 1754488708,
         "weekDay": 0,
         "year": 2025
     },
@@ -39099,6 +39099,27 @@
         "timestampStart": 1754413200,
         "timestampUpload": 1753961701,
         "weekDay": 1,
+        "year": 2025
+    },
+    "_AIEhahnSC7uePtk4OVHJsouI25": {
+        "author": "de590c4e-f98c-4783-afa8-a01efb069ceb",
+        "authorTime": 49523,
+        "bronzeTime": 75000,
+        "campaignId": 105758,
+        "goldTime": 53000,
+        "mapId": "a188198e-6e77-4991-abc1-b8472551f113",
+        "mapUid": "_AIEhahnSC7uePtk4OVHJsouI25",
+        "month": 8,
+        "monthDay": 6,
+        "name": "$i$CCFG h$CDF o s t$CEF T o$CFF w n $fffft' Arien",
+        "number": 1863,
+        "seasonUid": "901e966d-21ec-49cf-92c6-57d7d81d83d8",
+        "silverTime": 60000,
+        "submitter": "de590c4e-f98c-4783-afa8-a01efb069ceb",
+        "timestampEnd": 1754586000,
+        "timestampStart": 1754499600,
+        "timestampUpload": 1753564980,
+        "weekDay": 2,
         "year": 2025
     }
 }
