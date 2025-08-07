@@ -39121,5 +39121,26 @@
         "timestampUpload": 1753564980,
         "weekDay": 2,
         "year": 2025
+    },
+    "XvTAK0YZfljEBvwABBe3pHukMFk": {
+        "author": "9a54628e-d595-4422-85be-836c6a28c7f3",
+        "authorTime": 50149,
+        "bronzeTime": 76000,
+        "campaignId": 105759,
+        "goldTime": 54000,
+        "mapId": "3fc1287c-0762-49ba-a864-f42d03db7791",
+        "mapUid": "XvTAK0YZfljEBvwABBe3pHukMFk",
+        "month": 8,
+        "monthDay": 7,
+        "name": "$s$i$25c'$48f|$25c' $fffFragments of Yesteryear",
+        "number": 1864,
+        "seasonUid": "fe6734ae-3cdd-4f32-9e57-0436e1e69999",
+        "silverTime": 61000,
+        "submitter": "9a54628e-d595-4422-85be-836c6a28c7f3",
+        "timestampEnd": 1754672400,
+        "timestampStart": 1754586000,
+        "timestampUpload": 1752940164,
+        "weekDay": 3,
+        "year": 2025
     }
 }
