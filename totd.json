@@ -39142,5 +39142,26 @@
         "timestampUpload": 1752940164,
         "weekDay": 3,
         "year": 2025
+    },
+    "Y8yYWRO17qIxC6bdIFfJSfqEHZm": {
+        "author": "b09527f2-b61d-4d9a-8cdc-73484590f81f",
+        "authorTime": 47105,
+        "bronzeTime": 75000,
+        "campaignId": 105760,
+        "goldTime": 52000,
+        "mapId": "04e40ac3-6b30-42c2-b184-a48cbb5f0ba1",
+        "mapUid": "Y8yYWRO17qIxC6bdIFfJSfqEHZm",
+        "month": 8,
+        "monthDay": 8,
+        "name": "Terra $096\uf06c $fffft$096' $fffSvendsenz",
+        "number": 1865,
+        "seasonUid": "abbfbd69-0f64-4b26-96b0-e52aff9e08e9",
+        "silverTime": 60000,
+        "submitter": "b09527f2-b61d-4d9a-8cdc-73484590f81f",
+        "timestampEnd": 1754758800,
+        "timestampStart": 1754672400,
+        "timestampUpload": 1753807362,
+        "weekDay": 4,
+        "year": 2025
     }
 }
