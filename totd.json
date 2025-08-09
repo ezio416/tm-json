@@ -35737,7 +35737,7 @@
         "submitter": "9299532e-b799-4358-b145-3784b6a75301",
         "timestampEnd": 1740679200,
         "timestampStart": 1740592800,
-        "timestampUpload": 1753015214,
+        "timestampUpload": 1754737482,
         "weekDay": 2,
         "year": 2025
     },
@@ -39097,7 +39097,7 @@
         "submitter": "9299532e-b799-4358-b145-3784b6a75301",
         "timestampEnd": 1754499600,
         "timestampStart": 1754413200,
-        "timestampUpload": 1753961701,
+        "timestampUpload": 1754745559,
         "weekDay": 1,
         "year": 2025
     },
@@ -39162,6 +39162,27 @@
         "timestampStart": 1754672400,
         "timestampUpload": 1753807362,
         "weekDay": 4,
+        "year": 2025
+    },
+    "PgcGqbwTAmHN9uNBYM3WGPoNj01": {
+        "author": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
+        "authorTime": 49394,
+        "bronzeTime": 75000,
+        "campaignId": 106405,
+        "goldTime": 53000,
+        "mapId": "422bd7b1-9dd5-43a5-afd3-cde6bf5a86ff",
+        "mapUid": "PgcGqbwTAmHN9uNBYM3WGPoNj01",
+        "month": 8,
+        "monthDay": 9,
+        "name": "$s$C03OFF THE LEASH $z$s$CCCFT' $C03NAZGOR",
+        "number": 1866,
+        "seasonUid": "d6299234-491c-41d4-90c5-2e47f655c25e",
+        "silverTime": 60000,
+        "submitter": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
+        "timestampEnd": 1754845200,
+        "timestampStart": 1754758800,
+        "timestampUpload": 1753996005,
+        "weekDay": 5,
         "year": 2025
     }
 }
