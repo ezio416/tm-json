@@ -6,5 +6,6 @@ Automated repository of JSON files containing information on items listed below
     - Seasonal Campaigns
     - Weekly Shorts
     - Tracks of the Day
+    - Available Regions (zones)
 - Other
     - Warrior Medals
