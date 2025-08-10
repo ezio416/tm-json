@@ -7921,6 +7921,71 @@
             "goldTime": 21000,
             "campaignId": 105237,
             "week": 33
+        },
+        {
+            "authorTime": 20104,
+            "mapUid": "EIuKSNTZZacAg4XvycHDMNZy_ub",
+            "name": "1 - Spinning on Ice Ft' Mosqido",
+            "number": 166,
+            "reason": null,
+            "warriorTime": 17806,
+            "worldRecord": 15508,
+            "mapId": "71bfb59d-0fa2-431a-93ee-183ff42df783",
+            "goldTime": 22000,
+            "campaignId": 105673,
+            "week": 34
+        },
+        {
+            "authorTime": 19243,
+            "mapUid": "yQ_gM9V8Z5mqkRsMpgEM6XLnTs8",
+            "name": "2 - Cactus Canyon (ft rhino)",
+            "number": 167,
+            "reason": null,
+            "warriorTime": 17316,
+            "worldRecord": 15388,
+            "mapId": "1cdd32ae-9c10-4844-8183-3ca868912356",
+            "goldTime": 21000,
+            "campaignId": 105673,
+            "week": 34
+        },
+        {
+            "authorTime": 19131,
+            "mapUid": "d0GmghfuzPIORAxbZE79HOsLwq",
+            "name": "$t3 - $396M$3C9a$3FCr$6FFs$9CFh$99Cl$969a$936n$903d $3F9Maze",
+            "number": 168,
+            "reason": null,
+            "warriorTime": 16084,
+            "worldRecord": 13036,
+            "mapId": "494b1cda-50b3-4f40-b173-1d3f97afa029",
+            "goldTime": 21000,
+            "campaignId": 105673,
+            "week": 34
+        },
+        {
+            "authorTime": 19712,
+            "mapUid": "EYRbCEweJ0ddwn6kiKddFVdny7d",
+            "name": "$FFF4$DFD-$AFAW$8F8i$5F5t$3F3c$0F0h$0F0F$3F3o$6F6r$9F9est",
+            "number": 169,
+            "reason": null,
+            "warriorTime": 17520,
+            "worldRecord": 15328,
+            "mapId": "270f30a9-3bb7-4ada-a656-ed338dfa8777",
+            "goldTime": 21000,
+            "campaignId": 105673,
+            "week": 34
+        },
+        {
+            "authorTime": 19294,
+            "mapUid": "lQBs8KsoMDk6Y6S4Eb_vvN9advi",
+            "name": "5 - TrackManiac",
+            "number": 170,
+            "reason": null,
+            "warriorTime": 11777,
+            "worldRecord": 4260,
+            "mapId": "38d689cc-590e-434d-be11-6e7c6e23d169",
+            "goldTime": 21000,
+            "campaignId": 105673,
+            "week": 34
         }
     ],
     "Totd": [
