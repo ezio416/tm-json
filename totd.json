@@ -39268,5 +39268,26 @@
         "timestampUpload": 1754139858,
         "weekDay": 2,
         "year": 2025
+    },
+    "fSwoTvUOSC5OS_GRW7myHZMrtR7": {
+        "author": "2376169a-8ab9-470d-b8af-52993226c3b9",
+        "authorTime": 45571,
+        "bronzeTime": 69000,
+        "campaignId": 106745,
+        "goldTime": 49000,
+        "mapId": "46cbf57f-5b72-413a-af40-5e4957770814",
+        "mapUid": "fSwoTvUOSC5OS_GRW7myHZMrtR7",
+        "month": 8,
+        "monthDay": 14,
+        "name": "$o$007S$008t$009ray $z$ift' Yoshy",
+        "number": 1871,
+        "seasonUid": "60d9b35c-cbb4-43d8-9e82-4612dd1673d7",
+        "silverTime": 55000,
+        "submitter": "2376169a-8ab9-470d-b8af-52993226c3b9",
+        "timestampEnd": 1755277200,
+        "timestampStart": 1755190800,
+        "timestampUpload": 1754400019,
+        "weekDay": 3,
+        "year": 2025
     }
 }
