@@ -39289,5 +39289,26 @@
         "timestampUpload": 1754400019,
         "weekDay": 3,
         "year": 2025
+    },
+    "VjHt09PV8OVf1f5a5AaBiV_xJtj": {
+        "author": "9a54628e-d595-4422-85be-836c6a28c7f3",
+        "authorTime": 52504,
+        "bronzeTime": 79000,
+        "campaignId": 106746,
+        "goldTime": 56000,
+        "mapId": "886e51ed-bdcd-4d3f-9d53-a61060a162b6",
+        "mapUid": "VjHt09PV8OVf1f5a5AaBiV_xJtj",
+        "month": 8,
+        "monthDay": 15,
+        "name": "$ffbTioram ft' Prizzly",
+        "number": 1872,
+        "seasonUid": "2eb0bfc5-d478-40c6-9722-89a4867e802c",
+        "silverTime": 64000,
+        "submitter": "9a54628e-d595-4422-85be-836c6a28c7f3",
+        "timestampEnd": 1755363600,
+        "timestampStart": 1755277200,
+        "timestampUpload": 1753872305,
+        "weekDay": 4,
+        "year": 2025
     }
 }
