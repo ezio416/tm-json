@@ -35737,7 +35737,7 @@
         "submitter": "9299532e-b799-4358-b145-3784b6a75301",
         "timestampEnd": 1740679200,
         "timestampStart": 1740592800,
-        "timestampUpload": 1754737482,
+        "timestampUpload": 1755384309,
         "weekDay": 2,
         "year": 2025
     },
@@ -39097,7 +39097,7 @@
         "submitter": "9299532e-b799-4358-b145-3784b6a75301",
         "timestampEnd": 1754499600,
         "timestampStart": 1754413200,
-        "timestampUpload": 1754745559,
+        "timestampUpload": 1755384310,
         "weekDay": 1,
         "year": 2025
     },
@@ -39223,7 +39223,7 @@
         "submitter": "9299532e-b799-4358-b145-3784b6a75301",
         "timestampEnd": 1755018000,
         "timestampStart": 1754931600,
-        "timestampUpload": 1754992059,
+        "timestampUpload": 1755384310,
         "weekDay": 0,
         "year": 2025
     },
@@ -39330,6 +39330,27 @@
         "timestampStart": 1755363600,
         "timestampUpload": 1753463074,
         "weekDay": 5,
+        "year": 2025
+    },
+    "GWLQjWv_iSctlGFBa0s4LexN9Uh": {
+        "author": "64d96282-6169-4317-b0a6-e6256b381060",
+        "authorTime": 45923,
+        "bronzeTime": 69000,
+        "campaignId": 106748,
+        "goldTime": 49000,
+        "mapId": "d5c8f928-fb3c-48d9-817c-e586cde23233",
+        "mapUid": "GWLQjWv_iSctlGFBa0s4LexN9Uh",
+        "month": 8,
+        "monthDay": 17,
+        "name": "Unfazed",
+        "number": 1874,
+        "seasonUid": "29a7563d-9c32-4c63-9334-f02d54c88b40",
+        "silverTime": 56000,
+        "submitter": "64d96282-6169-4317-b0a6-e6256b381060",
+        "timestampEnd": 1755536400,
+        "timestampStart": 1755450000,
+        "timestampUpload": 1753119658,
+        "weekDay": 6,
         "year": 2025
     }
 }
