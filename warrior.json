@@ -7986,6 +7986,71 @@
             "goldTime": 21000,
             "campaignId": 105673,
             "week": 34
+        },
+        {
+            "authorTime": 19833,
+            "mapUid": "J_P67kZEX_ggPgRAFz1NMeRLPkb",
+            "name": "$088 1 - BRIXTON ARENA",
+            "number": 171,
+            "reason": null,
+            "warriorTime": 17406,
+            "worldRecord": 14978,
+            "mapId": "d29e17e7-6894-4260-91ec-80bbe73e78b5",
+            "goldTime": 22000,
+            "campaignId": 106410,
+            "week": 35
+        },
+        {
+            "authorTime": 19256,
+            "mapUid": "GaDGDPcYgifPvevN1QN6iuBQ6Dj",
+            "name": "$s$o$FF02 - D$EE2e$CC5a$BB7t$999h$999 road",
+            "number": 172,
+            "reason": null,
+            "warriorTime": 16134,
+            "worldRecord": 13012,
+            "mapId": "adc4d5e6-5a65-4eea-a7f1-0c27906dee8f",
+            "goldTime": 21000,
+            "campaignId": 106410,
+            "week": 35
+        },
+        {
+            "authorTime": 20000,
+            "mapUid": "1mxX4w_ej_ov40wI0r7dSpiY43n",
+            "name": "3 - $00CT$12Dh$25Ee$27E $39FF$39Fj$3BEo$3CEr$3EDd$3FCs",
+            "number": 173,
+            "reason": null,
+            "warriorTime": 16490,
+            "worldRecord": 12980,
+            "mapId": "0171e925-7673-401f-b6c9-a85268c70ce4",
+            "goldTime": 22000,
+            "campaignId": 106410,
+            "week": 35
+        },
+        {
+            "authorTime": 19294,
+            "mapUid": "X_fwHCFpFgAZOup8ZsdHFZVdyr3",
+            "name": "4 - Dune Dozer",
+            "number": 174,
+            "reason": null,
+            "warriorTime": 18132,
+            "worldRecord": 16970,
+            "mapId": "d5786166-e5ed-4fc5-b72f-5c97914a7c09",
+            "goldTime": 21000,
+            "campaignId": 106410,
+            "week": 35
+        },
+        {
+            "authorTime": 17943,
+            "mapUid": "L7iYwQYKKJKwoBVG4jMDGCMiGBb",
+            "name": "5 - Slip and (Bug)Slide!!",
+            "number": 175,
+            "reason": null,
+            "warriorTime": 15609,
+            "worldRecord": 13275,
+            "mapId": "812d13fe-8b9f-40f0-b167-4024a13fb1f1",
+            "goldTime": 20000,
+            "campaignId": 106410,
+            "week": 35
         }
     ],
     "Totd": [
