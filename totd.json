@@ -36997,7 +36997,7 @@
         "submitter": "01ad11a4-d86f-437e-8164-46de59e9a541",
         "timestampEnd": 1745859600,
         "timestampStart": 1745773200,
-        "timestampUpload": 1744508745,
+        "timestampUpload": 1755549218,
         "weekDay": 6,
         "year": 2025
     },
@@ -39372,6 +39372,27 @@
         "timestampStart": 1755536400,
         "timestampUpload": 1754412154,
         "weekDay": 0,
+        "year": 2025
+    },
+    "IeCE4WmEeeG7XU_IhODKjHHcVi4": {
+        "author": "7599d4de-2ced-46d0-abf6-91612e1dca30",
+        "authorTime": 47820,
+        "bronzeTime": 72000,
+        "campaignId": 107329,
+        "goldTime": 51000,
+        "mapId": "e17eba2e-df00-4827-93e1-6da7b6bade80",
+        "mapUid": "IeCE4WmEeeG7XU_IhODKjHHcVi4",
+        "month": 8,
+        "monthDay": 19,
+        "name": "caLL of the Void",
+        "number": 1876,
+        "seasonUid": "626db6ff-98e0-4e97-8e71-64930a96d4ed",
+        "silverTime": 58000,
+        "submitter": "7599d4de-2ced-46d0-abf6-91612e1dca30",
+        "timestampEnd": 1755709200,
+        "timestampStart": 1755622800,
+        "timestampUpload": 1755003394,
+        "weekDay": 1,
         "year": 2025
     }
 }
