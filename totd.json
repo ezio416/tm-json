@@ -39412,8 +39412,29 @@
         "submitter": "de590c4e-f98c-4783-afa8-a01efb069ceb",
         "timestampEnd": 1755795600,
         "timestampStart": 1755709200,
-        "timestampUpload": 1754909319,
+        "timestampUpload": 1755709433,
         "weekDay": 2,
+        "year": 2025
+    },
+    "E7G4V6wTNeTV5SekNAC49btb6L3": {
+        "author": "43276c27-5cbe-48e6-a3a3-0b1550c80992",
+        "authorTime": 43188,
+        "bronzeTime": 65000,
+        "campaignId": 107331,
+        "goldTime": 46000,
+        "mapId": "c0e156f6-f803-464a-a556-c7f2faac2c02",
+        "mapUid": "E7G4V6wTNeTV5SekNAC49btb6L3",
+        "month": 8,
+        "monthDay": 21,
+        "name": "$3F0Wai$2E0manu$1D0 Val$0C0ley  $fffft' colaski",
+        "number": 1878,
+        "seasonUid": "2bdde344-9475-4d0b-844d-30464dbe5817",
+        "silverTime": 52000,
+        "submitter": "43276c27-5cbe-48e6-a3a3-0b1550c80992",
+        "timestampEnd": 1755882000,
+        "timestampStart": 1755795600,
+        "timestampUpload": 1754668081,
+        "weekDay": 3,
         "year": 2025
     }
 }
