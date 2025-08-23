@@ -39454,8 +39454,29 @@
         "submitter": "ff6285e5-f367-44ea-9a79-221779d1ec2f",
         "timestampEnd": 1755968400,
         "timestampStart": 1755882000,
-        "timestampUpload": 1755054819,
+        "timestampUpload": 1755924024,
         "weekDay": 4,
+        "year": 2025
+    },
+    "mNTBJb4ZPkOxAB4Nq4OelPloYG0": {
+        "author": "3d71524d-922d-4755-9f9a-86bd93cedbf9",
+        "authorTime": 61598,
+        "bronzeTime": 93000,
+        "campaignId": 107719,
+        "goldTime": 66000,
+        "mapId": "19790aca-5632-496a-b7dd-c360ac2b3e00",
+        "mapUid": "mNTBJb4ZPkOxAB4Nq4OelPloYG0",
+        "month": 8,
+        "monthDay": 23,
+        "name": "$s$FFFGAMES$F09CORE$FFF - $FFFMT CORONET ft' sahtel",
+        "number": 1880,
+        "seasonUid": "af3508a5-6398-4084-8ae1-8f61526be8a6",
+        "silverTime": 74000,
+        "submitter": "91ecc3e6-ef3c-4ed9-bf33-a79fdfc15129",
+        "timestampEnd": 1756054800,
+        "timestampStart": 1755968400,
+        "timestampUpload": 1755776042,
+        "weekDay": 5,
         "year": 2025
     }
 }
