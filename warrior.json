@@ -8051,6 +8051,71 @@
             "goldTime": 20000,
             "campaignId": 106410,
             "week": 35
+        },
+        {
+            "authorTime": 20000,
+            "mapUid": "JltuwdPfl9LkbxhKPcK9iNMjTN1",
+            "name": "$FF01$FF1 -$FF2 S$FF3ta$FF3r$FF5G$FF7a$FF8z$FFAe$FFCr",
+            "number": 176,
+            "reason": null,
+            "warriorTime": 18086,
+            "worldRecord": 16171,
+            "mapId": "47e01814-326a-43fb-8b20-7b479c848548",
+            "goldTime": 22000,
+            "campaignId": 107037,
+            "week": 36
+        },
+        {
+            "authorTime": 19780,
+            "mapUid": "OCtHP62iZJTDabUFycjqdho4OVb",
+            "name": "$s$F602$E73 $D85-$DA8 $CBAH$BCDo$BCDr$CBBi$DB8z$EA6o$F93n",
+            "number": 177,
+            "reason": null,
+            "warriorTime": 18479,
+            "worldRecord": 17178,
+            "mapId": "39f3abbe-5d49-4d9e-9d30-d8c9c5380c94",
+            "goldTime": 21000,
+            "campaignId": 107037,
+            "week": 36
+        },
+        {
+            "authorTime": 19409,
+            "mapUid": "0fRznN6J9eeHpGNXIp1uh1vEBA1",
+            "name": "3 - Adventure Land",
+            "number": 178,
+            "reason": null,
+            "warriorTime": 15979,
+            "worldRecord": 12549,
+            "mapId": "7b35300d-da75-4171-825f-cdef894dcfc9",
+            "goldTime": 21000,
+            "campaignId": 107037,
+            "week": 36
+        },
+        {
+            "authorTime": 19968,
+            "mapUid": "id8xNNvAqXE5BN4XhxeI9qq4Xn8",
+            "name": "4 - Technishin",
+            "number": 179,
+            "reason": null,
+            "warriorTime": 17576,
+            "worldRecord": 15184,
+            "mapId": "3676224b-8a08-4d59-8553-82e6dc3a0d85",
+            "goldTime": 22000,
+            "campaignId": 107037,
+            "week": 36
+        },
+        {
+            "authorTime": 19047,
+            "mapUid": "Vos5bHIgo53r6L5KuYFypBv_Ogc",
+            "name": "5 - Deep Sea Treasures",
+            "number": 180,
+            "reason": null,
+            "warriorTime": 14940,
+            "worldRecord": 10832,
+            "mapId": "0be06423-5d67-46f4-b11c-4d27f7788b19",
+            "goldTime": 21000,
+            "campaignId": 107037,
+            "week": 36
         }
     ],
     "Totd": [
