@@ -39499,5 +39499,26 @@
         "timestampUpload": 1755386708,
         "weekDay": 6,
         "year": 2025
+    },
+    "e3XFjvh9YtDdqfUq3U4P9u1V_fg": {
+        "author": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
+        "authorTime": 47993,
+        "bronzeTime": 72000,
+        "campaignId": 107932,
+        "goldTime": 51000,
+        "mapId": "2365b8a2-219c-45e3-a546-734838bae737",
+        "mapUid": "e3XFjvh9YtDdqfUq3U4P9u1V_fg",
+        "month": 8,
+        "monthDay": 25,
+        "name": "$38C$S$ICloudline $n$fffft' Artroy",
+        "number": 1882,
+        "seasonUid": "e31969ca-de4f-4efa-b0bb-726c097da9d0",
+        "silverTime": 58000,
+        "submitter": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
+        "timestampEnd": 1756227600,
+        "timestampStart": 1756141200,
+        "timestampUpload": 1756118176,
+        "weekDay": 0,
+        "year": 2025
     }
 }
