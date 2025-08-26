@@ -39520,5 +39520,26 @@
         "timestampUpload": 1756118176,
         "weekDay": 0,
         "year": 2025
+    },
+    "9JoU98Xl8OHsEaJjVDbQQKzrpbg": {
+        "author": "a1a565e3-65c1-4257-8bca-602a7e4e0c90",
+        "authorTime": 41501,
+        "bronzeTime": 63000,
+        "campaignId": 107933,
+        "goldTime": 44000,
+        "mapId": "bb06a677-acd3-4415-be8c-0964eb637550",
+        "mapUid": "9JoU98Xl8OHsEaJjVDbQQKzrpbg",
+        "month": 8,
+        "monthDay": 26,
+        "name": "$c00$oAphantasia",
+        "number": 1883,
+        "seasonUid": "b59e3feb-cce9-417b-9ad5-def6519a4d3e",
+        "silverTime": 50000,
+        "submitter": "a1a565e3-65c1-4257-8bca-602a7e4e0c90",
+        "timestampEnd": 1756314000,
+        "timestampStart": 1756227600,
+        "timestampUpload": 1755359906,
+        "weekDay": 1,
+        "year": 2025
     }
 }
