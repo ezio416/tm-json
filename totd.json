@@ -39454,7 +39454,7 @@
         "submitter": "ff6285e5-f367-44ea-9a79-221779d1ec2f",
         "timestampEnd": 1755968400,
         "timestampStart": 1755882000,
-        "timestampUpload": 1755924024,
+        "timestampUpload": 1756274428,
         "weekDay": 4,
         "year": 2025
     },
@@ -39540,6 +39540,27 @@
         "timestampStart": 1756227600,
         "timestampUpload": 1755359906,
         "weekDay": 1,
+        "year": 2025
+    },
+    "isbPJg9kmSqx4YNhOOMv1Hf3qXe": {
+        "author": "f36cac49-391e-4621-aa64-82069ed68c78",
+        "authorTime": 51229,
+        "bronzeTime": 77000,
+        "campaignId": 107934,
+        "goldTime": 55000,
+        "mapId": "2dd83f33-5d4b-442d-88a0-907081106e28",
+        "mapUid": "isbPJg9kmSqx4YNhOOMv1Hf3qXe",
+        "month": 8,
+        "monthDay": 27,
+        "name": "$6b4Tremor $fffFt' Mime",
+        "number": 1884,
+        "seasonUid": "f452201e-70a2-4436-a71a-3d51751f0b1c",
+        "silverTime": 62000,
+        "submitter": "f36cac49-391e-4621-aa64-82069ed68c78",
+        "timestampEnd": 1756400400,
+        "timestampStart": 1756314000,
+        "timestampUpload": 1753646217,
+        "weekDay": 2,
         "year": 2025
     }
 }
