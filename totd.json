@@ -39517,7 +39517,7 @@
         "submitter": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
         "timestampEnd": 1756227600,
         "timestampStart": 1756141200,
-        "timestampUpload": 1756118176,
+        "timestampUpload": 1756404505,
         "weekDay": 0,
         "year": 2025
     },
@@ -39582,6 +39582,27 @@
         "timestampStart": 1756400400,
         "timestampUpload": 1754331517,
         "weekDay": 3,
+        "year": 2025
+    },
+    "Src5wJELTRFErg6CZDaVn7qzby3": {
+        "author": "06a503ae-f6da-430b-8d75-901e1302dfb5",
+        "authorTime": 58214,
+        "bronzeTime": 88000,
+        "campaignId": 108360,
+        "goldTime": 62000,
+        "mapId": "6119789a-19d3-437f-b2c0-a375d22af4b2",
+        "mapUid": "Src5wJELTRFErg6CZDaVn7qzby3",
+        "month": 8,
+        "monthDay": 29,
+        "name": "$n$i$o$000XP$F09Evo25 $n$i$fff- SPEZIFIK\u0104TI\u00d3N ft' Pumpkin xJ",
+        "number": 1886,
+        "seasonUid": "7adace39-d7f2-4ecd-8fca-d3f0d3219746",
+        "silverTime": 70000,
+        "submitter": "06a503ae-f6da-430b-8d75-901e1302dfb5",
+        "timestampEnd": 1756573200,
+        "timestampStart": 1756486800,
+        "timestampUpload": 1756420220,
+        "weekDay": 4,
         "year": 2025
     }
 }
