@@ -39604,5 +39604,26 @@
         "timestampUpload": 1756420220,
         "weekDay": 4,
         "year": 2025
+    },
+    "EuB_npFOltftrze6basys03z_gh": {
+        "author": "7599d4de-2ced-46d0-abf6-91612e1dca30",
+        "authorTime": 41652,
+        "bronzeTime": 63000,
+        "campaignId": 108347,
+        "goldTime": 45000,
+        "mapId": "2fbb5599-c261-4c8c-b23d-68835d646e6d",
+        "mapUid": "EuB_npFOltftrze6basys03z_gh",
+        "month": 8,
+        "monthDay": 30,
+        "name": "you cant hide behind the fog of your tears",
+        "number": 1887,
+        "seasonUid": "9e118c6e-db3f-4c5b-b791-137a236bf54e",
+        "silverTime": 50000,
+        "submitter": "7599d4de-2ced-46d0-abf6-91612e1dca30",
+        "timestampEnd": 1756659600,
+        "timestampStart": 1756573200,
+        "timestampUpload": 1755513280,
+        "weekDay": 5,
+        "year": 2025
     }
 }
