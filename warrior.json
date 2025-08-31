@@ -28940,6 +28940,17 @@
             "worldRecord": 41069,
             "mapId": "2fbb5599-c261-4c8c-b23d-68835d646e6d",
             "goldTime": 45000
+        },
+        {
+            "authorTime": 40105,
+            "date": "2025-08-31",
+            "mapUid": "clFlYJsgraDZuNjlbpq28ArnvNi",
+            "name": "$s$3acJUNTURA $gFT$3ac' $gMADOE",
+            "reason": null,
+            "warriorTime": 39959,
+            "worldRecord": 38932,
+            "mapId": "6d513af2-935e-46c2-89b4-cd14d5718cca",
+            "goldTime": 43000
         }
     ],
     "Other": [
