@@ -8116,6 +8116,71 @@
             "goldTime": 21000,
             "campaignId": 107037,
             "week": 36
+        },
+        {
+            "authorTime": 19992,
+            "mapUid": "7P018aSwPK7nULJI986AlPgWOXe",
+            "name": "1 - $0F3G$0F4r$0F5a$0F6s$0F7s$0F8y$0F9R$0FAe$0FBa$0FCc$0FDt$",
+            "number": 181,
+            "reason": null,
+            "warriorTime": 17359,
+            "worldRecord": 14725,
+            "mapId": "19dddde3-7884-48eb-8595-f7627af32f4b",
+            "goldTime": 22000,
+            "campaignId": 107718,
+            "week": 37
+        },
+        {
+            "authorTime": 19988,
+            "mapUid": "BM3sgVw2uJlEzfUz1UI7t9Jk1_5",
+            "name": "2 - $309Mid$90Cnight $F6CDrift",
+            "number": 182,
+            "reason": null,
+            "warriorTime": 18047,
+            "worldRecord": 16105,
+            "mapId": "bd666f91-f8ef-47b7-b604-2ac8a07467c7",
+            "goldTime": 22000,
+            "campaignId": 107718,
+            "week": 37
+        },
+        {
+            "authorTime": 19585,
+            "mapUid": "awnAFisKm7b9t0wFydGhlvjaZIi",
+            "name": "3 - $i$cc9Cobblestone $ff9Valley",
+            "number": 183,
+            "reason": null,
+            "warriorTime": 16658,
+            "worldRecord": 13730,
+            "mapId": "30ead31a-dded-42c0-979b-09e89c5cb089",
+            "goldTime": 21000,
+            "campaignId": 107718,
+            "week": 37
+        },
+        {
+            "authorTime": 19956,
+            "mapUid": "cxO5ZU_4m5kkhPwu8_DRCVVLpKh",
+            "name": "$n$o$F904 $FA1- $FA3 Th$FB5e Su$FC8n I$FDAs $FDBSetting$",
+            "number": 184,
+            "reason": null,
+            "warriorTime": 17669,
+            "worldRecord": 15381,
+            "mapId": "901482bf-f38e-4b5c-9600-986032f3c425",
+            "goldTime": 22000,
+            "campaignId": 107718,
+            "week": 37
+        },
+        {
+            "authorTime": 18779,
+            "mapUid": "JTDE4KBX_CfltRhOKgGBmjeSTd3",
+            "name": "5 - $FA0A Simple A$oO$o8",
+            "number": 185,
+            "reason": null,
+            "warriorTime": 13168,
+            "worldRecord": 7557,
+            "mapId": "f58ea97d-b526-4d68-8697-fdda8a005dfc",
+            "goldTime": 20000,
+            "campaignId": 107718,
+            "week": 37
         }
     ],
     "Totd": [
