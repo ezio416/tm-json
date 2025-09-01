@@ -39646,5 +39646,26 @@
         "timestampUpload": 1755976188,
         "weekDay": 6,
         "year": 2025
+    },
+    "JqOvUQHdkPusg18Bo7OoxDgXGhk": {
+        "author": "a109b34a-2549-46bd-8fc5-de4540b6da19",
+        "authorTime": 37957,
+        "bronzeTime": 57000,
+        "campaignId": 108349,
+        "goldTime": 41000,
+        "mapId": "f8473022-1015-43da-a1d4-5c11e9f8c77b",
+        "mapUid": "JqOvUQHdkPusg18Bo7OoxDgXGhk",
+        "month": 9,
+        "monthDay": 1,
+        "name": "Slippery Canyon",
+        "number": 1889,
+        "seasonUid": "18861e08-56ff-4323-8fed-9c90a24e9f5a",
+        "silverTime": 46000,
+        "submitter": "a109b34a-2549-46bd-8fc5-de4540b6da19",
+        "timestampEnd": 1756832400,
+        "timestampStart": 1756746000,
+        "timestampUpload": 1748632225,
+        "weekDay": 0,
+        "year": 2025
     }
 }
