@@ -39688,5 +39688,26 @@
         "timestampUpload": 1755988263,
         "weekDay": 1,
         "year": 2025
+    },
+    "CIkfNVto3llZOhY_gWNZ4wY6wGc": {
+        "author": "8734f99c-fc4e-43e0-83d5-65291d8a0878",
+        "authorTime": 39505,
+        "bronzeTime": 60000,
+        "campaignId": 108351,
+        "goldTime": 42000,
+        "mapId": "9fef5b3a-1b50-432c-862d-a68ff6f60a68",
+        "mapUid": "CIkfNVto3llZOhY_gWNZ4wY6wGc",
+        "month": 9,
+        "monthDay": 3,
+        "name": "$o$900Ambici\u00f3n",
+        "number": 1891,
+        "seasonUid": "867d91a7-77c8-49f6-bbdc-5acf8f0085bc",
+        "silverTime": 48000,
+        "submitter": "8734f99c-fc4e-43e0-83d5-65291d8a0878",
+        "timestampEnd": 1757005200,
+        "timestampStart": 1756918800,
+        "timestampUpload": 1755901316,
+        "weekDay": 2,
+        "year": 2025
     }
 }
