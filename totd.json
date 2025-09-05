@@ -39730,5 +39730,26 @@
         "timestampUpload": 1754766225,
         "weekDay": 3,
         "year": 2025
+    },
+    "OCfCTQeoeuVV3ler3gDfXnDru28": {
+        "author": "6c51c127-a155-4d8b-8172-4508e5aec8e4",
+        "authorTime": 42465,
+        "bronzeTime": 64000,
+        "campaignId": 108354,
+        "goldTime": 46000,
+        "mapId": "e24c5caa-5bc5-406c-9df6-0d42c852a53d",
+        "mapUid": "OCfCTQeoeuVV3ler3gDfXnDru28",
+        "month": 9,
+        "monthDay": 5,
+        "name": "$s$36FTh$FFFinking in $36FLo$FFFwercase- $36Fft $FFFSirius",
+        "number": 1893,
+        "seasonUid": "95e5f8cc-46c6-4909-b3f1-38d07567a4f4",
+        "silverTime": 51000,
+        "submitter": "6c51c127-a155-4d8b-8172-4508e5aec8e4",
+        "timestampEnd": 1757178000,
+        "timestampStart": 1757091600,
+        "timestampUpload": 1756030530,
+        "weekDay": 4,
+        "year": 2025
     }
 }
