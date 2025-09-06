@@ -39751,5 +39751,26 @@
         "timestampUpload": 1756030530,
         "weekDay": 4,
         "year": 2025
+    },
+    "P4kkK06AoAfZetpwKs0tm0baZ6c": {
+        "author": "46dcc889-73cb-4df5-8b44-d5a5e6addfec",
+        "authorTime": 46069,
+        "bronzeTime": 70000,
+        "campaignId": 108355,
+        "goldTime": 49000,
+        "mapId": "177a8be2-4f81-4a5c-8fc0-45912cbd3a96",
+        "mapUid": "P4kkK06AoAfZetpwKs0tm0baZ6c",
+        "month": 9,
+        "monthDay": 6,
+        "name": "$13B$S$ISnow Lock",
+        "number": 1894,
+        "seasonUid": "4dfff029-433a-4319-8ff6-fd5e55275e26",
+        "silverTime": 56000,
+        "submitter": "46dcc889-73cb-4df5-8b44-d5a5e6addfec",
+        "timestampEnd": 1757264400,
+        "timestampStart": 1757178000,
+        "timestampUpload": 1753915661,
+        "weekDay": 5,
+        "year": 2025
     }
 }
