@@ -38215,7 +38215,7 @@
         "submitter": "bb50cb56-b104-4314-a7bd-49ab725fd2d9",
         "timestampEnd": 1750870800,
         "timestampStart": 1750784400,
-        "timestampUpload": 1749777570,
+        "timestampUpload": 1757182331,
         "weekDay": 1,
         "year": 2025
     },
@@ -38887,7 +38887,7 @@
         "submitter": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
         "timestampEnd": 1753635600,
         "timestampStart": 1753549200,
-        "timestampUpload": 1752599871,
+        "timestampUpload": 1757249458,
         "weekDay": 5,
         "year": 2025
     },
@@ -38992,7 +38992,7 @@
         "submitter": "bb50cb56-b104-4314-a7bd-49ab725fd2d9",
         "timestampEnd": 1754067600,
         "timestampStart": 1753981200,
-        "timestampUpload": 1753194615,
+        "timestampUpload": 1757182333,
         "weekDay": 3,
         "year": 2025
     },
@@ -39181,7 +39181,7 @@
         "submitter": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
         "timestampEnd": 1754845200,
         "timestampStart": 1754758800,
-        "timestampUpload": 1753996005,
+        "timestampUpload": 1757249460,
         "weekDay": 5,
         "year": 2025
     },
@@ -39771,6 +39771,27 @@
         "timestampStart": 1757178000,
         "timestampUpload": 1753915661,
         "weekDay": 5,
+        "year": 2025
+    },
+    "GNJYyavZVMrXluejflxPHN1ctPb": {
+        "author": "88c2a160-6cc6-4a5d-9624-d0582ff503aa",
+        "authorTime": 41700,
+        "bronzeTime": 63000,
+        "campaignId": 108356,
+        "goldTime": 45000,
+        "mapId": "c669ba01-5964-4724-9c6c-2b00c859c0af",
+        "mapUid": "GNJYyavZVMrXluejflxPHN1ctPb",
+        "month": 9,
+        "monthDay": 7,
+        "name": "GEM - $06FSAPPHIRE",
+        "number": 1895,
+        "seasonUid": "a2c5e3f9-dedf-40f4-9213-aea2a2fad652",
+        "silverTime": 51000,
+        "submitter": "88c2a160-6cc6-4a5d-9624-d0582ff503aa",
+        "timestampEnd": 1757350800,
+        "timestampStart": 1757264400,
+        "timestampUpload": 1752427808,
+        "weekDay": 6,
         "year": 2025
     }
 }
