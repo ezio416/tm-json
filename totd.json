@@ -39814,5 +39814,26 @@
         "timestampUpload": 1756419250,
         "weekDay": 0,
         "year": 2025
+    },
+    "JxuBx4bscgYZNBS1rHRvBpkQL6f": {
+        "author": "88c2a160-6cc6-4a5d-9624-d0582ff503aa",
+        "authorTime": 41980,
+        "bronzeTime": 63000,
+        "campaignId": 109163,
+        "goldTime": 45000,
+        "mapId": "b9e3d571-bc7f-428a-adff-8fa62193e6a4",
+        "mapUid": "JxuBx4bscgYZNBS1rHRvBpkQL6f",
+        "month": 9,
+        "monthDay": 9,
+        "name": "$o$060Green Dragon",
+        "number": 1897,
+        "seasonUid": "e205dc12-26c1-460b-b637-eb1cce0922bb",
+        "silverTime": 51000,
+        "submitter": "88c2a160-6cc6-4a5d-9624-d0582ff503aa",
+        "timestampEnd": 1757523600,
+        "timestampStart": 1757437200,
+        "timestampUpload": 1756057617,
+        "weekDay": 1,
+        "year": 2025
     }
 }
