@@ -39856,5 +39856,26 @@
         "timestampUpload": 1756862153,
         "weekDay": 2,
         "year": 2025
+    },
+    "QEqhXLCWn7xcEyzAJQ5WNgllrC9": {
+        "author": "9299532e-b799-4358-b145-3784b6a75301",
+        "authorTime": 47370,
+        "bronzeTime": 72000,
+        "campaignId": 109167,
+        "goldTime": 51000,
+        "mapId": "5a3a56d9-bff1-463f-827f-c0a759e17bbf",
+        "mapUid": "QEqhXLCWn7xcEyzAJQ5WNgllrC9",
+        "month": 9,
+        "monthDay": 11,
+        "name": "$o$eb4EXPORT $fff$oft' Cotton",
+        "number": 1899,
+        "seasonUid": "accf59d0-0ed8-45b2-95eb-f21bd68b6419",
+        "silverTime": 57000,
+        "submitter": "9299532e-b799-4358-b145-3784b6a75301",
+        "timestampEnd": 1757696400,
+        "timestampStart": 1757610000,
+        "timestampUpload": 1756982441,
+        "weekDay": 3,
+        "year": 2025
     }
 }
