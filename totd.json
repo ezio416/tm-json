@@ -39919,5 +39919,26 @@
         "timestampUpload": 1757062685,
         "weekDay": 5,
         "year": 2025
+    },
+    "Hy5dpfBkXZ8dqJS9jEtqy5Q97l6": {
+        "author": "5a1b3368-d3cb-4a13-93e8-ff9800d7df2f",
+        "authorTime": 47062,
+        "bronzeTime": 71000,
+        "campaignId": 109162,
+        "goldTime": 50000,
+        "mapId": "d3a8ecb1-f4f8-497e-9e26-1fa035257c77",
+        "mapUid": "Hy5dpfBkXZ8dqJS9jEtqy5Q97l6",
+        "month": 9,
+        "monthDay": 14,
+        "name": "$s$ffHigh Koala Tea",
+        "number": 1902,
+        "seasonUid": "ef60b2c8-e34a-45a4-ba4c-eaa9cafc567b",
+        "silverTime": 57000,
+        "submitter": "5a1b3368-d3cb-4a13-93e8-ff9800d7df2f",
+        "timestampEnd": 1757955600,
+        "timestampStart": 1757869200,
+        "timestampUpload": 1756877885,
+        "weekDay": 6,
+        "year": 2025
     }
 }
