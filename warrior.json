@@ -8246,6 +8246,71 @@
             "goldTime": 20000,
             "campaignId": 108358,
             "week": 38
+        },
+        {
+            "authorTime": 19638,
+            "mapUid": "7yKHbVbX_ZHQcg4TRRUs3aF_nsj",
+            "name": "1 - Neighborhood",
+            "number": 191,
+            "reason": null,
+            "warriorTime": 18537,
+            "worldRecord": 17435,
+            "mapId": "62732600-f6be-4211-8ba8-5e080dce9d42",
+            "goldTime": 21000,
+            "campaignId": 109072,
+            "week": 39
+        },
+        {
+            "authorTime": 18828,
+            "mapUid": "oGKX1CkfCwbrJb_sy_9OyIqtiq1",
+            "name": "2 - Drifting Nations",
+            "number": 192,
+            "reason": null,
+            "warriorTime": 17321,
+            "worldRecord": 15814,
+            "mapId": "a113b963-c10c-4893-805c-a2b4a2dd1f31",
+            "goldTime": 20000,
+            "campaignId": 109072,
+            "week": 39
+        },
+        {
+            "authorTime": 19728,
+            "mapUid": "JuJxxgjjZpnqBBi5ZiMJoDJ86dd",
+            "name": "3 - $S$T$O$fff fa$6c3vela",
+            "number": 193,
+            "reason": null,
+            "warriorTime": 16172,
+            "worldRecord": 12615,
+            "mapId": "fff767f7-d9fc-4dc1-8bcb-cbc4cf28028f",
+            "goldTime": 21000,
+            "campaignId": 109072,
+            "week": 39
+        },
+        {
+            "authorTime": 19923,
+            "mapUid": "t3UdIcIR5qH3Dt1O2Zx3mdN7hhh",
+            "name": "4 - magnets and mountains",
+            "number": 194,
+            "reason": null,
+            "warriorTime": 16819,
+            "worldRecord": 13715,
+            "mapId": "8bbd80f9-3a8b-41f5-8b65-25315e201e5c",
+            "goldTime": 22000,
+            "campaignId": 109072,
+            "week": 39
+        },
+        {
+            "authorTime": 19203,
+            "mapUid": "8STWTabTipyVFfKi82uM_tLtqB5",
+            "name": "5 - $o$n$F00D$FFFad's $F00Garage",
+            "number": 195,
+            "reason": null,
+            "warriorTime": 17407,
+            "worldRecord": 15611,
+            "mapId": "94143bab-246e-4d89-b237-9b716615fa65",
+            "goldTime": 21000,
+            "campaignId": 109072,
+            "week": 39
         }
     ],
     "Totd": [
