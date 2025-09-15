@@ -39940,5 +39940,26 @@
         "timestampUpload": 1756877885,
         "weekDay": 6,
         "year": 2025
+    },
+    "Pat0LnivmD9i_vXp_u6lXlwOoaf": {
+        "author": "c68d831c-16b2-4134-91d4-bdace1291a79",
+        "authorTime": 43221,
+        "bronzeTime": 65000,
+        "campaignId": 109791,
+        "goldTime": 46000,
+        "mapId": "98eaec36-42ae-4bb7-a109-206621fbed84",
+        "mapUid": "Pat0LnivmD9i_vXp_u6lXlwOoaf",
+        "month": 9,
+        "monthDay": 15,
+        "name": "Echolalia",
+        "number": 1903,
+        "seasonUid": "6c03999b-b634-41b2-8a45-29519df3702a",
+        "silverTime": 52000,
+        "submitter": "c68d831c-16b2-4134-91d4-bdace1291a79",
+        "timestampEnd": 1758042000,
+        "timestampStart": 1757955600,
+        "timestampUpload": 1756765913,
+        "weekDay": 0,
+        "year": 2025
     }
 }
