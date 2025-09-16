@@ -39517,7 +39517,7 @@
         "submitter": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
         "timestampEnd": 1756227600,
         "timestampStart": 1756141200,
-        "timestampUpload": 1756404505,
+        "timestampUpload": 1758041296,
         "weekDay": 0,
         "year": 2025
     },
@@ -39960,6 +39960,27 @@
         "timestampStart": 1757955600,
         "timestampUpload": 1756765913,
         "weekDay": 0,
+        "year": 2025
+    },
+    "OmdenoBhMeaX5UKzFowhpXotcW3": {
+        "author": "e08a9807-0c89-4ea5-8def-8ef26128342e",
+        "authorTime": 45472,
+        "bronzeTime": 64000,
+        "campaignId": 109792,
+        "goldTime": 48000,
+        "mapId": "095e62e3-8eb5-41c3-af25-1f5f451f58c3",
+        "mapUid": "OmdenoBhMeaX5UKzFowhpXotcW3",
+        "month": 9,
+        "monthDay": 16,
+        "name": "$s$i Sombre",
+        "number": 1904,
+        "seasonUid": "73dea213-6d4a-4415-9dbf-51b538505bc0",
+        "silverTime": 52000,
+        "submitter": "e08a9807-0c89-4ea5-8def-8ef26128342e",
+        "timestampEnd": 1758128400,
+        "timestampStart": 1758042000,
+        "timestampUpload": 1757088883,
+        "weekDay": 1,
         "year": 2025
     }
 }
