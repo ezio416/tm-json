@@ -29246,6 +29246,17 @@
             "worldRecord": 42126,
             "mapId": "98eaec36-42ae-4bb7-a109-206621fbed84",
             "goldTime": 46000
+        },
+        {
+            "authorTime": 45472,
+            "date": "2025-09-16",
+            "mapUid": "OmdenoBhMeaX5UKzFowhpXotcW3",
+            "name": "$s$i Sombre",
+            "reason": null,
+            "warriorTime": 45416,
+            "worldRecord": 45022,
+            "mapId": "095e62e3-8eb5-41c3-af25-1f5f451f58c3",
+            "goldTime": 48000
         }
     ],
     "Other": [
