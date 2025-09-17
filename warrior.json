@@ -29257,6 +29257,17 @@
             "worldRecord": 45022,
             "mapId": "095e62e3-8eb5-41c3-af25-1f5f451f58c3",
             "goldTime": 48000
+        },
+        {
+            "authorTime": 38518,
+            "date": "2025-09-17",
+            "mapUid": "BwkG9UUm8nQ5JMGex3N4aDauOkg",
+            "name": "Bumblebee",
+            "reason": null,
+            "warriorTime": 38388,
+            "worldRecord": 37475,
+            "mapId": "8a563ec2-a01a-42c7-8d8e-1dd35481b679",
+            "goldTime": 41000
         }
     ],
     "Other": [
