@@ -39982,5 +39982,26 @@
         "timestampUpload": 1757088883,
         "weekDay": 1,
         "year": 2025
+    },
+    "BwkG9UUm8nQ5JMGex3N4aDauOkg": {
+        "author": "77e81508-8431-42a3-941a-d77a809675c7",
+        "authorTime": 38518,
+        "bronzeTime": 58000,
+        "campaignId": 109793,
+        "goldTime": 41000,
+        "mapId": "8a563ec2-a01a-42c7-8d8e-1dd35481b679",
+        "mapUid": "BwkG9UUm8nQ5JMGex3N4aDauOkg",
+        "month": 9,
+        "monthDay": 17,
+        "name": "Bumblebee",
+        "number": 1905,
+        "seasonUid": "bf31d88e-df04-4195-a4e0-a7d8f336aa83",
+        "silverTime": 47000,
+        "submitter": "77e81508-8431-42a3-941a-d77a809675c7",
+        "timestampEnd": 1758214800,
+        "timestampStart": 1758128400,
+        "timestampUpload": 1756640619,
+        "weekDay": 2,
+        "year": 2025
     }
 }
