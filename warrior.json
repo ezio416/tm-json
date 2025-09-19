@@ -29279,6 +29279,17 @@
             "worldRecord": 42925,
             "mapId": "1356dd21-197a-451b-9f74-8fbc3ceedd67",
             "goldTime": 47000
+        },
+        {
+            "authorTime": 49861,
+            "date": "2025-09-19",
+            "mapUid": "BKSMq1ybtglfUO8512wPk0f9Fpl",
+            "name": "$o$fb0Vault of the Sun",
+            "reason": null,
+            "warriorTime": 49775,
+            "worldRecord": 49170,
+            "mapId": "7d5294a3-908f-4f0e-8751-ca6d8ee9a1d7",
+            "goldTime": 53000
         }
     ],
     "Other": [
