@@ -40024,5 +40024,26 @@
         "timestampUpload": 1756503923,
         "weekDay": 3,
         "year": 2025
+    },
+    "BKSMq1ybtglfUO8512wPk0f9Fpl": {
+        "author": "02ffe7da-3eaa-4ffe-a2de-155bc8638af9",
+        "authorTime": 49861,
+        "bronzeTime": 75000,
+        "campaignId": 110054,
+        "goldTime": 53000,
+        "mapId": "7d5294a3-908f-4f0e-8751-ca6d8ee9a1d7",
+        "mapUid": "BKSMq1ybtglfUO8512wPk0f9Fpl",
+        "month": 9,
+        "monthDay": 19,
+        "name": "$o$fb0Vault of the Sun",
+        "number": 1907,
+        "seasonUid": "ce95c40f-ce25-47c1-834e-780313a3fe59",
+        "silverTime": 60000,
+        "submitter": "02ffe7da-3eaa-4ffe-a2de-155bc8638af9",
+        "timestampEnd": 1758387600,
+        "timestampStart": 1758301200,
+        "timestampUpload": 1757700318,
+        "weekDay": 4,
+        "year": 2025
     }
 }
