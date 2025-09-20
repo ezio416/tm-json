@@ -40045,5 +40045,26 @@
         "timestampUpload": 1757700318,
         "weekDay": 4,
         "year": 2025
+    },
+    "f4SMc1Q84lfXC5DMiHgLJLSD4u8": {
+        "author": "b09527f2-b61d-4d9a-8cdc-73484590f81f",
+        "authorTime": 49935,
+        "bronzeTime": 75000,
+        "campaignId": 110056,
+        "goldTime": 55000,
+        "mapId": "68795144-43d1-421f-a057-4ee1e08d68d8",
+        "mapUid": "f4SMc1Q84lfXC5DMiHgLJLSD4u8",
+        "month": 9,
+        "monthDay": 20,
+        "name": "$s$ffcCaeli \uf0c2 $fffft$ffc'$fff speq",
+        "number": 1908,
+        "seasonUid": "907cc324-462c-4cb2-9ed6-8d23f8833806",
+        "silverTime": 61000,
+        "submitter": "b09527f2-b61d-4d9a-8cdc-73484590f81f",
+        "timestampEnd": 1758474000,
+        "timestampStart": 1758387600,
+        "timestampUpload": 1757781502,
+        "weekDay": 5,
+        "year": 2025
     }
 }
