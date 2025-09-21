@@ -40066,5 +40066,26 @@
         "timestampUpload": 1757781502,
         "weekDay": 5,
         "year": 2025
+    },
+    "HgaOMImIvpe3sVguN4iosEsDS7j": {
+        "author": "ac424f5e-5612-4a44-8b87-6403be2b690f",
+        "authorTime": 43457,
+        "bronzeTime": 66000,
+        "campaignId": 110055,
+        "goldTime": 47000,
+        "mapId": "b39b90e8-3627-4e62-a36b-94661a9a8e47",
+        "mapUid": "HgaOMImIvpe3sVguN4iosEsDS7j",
+        "month": 9,
+        "monthDay": 21,
+        "name": "$s$bbbI $bbbspilled $c70coffee $bbbon $cccmy $ccckeyboard",
+        "number": 1909,
+        "seasonUid": "230b63af-af72-4b28-bf39-5678775c2f05",
+        "silverTime": 53000,
+        "submitter": "ac424f5e-5612-4a44-8b87-6403be2b690f",
+        "timestampEnd": 1758560400,
+        "timestampStart": 1758474000,
+        "timestampUpload": 1757439803,
+        "weekDay": 6,
+        "year": 2025
     }
 }
