@@ -8311,6 +8311,71 @@
             "goldTime": 21000,
             "campaignId": 109072,
             "week": 39
+        },
+        {
+            "authorTime": 20000,
+            "mapUid": "kIXqzxSxxWXaOzvzS2ksnb7EZs1",
+            "name": "1 - $s$i$FFFS$EEDe$CEBi$BD9g$9C8f$8B6r$6B4i$5A2e$390d",
+            "number": 196,
+            "reason": null,
+            "warriorTime": 17508,
+            "worldRecord": 15016,
+            "mapId": "5b75b51f-04fa-48da-8574-aeeee7a92052",
+            "goldTime": 22000,
+            "campaignId": 109612,
+            "week": 40
+        },
+        {
+            "authorTime": 19999,
+            "mapUid": "EG_QJop6oQtIn5tQnskFN5kphyh",
+            "name": "$FFF$o$s2 - $C60$F70O$E72r$D83a$D94n$DA7g$EC9e $DCBS$EDBa$ED9n$DC9d$CB7s",
+            "number": 197,
+            "reason": null,
+            "warriorTime": 18208,
+            "worldRecord": 16417,
+            "mapId": "f908aa03-7f5a-4e47-a209-d417f889c684",
+            "goldTime": 22000,
+            "campaignId": 109612,
+            "week": 40
+        },
+        {
+            "authorTime": 19645,
+            "mapUid": "x9rVfu5EfcaGISLrK8BFGaPlO77",
+            "name": "3 - sunk in the sand",
+            "number": 198,
+            "reason": null,
+            "warriorTime": 15220,
+            "worldRecord": 10795,
+            "mapId": "5bfdcffc-f63b-4500-9cc6-c0312c635529",
+            "goldTime": 21000,
+            "campaignId": 109612,
+            "week": 40
+        },
+        {
+            "authorTime": 19959,
+            "mapUid": "UI4B1xLXhCCgZ6MqiBp2ucAUpo9",
+            "name": "4 - $oRandom Treks",
+            "number": 199,
+            "reason": null,
+            "warriorTime": 15901,
+            "worldRecord": 11842,
+            "mapId": "a380aaa8-916f-42ba-b8e4-b32e1ead0d17",
+            "goldTime": 22000,
+            "campaignId": 109612,
+            "week": 40
+        },
+        {
+            "authorTime": 19527,
+            "mapUid": "vxYO_XIHqYi59HaKKxB4Y9AIBZ5",
+            "name": "5 - $0cfOff $6f0Piste$fff ft' classJan",
+            "number": 200,
+            "reason": null,
+            "warriorTime": 15077,
+            "worldRecord": 10627,
+            "mapId": "ed1daeb0-2f01-4cd1-8c4d-6177a903f3b8",
+            "goldTime": 21000,
+            "campaignId": 109612,
+            "week": 40
         }
     ],
     "Totd": [
