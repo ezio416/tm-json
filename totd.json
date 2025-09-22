@@ -39853,7 +39853,7 @@
         "submitter": "5244711e-ff6b-4bec-9d6e-1343ceaaa803",
         "timestampEnd": 1757610000,
         "timestampStart": 1757523600,
-        "timestampUpload": 1756862153,
+        "timestampUpload": 1758512700,
         "weekDay": 2,
         "year": 2025
     },
@@ -40086,6 +40086,27 @@
         "timestampStart": 1758474000,
         "timestampUpload": 1757439803,
         "weekDay": 6,
+        "year": 2025
+    },
+    "MvxN6XCYJYbHHFKSQjdqHZJA_l0": {
+        "author": "4da5e1c9-bc7e-4d6f-82de-a891dd1ddec6",
+        "authorTime": 42008,
+        "bronzeTime": 64000,
+        "campaignId": 110057,
+        "goldTime": 45000,
+        "mapId": "ab14fb68-cde3-42d4-939d-54cee4fa6168",
+        "mapUid": "MvxN6XCYJYbHHFKSQjdqHZJA_l0",
+        "month": 9,
+        "monthDay": 22,
+        "name": "Timeless Utopia ft' scheepsjongen",
+        "number": 1910,
+        "seasonUid": "72d7f719-60d5-4eb5-8388-aeacec62bc50",
+        "silverTime": 51000,
+        "submitter": "4da5e1c9-bc7e-4d6f-82de-a891dd1ddec6",
+        "timestampEnd": 1758646800,
+        "timestampStart": 1758560400,
+        "timestampUpload": 1756749014,
+        "weekDay": 0,
         "year": 2025
     }
 }
