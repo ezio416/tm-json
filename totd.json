@@ -40129,5 +40129,26 @@
         "timestampUpload": 1757177163,
         "weekDay": 1,
         "year": 2025
+    },
+    "I91oxokRS6qU8UbViP8O8JqQhVg": {
+        "author": "aaae15ed-ab4d-4292-ab70-48b0b3d75517",
+        "authorTime": 47696,
+        "bronzeTime": 72000,
+        "campaignId": 110058,
+        "goldTime": 51000,
+        "mapId": "9c22fe78-feac-4799-950f-f75a4b3b479c",
+        "mapUid": "I91oxokRS6qU8UbViP8O8JqQhVg",
+        "month": 9,
+        "monthDay": 24,
+        "name": "Sire",
+        "number": 1912,
+        "seasonUid": "43d5abf2-c00d-415c-b04f-2e149d625230",
+        "silverTime": 58000,
+        "submitter": "aaae15ed-ab4d-4292-ab70-48b0b3d75517",
+        "timestampEnd": 1758819600,
+        "timestampStart": 1758733200,
+        "timestampUpload": 1757516391,
+        "weekDay": 2,
+        "year": 2025
     }
 }
