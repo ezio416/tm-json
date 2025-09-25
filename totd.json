@@ -39013,7 +39013,7 @@
         "submitter": "7d24ffac-5b47-46c4-9023-1a8cc6a90075",
         "timestampEnd": 1754154000,
         "timestampStart": 1754067600,
-        "timestampUpload": 1750909177,
+        "timestampUpload": 1758804605,
         "weekDay": 4,
         "year": 2025
     },
@@ -40149,6 +40149,27 @@
         "timestampStart": 1758733200,
         "timestampUpload": 1757516391,
         "weekDay": 2,
+        "year": 2025
+    },
+    "4mvtOe3W1zbIdqeQ_r9_GM0RoQ8": {
+        "author": "d6706f9f-8e24-402b-a57e-aaf098999c79",
+        "authorTime": 46435,
+        "bronzeTime": 70000,
+        "campaignId": 110060,
+        "goldTime": 50000,
+        "mapId": "f851ebb1-7c17-4bdd-a987-aaa3b87b7fed",
+        "mapUid": "4mvtOe3W1zbIdqeQ_r9_GM0RoQ8",
+        "month": 9,
+        "monthDay": 25,
+        "name": "$CFFSkylight",
+        "number": 1913,
+        "seasonUid": "f2adb767-7559-45c2-9fe4-737f6cd930c5",
+        "silverTime": 56000,
+        "submitter": "d6706f9f-8e24-402b-a57e-aaf098999c79",
+        "timestampEnd": 1758906000,
+        "timestampStart": 1758819600,
+        "timestampUpload": 1755886272,
+        "weekDay": 3,
         "year": 2025
     }
 }
