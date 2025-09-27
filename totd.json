@@ -40192,5 +40192,26 @@
         "timestampUpload": 1756918521,
         "weekDay": 4,
         "year": 2025
+    },
+    "0D91vPNT9Jl1P1JgXZXXpU4bNO6": {
+        "author": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
+        "authorTime": 43208,
+        "bronzeTime": 65000,
+        "campaignId": 110649,
+        "goldTime": 46000,
+        "mapId": "e77375e7-ee73-49af-a306-6cecec2687f8",
+        "mapUid": "0D91vPNT9Jl1P1JgXZXXpU4bNO6",
+        "month": 9,
+        "monthDay": 27,
+        "name": "$o$303Weg$F0FPunkt$C09Kartierung",
+        "number": 1915,
+        "seasonUid": "249a7a9a-27c9-496d-aa0b-835abdbce53c",
+        "silverTime": 52000,
+        "submitter": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
+        "timestampEnd": 1759078800,
+        "timestampStart": 1758992400,
+        "timestampUpload": 1758119241,
+        "weekDay": 5,
+        "year": 2025
     }
 }
