@@ -8376,6 +8376,71 @@
             "goldTime": 21000,
             "campaignId": 109612,
             "week": 40
+        },
+        {
+            "authorTime": 19750,
+            "mapUid": "kZoyOAR0_D_tUd1ZlOO4GaC3BI6",
+            "name": "1 - futur village",
+            "number": 201,
+            "reason": null,
+            "warriorTime": 17686,
+            "worldRecord": 15622,
+            "mapId": "ead12a23-4ed9-4e15-8a33-2f74c76637f6",
+            "goldTime": 21000,
+            "campaignId": 110179,
+            "week": 41
+        },
+        {
+            "authorTime": 19745,
+            "mapUid": "Y6RoVxxE8skkMrb7lM82BLPqB3a",
+            "name": "2 - magic mountains",
+            "number": 202,
+            "reason": null,
+            "warriorTime": 17039,
+            "worldRecord": 14332,
+            "mapId": "49d9242a-fdde-4533-af5b-9ed9d52dc466",
+            "goldTime": 21000,
+            "campaignId": 110179,
+            "week": 41
+        },
+        {
+            "authorTime": 19715,
+            "mapUid": "7b61z1CBZZO7WH7YYJzzojaL0J7",
+            "name": "3 - old town paths",
+            "number": 203,
+            "reason": null,
+            "warriorTime": 17150,
+            "worldRecord": 14585,
+            "mapId": "61699c26-b02a-42f5-93a2-c608580182d5",
+            "goldTime": 21000,
+            "campaignId": 110179,
+            "week": 41
+        },
+        {
+            "authorTime": 19815,
+            "mapUid": "AusAVXE4AjLW3LYErSolV3x7mZ5",
+            "name": "4 - after the crash",
+            "number": 204,
+            "reason": null,
+            "warriorTime": 17527,
+            "worldRecord": 15239,
+            "mapId": "a6f1324c-3e1e-4a4e-9935-bc06640e5a69",
+            "goldTime": 22000,
+            "campaignId": 110179,
+            "week": 41
+        },
+        {
+            "authorTime": 19856,
+            "mapUid": "PSQMbABT6wup9UNUjOIGdZnSGN2",
+            "name": "5 - small dungeon",
+            "number": 205,
+            "reason": null,
+            "warriorTime": 16726,
+            "worldRecord": 13596,
+            "mapId": "b9f6a5c1-78b1-4794-b218-c5ad65760806",
+            "goldTime": 22000,
+            "campaignId": 110179,
+            "week": 41
         }
     ],
     "Totd": [
