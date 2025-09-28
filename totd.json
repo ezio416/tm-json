@@ -40213,5 +40213,26 @@
         "timestampUpload": 1758119241,
         "weekDay": 5,
         "year": 2025
+    },
+    "Kdy8XF_wiJGyWfRiKYWmAUUChQ4": {
+        "author": "bb50cb56-b104-4314-a7bd-49ab725fd2d9",
+        "authorTime": 46671,
+        "bronzeTime": 71000,
+        "campaignId": 110650,
+        "goldTime": 50000,
+        "mapId": "c386f8f2-7ec0-4359-84eb-68726034c8e6",
+        "mapUid": "Kdy8XF_wiJGyWfRiKYWmAUUChQ4",
+        "month": 9,
+        "monthDay": 28,
+        "name": "$FFFLight a$888n$000d Dark $gft' Madoe",
+        "number": 1916,
+        "seasonUid": "5eaa6176-2835-465b-af27-b2856cd7fab9",
+        "silverTime": 57000,
+        "submitter": "bb50cb56-b104-4314-a7bd-49ab725fd2d9",
+        "timestampEnd": 1759165200,
+        "timestampStart": 1759078800,
+        "timestampUpload": 1757182363,
+        "weekDay": 6,
+        "year": 2025
     }
 }
