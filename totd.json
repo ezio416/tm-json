@@ -40276,5 +40276,26 @@
         "timestampUpload": 1753850677,
         "weekDay": 1,
         "year": 2025
+    },
+    "TjWZ6hRbrCoWs1prJPTMNEw34z1": {
+        "author": "0e346dd1-25c2-4001-8bd0-15de83f634c2",
+        "authorTime": 56428,
+        "bronzeTime": 85000,
+        "campaignId": 110944,
+        "goldTime": 60000,
+        "mapId": "750592ed-4a27-49e1-8644-acd7f24021dd",
+        "mapUid": "TjWZ6hRbrCoWs1prJPTMNEw34z1",
+        "month": 10,
+        "monthDay": 1,
+        "name": "$FC0Supercross$0F0Country $n$FFFft'Artroy",
+        "number": 1919,
+        "seasonUid": "ac59658c-5c92-487a-b345-a895dc39a503",
+        "silverTime": 68000,
+        "submitter": "0e346dd1-25c2-4001-8bd0-15de83f634c2",
+        "timestampEnd": 1759424400,
+        "timestampStart": 1759338000,
+        "timestampUpload": 1755818072,
+        "weekDay": 2,
+        "year": 2025
     }
 }
