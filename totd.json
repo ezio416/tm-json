@@ -38635,7 +38635,7 @@
         "submitter": "32269ea2-cfed-4fc9-b69a-161833d3f652",
         "timestampEnd": 1752598800,
         "timestampStart": 1752512400,
-        "timestampUpload": 1752734802,
+        "timestampUpload": 1759513759,
         "weekDay": 0,
         "year": 2025
     },
@@ -40338,6 +40338,27 @@
         "timestampStart": 1759510800,
         "timestampUpload": 1756200085,
         "weekDay": 4,
+        "year": 2025
+    },
+    "2fmSFl7UAtN1l61i0UoEB3as0_j": {
+        "author": "c2aaa990-1091-47d5-8aff-870bbb760ea7",
+        "authorTime": 43818,
+        "bronzeTime": 72000,
+        "campaignId": 111420,
+        "goldTime": 48000,
+        "mapId": "d3b63039-793f-48f1-93df-63c5c2a52c08",
+        "mapUid": "2fmSFl7UAtN1l61i0UoEB3as0_j",
+        "month": 10,
+        "monthDay": 4,
+        "name": "$99bMidnight Cruisin",
+        "number": 1922,
+        "seasonUid": "51b17c38-a963-4e26-8d12-3c066f818c44",
+        "silverTime": 60000,
+        "submitter": "c2aaa990-1091-47d5-8aff-870bbb760ea7",
+        "timestampEnd": 1759683600,
+        "timestampStart": 1759597200,
+        "timestampUpload": 1754742308,
+        "weekDay": 5,
         "year": 2025
     }
 }
