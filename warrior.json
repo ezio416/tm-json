@@ -8441,6 +8441,71 @@
             "goldTime": 22000,
             "campaignId": 110179,
             "week": 41
+        },
+        {
+            "authorTime": 19702,
+            "mapUid": "Tm7affe4yKqGJkVgU_4Ngf3hzOm",
+            "name": "$o1 - $6cfTower $6f9Valley",
+            "number": 206,
+            "reason": null,
+            "warriorTime": 17779,
+            "worldRecord": 15856,
+            "mapId": "06d0d85b-5a7a-4fe9-9d1e-cb9f773fc3a7",
+            "goldTime": 21000,
+            "campaignId": 110746,
+            "week": 42
+        },
+        {
+            "authorTime": 19719,
+            "mapUid": "Rf2WjC8X_ImBnNRhRHejlFn_ryk",
+            "name": "$0592 - Penalty Mix",
+            "number": 207,
+            "reason": null,
+            "warriorTime": 18307,
+            "worldRecord": 16895,
+            "mapId": "60efc68e-a224-4b0c-a4eb-ca4684bfb1b6",
+            "goldTime": 21000,
+            "campaignId": 110746,
+            "week": 42
+        },
+        {
+            "authorTime": 19999,
+            "mapUid": "H6LKgc120gSeTs8UXOK2WRSw8Je",
+            "name": "3 - $F9FSnowo $9FFVillage",
+            "number": 208,
+            "reason": null,
+            "warriorTime": 17448,
+            "worldRecord": 14896,
+            "mapId": "928194af-0d1d-4796-9a80-28b4e1bfdf81",
+            "goldTime": 22000,
+            "campaignId": 110746,
+            "week": 42
+        },
+        {
+            "authorTime": 20000,
+            "mapUid": "m19IVcVmFgZEtUo0qdX5uGTLpv3",
+            "name": "4 - $f60Autumn $090Gardens",
+            "number": 209,
+            "reason": null,
+            "warriorTime": 18676,
+            "worldRecord": 17351,
+            "mapId": "82b77a8e-e9f1-4b51-af6c-a9ae542cdebc",
+            "goldTime": 23000,
+            "campaignId": 110746,
+            "week": 42
+        },
+        {
+            "authorTime": 19589,
+            "mapUid": "3hDMUBMKr40KsJLtjO0I70dIps8",
+            "name": "5 - Frozen cave",
+            "number": 210,
+            "reason": null,
+            "warriorTime": 16707,
+            "worldRecord": 13825,
+            "mapId": "2624fc71-edef-424c-8be6-b9ab715c8539",
+            "goldTime": 21000,
+            "campaignId": 110746,
+            "week": 42
         }
     ],
     "Totd": [
