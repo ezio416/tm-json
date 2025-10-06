@@ -39517,7 +39517,7 @@
         "submitter": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
         "timestampEnd": 1756227600,
         "timestampStart": 1756141200,
-        "timestampUpload": 1758041296,
+        "timestampUpload": 1759700657,
         "weekDay": 0,
         "year": 2025
     },
@@ -40210,7 +40210,7 @@
         "submitter": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
         "timestampEnd": 1759078800,
         "timestampStart": 1758992400,
-        "timestampUpload": 1759615793,
+        "timestampUpload": 1759700656,
         "weekDay": 5,
         "year": 2025
     },
@@ -40380,6 +40380,27 @@
         "timestampStart": 1759683600,
         "timestampUpload": 1759505133,
         "weekDay": 6,
+        "year": 2025
+    },
+    "o0_YiG_SJFXxpAMxHhteiBFG8u1": {
+        "author": "43276c27-5cbe-48e6-a3a3-0b1550c80992",
+        "authorTime": 53052,
+        "bronzeTime": 80000,
+        "campaignId": 111422,
+        "goldTime": 57000,
+        "mapId": "df6fca89-a227-40d1-a4b3-9cecb2c8d9d7",
+        "mapUid": "o0_YiG_SJFXxpAMxHhteiBFG8u1",
+        "month": 10,
+        "monthDay": 6,
+        "name": "$fff$oremi$8bcn$fffisce $oft' Sky-esu",
+        "number": 1924,
+        "seasonUid": "f9f99ad7-0898-4f03-9dec-d4300646ae04",
+        "silverTime": 64000,
+        "submitter": "43276c27-5cbe-48e6-a3a3-0b1550c80992",
+        "timestampEnd": 1759856400,
+        "timestampStart": 1759770000,
+        "timestampUpload": 1758157199,
+        "weekDay": 0,
         "year": 2025
     }
 }
