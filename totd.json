@@ -40402,5 +40402,26 @@
         "timestampUpload": 1758157199,
         "weekDay": 0,
         "year": 2025
+    },
+    "56gS6K3xigLw32HHmhv7xGyaC9e": {
+        "author": "2b98d7ba-ce3b-4f2f-beae-05688846856c",
+        "authorTime": 48770,
+        "bronzeTime": 74000,
+        "campaignId": 111827,
+        "goldTime": 52000,
+        "mapId": "acfebccf-c3ea-42b1-ba7a-b470ea27e822",
+        "mapUid": "56gS6K3xigLw32HHmhv7xGyaC9e",
+        "month": 10,
+        "monthDay": 7,
+        "name": "$iSplit Decision CE",
+        "number": 1925,
+        "seasonUid": "bb741806-6856-4132-9512-f12bf6c37522",
+        "silverTime": 59000,
+        "submitter": "2b98d7ba-ce3b-4f2f-beae-05688846856c",
+        "timestampEnd": 1759942800,
+        "timestampStart": 1759856400,
+        "timestampUpload": 1759248436,
+        "weekDay": 1,
+        "year": 2025
     }
 }
