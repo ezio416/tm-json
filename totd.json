@@ -28429,7 +28429,7 @@
         "submitter": "ce6c0db0-2dd9-463f-aaec-463032bad4c5",
         "timestampEnd": 1710612000,
         "timestampStart": 1710525600,
-        "timestampUpload": 1709314510,
+        "timestampUpload": 1759932172,
         "weekDay": 4,
         "year": 2024
     },
@@ -40422,6 +40422,27 @@
         "timestampStart": 1759856400,
         "timestampUpload": 1759248436,
         "weekDay": 1,
+        "year": 2025
+    },
+    "xST8hU4_U0MxP_TS5Iqe_5JdBDe": {
+        "author": "c68d831c-16b2-4134-91d4-bdace1291a79",
+        "authorTime": 42548,
+        "bronzeTime": 64000,
+        "campaignId": 111831,
+        "goldTime": 46000,
+        "mapId": "1c770faa-e215-4d0a-85f9-f4b50ef6e246",
+        "mapUid": "xST8hU4_U0MxP_TS5Iqe_5JdBDe",
+        "month": 10,
+        "monthDay": 8,
+        "name": "Cirrostrati",
+        "number": 1926,
+        "seasonUid": "cbee5894-8833-4bf7-ae30-8154bc837d1c",
+        "silverTime": 52000,
+        "submitter": "c68d831c-16b2-4134-91d4-bdace1291a79",
+        "timestampEnd": 1760029200,
+        "timestampStart": 1759942800,
+        "timestampUpload": 1758961018,
+        "weekDay": 2,
         "year": 2025
     }
 }
