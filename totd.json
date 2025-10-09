@@ -40444,5 +40444,26 @@
         "timestampUpload": 1758961018,
         "weekDay": 2,
         "year": 2025
+    },
+    "jGLgrCctylXEq7Gw4gKOY7rfBde": {
+        "author": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
+        "authorTime": 47062,
+        "bronzeTime": 71000,
+        "campaignId": 111832,
+        "goldTime": 50000,
+        "mapId": "cffffba8-49f4-48f1-b195-86706b598235",
+        "mapUid": "jGLgrCctylXEq7Gw4gKOY7rfBde",
+        "month": 10,
+        "monthDay": 9,
+        "name": "$i$s$800Bloodee \u2018Ell",
+        "number": 1927,
+        "seasonUid": "d5639647-2b8a-4f22-9db8-adaa9a981981",
+        "silverTime": 57000,
+        "submitter": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
+        "timestampEnd": 1760115600,
+        "timestampStart": 1760029200,
+        "timestampUpload": 1757238513,
+        "weekDay": 3,
+        "year": 2025
     }
 }
