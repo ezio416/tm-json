@@ -29705,6 +29705,17 @@
             "worldRecord": 46608,
             "mapId": "cffffba8-49f4-48f1-b195-86706b598235",
             "goldTime": 50000
+        },
+        {
+            "authorTime": 40775,
+            "date": "2025-10-10",
+            "mapUid": "WEGHnN2QrKXOP9jsJ0yTRmW2SSl",
+            "name": "$s$o$B00P$C00a$D00l$E00m$444st$333o$222ne",
+            "reason": null,
+            "warriorTime": 40700,
+            "worldRecord": 40171,
+            "mapId": "d65aa8e4-d29e-4a1a-9a2b-0ebfbaeee6ea",
+            "goldTime": 44000
         }
     ],
     "Other": [
