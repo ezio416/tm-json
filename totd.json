@@ -40486,5 +40486,26 @@
         "timestampUpload": 1753887357,
         "weekDay": 4,
         "year": 2025
+    },
+    "keAc455MgnC7wFFFaVebGQWwdXe": {
+        "author": "b7495814-9dcc-4aac-a90e-f954c09e9a0b",
+        "authorTime": 42341,
+        "bronzeTime": 64000,
+        "campaignId": 111834,
+        "goldTime": 45000,
+        "mapId": "9d49670d-8ea5-4a7f-b6c3-383920afc4fe",
+        "mapUid": "keAc455MgnC7wFFFaVebGQWwdXe",
+        "month": 10,
+        "monthDay": 11,
+        "name": "Antarctica ft' Pumpkin",
+        "number": 1929,
+        "seasonUid": "5e76d589-5150-4311-87bb-23d5cccd5b61",
+        "silverTime": 51000,
+        "submitter": "cb9ebd7f-0be9-4e19-a83f-7720eceaf26d",
+        "timestampEnd": 1760288400,
+        "timestampStart": 1760202000,
+        "timestampUpload": 1759609368,
+        "weekDay": 5,
+        "year": 2025
     }
 }
