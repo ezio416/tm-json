@@ -8506,6 +8506,71 @@
             "goldTime": 21000,
             "campaignId": 110746,
             "week": 42
+        },
+        {
+            "authorTime": 20000,
+            "mapUid": "dRNclXPQS6RPoOyAFITMBfDfm86",
+            "name": "1 - $o$a22Fork $6a4in $fc3the $d63Road",
+            "number": 211,
+            "reason": null,
+            "warriorTime": 18816,
+            "worldRecord": 17631,
+            "mapId": "c4b65f4f-10cc-4872-922c-c288a7075922",
+            "goldTime": 22000,
+            "campaignId": 111419,
+            "week": 43
+        },
+        {
+            "authorTime": 19854,
+            "mapUid": "1fQUuQzWFDGjwXbHmGtRk5tCprb",
+            "name": "$ccc2-winters $999welcome",
+            "number": 212,
+            "reason": null,
+            "warriorTime": 17942,
+            "worldRecord": 16030,
+            "mapId": "de9d5a5e-f6b0-4bce-9de1-8a770364fff0",
+            "goldTime": 22000,
+            "campaignId": 111419,
+            "week": 43
+        },
+        {
+            "authorTime": 19756,
+            "mapUid": "B8v0uS2SwJJlWWaL6jmBHTpeW7i",
+            "name": "3 - Grayborn",
+            "number": 213,
+            "reason": null,
+            "warriorTime": 16223,
+            "worldRecord": 12689,
+            "mapId": "5c5c1b65-cd38-4675-bc1d-47bb00a912d8",
+            "goldTime": 21000,
+            "campaignId": 111419,
+            "week": 43
+        },
+        {
+            "authorTime": 18878,
+            "mapUid": "JvPxgh7w4wmLsphlVW2PtVUWOgl",
+            "name": "4 - $9f0 Swift",
+            "number": 214,
+            "reason": null,
+            "warriorTime": 17669,
+            "worldRecord": 16460,
+            "mapId": "2dc521a5-51e9-4f92-be27-9f4d8a0d0c20",
+            "goldTime": 21000,
+            "campaignId": 111419,
+            "week": 43
+        },
+        {
+            "authorTime": 15751,
+            "mapUid": "V2n5Ad1bmFEofw3Q2vLQtXT8jH0",
+            "name": "5 - Going Merry",
+            "number": 215,
+            "reason": null,
+            "warriorTime": 13975,
+            "worldRecord": 12198,
+            "mapId": "34f5bb0c-041f-464b-8572-2863c5120505",
+            "goldTime": 17000,
+            "campaignId": 111419,
+            "week": 43
         }
     ],
     "Totd": [
