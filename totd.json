@@ -26560,7 +26560,7 @@
         "submitter": "e7c087cf-46d7-402d-af1a-8abf9c12cad3",
         "timestampEnd": 1702922400,
         "timestampStart": 1702836000,
-        "timestampUpload": 1702238225,
+        "timestampUpload": 1760210857,
         "weekDay": 6,
         "year": 2023
     },
@@ -33616,7 +33616,7 @@
         "submitter": "ac424f5e-5612-4a44-8b87-6403be2b690f",
         "timestampEnd": 1731952800,
         "timestampStart": 1731866400,
-        "timestampUpload": 1749468494,
+        "timestampUpload": 1760207626,
         "weekDay": 6,
         "year": 2024
     },
@@ -40084,7 +40084,7 @@
         "submitter": "ac424f5e-5612-4a44-8b87-6403be2b690f",
         "timestampEnd": 1758560400,
         "timestampStart": 1758474000,
-        "timestampUpload": 1759683301,
+        "timestampUpload": 1760207487,
         "weekDay": 6,
         "year": 2025
     },
@@ -40506,6 +40506,27 @@
         "timestampStart": 1760202000,
         "timestampUpload": 1759609368,
         "weekDay": 5,
+        "year": 2025
+    },
+    "MQXnn9EnJQpEYOw2YVs1IQyKRHj": {
+        "author": "ff6285e5-f367-44ea-9a79-221779d1ec2f",
+        "authorTime": 46951,
+        "bronzeTime": 71000,
+        "campaignId": 111835,
+        "goldTime": 50000,
+        "mapId": "d1918cc2-f80a-428b-885c-5766d349278e",
+        "mapUid": "MQXnn9EnJQpEYOw2YVs1IQyKRHj",
+        "month": 10,
+        "monthDay": 12,
+        "name": "A day at the lake",
+        "number": 1930,
+        "seasonUid": "3ce6cb08-72a7-41bb-a3b1-d907a145f022",
+        "silverTime": 57000,
+        "submitter": "ff6285e5-f367-44ea-9a79-221779d1ec2f",
+        "timestampEnd": 1760374800,
+        "timestampStart": 1760288400,
+        "timestampUpload": 1757799471,
+        "weekDay": 6,
         "year": 2025
     }
 }
