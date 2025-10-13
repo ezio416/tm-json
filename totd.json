@@ -10411,7 +10411,7 @@
         "submitter": "43276c27-5cbe-48e6-a3a3-0b1550c80992",
         "timestampEnd": 1636480800,
         "timestampStart": 1636394400,
-        "timestampUpload": 1635779427,
+        "timestampUpload": 1760370083,
         "weekDay": 0,
         "year": 2021
     },
@@ -34204,7 +34204,7 @@
         "submitter": "43276c27-5cbe-48e6-a3a3-0b1550c80992",
         "timestampEnd": 1734372000,
         "timestampStart": 1734285600,
-        "timestampUpload": 1733266132,
+        "timestampUpload": 1760370090,
         "weekDay": 6,
         "year": 2024
     },
@@ -35065,7 +35065,7 @@
         "submitter": "43276c27-5cbe-48e6-a3a3-0b1550c80992",
         "timestampEnd": 1737914400,
         "timestampStart": 1737828000,
-        "timestampUpload": 1734125881,
+        "timestampUpload": 1760370095,
         "weekDay": 5,
         "year": 2025
     },
@@ -38257,7 +38257,7 @@
         "submitter": "43276c27-5cbe-48e6-a3a3-0b1550c80992",
         "timestampEnd": 1751043600,
         "timestampStart": 1750957200,
-        "timestampUpload": 1749740511,
+        "timestampUpload": 1760370097,
         "weekDay": 3,
         "year": 2025
     },
@@ -39433,7 +39433,7 @@
         "submitter": "43276c27-5cbe-48e6-a3a3-0b1550c80992",
         "timestampEnd": 1755882000,
         "timestampStart": 1755795600,
-        "timestampUpload": 1754668081,
+        "timestampUpload": 1760370085,
         "weekDay": 3,
         "year": 2025
     },
@@ -40399,7 +40399,7 @@
         "submitter": "43276c27-5cbe-48e6-a3a3-0b1550c80992",
         "timestampEnd": 1759856400,
         "timestampStart": 1759770000,
-        "timestampUpload": 1758157199,
+        "timestampUpload": 1760370099,
         "weekDay": 0,
         "year": 2025
     },
@@ -40525,8 +40525,29 @@
         "submitter": "ff6285e5-f367-44ea-9a79-221779d1ec2f",
         "timestampEnd": 1760374800,
         "timestampStart": 1760288400,
-        "timestampUpload": 1757799471,
+        "timestampUpload": 1760327567,
         "weekDay": 6,
+        "year": 2025
+    },
+    "sCdfp6L3WKg7N0I_FOVS7tshUj3": {
+        "author": "8ffe695a-8aff-4378-a85f-a503a1abb256",
+        "authorTime": 43846,
+        "bronzeTime": 66000,
+        "campaignId": 112451,
+        "goldTime": 47000,
+        "mapId": "cc45e541-3393-4f36-b9f8-acf525f36b1e",
+        "mapUid": "sCdfp6L3WKg7N0I_FOVS7tshUj3",
+        "month": 10,
+        "monthDay": 13,
+        "name": "$s$6CCMemories $gft' Cotton",
+        "number": 1931,
+        "seasonUid": "27512d28-e1c9-4d07-9df1-991968cacc4d",
+        "silverTime": 53000,
+        "submitter": "8ffe695a-8aff-4378-a85f-a503a1abb256",
+        "timestampEnd": 1760461200,
+        "timestampStart": 1760374800,
+        "timestampUpload": 1751633588,
+        "weekDay": 0,
         "year": 2025
     }
 }
