@@ -40549,5 +40549,26 @@
         "timestampUpload": 1751633588,
         "weekDay": 0,
         "year": 2025
+    },
+    "RSfXqi0zq6D8tw3enklCtWHluM0": {
+        "author": "6808faf2-805e-4ef2-9853-4dac1a6a970d",
+        "authorTime": 45197,
+        "bronzeTime": 68000,
+        "campaignId": 112454,
+        "goldTime": 48000,
+        "mapId": "96c42713-f1b2-4532-86a4-c0742122da3a",
+        "mapUid": "RSfXqi0zq6D8tw3enklCtWHluM0",
+        "month": 10,
+        "monthDay": 14,
+        "name": "$oCan You Stay With Me? ft kafieni",
+        "number": 1932,
+        "seasonUid": "4c0b0188-bb2c-4454-8b40-cf7a32a59209",
+        "silverTime": 55000,
+        "submitter": "6808faf2-805e-4ef2-9853-4dac1a6a970d",
+        "timestampEnd": 1760547600,
+        "timestampStart": 1760461200,
+        "timestampUpload": 1758375729,
+        "weekDay": 1,
+        "year": 2025
     }
 }
