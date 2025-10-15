@@ -40570,5 +40570,26 @@
         "timestampUpload": 1758375729,
         "weekDay": 1,
         "year": 2025
+    },
+    "IEvnnksIWyOutmnIdaAAoXH8883": {
+        "author": "622fc741-8853-4ab5-b637-738544a0accb",
+        "authorTime": 42738,
+        "bronzeTime": 65000,
+        "campaignId": 112452,
+        "goldTime": 46000,
+        "mapId": "e1c312e8-55c8-4e6c-a426-d550a617881e",
+        "mapUid": "IEvnnksIWyOutmnIdaAAoXH8883",
+        "month": 10,
+        "monthDay": 15,
+        "name": "$i$5C2T$6C3a$7C5r$9D6t$AD8a$BD9r$CEBu$EEDg$FEEa$i ft' Blitz",
+        "number": 1933,
+        "seasonUid": "278e44a7-f6d1-4977-af17-b24d4023da59",
+        "silverTime": 52000,
+        "submitter": "622fc741-8853-4ab5-b637-738544a0accb",
+        "timestampEnd": 1760634000,
+        "timestampStart": 1760547600,
+        "timestampUpload": 1758406056,
+        "weekDay": 2,
+        "year": 2025
     }
 }
