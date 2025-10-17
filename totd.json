@@ -40612,5 +40612,26 @@
         "timestampUpload": 1752500138,
         "weekDay": 3,
         "year": 2025
+    },
+    "bb71ngMzDkX0jlUzoTSLb0bki0a": {
+        "author": "011e877d-9511-4182-b5be-ea0b71bef050",
+        "authorTime": 43288,
+        "bronzeTime": 65000,
+        "campaignId": 112453,
+        "goldTime": 46000,
+        "mapId": "53532711-4729-4483-babe-ac6c5e1fbecb",
+        "mapUid": "bb71ngMzDkX0jlUzoTSLb0bki0a",
+        "month": 10,
+        "monthDay": 17,
+        "name": "$o$303Dark $606Energy",
+        "number": 1935,
+        "seasonUid": "5031a59c-2d5f-41bd-aa3f-e85fe0c8185b",
+        "silverTime": 52000,
+        "submitter": "011e877d-9511-4182-b5be-ea0b71bef050",
+        "timestampEnd": 1760806800,
+        "timestampStart": 1760720400,
+        "timestampUpload": 1759413652,
+        "weekDay": 4,
+        "year": 2025
     }
 }
