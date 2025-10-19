@@ -8846,6 +8846,71 @@
             "goldTime": 17000,
             "campaignId": 111419,
             "week": 43
+        },
+        {
+            "authorTime": 20128,
+            "mapUid": "GiT6xW9syhCYPbZYekjcK9C7QNh",
+            "name": "1 - Tunnel Vision",
+            "number": 216,
+            "reason": null,
+            "warriorTime": 19482,
+            "worldRecord": 18836,
+            "mapId": "c8c226c2-3001-4d81-ac1c-92ada18a2563",
+            "goldTime": 22000,
+            "campaignId": 112269,
+            "week": 44
+        },
+        {
+            "authorTime": 20850,
+            "mapUid": "AwjTnp0Fs_4UQrS5BWzwQXxHMm9",
+            "name": "2 - John From The Bridge",
+            "number": 217,
+            "reason": null,
+            "warriorTime": 18223,
+            "worldRecord": 15595,
+            "mapId": "9791d450-0543-46a6-9ed4-65dbf6548c65",
+            "goldTime": 23000,
+            "campaignId": 112269,
+            "week": 44
+        },
+        {
+            "authorTime": 20832,
+            "mapUid": "Z3kUK2hGkfHNflcTzld41t3wY4f",
+            "name": "3 - Three Selectif",
+            "number": 218,
+            "reason": null,
+            "warriorTime": 17974,
+            "worldRecord": 15116,
+            "mapId": "66863157-2a26-49c8-843e-e6bc87d50a51",
+            "goldTime": 23000,
+            "campaignId": 112269,
+            "week": 44
+        },
+        {
+            "authorTime": 18951,
+            "mapUid": "w0Skma9ngFpuySBAEZjUAhKHEkf",
+            "name": "4 - Poolspeed",
+            "number": 219,
+            "reason": null,
+            "warriorTime": 17282,
+            "worldRecord": 15613,
+            "mapId": "8b61a48e-4d5e-4596-85fa-b6ceedda8792",
+            "goldTime": 21000,
+            "campaignId": 112269,
+            "week": 44
+        },
+        {
+            "authorTime": 21509,
+            "mapUid": "lQwB0yNlvQWprlVxS4kfOG0z_4g",
+            "name": "5 - YELLAUGH",
+            "number": 220,
+            "reason": null,
+            "warriorTime": 10820,
+            "worldRecord": 130,
+            "mapId": "285eb9e5-9c9e-464a-b0cb-390b47847471",
+            "goldTime": 23000,
+            "campaignId": 112269,
+            "week": 44
         }
     ],
     "Totd": [
