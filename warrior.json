@@ -30220,6 +30220,17 @@
             "worldRecord": 38375,
             "mapId": "1ff26281-b5c6-4946-85c1-f46d15ad7e3a",
             "goldTime": 42000
+        },
+        {
+            "authorTime": 43976,
+            "date": "2025-10-21",
+            "mapUid": "oNSbGPYPbNiAJ37gsjAkL5oqnRb",
+            "name": "go",
+            "reason": null,
+            "warriorTime": 43851,
+            "worldRecord": 42974,
+            "mapId": "859cb91c-de42-46fa-a76c-764685e06dfa",
+            "goldTime": 47000
         }
     ],
     "Other": [
