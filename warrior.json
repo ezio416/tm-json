@@ -30231,6 +30231,17 @@
             "worldRecord": 42974,
             "mapId": "859cb91c-de42-46fa-a76c-764685e06dfa",
             "goldTime": 47000
+        },
+        {
+            "authorTime": 37524,
+            "date": "2025-10-22",
+            "mapUid": "8odAaay5guZpYhSyb913rQkMMDa",
+            "name": "Wassersteg",
+            "reason": null,
+            "warriorTime": 37425,
+            "worldRecord": 36731,
+            "mapId": "70ae3748-b964-490c-a094-f7cdbbbb0f47",
+            "goldTime": 40000
         }
     ],
     "Other": [
