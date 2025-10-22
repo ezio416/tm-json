@@ -40717,5 +40717,26 @@
         "timestampUpload": 1742679374,
         "weekDay": 1,
         "year": 2025
+    },
+    "8odAaay5guZpYhSyb913rQkMMDa": {
+        "author": "7599d4de-2ced-46d0-abf6-91612e1dca30",
+        "authorTime": 37524,
+        "bronzeTime": 57000,
+        "campaignId": 113271,
+        "goldTime": 40000,
+        "mapId": "70ae3748-b964-490c-a094-f7cdbbbb0f47",
+        "mapUid": "8odAaay5guZpYhSyb913rQkMMDa",
+        "month": 10,
+        "monthDay": 22,
+        "name": "Wassersteg",
+        "number": 1940,
+        "seasonUid": "1d8398df-b9da-477f-a4e6-c1a5e80689a2",
+        "silverTime": 46000,
+        "submitter": "7599d4de-2ced-46d0-abf6-91612e1dca30",
+        "timestampEnd": 1761238800,
+        "timestampStart": 1761152400,
+        "timestampUpload": 1760437287,
+        "weekDay": 2,
+        "year": 2025
     }
 }
