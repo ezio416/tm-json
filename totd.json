@@ -40738,5 +40738,26 @@
         "timestampUpload": 1760437287,
         "weekDay": 2,
         "year": 2025
+    },
+    "Erz8BCdXXqlvnRUbYVEGXCWCDmf": {
+        "author": "46dcc889-73cb-4df5-8b44-d5a5e6addfec",
+        "authorTime": 48661,
+        "bronzeTime": 73000,
+        "campaignId": 113274,
+        "goldTime": 52000,
+        "mapId": "c158e45c-3188-497f-821d-8733fa7cdf0f",
+        "mapUid": "Erz8BCdXXqlvnRUbYVEGXCWCDmf",
+        "month": 10,
+        "monthDay": 23,
+        "name": "$BB5$S$I$oDesert Chronos",
+        "number": 1941,
+        "seasonUid": "7e4a2f43-9199-416b-9ad1-958cd3dcd0d3",
+        "silverTime": 59000,
+        "submitter": "46dcc889-73cb-4df5-8b44-d5a5e6addfec",
+        "timestampEnd": 1761325200,
+        "timestampStart": 1761238800,
+        "timestampUpload": 1759878944,
+        "weekDay": 3,
+        "year": 2025
     }
 }
