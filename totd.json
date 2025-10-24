@@ -40759,5 +40759,26 @@
         "timestampUpload": 1759878944,
         "weekDay": 3,
         "year": 2025
+    },
+    "FfH77i5qfvIOjOSAXcsFPCrb6vl": {
+        "author": "43276c27-5cbe-48e6-a3a3-0b1550c80992",
+        "authorTime": 46794,
+        "bronzeTime": 71000,
+        "campaignId": 113622,
+        "goldTime": 50000,
+        "mapId": "25d1cff3-2d0a-4733-8d70-dd932e4b92bf",
+        "mapUid": "FfH77i5qfvIOjOSAXcsFPCrb6vl",
+        "month": 10,
+        "monthDay": 24,
+        "name": "$s$cccRetro$00cNova $fffShowcase",
+        "number": 1942,
+        "seasonUid": "f43f8c30-c70a-4c8c-ac93-ba57a8d747e2",
+        "silverTime": 57000,
+        "submitter": "43276c27-5cbe-48e6-a3a3-0b1550c80992",
+        "timestampEnd": 1761411600,
+        "timestampStart": 1761325200,
+        "timestampUpload": 1761151859,
+        "weekDay": 4,
+        "year": 2025
     }
 }
