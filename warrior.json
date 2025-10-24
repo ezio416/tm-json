@@ -30253,6 +30253,17 @@
             "worldRecord": 47616,
             "mapId": "c158e45c-3188-497f-821d-8733fa7cdf0f",
             "goldTime": 52000
+        },
+        {
+            "authorTime": 46794,
+            "date": "2025-10-24",
+            "mapUid": "FfH77i5qfvIOjOSAXcsFPCrb6vl",
+            "name": "$s$cccRetro$00cNova $fffShowcase",
+            "reason": null,
+            "warriorTime": 46732,
+            "worldRecord": 46294,
+            "mapId": "25d1cff3-2d0a-4733-8d70-dd932e4b92bf",
+            "goldTime": 50000
         }
     ],
     "Other": [
