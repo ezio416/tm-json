@@ -40780,5 +40780,26 @@
         "timestampUpload": 1761151859,
         "weekDay": 4,
         "year": 2025
+    },
+    "_VD4TwsmC32PnzChrN_ofOBMtB3": {
+        "author": "396713ba-f977-4ea3-82bc-10f718c9c99e",
+        "authorTime": 43055,
+        "bronzeTime": 65000,
+        "campaignId": 113683,
+        "goldTime": 46000,
+        "mapId": "ee455b7e-d445-4adc-b3bd-93c99ce50bc3",
+        "mapUid": "_VD4TwsmC32PnzChrN_ofOBMtB3",
+        "month": 10,
+        "monthDay": 25,
+        "name": "$sSlay$f003$fffr ft $80f\u01a4$fffain",
+        "number": 1943,
+        "seasonUid": "3c50254a-d210-4f38-b232-ad9240bfe02d",
+        "silverTime": 52000,
+        "submitter": "396713ba-f977-4ea3-82bc-10f718c9c99e",
+        "timestampEnd": 1761501600,
+        "timestampStart": 1761411600,
+        "timestampUpload": 1760070293,
+        "weekDay": 5,
+        "year": 2025
     }
 }
