@@ -40843,5 +40843,26 @@
         "timestampUpload": 1760801523,
         "weekDay": 0,
         "year": 2025
+    },
+    "upHxUlnhk_W5OkNdmCPrzGd9wbm": {
+        "author": "a07f01cd-afb0-4230-9c13-868c1ede28a3",
+        "authorTime": 51773,
+        "bronzeTime": 78000,
+        "campaignId": 113687,
+        "goldTime": 55000,
+        "mapId": "0c182b5c-f386-4147-80e4-52b00b109cd2",
+        "mapUid": "upHxUlnhk_W5OkNdmCPrzGd9wbm",
+        "month": 10,
+        "monthDay": 28,
+        "name": "ARC - Playin' in the Dirt",
+        "number": 1946,
+        "seasonUid": "451efd24-b95e-48a3-a16a-8b3c7afffbf6",
+        "silverTime": 63000,
+        "submitter": "a07f01cd-afb0-4230-9c13-868c1ede28a3",
+        "timestampEnd": 1761760800,
+        "timestampStart": 1761674400,
+        "timestampUpload": 1751584728,
+        "weekDay": 1,
+        "year": 2025
     }
 }
