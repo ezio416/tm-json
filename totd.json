@@ -40906,5 +40906,26 @@
         "timestampUpload": 1760900337,
         "weekDay": 3,
         "year": 2025
+    },
+    "V6XnDcArEZoUiuI9nhOyiEnons0": {
+        "author": "7599d4de-2ced-46d0-abf6-91612e1dca30",
+        "authorTime": 46612,
+        "bronzeTime": 70000,
+        "campaignId": 113686,
+        "goldTime": 50000,
+        "mapId": "6ec3b9ab-dd80-44e2-a45e-67931ee92cb3",
+        "mapUid": "V6XnDcArEZoUiuI9nhOyiEnons0",
+        "month": 10,
+        "monthDay": 31,
+        "name": "The Haunting ft' agrabou, ealipse, sahtel, skifreak",
+        "number": 1949,
+        "seasonUid": "c39af377-be43-48d9-8d33-e1cfe8e522ad",
+        "silverTime": 56000,
+        "submitter": "7599d4de-2ced-46d0-abf6-91612e1dca30",
+        "timestampEnd": 1762020000,
+        "timestampStart": 1761933600,
+        "timestampUpload": 1761039942,
+        "weekDay": 4,
+        "year": 2025
     }
 }
