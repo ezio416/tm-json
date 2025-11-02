@@ -1,5 +1,5 @@
 {
-    "next": 1762113600,
+    "next": 1762200000,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -30483,6 +30483,17 @@
             "worldRecord": 50564,
             "mapId": "da61cb06-b629-47b8-bc19-d34e27d16460",
             "goldTime": 55000
+        },
+        {
+            "authorTime": 41637,
+            "date": "2025-11-02",
+            "mapUid": "iaG1S5iES9orl0bMCc9NKp_BVtb",
+            "name": "$o$EC5[NN] \u2013 $fffBack To The Roots $ec5ft sqweegel",
+            "reason": null,
+            "warriorTime": 41636,
+            "worldRecord": 41752,
+            "mapId": "d344ec58-7755-49dc-a7ac-6a7f5cd50221",
+            "goldTime": 45000
         }
     ],
     "Other": [
