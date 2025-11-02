@@ -1,5 +1,5 @@
 {
-    "next": 1762102800,
+    "next": 1762113600,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -8977,6 +8977,71 @@
             "goldTime": 21000,
             "campaignId": 113064,
             "week": 45
+        },
+        {
+            "authorTime": 17377,
+            "mapUid": "PYEWXAVnbJopvy5b8nGtKnC7qv4",
+            "name": "1 - $fcf$oSPRING $ff6SLIDE",
+            "number": 226,
+            "reason": null,
+            "warriorTime": 16070,
+            "worldRecord": 14763,
+            "mapId": "dc7d7ecb-a10c-4630-8b21-934df9bf1762",
+            "goldTime": 19000,
+            "campaignId": 113688,
+            "week": 46
+        },
+        {
+            "authorTime": 16666,
+            "mapUid": "L9_okp5mhmO8dOMir9rOzMUtQb2",
+            "name": "$o$A502 - Haunted Graveyard $o$630ft Heravan",
+            "number": 227,
+            "reason": null,
+            "warriorTime": 15494,
+            "worldRecord": 14322,
+            "mapId": "b48329cc-ae39-4f01-bc37-2a20c2296d0e",
+            "goldTime": 18000,
+            "campaignId": 113688,
+            "week": 46
+        },
+        {
+            "authorTime": 19943,
+            "mapUid": "326wb2NTGUqVQoXIXB8LI_OSree",
+            "name": "3 - $F90E$FF0F$06FF$390E$000C$93FT$C30S",
+            "number": 228,
+            "reason": null,
+            "warriorTime": 15303,
+            "worldRecord": 10663,
+            "mapId": "d4b821ac-6384-4216-b969-33b2f3336fe5",
+            "goldTime": 22000,
+            "campaignId": 113688,
+            "week": 46
+        },
+        {
+            "authorTime": 19983,
+            "mapUid": "Mm5bWRLfequIabPJQihJc5rnLQh",
+            "name": "$S$o4 - $F00F$F33r$F55e$F77e$i$F99T$FBBi$FDDl$FFFt",
+            "number": 229,
+            "reason": null,
+            "warriorTime": 18832,
+            "worldRecord": 17681,
+            "mapId": "c6e0095a-fd12-437c-aaa0-0a8a8b5af7bf",
+            "goldTime": 22000,
+            "campaignId": 113688,
+            "week": 46
+        },
+        {
+            "authorTime": 19267,
+            "mapUid": "UMMMir5WueD4aUlpmqRSHROSUH1",
+            "name": "5 - cursed swamp",
+            "number": 230,
+            "reason": null,
+            "warriorTime": 17615,
+            "worldRecord": 15962,
+            "mapId": "d67a790d-fd0f-4a56-864e-bf3340f9105e",
+            "goldTime": 21000,
+            "campaignId": 113688,
+            "week": 46
         }
     ],
     "Totd": [
