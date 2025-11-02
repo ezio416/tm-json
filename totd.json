@@ -40948,5 +40948,26 @@
         "timestampUpload": 1761722966,
         "weekDay": 5,
         "year": 2025
+    },
+    "iaG1S5iES9orl0bMCc9NKp_BVtb": {
+        "author": "abed9589-1509-4d56-83fa-7f2a72dbacb4",
+        "authorTime": 41637,
+        "bronzeTime": 63000,
+        "campaignId": 114330,
+        "goldTime": 45000,
+        "mapId": "d344ec58-7755-49dc-a7ac-6a7f5cd50221",
+        "mapUid": "iaG1S5iES9orl0bMCc9NKp_BVtb",
+        "month": 11,
+        "monthDay": 2,
+        "name": "$o$EC5[NN] \u2013 $fffBack To The Roots $ec5ft sqweegel",
+        "number": 1951,
+        "seasonUid": "490a085e-ac9a-4851-8289-832452276a3c",
+        "silverTime": 50000,
+        "submitter": "91ecc3e6-ef3c-4ed9-bf33-a79fdfc15129",
+        "timestampEnd": 1762192800,
+        "timestampStart": 1762106400,
+        "timestampUpload": 1761722975,
+        "weekDay": 6,
+        "year": 2025
     }
 }
