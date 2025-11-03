@@ -40969,5 +40969,26 @@
         "timestampUpload": 1761722975,
         "weekDay": 6,
         "year": 2025
+    },
+    "pwwWV7_2GTgu7KJyfNnAU8l5Yt7": {
+        "author": "c2aaa990-1091-47d5-8aff-870bbb760ea7",
+        "authorTime": 45841,
+        "bronzeTime": 69000,
+        "campaignId": 114743,
+        "goldTime": 49000,
+        "mapId": "d9fee8b4-3914-4f01-bec8-a37cbdf979cd",
+        "mapUid": "pwwWV7_2GTgu7KJyfNnAU8l5Yt7",
+        "month": 11,
+        "monthDay": 3,
+        "name": "$789Monochrome Monolith",
+        "number": 1952,
+        "seasonUid": "bc361965-16bd-4c80-ac45-b0ef17695593",
+        "silverTime": 56000,
+        "submitter": "c2aaa990-1091-47d5-8aff-870bbb760ea7",
+        "timestampEnd": 1762279200,
+        "timestampStart": 1762192800,
+        "timestampUpload": 1757526641,
+        "weekDay": 0,
+        "year": 2025
     }
 }
