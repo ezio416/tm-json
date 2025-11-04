@@ -40990,5 +40990,26 @@
         "timestampUpload": 1757526641,
         "weekDay": 0,
         "year": 2025
+    },
+    "YJerG6tOtKtcLyze3d0ENUMBhwf": {
+        "author": "aaae15ed-ab4d-4292-ab70-48b0b3d75517",
+        "authorTime": 50942,
+        "bronzeTime": 77000,
+        "campaignId": 114918,
+        "goldTime": 54000,
+        "mapId": "2c79302a-7a29-476c-aecb-ba38f77df22c",
+        "mapUid": "YJerG6tOtKtcLyze3d0ENUMBhwf",
+        "month": 11,
+        "monthDay": 4,
+        "name": "52'0302\u00b0 N 8'5325\u00b0 E ft' huebsch_af",
+        "number": 1953,
+        "seasonUid": "632c0bc5-5db1-46ff-8fb8-a4de3cd64f4a",
+        "silverTime": 62000,
+        "submitter": "aaae15ed-ab4d-4292-ab70-48b0b3d75517",
+        "timestampEnd": 1762365600,
+        "timestampStart": 1762279200,
+        "timestampUpload": 1760550358,
+        "weekDay": 1,
+        "year": 2025
     }
 }
