@@ -1,5 +1,5 @@
 {
-    "next": 1762286400,
+    "next": 1762372800,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -30505,6 +30505,17 @@
             "worldRecord": 44842,
             "mapId": "d9fee8b4-3914-4f01-bec8-a37cbdf979cd",
             "goldTime": 49000
+        },
+        {
+            "authorTime": 50942,
+            "date": "2025-11-04",
+            "mapUid": "YJerG6tOtKtcLyze3d0ENUMBhwf",
+            "name": "52'0302\u00b0 N 8'5325\u00b0 E ft' huebsch_af",
+            "reason": null,
+            "warriorTime": 50880,
+            "worldRecord": 50446,
+            "mapId": "2c79302a-7a29-476c-aecb-ba38f77df22c",
+            "goldTime": 54000
         }
     ],
     "Other": [
