@@ -41011,5 +41011,26 @@
         "timestampUpload": 1760550358,
         "weekDay": 1,
         "year": 2025
+    },
+    "Syj97kWo9qwKj9Q4bWNgYOJfHB3": {
+        "author": "af03d9d3-9693-41cb-9270-da7d34c48bb6",
+        "authorTime": 55998,
+        "bronzeTime": 84000,
+        "campaignId": 114919,
+        "goldTime": 60000,
+        "mapId": "076847d4-0cf1-4615-9ab4-558b6af95345",
+        "mapUid": "Syj97kWo9qwKj9Q4bWNgYOJfHB3",
+        "month": 11,
+        "monthDay": 5,
+        "name": "$F80Desert Island Disk",
+        "number": 1954,
+        "seasonUid": "29665101-6a7f-4afb-8aa4-5f57780e148d",
+        "silverTime": 68000,
+        "submitter": "af03d9d3-9693-41cb-9270-da7d34c48bb6",
+        "timestampEnd": 1762452000,
+        "timestampStart": 1762365600,
+        "timestampUpload": 1759163929,
+        "weekDay": 2,
+        "year": 2025
     }
 }
