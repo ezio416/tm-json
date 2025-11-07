@@ -1,5 +1,5 @@
 {
-    "next": 1762545600,
+    "next": 1762632000,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -30538,6 +30538,17 @@
             "worldRecord": 38108,
             "mapId": "e768c6c7-5ada-4209-9b2c-933ff336905c",
             "goldTime": 44000
+        },
+        {
+            "authorTime": 74618,
+            "date": "2025-11-07",
+            "mapUid": "TFH_4_Lobby_COTD________DAY",
+            "name": "$s$F00T$803F$006H $000- $fffStandoff",
+            "reason": null,
+            "warriorTime": 74467,
+            "worldRecord": 73408,
+            "mapId": "8bca8f81-d3a4-46f5-8bb5-e14e8852923f",
+            "goldTime": 80000
         }
     ],
     "Other": [
