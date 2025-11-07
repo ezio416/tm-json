@@ -41053,5 +41053,26 @@
         "timestampUpload": 1761592005,
         "weekDay": 3,
         "year": 2025
+    },
+    "TFH_4_Lobby_COTD________DAY": {
+        "author": "a8c2088d-14ae-4d76-b135-9bc210d9e985",
+        "authorTime": 74618,
+        "bronzeTime": 112000,
+        "campaignId": 114332,
+        "goldTime": 80000,
+        "mapId": "8bca8f81-d3a4-46f5-8bb5-e14e8852923f",
+        "mapUid": "TFH_4_Lobby_COTD________DAY",
+        "month": 11,
+        "monthDay": 7,
+        "name": "$s$F00T$803F$006H $000- $fffStandoff",
+        "number": 1956,
+        "seasonUid": "35b041a9-ee77-4a12-953c-34d4825952ef",
+        "silverTime": 90000,
+        "submitter": "91ecc3e6-ef3c-4ed9-bf33-a79fdfc15129",
+        "timestampEnd": 1762624800,
+        "timestampStart": 1762538400,
+        "timestampUpload": 1761722972,
+        "weekDay": 4,
+        "year": 2025
     }
 }
