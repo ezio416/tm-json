@@ -1,5 +1,5 @@
 {
-    "next": 1762632000,
+    "next": 1762707600,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -30549,6 +30549,17 @@
             "worldRecord": 73408,
             "mapId": "8bca8f81-d3a4-46f5-8bb5-e14e8852923f",
             "goldTime": 80000
+        },
+        {
+            "authorTime": 43658,
+            "date": "2025-11-08",
+            "mapUid": "pYmyprjdvcBnUDZ6Qp9rY8L9wOa",
+            "name": "$o$i$n$s$0ffLumi Fyre",
+            "reason": null,
+            "warriorTime": 43502,
+            "worldRecord": 42408,
+            "mapId": "a8133b1f-7253-45b7-a3eb-125a369b15e5",
+            "goldTime": 47000
         }
     ],
     "Other": [
