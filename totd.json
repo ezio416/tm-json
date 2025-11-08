@@ -36514,7 +36514,7 @@
         "submitter": "5b6167ea-fcce-4419-bb2a-34bad794ea12",
         "timestampEnd": 1743872400,
         "timestampStart": 1743786000,
-        "timestampUpload": 1740755813,
+        "timestampUpload": 1762618818,
         "weekDay": 4,
         "year": 2025
     },
@@ -41073,6 +41073,27 @@
         "timestampStart": 1762538400,
         "timestampUpload": 1761722972,
         "weekDay": 4,
+        "year": 2025
+    },
+    "pYmyprjdvcBnUDZ6Qp9rY8L9wOa": {
+        "author": "52e35154-52a6-4648-a81f-78a67691eaf5",
+        "authorTime": 43658,
+        "bronzeTime": 66000,
+        "campaignId": 115329,
+        "goldTime": 47000,
+        "mapId": "a8133b1f-7253-45b7-a3eb-125a369b15e5",
+        "mapUid": "pYmyprjdvcBnUDZ6Qp9rY8L9wOa",
+        "month": 11,
+        "monthDay": 8,
+        "name": "$o$i$n$s$0ffLumi Fyre",
+        "number": 1957,
+        "seasonUid": "2c6be4f4-e93e-4ebb-a379-106ab1afbe3e",
+        "silverTime": 53000,
+        "submitter": "52e35154-52a6-4648-a81f-78a67691eaf5",
+        "timestampEnd": 1762711200,
+        "timestampStart": 1762624800,
+        "timestampUpload": 1753191067,
+        "weekDay": 5,
         "year": 2025
     }
 }
