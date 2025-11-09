@@ -1,5 +1,5 @@
 {
-    "next": 1762707600,
+    "next": 1762718400,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -9042,6 +9042,71 @@
             "goldTime": 21000,
             "campaignId": 113688,
             "week": 46
+        },
+        {
+            "authorTime": 19718,
+            "mapUid": "yla3GE3ViHsD79X2X5KWvZGlt73",
+            "name": "$CC01 -$CB0 Nos$CA0talg$C90ia",
+            "number": 231,
+            "reason": null,
+            "warriorTime": 18593,
+            "worldRecord": 17468,
+            "mapId": "4147fac3-3e24-481a-a9fa-b5a7072bc908",
+            "goldTime": 21000,
+            "campaignId": 114495,
+            "week": 47
+        },
+        {
+            "authorTime": 19479,
+            "mapUid": "xnhLIJ_A8tPgFfBc7cycwir6WHe",
+            "name": "2 - $i$o$F0FL$F1Eu$F1Dl$F2Cl$F2Ba$F3Ab$F39y",
+            "number": 232,
+            "reason": null,
+            "warriorTime": 17757,
+            "worldRecord": 16035,
+            "mapId": "e800e03f-9170-48e8-a1ed-96af1b37bddc",
+            "goldTime": 21000,
+            "campaignId": 114495,
+            "week": 47
+        },
+        {
+            "authorTime": 19930,
+            "mapUid": "oHG1ZICw60YXoXJo0OYPZLV5fM5",
+            "name": "3 - $S$T$O$F93s$F83a$F62f$F52a$F41r$F31i",
+            "number": 233,
+            "reason": null,
+            "warriorTime": 17351,
+            "worldRecord": 14772,
+            "mapId": "c0870afc-843e-4dd5-98da-5799d7420784",
+            "goldTime": 22000,
+            "campaignId": 114495,
+            "week": 47
+        },
+        {
+            "authorTime": 19070,
+            "mapUid": "UlaDwenpKYyaVS_9w3blCYFPpd9",
+            "name": "4 - Port Midland",
+            "number": 234,
+            "reason": null,
+            "warriorTime": 17704,
+            "worldRecord": 16338,
+            "mapId": "b7ee3561-e290-445d-a02e-5cf78571f84f",
+            "goldTime": 21000,
+            "campaignId": 114495,
+            "week": 47
+        },
+        {
+            "authorTime": 17118,
+            "mapUid": "EzE7HFViPbDbRscl6OFioH_dZZb",
+            "name": "5 - $n$o$f00Slime $z$o$06fClimb",
+            "number": 235,
+            "reason": null,
+            "warriorTime": 12341,
+            "worldRecord": 7564,
+            "mapId": "71f975c3-6ade-4e4d-806e-7117ae069228",
+            "goldTime": 19000,
+            "campaignId": 114495,
+            "week": 47
         }
     ],
     "Totd": [
