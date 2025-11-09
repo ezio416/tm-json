@@ -41095,5 +41095,26 @@
         "timestampUpload": 1753191067,
         "weekDay": 5,
         "year": 2025
+    },
+    "FiUV0wSY8i7GTCTVYubXNpqxs27": {
+        "author": "931e9842-5193-4f39-aab6-abc593b39fcf",
+        "authorTime": 48932,
+        "bronzeTime": 74000,
+        "campaignId": 115330,
+        "goldTime": 52000,
+        "mapId": "824bc868-ad9a-4d96-b2a1-b35d2245efe8",
+        "mapUid": "FiUV0wSY8i7GTCTVYubXNpqxs27",
+        "month": 11,
+        "monthDay": 9,
+        "name": "$o$D8COneiromancy$z ft' Cotton",
+        "number": 1958,
+        "seasonUid": "594e8b40-4880-4e49-a36d-12820c0c7c5f",
+        "silverTime": 59000,
+        "submitter": "931e9842-5193-4f39-aab6-abc593b39fcf",
+        "timestampEnd": 1762797600,
+        "timestampStart": 1762711200,
+        "timestampUpload": 1760783968,
+        "weekDay": 6,
+        "year": 2025
     }
 }
