@@ -41116,5 +41116,26 @@
         "timestampUpload": 1760783968,
         "weekDay": 6,
         "year": 2025
+    },
+    "bc_iVQdCTvYH9MBMp9qufB9eOcc": {
+        "author": "34fdec71-7121-418a-918b-cb24257f2a68",
+        "authorTime": 42451,
+        "bronzeTime": 64000,
+        "campaignId": 115331,
+        "goldTime": 45000,
+        "mapId": "07c5321f-0289-4396-bc55-6cd79d6b05ae",
+        "mapUid": "bc_iVQdCTvYH9MBMp9qufB9eOcc",
+        "month": 11,
+        "monthDay": 10,
+        "name": "$sI Don't Dance",
+        "number": 1959,
+        "seasonUid": "e06e3122-7195-4a66-86d8-436f1066f629",
+        "silverTime": 51000,
+        "submitter": "34fdec71-7121-418a-918b-cb24257f2a68",
+        "timestampEnd": 1762884000,
+        "timestampStart": 1762797600,
+        "timestampUpload": 1760885278,
+        "weekDay": 0,
+        "year": 2025
     }
 }
