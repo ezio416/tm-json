@@ -1,5 +1,5 @@
 {
-    "next": 1762804800,
+    "next": 1762891200,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -30636,6 +30636,17 @@
             "worldRecord": 48482,
             "mapId": "824bc868-ad9a-4d96-b2a1-b35d2245efe8",
             "goldTime": 52000
+        },
+        {
+            "authorTime": 42451,
+            "date": "2025-11-10",
+            "mapUid": "bc_iVQdCTvYH9MBMp9qufB9eOcc",
+            "name": "$sI Don't Dance",
+            "reason": null,
+            "warriorTime": 42418,
+            "worldRecord": 42182,
+            "mapId": "07c5321f-0289-4396-bc55-6cd79d6b05ae",
+            "goldTime": 45000
         }
     ],
     "Other": [
