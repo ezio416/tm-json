@@ -41158,5 +41158,26 @@
         "timestampUpload": 1762733762,
         "weekDay": 1,
         "year": 2025
+    },
+    "0gahmliJyX6CeZQuN0BscLyoBQa": {
+        "author": "2b98d7ba-ce3b-4f2f-beae-05688846856c",
+        "authorTime": 47946,
+        "bronzeTime": 72000,
+        "campaignId": 115785,
+        "goldTime": 51000,
+        "mapId": "6b3c3697-d82e-4f7e-88f4-a004773db1fd",
+        "mapUid": "0gahmliJyX6CeZQuN0BscLyoBQa",
+        "month": 11,
+        "monthDay": 12,
+        "name": "$i$ADE$s$wThey Call Me John Bobsleigh",
+        "number": 1961,
+        "seasonUid": "13348bcc-f4db-42ef-b484-b574642d66e7",
+        "silverTime": 58000,
+        "submitter": "2b98d7ba-ce3b-4f2f-beae-05688846856c",
+        "timestampEnd": 1763056800,
+        "timestampStart": 1762970400,
+        "timestampUpload": 1762448926,
+        "weekDay": 2,
+        "year": 2025
     }
 }
