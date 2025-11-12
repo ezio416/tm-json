@@ -1,5 +1,5 @@
 {
-    "next": 1762977600,
+    "next": 1763064000,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -30658,6 +30658,17 @@
             "worldRecord": 40408,
             "mapId": "43c2a7ac-f7e9-40bf-a07f-316b9733b7d7",
             "goldTime": 45000
+        },
+        {
+            "authorTime": 47946,
+            "date": "2025-11-12",
+            "mapUid": "0gahmliJyX6CeZQuN0BscLyoBQa",
+            "name": "$i$ADE$s$wThey Call Me John Bobsleigh",
+            "reason": null,
+            "warriorTime": 47805,
+            "worldRecord": 46812,
+            "mapId": "6b3c3697-d82e-4f7e-88f4-a004773db1fd",
+            "goldTime": 51000
         }
     ],
     "Other": [
