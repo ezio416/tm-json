@@ -41242,5 +41242,26 @@
         "timestampUpload": 1757015793,
         "weekDay": 5,
         "year": 2025
+    },
+    "HgZDLRsHOHQTFmNyv8K4TFm0F4m": {
+        "author": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
+        "authorTime": 50611,
+        "bronzeTime": 76000,
+        "campaignId": 116125,
+        "goldTime": 54000,
+        "mapId": "16d00636-1189-4ef4-b323-1e9c2e94e30c",
+        "mapUid": "HgZDLRsHOHQTFmNyv8K4TFm0F4m",
+        "month": 11,
+        "monthDay": 16,
+        "name": "$s$DA2$n$oBreaking Point $fff| ft N1x",
+        "number": 1965,
+        "seasonUid": "7ae07c07-e40d-4a12-871a-6343a8272bb5",
+        "silverTime": 61000,
+        "submitter": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
+        "timestampEnd": 1763402400,
+        "timestampStart": 1763316000,
+        "timestampUpload": 1761672536,
+        "weekDay": 6,
+        "year": 2025
     }
 }
