@@ -1,5 +1,5 @@
 {
-    "next": 1763312400,
+    "next": 1763323200,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -9107,6 +9107,71 @@
             "goldTime": 19000,
             "campaignId": 114495,
             "week": 47
+        },
+        {
+            "authorTime": 19905,
+            "mapUid": "41eRdqr0NyNY67WWnceKYLpgNvm",
+            "name": "$s$3C31 - $s$FF6Pi$FF3ne$F93ap$F90pl$F80e J$F70ui$F60ce",
+            "number": 236,
+            "reason": null,
+            "warriorTime": 18115,
+            "worldRecord": 16324,
+            "mapId": "7d354632-9fa9-43c5-a519-bdc8fd8ffd39",
+            "goldTime": 22000,
+            "campaignId": 115334,
+            "week": 48
+        },
+        {
+            "authorTime": 19925,
+            "mapUid": "9OgLpeHGtXyA6TtxGbHmUMSzc98",
+            "name": "2 - $w$888Bla$FFFite",
+            "number": 237,
+            "reason": null,
+            "warriorTime": 17987,
+            "worldRecord": 16048,
+            "mapId": "a63f3fcc-f980-4a4b-9411-738216f43377",
+            "goldTime": 22000,
+            "campaignId": 115334,
+            "week": 48
+        },
+        {
+            "authorTime": 19387,
+            "mapUid": "XbpmiTVUyfW5Ka6z1gMvEGdtmt3",
+            "name": "3 - $w$o$s$FB0LOST DIRT",
+            "number": 238,
+            "reason": null,
+            "warriorTime": 16961,
+            "worldRecord": 14534,
+            "mapId": "40bef74f-b85c-40f6-aee8-5d3e48989d79",
+            "goldTime": 21000,
+            "campaignId": 115334,
+            "week": 48
+        },
+        {
+            "authorTime": 19926,
+            "mapUid": "j1_UaLor34hPVvQ1Whp922GzI7c",
+            "name": "$s4 - $F0CN$B19e$726o$333t$333e$737r$B3Bi$F3Fc$g ft Heravan",
+            "number": 239,
+            "reason": null,
+            "warriorTime": 18813,
+            "worldRecord": 17700,
+            "mapId": "46fbb4dd-8e09-41d0-82c1-9f8eae3a4915",
+            "goldTime": 22000,
+            "campaignId": 115334,
+            "week": 48
+        },
+        {
+            "authorTime": 19892,
+            "mapUid": "ZRG06_HmAfxdVZUh_a4mOYkJQi3",
+            "name": "5 - $4C5Temple $DC8Run",
+            "number": 240,
+            "reason": null,
+            "warriorTime": 17265,
+            "worldRecord": 14638,
+            "mapId": "9e318b64-5b7a-4996-949b-3fb6643690f8",
+            "goldTime": 22000,
+            "campaignId": 115334,
+            "week": 48
         }
     ],
     "Totd": [
