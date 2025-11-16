@@ -1,5 +1,5 @@
 {
-    "next": 1763323200,
+    "next": 1763409600,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -30767,6 +30767,17 @@
             "worldRecord": 41175,
             "mapId": "c8dd7ea9-a058-4ca8-9556-e3daedcfac31",
             "goldTime": 45000
+        },
+        {
+            "authorTime": 50611,
+            "date": "2025-11-16",
+            "mapUid": "HgZDLRsHOHQTFmNyv8K4TFm0F4m",
+            "name": "$s$DA2$n$oBreaking Point $fff| ft N1x",
+            "reason": null,
+            "warriorTime": 50537,
+            "worldRecord": 50014,
+            "mapId": "16d00636-1189-4ef4-b323-1e9c2e94e30c",
+            "goldTime": 54000
         }
     ],
     "Other": [
