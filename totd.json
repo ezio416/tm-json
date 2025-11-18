@@ -21625,7 +21625,7 @@
         "submitter": "e7c087cf-46d7-402d-af1a-8abf9c12cad3",
         "timestampEnd": 1682614800,
         "timestampStart": 1682528400,
-        "timestampUpload": 1702238241,
+        "timestampUpload": 1763412228,
         "weekDay": 2,
         "year": 2023
     },
@@ -26560,7 +26560,7 @@
         "submitter": "e7c087cf-46d7-402d-af1a-8abf9c12cad3",
         "timestampEnd": 1702922400,
         "timestampStart": 1702836000,
-        "timestampUpload": 1760210857,
+        "timestampUpload": 1763412228,
         "weekDay": 6,
         "year": 2023
     },
@@ -41283,6 +41283,27 @@
         "timestampStart": 1763402400,
         "timestampUpload": 1762189699,
         "weekDay": 0,
+        "year": 2025
+    },
+    "tFOhzPwAL__dLmk3TYZJe4jb59c": {
+        "author": "383df219-53b5-41ce-b7a8-bd53d95d531a",
+        "authorTime": 57211,
+        "bronzeTime": 86000,
+        "campaignId": 116329,
+        "goldTime": 61000,
+        "mapId": "60704a7b-72d6-4306-89b8-2d6ad27b2f5d",
+        "mapUid": "tFOhzPwAL__dLmk3TYZJe4jb59c",
+        "month": 11,
+        "monthDay": 18,
+        "name": "$o$EC5[NN] \u2013 $fffEchoes of Dust $ec5ft sqweegel",
+        "number": 1967,
+        "seasonUid": "b822e99f-c847-4368-bb61-c00498f291a7",
+        "silverTime": 69000,
+        "submitter": "383df219-53b5-41ce-b7a8-bd53d95d531a",
+        "timestampEnd": 1763575200,
+        "timestampStart": 1763488800,
+        "timestampUpload": 1763423982,
+        "weekDay": 1,
         "year": 2025
     }
 }
