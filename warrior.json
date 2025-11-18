@@ -1,5 +1,5 @@
 {
-    "next": 1763496000,
+    "next": 1763582400,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -30789,6 +30789,17 @@
             "worldRecord": 47445,
             "mapId": "a10acbb5-a80f-4353-a4bf-610cf2876d1a",
             "goldTime": 52000
+        },
+        {
+            "authorTime": 57211,
+            "date": "2025-11-18",
+            "mapUid": "tFOhzPwAL__dLmk3TYZJe4jb59c",
+            "name": "$o$EC5[NN] \u2013 $fffEchoes of Dust $ec5ft sqweegel",
+            "reason": null,
+            "warriorTime": 57114,
+            "worldRecord": 56433,
+            "mapId": "60704a7b-72d6-4306-89b8-2d6ad27b2f5d",
+            "goldTime": 61000
         }
     ],
     "Other": [
