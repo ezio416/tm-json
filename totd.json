@@ -40462,7 +40462,7 @@
         "submitter": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
         "timestampEnd": 1760115600,
         "timestampStart": 1760029200,
-        "timestampUpload": 1757238513,
+        "timestampUpload": 1763506112,
         "weekDay": 3,
         "year": 2025
     },
@@ -41260,7 +41260,7 @@
         "submitter": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
         "timestampEnd": 1763402400,
         "timestampStart": 1763316000,
-        "timestampUpload": 1761672536,
+        "timestampUpload": 1763506113,
         "weekDay": 6,
         "year": 2025
     },
@@ -41304,6 +41304,27 @@
         "timestampStart": 1763488800,
         "timestampUpload": 1763423982,
         "weekDay": 1,
+        "year": 2025
+    },
+    "8MgbqlwlEyWEKLkHlwHr5tQEzt1": {
+        "author": "9ea5cfa7-0af0-4115-90da-1e516f8be79e",
+        "authorTime": 46421,
+        "bronzeTime": 70000,
+        "campaignId": 116331,
+        "goldTime": 50000,
+        "mapId": "937fa8d2-cd35-4278-a86a-69fce29a01a7",
+        "mapUid": "8MgbqlwlEyWEKLkHlwHr5tQEzt1",
+        "month": 11,
+        "monthDay": 19,
+        "name": "$0FFCal$1EFaite$2EF $2DFCita$3CFdel $FFFft' Laku27",
+        "number": 1968,
+        "seasonUid": "c1a74662-9a99-467b-86e5-c1e4ba5a80af",
+        "silverTime": 56000,
+        "submitter": "9ea5cfa7-0af0-4115-90da-1e516f8be79e",
+        "timestampEnd": 1763661600,
+        "timestampStart": 1763575200,
+        "timestampUpload": 1762446263,
+        "weekDay": 2,
         "year": 2025
     }
 }
