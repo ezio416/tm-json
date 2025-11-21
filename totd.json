@@ -38698,7 +38698,7 @@
         "submitter": "af03d9d3-9693-41cb-9270-da7d34c48bb6",
         "timestampEnd": 1752858000,
         "timestampStart": 1752771600,
-        "timestampUpload": 1750260416,
+        "timestampUpload": 1763747153,
         "weekDay": 3,
         "year": 2025
     },
@@ -39811,7 +39811,7 @@
         "submitter": "a39b42d7-bcb9-4b91-89d8-adefcc874975",
         "timestampEnd": 1757437200,
         "timestampStart": 1757350800,
-        "timestampUpload": 1756419250,
+        "timestampUpload": 1763696349,
         "weekDay": 0,
         "year": 2025
     },
@@ -40252,7 +40252,7 @@
         "submitter": "af03d9d3-9693-41cb-9270-da7d34c48bb6",
         "timestampEnd": 1759251600,
         "timestampStart": 1759165200,
-        "timestampUpload": 1757606362,
+        "timestampUpload": 1763747156,
         "weekDay": 0,
         "year": 2025
     },
@@ -41029,7 +41029,7 @@
         "submitter": "af03d9d3-9693-41cb-9270-da7d34c48bb6",
         "timestampEnd": 1762452000,
         "timestampStart": 1762365600,
-        "timestampUpload": 1759163929,
+        "timestampUpload": 1763747158,
         "weekDay": 2,
         "year": 2025
     },
@@ -41346,6 +41346,27 @@
         "timestampStart": 1763661600,
         "timestampUpload": 1762117446,
         "weekDay": 3,
+        "year": 2025
+    },
+    "Wl_cikP5jtvLtxHU59dXhG4Yx2m": {
+        "author": "37e531e5-69c3-47ff-9120-0c274c519570",
+        "authorTime": 42718,
+        "bronzeTime": 65000,
+        "campaignId": 116330,
+        "goldTime": 46000,
+        "mapId": "95c55488-cb46-4769-ac80-38b62176e49b",
+        "mapUid": "Wl_cikP5jtvLtxHU59dXhG4Yx2m",
+        "month": 11,
+        "monthDay": 21,
+        "name": "$oWhite $FCCPar$C99tic$966les",
+        "number": 1970,
+        "seasonUid": "8701c442-4ff9-4f9b-b6d5-4f624ca99cb1",
+        "silverTime": 52000,
+        "submitter": "37e531e5-69c3-47ff-9120-0c274c519570",
+        "timestampEnd": 1763834400,
+        "timestampStart": 1763748000,
+        "timestampUpload": 1760399400,
+        "weekDay": 4,
         "year": 2025
     }
 }
