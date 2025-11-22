@@ -14464,7 +14464,7 @@
         "submitter": "06a503ae-f6da-430b-8d75-901e1302dfb5",
         "timestampEnd": 1653152400,
         "timestampStart": 1653066000,
-        "timestampUpload": 1693146712,
+        "timestampUpload": 1763755309,
         "weekDay": 4,
         "year": 2022
     },
@@ -14779,7 +14779,7 @@
         "submitter": "06a503ae-f6da-430b-8d75-901e1302dfb5",
         "timestampEnd": 1654448400,
         "timestampStart": 1654362000,
-        "timestampUpload": 1693146794,
+        "timestampUpload": 1763755309,
         "weekDay": 5,
         "year": 2022
     },
@@ -17257,7 +17257,7 @@
         "submitter": "06a503ae-f6da-430b-8d75-901e1302dfb5",
         "timestampEnd": 1664643600,
         "timestampStart": 1664557200,
-        "timestampUpload": 1693146795,
+        "timestampUpload": 1763755309,
         "weekDay": 4,
         "year": 2022
     },
@@ -18034,7 +18034,7 @@
         "submitter": "06a503ae-f6da-430b-8d75-901e1302dfb5",
         "timestampEnd": 1667844000,
         "timestampStart": 1667757600,
-        "timestampUpload": 1693146713,
+        "timestampUpload": 1763755309,
         "weekDay": 6,
         "year": 2022
     },
@@ -21079,7 +21079,7 @@
         "submitter": "06a503ae-f6da-430b-8d75-901e1302dfb5",
         "timestampEnd": 1680368400,
         "timestampStart": 1680282000,
-        "timestampUpload": 1693146796,
+        "timestampUpload": 1763755308,
         "weekDay": 4,
         "year": 2023
     },
@@ -24754,7 +24754,7 @@
         "submitter": "06a503ae-f6da-430b-8d75-901e1302dfb5",
         "timestampEnd": 1695488400,
         "timestampStart": 1695402000,
-        "timestampUpload": 1694796736,
+        "timestampUpload": 1763755308,
         "weekDay": 4,
         "year": 2023
     },
@@ -41367,6 +41367,27 @@
         "timestampStart": 1763748000,
         "timestampUpload": 1760399400,
         "weekDay": 4,
+        "year": 2025
+    },
+    "Oz9awRtlfx5cFNpNWTK_bLzbnlk": {
+        "author": "9c36b127-d1ce-4cf7-85fa-e9d11bcbb5fd",
+        "authorTime": 38340,
+        "bronzeTime": 58000,
+        "campaignId": 116687,
+        "goldTime": 41000,
+        "mapId": "7f77d1fc-52cd-48fb-8dac-c20108345710",
+        "mapUid": "Oz9awRtlfx5cFNpNWTK_bLzbnlk",
+        "month": 11,
+        "monthDay": 22,
+        "name": "$o$s$fccWWC2 \u2013 Elbrus",
+        "number": 1971,
+        "seasonUid": "1ee3a455-1bbc-4a8b-a0a8-e718d700d6d6",
+        "silverTime": 47000,
+        "submitter": "9c36b127-d1ce-4cf7-85fa-e9d11bcbb5fd",
+        "timestampEnd": 1763920800,
+        "timestampStart": 1763834400,
+        "timestampUpload": 1762719764,
+        "weekDay": 5,
         "year": 2025
     }
 }
