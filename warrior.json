@@ -1,5 +1,5 @@
 {
-    "next": 1763841600,
+    "next": 1763917200,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -30833,6 +30833,17 @@
             "worldRecord": 42158,
             "mapId": "95c55488-cb46-4769-ac80-38b62176e49b",
             "goldTime": 46000
+        },
+        {
+            "authorTime": 38340,
+            "date": "2025-11-22",
+            "mapUid": "Oz9awRtlfx5cFNpNWTK_bLzbnlk",
+            "name": "$o$s$fccWWC2 \u2013 Elbrus",
+            "reason": null,
+            "warriorTime": 38269,
+            "worldRecord": 37771,
+            "mapId": "7f77d1fc-52cd-48fb-8dac-c20108345710",
+            "goldTime": 41000
         }
     ],
     "Other": [
