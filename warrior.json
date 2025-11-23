@@ -1,5 +1,5 @@
 {
-    "next": 1763917200,
+    "next": 1763928000,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -9172,6 +9172,71 @@
             "goldTime": 22000,
             "campaignId": 115334,
             "week": 48
+        },
+        {
+            "authorTime": 19792,
+            "mapUid": "MMq83RFVlbyzXUPr8QmD7jed7q0",
+            "name": "1 - $F94Valley $0C5Way",
+            "number": 241,
+            "reason": null,
+            "warriorTime": 17892,
+            "worldRecord": 15992,
+            "mapId": "b0987579-5e2e-46ba-b38c-3593b64fe877",
+            "goldTime": 21000,
+            "campaignId": 116155,
+            "week": 49
+        },
+        {
+            "authorTime": 18861,
+            "mapUid": "an4iuzko7A2erxjBzxy1qSfqpuj",
+            "name": "2 - $o$F0CSo$F0Dli$F0Etu$F0Fde",
+            "number": 242,
+            "reason": null,
+            "warriorTime": 16993,
+            "worldRecord": 15124,
+            "mapId": "583428b2-7970-44e5-a581-09e154a2df51",
+            "goldTime": 20000,
+            "campaignId": 116155,
+            "week": 49
+        },
+        {
+            "authorTime": 17924,
+            "mapUid": "42Ykq0p0OS9ffkhClTXvvb2QCl6",
+            "name": "3 - Temple of Cuts",
+            "number": 243,
+            "reason": null,
+            "warriorTime": 14537,
+            "worldRecord": 11149,
+            "mapId": "3bd8bd20-f6de-4d3a-8f60-00ee53d7f9a4",
+            "goldTime": 19000,
+            "campaignId": 116155,
+            "week": 49
+        },
+        {
+            "authorTime": 19223,
+            "mapUid": "NbRdMKcaMl31j1Ry34d0N7hQpla",
+            "name": "4 - $s$o$FFF A $F00$i Forgotten $FFF $iIndustry",
+            "number": 244,
+            "reason": null,
+            "warriorTime": 16019,
+            "worldRecord": 12814,
+            "mapId": "97dba9dc-9e50-40bc-88da-665c3ef54693",
+            "goldTime": 21000,
+            "campaignId": 116155,
+            "week": 49
+        },
+        {
+            "authorTime": 20000,
+            "mapUid": "hIX2PKvFvbiWNJVIxLBnn_LBPGd",
+            "name": "$o 5 - $0ff Flappy$0f0 car",
+            "number": 245,
+            "reason": null,
+            "warriorTime": 16469,
+            "worldRecord": 12937,
+            "mapId": "95d0ec25-ce82-401e-8147-b3665557b7fd",
+            "goldTime": 22000,
+            "campaignId": 116155,
+            "week": 49
         }
     ],
     "Totd": [
