@@ -41389,5 +41389,26 @@
         "timestampUpload": 1762719764,
         "weekDay": 5,
         "year": 2025
+    },
+    "8K_C3OXpHJaJPt1H3hcTFEZh6W3": {
+        "author": "abdc0576-fae7-4b31-96dc-539b8cda095f",
+        "authorTime": 48003,
+        "bronzeTime": 73000,
+        "campaignId": 116688,
+        "goldTime": 51000,
+        "mapId": "3f302805-8c8d-47ad-9c54-e8c976831ef5",
+        "mapUid": "8K_C3OXpHJaJPt1H3hcTFEZh6W3",
+        "month": 11,
+        "monthDay": 23,
+        "name": "$sPlatte Flunder $zft' Prizzly",
+        "number": 1972,
+        "seasonUid": "7be9f86f-0d8d-4705-a6a1-fa1a74d2ce38",
+        "silverTime": 58000,
+        "submitter": "abdc0576-fae7-4b31-96dc-539b8cda095f",
+        "timestampEnd": 1764007200,
+        "timestampStart": 1763920800,
+        "timestampUpload": 1754835238,
+        "weekDay": 6,
+        "year": 2025
     }
 }
