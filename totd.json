@@ -32818,7 +32818,7 @@
         "submitter": "ac424f5e-5612-4a44-8b87-6403be2b690f",
         "timestampEnd": 1728666000,
         "timestampStart": 1728579600,
-        "timestampUpload": 1763160433,
+        "timestampUpload": 1764000213,
         "weekDay": 3,
         "year": 2024
     },
@@ -33616,7 +33616,7 @@
         "submitter": "ac424f5e-5612-4a44-8b87-6403be2b690f",
         "timestampEnd": 1731952800,
         "timestampStart": 1731866400,
-        "timestampUpload": 1763318852,
+        "timestampUpload": 1764000216,
         "weekDay": 6,
         "year": 2024
     },
@@ -35212,7 +35212,7 @@
         "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
         "timestampEnd": 1738519200,
         "timestampStart": 1738432800,
-        "timestampUpload": 1747811544,
+        "timestampUpload": 1763956247,
         "weekDay": 5,
         "year": 2025
     },
@@ -36031,7 +36031,7 @@
         "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
         "timestampEnd": 1741888800,
         "timestampStart": 1741802400,
-        "timestampUpload": 1752961137,
+        "timestampUpload": 1763956241,
         "weekDay": 2,
         "year": 2025
     },
@@ -38446,7 +38446,7 @@
         "submitter": "ac424f5e-5612-4a44-8b87-6403be2b690f",
         "timestampEnd": 1751821200,
         "timestampStart": 1751734800,
-        "timestampUpload": 1763160421,
+        "timestampUpload": 1764000211,
         "weekDay": 5,
         "year": 2025
     },
@@ -38803,7 +38803,7 @@
         "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
         "timestampEnd": 1753290000,
         "timestampStart": 1753203600,
-        "timestampUpload": 1753297025,
+        "timestampUpload": 1763956243,
         "weekDay": 1,
         "year": 2025
     },
@@ -40084,7 +40084,7 @@
         "submitter": "ac424f5e-5612-4a44-8b87-6403be2b690f",
         "timestampEnd": 1758560400,
         "timestampStart": 1758474000,
-        "timestampUpload": 1763318930,
+        "timestampUpload": 1764000209,
         "weekDay": 6,
         "year": 2025
     },
@@ -41302,7 +41302,7 @@
         "submitter": "383df219-53b5-41ce-b7a8-bd53d95d531a",
         "timestampEnd": 1763575200,
         "timestampStart": 1763488800,
-        "timestampUpload": 1763423982,
+        "timestampUpload": 1763992169,
         "weekDay": 1,
         "year": 2025
     },
@@ -41344,7 +41344,7 @@
         "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
         "timestampEnd": 1763748000,
         "timestampStart": 1763661600,
-        "timestampUpload": 1762117446,
+        "timestampUpload": 1763956245,
         "weekDay": 3,
         "year": 2025
     },
@@ -41409,6 +41409,27 @@
         "timestampStart": 1763920800,
         "timestampUpload": 1754835238,
         "weekDay": 6,
+        "year": 2025
+    },
+    "Gn05UoDZWfEp9bCZf7yja3v28q4": {
+        "author": "e7c087cf-46d7-402d-af1a-8abf9c12cad3",
+        "authorTime": 45255,
+        "bronzeTime": 68000,
+        "campaignId": 116689,
+        "goldTime": 48000,
+        "mapId": "18f94d19-f5ed-4b56-8a0d-ab83f3c500e0",
+        "mapUid": "Gn05UoDZWfEp9bCZf7yja3v28q4",
+        "month": 11,
+        "monthDay": 24,
+        "name": "$i$o$3FFFish Dreams $6032 $i$o$FFFFt deadfish",
+        "number": 1973,
+        "seasonUid": "e2c105e1-b265-44be-8741-1830bdbe40ff",
+        "silverTime": 55000,
+        "submitter": "e7c087cf-46d7-402d-af1a-8abf9c12cad3",
+        "timestampEnd": 1764093600,
+        "timestampStart": 1764007200,
+        "timestampUpload": 1763413988,
+        "weekDay": 0,
         "year": 2025
     }
 }
