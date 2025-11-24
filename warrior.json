@@ -1,5 +1,5 @@
 {
-    "next": 1764014400,
+    "next": 1764100800,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -30920,6 +30920,17 @@
             "worldRecord": 47104,
             "mapId": "3f302805-8c8d-47ad-9c54-e8c976831ef5",
             "goldTime": 51000
+        },
+        {
+            "authorTime": 45255,
+            "date": "2025-11-24",
+            "mapUid": "Gn05UoDZWfEp9bCZf7yja3v28q4",
+            "name": "$i$o$3FFFish Dreams $6032 $i$o$FFFFt deadfish",
+            "reason": null,
+            "warriorTime": 45008,
+            "worldRecord": 43275,
+            "mapId": "18f94d19-f5ed-4b56-8a0d-ab83f3c500e0",
+            "goldTime": 48000
         }
     ],
     "Other": [
