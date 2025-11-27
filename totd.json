@@ -41473,5 +41473,26 @@
         "timestampUpload": 1763320607,
         "weekDay": 2,
         "year": 2025
+    },
+    "2NlEHNom2AEiaYBrhnMluJjLs_7": {
+        "author": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
+        "authorTime": 40554,
+        "bronzeTime": 50000,
+        "campaignId": 117002,
+        "goldTime": 42000,
+        "mapId": "0e494ea4-fb8f-4522-9d65-7956babea110",
+        "mapUid": "2NlEHNom2AEiaYBrhnMluJjLs_7",
+        "month": 11,
+        "monthDay": 27,
+        "name": "$z$s$n$o$i$dddOSSIFIED $fffFT' $dddCOTTON",
+        "number": 1976,
+        "seasonUid": "89f71e50-0d6b-4960-baa2-f29773d8e968",
+        "silverTime": 45000,
+        "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
+        "timestampEnd": 1764352800,
+        "timestampStart": 1764266400,
+        "timestampUpload": 1757865448,
+        "weekDay": 3,
+        "year": 2025
     }
 }
