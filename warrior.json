@@ -1,5 +1,5 @@
 {
-    "next": 1764522000,
+    "next": 1764532800,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -9237,6 +9237,71 @@
             "goldTime": 22000,
             "campaignId": 116155,
             "week": 49
+        },
+        {
+            "authorTime": 19420,
+            "mapUid": "T8fNPWhTMxWlaon9j8TRdzymMi",
+            "name": "1 - $C00Berry Fever Dream",
+            "number": 246,
+            "reason": null,
+            "warriorTime": 17124,
+            "worldRecord": 14827,
+            "mapId": "9a8487df-fcd0-414f-9755-5efdb24b26b7",
+            "goldTime": 21000,
+            "campaignId": 116693,
+            "week": 50
+        },
+        {
+            "authorTime": 19773,
+            "mapUid": "kXm_xUNw3Gx0sL1Icc5M8sBkCm1",
+            "name": "2 - $F83F$F94u$FA5n$FB6k$FC7y $FFFFactory",
+            "number": 247,
+            "reason": null,
+            "warriorTime": 18046,
+            "worldRecord": 16319,
+            "mapId": "43412b22-8e6f-4e5c-889c-51b042e43bc7",
+            "goldTime": 21000,
+            "campaignId": 116693,
+            "week": 50
+        },
+        {
+            "authorTime": 19535,
+            "mapUid": "LnBhSbyWRBNJ3MGfJHryByrKIei",
+            "name": "3 - $i$FFFH$EEEu$DDDr$CCCr$BBBi$AAAcane I$BBBs$CCCl$DDDe",
+            "number": 248,
+            "reason": null,
+            "warriorTime": 16702,
+            "worldRecord": 13869,
+            "mapId": "669c8276-cf36-4d09-92c5-ae5f25bb963a",
+            "goldTime": 21000,
+            "campaignId": 116693,
+            "week": 50
+        },
+        {
+            "authorTime": 19435,
+            "mapUid": "JmLFXjJhTs_8FrODc3r_iCrcUL6",
+            "name": "4 - $o$i$F30R$F40a$F50d$F60ia$F70n$F80c$F90e",
+            "number": 249,
+            "reason": null,
+            "warriorTime": 17454,
+            "worldRecord": 15472,
+            "mapId": "a08400c0-12b2-41aa-966b-5b103e291165",
+            "goldTime": 21000,
+            "campaignId": 116693,
+            "week": 50
+        },
+        {
+            "authorTime": 19209,
+            "mapUid": "UpFSvHcuZs3GADn3q41Uq3_79t4",
+            "name": "5 - $06FSubmarine",
+            "number": 250,
+            "reason": null,
+            "warriorTime": 16349,
+            "worldRecord": 13488,
+            "mapId": "aef9a29b-c62a-447c-bf29-887bbf0b864d",
+            "goldTime": 21000,
+            "campaignId": 116693,
+            "week": 50
         }
     ],
     "Totd": [
