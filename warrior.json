@@ -1,5 +1,5 @@
 {
-    "next": 1764619200,
+    "next": 1764705600,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31062,6 +31062,17 @@
             "worldRecord": 47738,
             "mapId": "989e024e-a501-48b4-8d55-2c9c81b9366a",
             "goldTime": 52000
+        },
+        {
+            "authorTime": 35420,
+            "date": "2025-12-01",
+            "mapUid": "RZVTdWDRv7K7788lhE5iYNN5IM5",
+            "name": "$z$9C3$i$n$s$oTURTLES IN TRAINING! $fff(ft' adni)",
+            "reason": null,
+            "warriorTime": 35029,
+            "worldRecord": 32285,
+            "mapId": "1c64b776-4f7b-438b-9de8-2acfbcd42a30",
+            "goldTime": 37000
         }
     ],
     "Other": [
