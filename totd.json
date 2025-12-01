@@ -40105,7 +40105,7 @@
         "submitter": "4da5e1c9-bc7e-4d6f-82de-a891dd1ddec6",
         "timestampEnd": 1758646800,
         "timestampStart": 1758560400,
-        "timestampUpload": 1756749014,
+        "timestampUpload": 1764538694,
         "weekDay": 0,
         "year": 2025
     },
@@ -41556,6 +41556,27 @@
         "timestampStart": 1764525600,
         "timestampUpload": 1762886184,
         "weekDay": 6,
+        "year": 2025
+    },
+    "RZVTdWDRv7K7788lhE5iYNN5IM5": {
+        "author": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
+        "authorTime": 35420,
+        "bronzeTime": 45000,
+        "campaignId": 117359,
+        "goldTime": 37000,
+        "mapId": "1c64b776-4f7b-438b-9de8-2acfbcd42a30",
+        "mapUid": "RZVTdWDRv7K7788lhE5iYNN5IM5",
+        "month": 12,
+        "monthDay": 1,
+        "name": "$z$9C3$i$n$s$oTURTLES IN TRAINING! $fff(ft' adni)",
+        "number": 1980,
+        "seasonUid": "5909c59b-f959-4b29-92bc-e6952446a1cd",
+        "silverTime": 40000,
+        "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
+        "timestampEnd": 1764698400,
+        "timestampStart": 1764612000,
+        "timestampUpload": 1764315499,
+        "weekDay": 0,
         "year": 2025
     }
 }
