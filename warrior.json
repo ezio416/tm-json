@@ -1,5 +1,5 @@
 {
-    "next": 1764705600,
+    "next": 1764792000,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31073,6 +31073,17 @@
             "worldRecord": 32285,
             "mapId": "1c64b776-4f7b-438b-9de8-2acfbcd42a30",
             "goldTime": 37000
+        },
+        {
+            "authorTime": 66923,
+            "date": "2025-12-02",
+            "mapUid": "0Nzf_mkHLv5B8LYNhYospA_ItS7",
+            "name": "$sACP$D13#$fff02 - Light of the World ft$D13'$fff prizzly",
+            "reason": null,
+            "warriorTime": 66864,
+            "worldRecord": 66445,
+            "mapId": "176c9448-7569-48f7-87ab-94c3e4d47863",
+            "goldTime": 71000
         }
     ],
     "Other": [
