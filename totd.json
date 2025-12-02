@@ -41491,7 +41491,7 @@
         "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
         "timestampEnd": 1764352800,
         "timestampStart": 1764266400,
-        "timestampUpload": 1757865448,
+        "timestampUpload": 1764661037,
         "weekDay": 3,
         "year": 2025
     },
@@ -41575,8 +41575,29 @@
         "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
         "timestampEnd": 1764698400,
         "timestampStart": 1764612000,
-        "timestampUpload": 1764315499,
+        "timestampUpload": 1764661040,
         "weekDay": 0,
+        "year": 2025
+    },
+    "0Nzf_mkHLv5B8LYNhYospA_ItS7": {
+        "author": "f5788168-5d7d-4552-a30a-42565e1f9019",
+        "authorTime": 66923,
+        "bronzeTime": 101000,
+        "campaignId": 117718,
+        "goldTime": 71000,
+        "mapId": "176c9448-7569-48f7-87ab-94c3e4d47863",
+        "mapUid": "0Nzf_mkHLv5B8LYNhYospA_ItS7",
+        "month": 12,
+        "monthDay": 2,
+        "name": "$sACP$D13#$fff02 - Light of the World ft$D13'$fff prizzly",
+        "number": 1981,
+        "seasonUid": "17be9edb-5375-435d-8ba8-75d70ce21a7b",
+        "silverTime": 81000,
+        "submitter": "f5788168-5d7d-4552-a30a-42565e1f9019",
+        "timestampEnd": 1764784800,
+        "timestampStart": 1764698400,
+        "timestampUpload": 1764596314,
+        "weekDay": 1,
         "year": 2025
     }
 }
