@@ -41599,5 +41599,26 @@
         "timestampUpload": 1764596314,
         "weekDay": 1,
         "year": 2025
+    },
+    "tyuMDFS2yZOGh8kZVQ8HgXZSju7": {
+        "author": "3792698d-1156-4502-ab27-10daa29ae8eb",
+        "authorTime": 50838,
+        "bronzeTime": 77000,
+        "campaignId": 117781,
+        "goldTime": 54000,
+        "mapId": "67d7d662-1f45-4da2-8978-e8ce2decb6b7",
+        "mapUid": "tyuMDFS2yZOGh8kZVQ8HgXZSju7",
+        "month": 12,
+        "monthDay": 3,
+        "name": "$8DC$oTeal $sTravels",
+        "number": 1982,
+        "seasonUid": "37fe7fe2-12ac-48a5-aae1-14db1ac93ce7",
+        "silverTime": 62000,
+        "submitter": "3792698d-1156-4502-ab27-10daa29ae8eb",
+        "timestampEnd": 1764871200,
+        "timestampStart": 1764784800,
+        "timestampUpload": 1761600005,
+        "weekDay": 2,
+        "year": 2025
     }
 }
