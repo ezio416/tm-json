@@ -41620,5 +41620,26 @@
         "timestampUpload": 1761600005,
         "weekDay": 2,
         "year": 2025
+    },
+    "E8r42JQalWZ1dJoSeLyINChfBgg": {
+        "author": "ac424f5e-5612-4a44-8b87-6403be2b690f",
+        "authorTime": 65001,
+        "bronzeTime": 98000,
+        "campaignId": 117782,
+        "goldTime": 69000,
+        "mapId": "219cec70-475a-4912-88ff-780f0acacbe1",
+        "mapUid": "E8r42JQalWZ1dJoSeLyINChfBgg",
+        "month": 12,
+        "monthDay": 4,
+        "name": "$s$222ZA$eeeFS $222- $i$eeeKeep up the $i$af0Pace",
+        "number": 1983,
+        "seasonUid": "b0b72731-4889-4168-aa0c-4e007c130ce9",
+        "silverTime": 79000,
+        "submitter": "ac424f5e-5612-4a44-8b87-6403be2b690f",
+        "timestampEnd": 1764957600,
+        "timestampStart": 1764871200,
+        "timestampUpload": 1764000207,
+        "weekDay": 3,
+        "year": 2025
     }
 }
