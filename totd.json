@@ -41638,8 +41638,29 @@
         "submitter": "ac424f5e-5612-4a44-8b87-6403be2b690f",
         "timestampEnd": 1764957600,
         "timestampStart": 1764871200,
-        "timestampUpload": 1764000207,
+        "timestampUpload": 1764875537,
         "weekDay": 3,
+        "year": 2025
+    },
+    "6r2WjSmrdNlmzLhcAn1IiXcqB0n": {
+        "author": "c2aaa990-1091-47d5-8aff-870bbb760ea7",
+        "authorTime": 47255,
+        "bronzeTime": 71000,
+        "campaignId": 117783,
+        "goldTime": 51000,
+        "mapId": "7f8e7f10-6bab-44f4-a1f1-2c4c84c14a72",
+        "mapUid": "6r2WjSmrdNlmzLhcAn1IiXcqB0n",
+        "month": 12,
+        "monthDay": 5,
+        "name": "$FC0$n$s$iSomewhere I Belong",
+        "number": 1984,
+        "seasonUid": "fd419ec4-8c49-4819-b15b-66511f8b4397",
+        "silverTime": 57000,
+        "submitter": "c2aaa990-1091-47d5-8aff-870bbb760ea7",
+        "timestampEnd": 1765044000,
+        "timestampStart": 1764957600,
+        "timestampUpload": 1763582059,
+        "weekDay": 4,
         "year": 2025
     }
 }
