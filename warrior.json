@@ -1,5 +1,5 @@
 {
-    "next": 1764964800,
+    "next": 1765051200,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31106,6 +31106,17 @@
             "worldRecord": 64785,
             "mapId": "219cec70-475a-4912-88ff-780f0acacbe1",
             "goldTime": 69000
+        },
+        {
+            "authorTime": 47255,
+            "date": "2025-12-05",
+            "mapUid": "6r2WjSmrdNlmzLhcAn1IiXcqB0n",
+            "name": "$FC0$n$s$iSomewhere I Belong",
+            "reason": null,
+            "warriorTime": 47196,
+            "worldRecord": 46782,
+            "mapId": "7f8e7f10-6bab-44f4-a1f1-2c4c84c14a72",
+            "goldTime": 51000
         }
     ],
     "Other": [
