@@ -1,5 +1,5 @@
 {
-    "next": 1765126800,
+    "next": 1765137600,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -9302,6 +9302,71 @@
             "goldTime": 21000,
             "campaignId": 116693,
             "week": 50
+        },
+        {
+            "authorTime": 19999,
+            "mapUid": "sYOgjSUO8TbWi3CPM99rGbs8qx6",
+            "name": "1 - $S$T$O$0FCglacier $0FCr$3FDe$6FDs$9FEc$CFEu$FFFe",
+            "number": 251,
+            "reason": null,
+            "warriorTime": 18053,
+            "worldRecord": 16106,
+            "mapId": "e5affb75-3617-4f42-84c6-b5cbb4cce095",
+            "goldTime": 22000,
+            "campaignId": 117362,
+            "week": 51
+        },
+        {
+            "authorTime": 19864,
+            "mapUid": "Ajmubi0Zn8NiGYouMUqnzdCtXei",
+            "name": "2 - $6B4V$7C4e$8D4r$9E4d$AF4e$FFFlight",
+            "number": 252,
+            "reason": null,
+            "warriorTime": 18512,
+            "worldRecord": 17160,
+            "mapId": "9329f9e6-5866-4bf1-924e-be4197d59895",
+            "goldTime": 22000,
+            "campaignId": 117362,
+            "week": 51
+        },
+        {
+            "authorTime": 18000,
+            "mapUid": "ZPtwetZRNrhyWjXEqXPxFeizHV2",
+            "name": "$o$3A63 - Ve$5B6rdan$7C6t Vil$9D6lage",
+            "number": 253,
+            "reason": null,
+            "warriorTime": 15439,
+            "worldRecord": 12878,
+            "mapId": "cc1132ad-1e91-4718-a933-a969777b0de8",
+            "goldTime": 20000,
+            "campaignId": 117362,
+            "week": 51
+        },
+        {
+            "authorTime": 19706,
+            "mapUid": "_Ou0U4HjXYrj6uwvxAENQmVVkbc",
+            "name": "4 - $FFCS$FEAp$FD9e$FC7e$FC5d$FB3w$FA2a$F90y $z ft B1EM",
+            "number": 254,
+            "reason": null,
+            "warriorTime": 9978,
+            "worldRecord": 250,
+            "mapId": "cc5d45c4-7337-4b7f-8a31-90d3530e8a8d",
+            "goldTime": 21000,
+            "campaignId": 117362,
+            "week": 51
+        },
+        {
+            "authorTime": 19666,
+            "mapUid": "SDf2w1SXO3EfPMwEExCJeuFP4vi",
+            "name": "$o5 - $f80Darude",
+            "number": 255,
+            "reason": null,
+            "warriorTime": 16317,
+            "worldRecord": 12967,
+            "mapId": "bcbc5059-976b-4a57-bfe9-7fa4f707b6c9",
+            "goldTime": 21000,
+            "campaignId": 117362,
+            "week": 51
         }
     ],
     "Totd": [
