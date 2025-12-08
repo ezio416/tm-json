@@ -41704,5 +41704,26 @@
         "timestampUpload": 1764298391,
         "weekDay": 6,
         "year": 2025
+    },
+    "C1vREufGiiVvlLSSq3TMf6wBLi8": {
+        "author": "3c7699e6-3e08-406a-90fa-9affe0d46a8c",
+        "authorTime": 51054,
+        "bronzeTime": 77000,
+        "campaignId": 118120,
+        "goldTime": 55000,
+        "mapId": "3b6de17a-e5c9-4c25-a1ba-33b493d4c835",
+        "mapUid": "C1vREufGiiVvlLSSq3TMf6wBLi8",
+        "month": 12,
+        "monthDay": 8,
+        "name": "The Sky Was Never Whole",
+        "number": 1987,
+        "seasonUid": "29f89945-1642-4ccd-8c53-883200c53a63",
+        "silverTime": 62000,
+        "submitter": "3c7699e6-3e08-406a-90fa-9affe0d46a8c",
+        "timestampEnd": 1765303200,
+        "timestampStart": 1765216800,
+        "timestampUpload": 1764597743,
+        "weekDay": 0,
+        "year": 2025
     }
 }
