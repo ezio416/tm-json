@@ -1,5 +1,5 @@
 {
-    "next": 1765224000,
+    "next": 1765310400,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31204,6 +31204,17 @@
             "worldRecord": 41212,
             "mapId": "433fb11d-f8d1-408a-b6a3-419f6f262472",
             "goldTime": 45000
+        },
+        {
+            "authorTime": 51054,
+            "date": "2025-12-08",
+            "mapUid": "C1vREufGiiVvlLSSq3TMf6wBLi8",
+            "name": "The Sky Was Never Whole",
+            "reason": null,
+            "warriorTime": 50809,
+            "worldRecord": 49088,
+            "mapId": "3b6de17a-e5c9-4c25-a1ba-33b493d4c835",
+            "goldTime": 55000
         }
     ],
     "Other": [
