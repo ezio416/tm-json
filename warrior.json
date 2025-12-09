@@ -1,5 +1,5 @@
 {
-    "next": 1765310400,
+    "next": 1765396800,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31215,6 +31215,17 @@
             "worldRecord": 49088,
             "mapId": "3b6de17a-e5c9-4c25-a1ba-33b493d4c835",
             "goldTime": 55000
+        },
+        {
+            "authorTime": 45078,
+            "date": "2025-12-09",
+            "mapUid": "T9Q6yQIEsn3F0nBnVEVErZS1HQk",
+            "name": "$n$o$fc9Spooky Scary Ditchfest Mappers",
+            "reason": null,
+            "warriorTime": 44998,
+            "worldRecord": 44435,
+            "mapId": "ef21d429-3918-4234-a248-5937d500869a",
+            "goldTime": 48000
         }
     ],
     "Other": [
