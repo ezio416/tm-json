@@ -41725,5 +41725,26 @@
         "timestampUpload": 1764597743,
         "weekDay": 0,
         "year": 2025
+    },
+    "T9Q6yQIEsn3F0nBnVEVErZS1HQk": {
+        "author": "82323873-ddff-4ec7-9bf5-8329b5da0a91",
+        "authorTime": 45078,
+        "bronzeTime": 68000,
+        "campaignId": 118358,
+        "goldTime": 48000,
+        "mapId": "ef21d429-3918-4234-a248-5937d500869a",
+        "mapUid": "T9Q6yQIEsn3F0nBnVEVErZS1HQk",
+        "month": 12,
+        "monthDay": 9,
+        "name": "$n$o$fc9Spooky Scary Ditchfest Mappers",
+        "number": 1988,
+        "seasonUid": "91a58a9c-0802-4f37-a8de-480f67d93c6f",
+        "silverTime": 55000,
+        "submitter": "82323873-ddff-4ec7-9bf5-8329b5da0a91",
+        "timestampEnd": 1765389600,
+        "timestampStart": 1765303200,
+        "timestampUpload": 1761594798,
+        "weekDay": 1,
+        "year": 2025
     }
 }
