@@ -1,5 +1,5 @@
 {
-    "next": 1765396800,
+    "next": 1765483200,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31226,6 +31226,17 @@
             "worldRecord": 44435,
             "mapId": "ef21d429-3918-4234-a248-5937d500869a",
             "goldTime": 48000
+        },
+        {
+            "authorTime": 46101,
+            "date": "2025-12-10",
+            "mapUid": "FFpUAPHlWuHqy1KWwpF6tPXLLN4",
+            "name": "Blue Moment",
+            "reason": null,
+            "warriorTime": 46002,
+            "worldRecord": 45302,
+            "mapId": "4aa4e506-8d73-47ec-9793-965bac88c837",
+            "goldTime": 49000
         }
     ],
     "Other": [
