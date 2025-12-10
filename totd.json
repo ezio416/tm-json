@@ -41746,5 +41746,26 @@
         "timestampUpload": 1761594798,
         "weekDay": 1,
         "year": 2025
+    },
+    "FFpUAPHlWuHqy1KWwpF6tPXLLN4": {
+        "author": "88c2a160-6cc6-4a5d-9624-d0582ff503aa",
+        "authorTime": 46101,
+        "bronzeTime": 70000,
+        "campaignId": 118449,
+        "goldTime": 49000,
+        "mapId": "4aa4e506-8d73-47ec-9793-965bac88c837",
+        "mapUid": "FFpUAPHlWuHqy1KWwpF6tPXLLN4",
+        "month": 12,
+        "monthDay": 10,
+        "name": "Blue Moment",
+        "number": 1989,
+        "seasonUid": "70ff5b28-0afe-4957-9a69-c8e26bd179b7",
+        "silverTime": 56000,
+        "submitter": "88c2a160-6cc6-4a5d-9624-d0582ff503aa",
+        "timestampEnd": 1765476000,
+        "timestampStart": 1765389600,
+        "timestampUpload": 1764782912,
+        "weekDay": 2,
+        "year": 2025
     }
 }
