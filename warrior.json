@@ -1,5 +1,5 @@
 {
-    "next": 1765483200,
+    "next": 1765569600,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31237,6 +31237,17 @@
             "worldRecord": 45302,
             "mapId": "4aa4e506-8d73-47ec-9793-965bac88c837",
             "goldTime": 49000
+        },
+        {
+            "authorTime": 42350,
+            "date": "2025-12-11",
+            "mapUid": "16JeWE8sgoodMOwaZQNGEDVjavg",
+            "name": "$o$EC5[NN] \u2013 You Brake You Lose",
+            "reason": null,
+            "warriorTime": 42326,
+            "worldRecord": 42153,
+            "mapId": "1d50a1c4-83bf-4d1a-922c-6af97bda9640",
+            "goldTime": 45000
         }
     ],
     "Other": [
