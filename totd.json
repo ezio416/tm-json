@@ -41767,5 +41767,26 @@
         "timestampUpload": 1764782912,
         "weekDay": 2,
         "year": 2025
+    },
+    "16JeWE8sgoodMOwaZQNGEDVjavg": {
+        "author": "043d9f0f-3a04-4910-bfb8-36ef33435826",
+        "authorTime": 42350,
+        "bronzeTime": 64000,
+        "campaignId": 118535,
+        "goldTime": 45000,
+        "mapId": "1d50a1c4-83bf-4d1a-922c-6af97bda9640",
+        "mapUid": "16JeWE8sgoodMOwaZQNGEDVjavg",
+        "month": 12,
+        "monthDay": 11,
+        "name": "$o$EC5[NN] \u2013 You Brake You Lose",
+        "number": 1990,
+        "seasonUid": "032b779f-b248-417a-b3e4-f1a17c6b4fa8",
+        "silverTime": 51000,
+        "submitter": "043d9f0f-3a04-4910-bfb8-36ef33435826",
+        "timestampEnd": 1765562400,
+        "timestampStart": 1765476000,
+        "timestampUpload": 1764623112,
+        "weekDay": 3,
+        "year": 2025
     }
 }
