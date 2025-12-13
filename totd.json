@@ -41809,5 +41809,26 @@
         "timestampUpload": 1755888982,
         "weekDay": 4,
         "year": 2025
+    },
+    "pK0Ku3GbcZTtiHUXCo2D9gik5Xi": {
+        "author": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
+        "authorTime": 42741,
+        "bronzeTime": 60000,
+        "campaignId": 118704,
+        "goldTime": 45000,
+        "mapId": "2b4287a0-2b55-46d1-9a14-c4e0a84f812c",
+        "mapUid": "pK0Ku3GbcZTtiHUXCo2D9gik5Xi",
+        "month": 12,
+        "monthDay": 13,
+        "name": "$z$i$s$fffEukaryotic $888ft' $fffQez",
+        "number": 1992,
+        "seasonUid": "de884fc7-cc24-48ef-bc49-18a721cc6a58",
+        "silverTime": 50000,
+        "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
+        "timestampEnd": 1765735200,
+        "timestampStart": 1765648800,
+        "timestampUpload": 1757028623,
+        "weekDay": 5,
+        "year": 2025
     }
 }
