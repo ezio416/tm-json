@@ -1,5 +1,5 @@
 {
-    "next": 1765731600,
+    "next": 1765742400,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -9367,6 +9367,71 @@
             "goldTime": 21000,
             "campaignId": 117362,
             "week": 51
+        },
+        {
+            "authorTime": 19826,
+            "mapUid": "i_HYcVjsje6dpTHFzAQTKB8xSOg",
+            "name": "$o1 - $C00Red $gLights",
+            "number": 256,
+            "reason": null,
+            "warriorTime": 17982,
+            "worldRecord": 16138,
+            "mapId": "6970b0c6-ab46-4123-8843-4c6ec8ba4cd1",
+            "goldTime": 22000,
+            "campaignId": 118125,
+            "week": 52
+        },
+        {
+            "authorTime": 18000,
+            "mapUid": "NPHMRKjzQFzV672HwIRt7dvg3af",
+            "name": "2 - Cold Tires",
+            "number": 257,
+            "reason": null,
+            "warriorTime": 16385,
+            "worldRecord": 14770,
+            "mapId": "a7cd2475-8022-47ff-afcc-8ba6823f0d99",
+            "goldTime": 20000,
+            "campaignId": 118125,
+            "week": 52
+        },
+        {
+            "authorTime": 19624,
+            "mapUid": "tgrxG21mNSkLd_phkOfMqNh1za9",
+            "name": "3 - Super$AAATanker$822XL",
+            "number": 258,
+            "reason": null,
+            "warriorTime": 15377,
+            "worldRecord": 11129,
+            "mapId": "405fdfab-96c9-4518-99e4-eda7c113d31f",
+            "goldTime": 21000,
+            "campaignId": 118125,
+            "week": 52
+        },
+        {
+            "authorTime": 19720,
+            "mapUid": "wfWIh_uvIw0v6lSyjwZt6eq4dAl",
+            "name": "4 - Edge rider",
+            "number": 259,
+            "reason": null,
+            "warriorTime": 18033,
+            "worldRecord": 16346,
+            "mapId": "3c20fda0-3e9e-49b8-a98c-31be57f2ce21",
+            "goldTime": 21000,
+            "campaignId": 118125,
+            "week": 52
+        },
+        {
+            "authorTime": 19982,
+            "mapUid": "jX_RAHexfZbTAFnYpVQGfC6Iu42",
+            "name": "$FFF5 - $o$F00NinjaMania",
+            "number": 260,
+            "reason": null,
+            "warriorTime": 16565,
+            "worldRecord": 13148,
+            "mapId": "a4b40358-b468-44bd-8222-2e0c1c126bca",
+            "goldTime": 22000,
+            "campaignId": 118125,
+            "week": 52
         }
     ],
     "Totd": [
