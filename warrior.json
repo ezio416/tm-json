@@ -1,5 +1,5 @@
 {
-    "next": 1765915200,
+    "next": 1766001600,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31357,6 +31357,17 @@
             "worldRecord": 44639,
             "mapId": "fb5c6536-9c39-45b4-9be0-278f9448d2ff",
             "goldTime": 48000
+        },
+        {
+            "authorTime": 49778,
+            "date": "2025-12-16",
+            "mapUid": "erIrwRswSIE8oTloyZhX6Lt3Ny5",
+            "name": "$o$ff6 Clockwork Sun",
+            "reason": null,
+            "warriorTime": 49745,
+            "worldRecord": 49513,
+            "mapId": "7bc8acf3-7d9d-482d-9c4a-5abbcfa7add0",
+            "goldTime": 53000
         }
     ],
     "Other": [
