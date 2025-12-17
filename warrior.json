@@ -1,5 +1,5 @@
 {
-    "next": 1766001600,
+    "next": 1766088000,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31368,6 +31368,17 @@
             "worldRecord": 49513,
             "mapId": "7bc8acf3-7d9d-482d-9c4a-5abbcfa7add0",
             "goldTime": 53000
+        },
+        {
+            "authorTime": 42982,
+            "date": "2025-12-17",
+            "mapUid": "oxsXlwLo7zDH6Pd0C2kbm8Bvbdi",
+            "name": "$o$630Niwa",
+            "reason": null,
+            "warriorTime": 42955,
+            "worldRecord": 42762,
+            "mapId": "f143bc1d-7e16-4e8c-b518-f425b0910450",
+            "goldTime": 46000
         }
     ],
     "Other": [
