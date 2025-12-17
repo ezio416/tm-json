@@ -41893,5 +41893,26 @@
         "timestampUpload": 1765150455,
         "weekDay": 1,
         "year": 2025
+    },
+    "oxsXlwLo7zDH6Pd0C2kbm8Bvbdi": {
+        "author": "35c1a592-a6b2-464f-8c62-f4d47c894af5",
+        "authorTime": 42982,
+        "bronzeTime": 65000,
+        "campaignId": 118993,
+        "goldTime": 46000,
+        "mapId": "f143bc1d-7e16-4e8c-b518-f425b0910450",
+        "mapUid": "oxsXlwLo7zDH6Pd0C2kbm8Bvbdi",
+        "month": 12,
+        "monthDay": 17,
+        "name": "$o$630Niwa",
+        "number": 1996,
+        "seasonUid": "bd116c4e-a913-412a-bb31-0b102b7059f9",
+        "silverTime": 52000,
+        "submitter": "35c1a592-a6b2-464f-8c62-f4d47c894af5",
+        "timestampEnd": 1766080800,
+        "timestampStart": 1765994400,
+        "timestampUpload": 1765398136,
+        "weekDay": 2,
+        "year": 2025
     }
 }
