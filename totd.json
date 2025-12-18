@@ -41914,5 +41914,26 @@
         "timestampUpload": 1765398136,
         "weekDay": 2,
         "year": 2025
+    },
+    "jAqGMAlN2zjGYQ_CEVhRqDSiaH9": {
+        "author": "45835444-f4cd-471f-9b73-793ec5a4d856",
+        "authorTime": 58458,
+        "bronzeTime": 88000,
+        "campaignId": 119154,
+        "goldTime": 62000,
+        "mapId": "54ec7fb3-a0cc-469e-bae3-9d669b05b889",
+        "mapUid": "jAqGMAlN2zjGYQ_CEVhRqDSiaH9",
+        "month": 12,
+        "monthDay": 18,
+        "name": "$s$1fBBIG TRACKMANIA CUP OF THE DAY ft' sqweegel",
+        "number": 1997,
+        "seasonUid": "608d5c32-4b09-4b35-9fcf-e760c1d58df5",
+        "silverTime": 71000,
+        "submitter": "91ecc3e6-ef3c-4ed9-bf33-a79fdfc15129",
+        "timestampEnd": 1766167200,
+        "timestampStart": 1766080800,
+        "timestampUpload": 1765971474,
+        "weekDay": 3,
+        "year": 2025
     }
 }
