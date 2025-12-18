@@ -1,5 +1,5 @@
 {
-    "next": 1766088000,
+    "next": 1766174400,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31379,6 +31379,17 @@
             "worldRecord": 42762,
             "mapId": "f143bc1d-7e16-4e8c-b518-f425b0910450",
             "goldTime": 46000
+        },
+        {
+            "authorTime": 58458,
+            "date": "2025-12-18",
+            "mapUid": "jAqGMAlN2zjGYQ_CEVhRqDSiaH9",
+            "name": "$s$1fBBIG TRACKMANIA CUP OF THE DAY ft' sqweegel",
+            "reason": null,
+            "warriorTime": 58366,
+            "worldRecord": 57715,
+            "mapId": "54ec7fb3-a0cc-469e-bae3-9d669b05b889",
+            "goldTime": 62000
         }
     ],
     "Other": [
