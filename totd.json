@@ -41977,5 +41977,26 @@
         "timestampUpload": 1764378450,
         "weekDay": 5,
         "year": 2025
+    },
+    "2ADZNvbuBP2e0EL6DAoZiwBiAFj": {
+        "author": "4a983dc3-a938-4564-8a1c-8be20779f069",
+        "authorTime": 41378,
+        "bronzeTime": 63000,
+        "campaignId": 119223,
+        "goldTime": 44000,
+        "mapId": "57076985-ea91-462f-9938-631d53f87292",
+        "mapUid": "2ADZNvbuBP2e0EL6DAoZiwBiAFj",
+        "month": 12,
+        "monthDay": 21,
+        "name": "$o$EC5[NN] \u2013 $000 Just a Challenge $o$EC5ft' Artroy",
+        "number": 2000,
+        "seasonUid": "f1922dd2-4e5f-4cfc-bdac-67dfe8c45e88",
+        "silverTime": 50000,
+        "submitter": "4a983dc3-a938-4564-8a1c-8be20779f069",
+        "timestampEnd": 1766426400,
+        "timestampStart": 1766340000,
+        "timestampUpload": 1764270573,
+        "weekDay": 6,
+        "year": 2025
     }
 }
