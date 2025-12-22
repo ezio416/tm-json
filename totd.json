@@ -41998,5 +41998,26 @@
         "timestampUpload": 1764270573,
         "weekDay": 6,
         "year": 2025
+    },
+    "HIKwERDzqAj5A1zJ7VHjxOUBB35": {
+        "author": "43951107-44bd-4555-9326-b66e2daf8926",
+        "authorTime": 41005,
+        "bronzeTime": 62000,
+        "campaignId": 119224,
+        "goldTime": 44000,
+        "mapId": "8eb7cfd5-1633-45f6-989e-c743404898ca",
+        "mapUid": "HIKwERDzqAj5A1zJ7VHjxOUBB35",
+        "month": 12,
+        "monthDay": 22,
+        "name": "$s$n$o$0FFBalancing $000Act",
+        "number": 2001,
+        "seasonUid": "c007d9f4-8fe3-407c-ac69-89710dac97d5",
+        "silverTime": 50000,
+        "submitter": "43951107-44bd-4555-9326-b66e2daf8926",
+        "timestampEnd": 1766512800,
+        "timestampStart": 1766426400,
+        "timestampUpload": 1765829150,
+        "weekDay": 0,
+        "year": 2025
     }
 }
