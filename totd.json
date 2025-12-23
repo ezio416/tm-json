@@ -42019,5 +42019,26 @@
         "timestampUpload": 1765829150,
         "weekDay": 0,
         "year": 2025
+    },
+    "kTGzlrTuUGAjbykVbVgyWKKSn7c": {
+        "author": "46178b0a-1589-40ed-a06c-16c0e1673396",
+        "authorTime": 43478,
+        "bronzeTime": 66000,
+        "campaignId": 119542,
+        "goldTime": 47000,
+        "mapId": "e49d8f8e-4019-4e81-9fce-e280325ce84f",
+        "mapUid": "kTGzlrTuUGAjbykVbVgyWKKSn7c",
+        "month": 12,
+        "monthDay": 23,
+        "name": "VCC Showcase 20 - $i$0FFC$1EFo$2DFo$3CFl $F06P$F18ar$F2Bty",
+        "number": 2002,
+        "seasonUid": "9646228d-c1ff-4c28-8cee-6153d8f20343",
+        "silverTime": 53000,
+        "submitter": "46178b0a-1589-40ed-a06c-16c0e1673396",
+        "timestampEnd": 1766599200,
+        "timestampStart": 1766512800,
+        "timestampUpload": 1764294208,
+        "weekDay": 1,
+        "year": 2025
     }
 }
