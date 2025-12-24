@@ -42040,5 +42040,26 @@
         "timestampUpload": 1764294208,
         "weekDay": 1,
         "year": 2025
+    },
+    "_11HS7w_GEmK95MpT_3dt6AU5dj": {
+        "author": "27a564c4-ed38-4339-b6d5-16f50c1bcefe",
+        "authorTime": 43807,
+        "bronzeTime": 66000,
+        "campaignId": 119541,
+        "goldTime": 47000,
+        "mapId": "d8604cb6-1a10-484c-90e7-15f549823fb4",
+        "mapUid": "_11HS7w_GEmK95MpT_3dt6AU5dj",
+        "month": 12,
+        "monthDay": 24,
+        "name": "$i$sACP#24 - Novi God ft' mime",
+        "number": 2003,
+        "seasonUid": "8191c17e-d4eb-46b0-a8d9-35b25ca9ac1b",
+        "silverTime": 53000,
+        "submitter": "27a564c4-ed38-4339-b6d5-16f50c1bcefe",
+        "timestampEnd": 1766685600,
+        "timestampStart": 1766599200,
+        "timestampUpload": 1766187862,
+        "weekDay": 2,
+        "year": 2025
     }
 }
