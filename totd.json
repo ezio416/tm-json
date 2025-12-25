@@ -42061,5 +42061,26 @@
         "timestampUpload": 1766187862,
         "weekDay": 2,
         "year": 2025
+    },
+    "Aa4EvFCE7tpHazbxhr1dinTyJz4": {
+        "author": "77e81508-8431-42a3-941a-d77a809675c7",
+        "authorTime": 42648,
+        "bronzeTime": 64000,
+        "campaignId": 119706,
+        "goldTime": 46000,
+        "mapId": "d832e9e0-ce73-43ff-8155-c20305f0bf6b",
+        "mapUid": "Aa4EvFCE7tpHazbxhr1dinTyJz4",
+        "month": 12,
+        "monthDay": 25,
+        "name": "Subway Racers",
+        "number": 2004,
+        "seasonUid": "efae295e-c105-4462-9eff-892e2c7e791e",
+        "silverTime": 52000,
+        "submitter": "77e81508-8431-42a3-941a-d77a809675c7",
+        "timestampEnd": 1766772000,
+        "timestampStart": 1766685600,
+        "timestampUpload": 1765987715,
+        "weekDay": 3,
+        "year": 2025
     }
 }
