@@ -1,5 +1,5 @@
 {
-    "next": 1766336400,
+    "next": 1766865600,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31467,6 +31467,17 @@
             "worldRecord": 40274,
             "mapId": "d832e9e0-ce73-43ff-8155-c20305f0bf6b",
             "goldTime": 46000
+        },
+        {
+            "authorTime": 48322,
+            "date": "2025-12-26",
+            "mapUid": "DsVaQo1_zZhFwcRuMxYEEulT3kd",
+            "name": "$9B6$s$n$oNot Yet$fff ft Djabski",
+            "reason": null,
+            "warriorTime": 48307,
+            "worldRecord": 48198,
+            "mapId": "eed5b7cf-ab4b-4238-9e49-943e2d1cc43a",
+            "goldTime": 52000
         }
     ],
     "Other": [
