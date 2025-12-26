@@ -42082,5 +42082,26 @@
         "timestampUpload": 1765987715,
         "weekDay": 3,
         "year": 2025
+    },
+    "DsVaQo1_zZhFwcRuMxYEEulT3kd": {
+        "author": "64d96282-6169-4317-b0a6-e6256b381060",
+        "authorTime": 48322,
+        "bronzeTime": 73000,
+        "campaignId": 119707,
+        "goldTime": 52000,
+        "mapId": "eed5b7cf-ab4b-4238-9e49-943e2d1cc43a",
+        "mapUid": "DsVaQo1_zZhFwcRuMxYEEulT3kd",
+        "month": 12,
+        "monthDay": 26,
+        "name": "$9B6$s$n$oNot Yet$fff ft Djabski",
+        "number": 2005,
+        "seasonUid": "ab079d5f-5a5d-430b-9395-b2f5f168ec4d",
+        "silverTime": 58000,
+        "submitter": "64d96282-6169-4317-b0a6-e6256b381060",
+        "timestampEnd": 1766858400,
+        "timestampStart": 1766772000,
+        "timestampUpload": 1762962749,
+        "weekDay": 4,
+        "year": 2025
     }
 }
