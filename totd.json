@@ -41785,7 +41785,7 @@
         "submitter": "043d9f0f-3a04-4910-bfb8-36ef33435826",
         "timestampEnd": 1765562400,
         "timestampStart": 1765476000,
-        "timestampUpload": 1764623112,
+        "timestampUpload": 1766854776,
         "weekDay": 3,
         "year": 2025
     },
@@ -42102,6 +42102,27 @@
         "timestampStart": 1766772000,
         "timestampUpload": 1762962749,
         "weekDay": 4,
+        "year": 2025
+    },
+    "a5TT7AIpxp01g60WEnvoQhdr9Uj": {
+        "author": "c68d831c-16b2-4134-91d4-bdace1291a79",
+        "authorTime": 43768,
+        "bronzeTime": 66000,
+        "campaignId": 119708,
+        "goldTime": 47000,
+        "mapId": "3eca36eb-991b-42bd-9486-dbc0c69328a1",
+        "mapUid": "a5TT7AIpxp01g60WEnvoQhdr9Uj",
+        "month": 12,
+        "monthDay": 27,
+        "name": "Kinematics",
+        "number": 2006,
+        "seasonUid": "5327cd32-9bcb-47eb-bc30-40adc7a3564a",
+        "silverTime": 53000,
+        "submitter": "c68d831c-16b2-4134-91d4-bdace1291a79",
+        "timestampEnd": 1766944800,
+        "timestampStart": 1766858400,
+        "timestampUpload": 1765889334,
+        "weekDay": 5,
         "year": 2025
     }
 }
