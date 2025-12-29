@@ -1,5 +1,5 @@
 {
-    "next": 1767038400,
+    "next": 1767124800,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31500,6 +31500,17 @@
             "worldRecord": 40271,
             "mapId": "21462255-e184-4177-97ac-c7d061f55b3a",
             "goldTime": 44000
+        },
+        {
+            "authorTime": 47293,
+            "date": "2025-12-29",
+            "mapUid": "gxfANYpQLZiCuz3fYDkkOuOcWbk",
+            "name": "$s$o$w$FFFHold the Door",
+            "reason": null,
+            "warriorTime": 47192,
+            "worldRecord": 46481,
+            "mapId": "7e038568-2c0a-4cee-bb2b-0a29fc0ff33d",
+            "goldTime": 51000
         }
     ],
     "Other": [
