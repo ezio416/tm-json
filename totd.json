@@ -42145,5 +42145,26 @@
         "timestampUpload": 1766185098,
         "weekDay": 6,
         "year": 2025
+    },
+    "gxfANYpQLZiCuz3fYDkkOuOcWbk": {
+        "author": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
+        "authorTime": 47293,
+        "bronzeTime": 71000,
+        "campaignId": 119709,
+        "goldTime": 51000,
+        "mapId": "7e038568-2c0a-4cee-bb2b-0a29fc0ff33d",
+        "mapUid": "gxfANYpQLZiCuz3fYDkkOuOcWbk",
+        "month": 12,
+        "monthDay": 29,
+        "name": "$s$o$w$FFFHold the Door",
+        "number": 2008,
+        "seasonUid": "a4a810d5-e5f9-4ee5-8693-ddb5a2265543",
+        "silverTime": 57000,
+        "submitter": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
+        "timestampEnd": 1767117600,
+        "timestampStart": 1767031200,
+        "timestampUpload": 1765133263,
+        "weekDay": 0,
+        "year": 2025
     }
 }
