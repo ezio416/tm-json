@@ -42166,5 +42166,26 @@
         "timestampUpload": 1765133263,
         "weekDay": 0,
         "year": 2025
+    },
+    "EOF30Ja3R_91tRegARknCU_M5nc": {
+        "author": "e08a9807-0c89-4ea5-8def-8ef26128342e",
+        "authorTime": 41575,
+        "bronzeTime": 63000,
+        "campaignId": 120225,
+        "goldTime": 45000,
+        "mapId": "9ed86699-57d6-4d16-aed1-1036935a61e5",
+        "mapUid": "EOF30Ja3R_91tRegARknCU_M5nc",
+        "month": 12,
+        "monthDay": 30,
+        "name": "Verdantia",
+        "number": 2009,
+        "seasonUid": "3e677eea-370d-46ad-b00d-ea0b6af58573",
+        "silverTime": 50000,
+        "submitter": "e08a9807-0c89-4ea5-8def-8ef26128342e",
+        "timestampEnd": 1767204000,
+        "timestampStart": 1767117600,
+        "timestampUpload": 1765756847,
+        "weekDay": 1,
+        "year": 2025
     }
 }
