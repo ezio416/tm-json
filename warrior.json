@@ -1,5 +1,5 @@
 {
-    "next": 1767124800,
+    "next": 1767211200,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31511,6 +31511,17 @@
             "worldRecord": 46481,
             "mapId": "7e038568-2c0a-4cee-bb2b-0a29fc0ff33d",
             "goldTime": 51000
+        },
+        {
+            "authorTime": 41575,
+            "date": "2025-12-30",
+            "mapUid": "EOF30Ja3R_91tRegARknCU_M5nc",
+            "name": "Verdantia",
+            "reason": null,
+            "warriorTime": 41488,
+            "worldRecord": 40875,
+            "mapId": "9ed86699-57d6-4d16-aed1-1036935a61e5",
+            "goldTime": 45000
         }
     ],
     "Other": [
