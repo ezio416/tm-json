@@ -1,5 +1,5 @@
 {
-    "next": 1767297600,
+    "next": 1767384000,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31533,6 +31533,17 @@
             "worldRecord": 48088,
             "mapId": "bad133ba-1a41-4df9-b0f2-a4f7ccc12d07",
             "goldTime": 52000
+        },
+        {
+            "authorTime": 45488,
+            "date": "2026-01-01",
+            "mapUid": "RQNypfDqlzJtA8b8_jwyuBVReIh",
+            "name": "Rocket Racing, But It's Actually Good 2",
+            "reason": null,
+            "warriorTime": 45385,
+            "worldRecord": 44662,
+            "mapId": "c1a7d0a2-3301-4208-b937-a23b5d7b9c83",
+            "goldTime": 49000
         }
     ],
     "Other": [
