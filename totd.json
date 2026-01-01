@@ -42208,5 +42208,26 @@
         "timestampUpload": 1767034366,
         "weekDay": 2,
         "year": 2025
+    },
+    "RQNypfDqlzJtA8b8_jwyuBVReIh": {
+        "author": "7187b85b-fbb3-42ff-a292-462b93f47177",
+        "authorTime": 45488,
+        "bronzeTime": 69000,
+        "campaignId": 120227,
+        "goldTime": 49000,
+        "mapId": "c1a7d0a2-3301-4208-b937-a23b5d7b9c83",
+        "mapUid": "RQNypfDqlzJtA8b8_jwyuBVReIh",
+        "month": 1,
+        "monthDay": 1,
+        "name": "Rocket Racing, But It's Actually Good 2",
+        "number": 2011,
+        "seasonUid": "7f33cde8-9233-4dd7-85bd-1d94d39b51c2",
+        "silverTime": 55000,
+        "submitter": "7187b85b-fbb3-42ff-a292-462b93f47177",
+        "timestampEnd": 1767376800,
+        "timestampStart": 1767290400,
+        "timestampUpload": 1761042456,
+        "weekDay": 3,
+        "year": 2026
     }
 }
