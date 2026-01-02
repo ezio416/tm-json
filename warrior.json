@@ -1,5 +1,5 @@
 {
-    "next": 1767384000,
+    "next": 1767470400,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31544,6 +31544,17 @@
             "worldRecord": 44662,
             "mapId": "c1a7d0a2-3301-4208-b937-a23b5d7b9c83",
             "goldTime": 49000
+        },
+        {
+            "authorTime": 48050,
+            "date": "2026-01-02",
+            "mapUid": "WNNgPZji_rq6nkh0WeeOUW1jV3d",
+            "name": "$BB5$S$I$oARTROY INC",
+            "reason": null,
+            "warriorTime": 47910,
+            "worldRecord": 46924,
+            "mapId": "4a4ceb71-111c-4427-bd73-b5b7926df183",
+            "goldTime": 51000
         }
     ],
     "Other": [
