@@ -42229,5 +42229,26 @@
         "timestampUpload": 1761042456,
         "weekDay": 3,
         "year": 2026
+    },
+    "WNNgPZji_rq6nkh0WeeOUW1jV3d": {
+        "author": "46dcc889-73cb-4df5-8b44-d5a5e6addfec",
+        "authorTime": 48050,
+        "bronzeTime": 73000,
+        "campaignId": 120228,
+        "goldTime": 51000,
+        "mapId": "4a4ceb71-111c-4427-bd73-b5b7926df183",
+        "mapUid": "WNNgPZji_rq6nkh0WeeOUW1jV3d",
+        "month": 1,
+        "monthDay": 2,
+        "name": "$BB5$S$I$oARTROY INC",
+        "number": 2012,
+        "seasonUid": "b216ba1f-c198-45ff-a2b5-ab06cf53cf63",
+        "silverTime": 58000,
+        "submitter": "46dcc889-73cb-4df5-8b44-d5a5e6addfec",
+        "timestampEnd": 1767463200,
+        "timestampStart": 1767376800,
+        "timestampUpload": 1761873769,
+        "weekDay": 4,
+        "year": 2026
     }
 }
