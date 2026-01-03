@@ -42250,5 +42250,26 @@
         "timestampUpload": 1761873769,
         "weekDay": 4,
         "year": 2026
+    },
+    "3rfHzybqkTaenHRNkfoW_Q1oDff": {
+        "author": "5f937ac6-d5e4-438b-8341-254ecca95450",
+        "authorTime": 42096,
+        "bronzeTime": 64000,
+        "campaignId": 120682,
+        "goldTime": 45000,
+        "mapId": "86e69b29-1911-4c81-a986-638cdd7caeaf",
+        "mapUid": "3rfHzybqkTaenHRNkfoW_Q1oDff",
+        "month": 1,
+        "monthDay": 3,
+        "name": "$i$o$09CHighlands Aquatic Center $i$o$FFFFt Ocla",
+        "number": 2013,
+        "seasonUid": "ef777a2d-6ee8-43d7-9aad-6c292796a4b5",
+        "silverTime": 51000,
+        "submitter": "5f937ac6-d5e4-438b-8341-254ecca95450",
+        "timestampEnd": 1767549600,
+        "timestampStart": 1767463200,
+        "timestampUpload": 1767108196,
+        "weekDay": 5,
+        "year": 2026
     }
 }
