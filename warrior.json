@@ -1,5 +1,5 @@
 {
-    "next": 1767470400,
+    "next": 1767556800,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31555,6 +31555,17 @@
             "worldRecord": 46924,
             "mapId": "4a4ceb71-111c-4427-bd73-b5b7926df183",
             "goldTime": 51000
+        },
+        {
+            "authorTime": 42096,
+            "date": "2026-01-03",
+            "mapUid": "3rfHzybqkTaenHRNkfoW_Q1oDff",
+            "name": "$i$o$09CHighlands Aquatic Center $i$o$FFFFt Ocla",
+            "reason": null,
+            "warriorTime": 41954,
+            "worldRecord": 40958,
+            "mapId": "86e69b29-1911-4c81-a986-638cdd7caeaf",
+            "goldTime": 45000
         }
     ],
     "Other": [
