@@ -1,5 +1,5 @@
 {
-    "next": 1767556800,
+    "next": 1767643200,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31566,6 +31566,17 @@
             "worldRecord": 40958,
             "mapId": "86e69b29-1911-4c81-a986-638cdd7caeaf",
             "goldTime": 45000
+        },
+        {
+            "authorTime": 49738,
+            "date": "2026-01-04",
+            "mapUid": "iVBYHyygCiAKU_Lr83yfm1IB_z0",
+            "name": "$iThe Best for Last CE ft' Astra",
+            "reason": null,
+            "warriorTime": 49563,
+            "worldRecord": 48338,
+            "mapId": "f0287091-d05e-4301-8b31-249edaab2651",
+            "goldTime": 53000
         }
     ],
     "Other": [
