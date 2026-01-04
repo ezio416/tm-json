@@ -42271,5 +42271,26 @@
         "timestampUpload": 1767108196,
         "weekDay": 5,
         "year": 2026
+    },
+    "iVBYHyygCiAKU_Lr83yfm1IB_z0": {
+        "author": "2b98d7ba-ce3b-4f2f-beae-05688846856c",
+        "authorTime": 49738,
+        "bronzeTime": 75000,
+        "campaignId": 120683,
+        "goldTime": 53000,
+        "mapId": "f0287091-d05e-4301-8b31-249edaab2651",
+        "mapUid": "iVBYHyygCiAKU_Lr83yfm1IB_z0",
+        "month": 1,
+        "monthDay": 4,
+        "name": "$iThe Best for Last CE ft' Astra",
+        "number": 2014,
+        "seasonUid": "453f8bd2-efc6-4bb2-9b6c-129f9e6a43f8",
+        "silverTime": 60000,
+        "submitter": "2b98d7ba-ce3b-4f2f-beae-05688846856c",
+        "timestampEnd": 1767636000,
+        "timestampStart": 1767549600,
+        "timestampUpload": 1766620526,
+        "weekDay": 6,
+        "year": 2026
     }
 }
