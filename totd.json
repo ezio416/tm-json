@@ -41680,7 +41680,7 @@
         "submitter": "de590c4e-f98c-4783-afa8-a01efb069ceb",
         "timestampEnd": 1765130400,
         "timestampStart": 1765044000,
-        "timestampUpload": 1764099631,
+        "timestampUpload": 1767576522,
         "weekDay": 5,
         "year": 2025
     },
@@ -42291,6 +42291,27 @@
         "timestampStart": 1767549600,
         "timestampUpload": 1766620526,
         "weekDay": 6,
+        "year": 2026
+    },
+    "4ts0xZIZeFUF7wh0TpFbft3E2Ah": {
+        "author": "a39b42d7-bcb9-4b91-89d8-adefcc874975",
+        "authorTime": 55508,
+        "bronzeTime": 84000,
+        "campaignId": 120684,
+        "goldTime": 59000,
+        "mapId": "d1e2b101-a4ac-43da-8507-1b3ee9a47c2c",
+        "mapUid": "4ts0xZIZeFUF7wh0TpFbft3E2Ah",
+        "month": 1,
+        "monthDay": 5,
+        "name": "$S$OStadium Atrium",
+        "number": 2015,
+        "seasonUid": "1f837a2a-6bc9-4ee1-bfd0-1e50ccb7bf68",
+        "silverTime": 67000,
+        "submitter": "a39b42d7-bcb9-4b91-89d8-adefcc874975",
+        "timestampEnd": 1767722400,
+        "timestampStart": 1767636000,
+        "timestampUpload": 1767324317,
+        "weekDay": 0,
         "year": 2026
     }
 }
