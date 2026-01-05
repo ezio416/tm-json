@@ -1,5 +1,5 @@
 {
-    "next": 1767643200,
+    "next": 1767729600,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31577,6 +31577,17 @@
             "worldRecord": 48338,
             "mapId": "f0287091-d05e-4301-8b31-249edaab2651",
             "goldTime": 53000
+        },
+        {
+            "authorTime": 55508,
+            "date": "2026-01-05",
+            "mapUid": "4ts0xZIZeFUF7wh0TpFbft3E2Ah",
+            "name": "$S$OStadium Atrium",
+            "reason": null,
+            "warriorTime": 55249,
+            "worldRecord": 53430,
+            "mapId": "d1e2b101-a4ac-43da-8507-1b3ee9a47c2c",
+            "goldTime": 59000
         }
     ],
     "Other": [
