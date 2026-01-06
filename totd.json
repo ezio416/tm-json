@@ -42310,8 +42310,29 @@
         "submitter": "a39b42d7-bcb9-4b91-89d8-adefcc874975",
         "timestampEnd": 1767722400,
         "timestampStart": 1767636000,
-        "timestampUpload": 1767324317,
+        "timestampUpload": 1767666395,
         "weekDay": 0,
+        "year": 2026
+    },
+    "eZx3xHjUYkr7wNh0DF4pmYXnba6": {
+        "author": "bb50cb56-b104-4314-a7bd-49ab725fd2d9",
+        "authorTime": 44084,
+        "bronzeTime": 67000,
+        "campaignId": 121012,
+        "goldTime": 47000,
+        "mapId": "7ba53491-2764-4083-a1e3-98475f8400b5",
+        "mapUid": "eZx3xHjUYkr7wNh0DF4pmYXnba6",
+        "month": 1,
+        "monthDay": 6,
+        "name": "$i$s$903S$908R$90CG - $fffChasing Euphoria ft' Inleader",
+        "number": 2016,
+        "seasonUid": "bb074102-037d-4130-a7ea-4447b93be846",
+        "silverTime": 53000,
+        "submitter": "bb50cb56-b104-4314-a7bd-49ab725fd2d9",
+        "timestampEnd": 1767808800,
+        "timestampStart": 1767722400,
+        "timestampUpload": 1767560542,
+        "weekDay": 1,
         "year": 2026
     }
 }
