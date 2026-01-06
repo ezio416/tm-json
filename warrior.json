@@ -1,5 +1,5 @@
 {
-    "next": 1767729600,
+    "next": 1767816000,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31588,6 +31588,17 @@
             "worldRecord": 53430,
             "mapId": "d1e2b101-a4ac-43da-8507-1b3ee9a47c2c",
             "goldTime": 59000
+        },
+        {
+            "authorTime": 44084,
+            "date": "2026-01-06",
+            "mapUid": "eZx3xHjUYkr7wNh0DF4pmYXnba6",
+            "name": "$i$s$903S$908R$90CG - $fffChasing Euphoria ft' Inleader",
+            "reason": null,
+            "warriorTime": 44057,
+            "worldRecord": 43864,
+            "mapId": "7ba53491-2764-4083-a1e3-98475f8400b5",
+            "goldTime": 47000
         }
     ],
     "Other": [
