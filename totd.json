@@ -40336,7 +40336,7 @@
         "submitter": "216c3ab6-b698-4408-9003-1bdb1b0c852d",
         "timestampEnd": 1759597200,
         "timestampStart": 1759510800,
-        "timestampUpload": 1756200085,
+        "timestampUpload": 1767842106,
         "weekDay": 4,
         "year": 2025
     },
@@ -42354,6 +42354,27 @@
         "timestampStart": 1767808800,
         "timestampUpload": 1763381266,
         "weekDay": 2,
+        "year": 2026
+    },
+    "Ks1nZuEuUKqqRwy2m9OmtHOHYg9": {
+        "author": "541bcc4b-0c4f-43d5-aab3-8c90d1279290",
+        "authorTime": 43651,
+        "bronzeTime": 66000,
+        "campaignId": 121244,
+        "goldTime": 47000,
+        "mapId": "525bc240-af82-44e5-8a2d-273aa5b6a868",
+        "mapUid": "Ks1nZuEuUKqqRwy2m9OmtHOHYg9",
+        "month": 1,
+        "monthDay": 8,
+        "name": "$F7F* Roll The Dice *",
+        "number": 2018,
+        "seasonUid": "3eb840da-b34f-4ae6-b2aa-63077d4904b8",
+        "silverTime": 53000,
+        "submitter": "541bcc4b-0c4f-43d5-aab3-8c90d1279290",
+        "timestampEnd": 1767981600,
+        "timestampStart": 1767895200,
+        "timestampUpload": 1767543953,
+        "weekDay": 3,
         "year": 2026
     }
 }
