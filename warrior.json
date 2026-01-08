@@ -1,5 +1,5 @@
 {
-    "next": 1767902400,
+    "next": 1767988800,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31610,6 +31610,17 @@
             "worldRecord": 44141,
             "mapId": "2ade6bff-9871-4603-b3c0-a54bdcf19055",
             "goldTime": 48000
+        },
+        {
+            "authorTime": 43651,
+            "date": "2026-01-08",
+            "mapUid": "Ks1nZuEuUKqqRwy2m9OmtHOHYg9",
+            "name": "$F7F* Roll The Dice *",
+            "reason": null,
+            "warriorTime": 43650,
+            "worldRecord": 43728,
+            "mapId": "525bc240-af82-44e5-8a2d-273aa5b6a868",
+            "goldTime": 47000
         }
     ],
     "Other": [
