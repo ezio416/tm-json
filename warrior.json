@@ -1,5 +1,5 @@
 {
-    "next": 1768161600,
+    "next": 1768248000,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31643,6 +31643,17 @@
             "worldRecord": 36868,
             "mapId": "6afd7aa4-a6cc-4368-a2f5-78d25d1984ce",
             "goldTime": 46000
+        },
+        {
+            "authorTime": 39401,
+            "date": "2026-01-11",
+            "mapUid": "j5lrBjKTTZmq0ELiDVfqSV48BY3",
+            "name": "$s$6C0Against$398 the$06F Current$FFF ft Artroy666",
+            "reason": null,
+            "warriorTime": 39309,
+            "worldRecord": 38658,
+            "mapId": "d1990141-0cd4-4b7a-9589-343ccb502eef",
+            "goldTime": 42000
         }
     ],
     "Other": [
