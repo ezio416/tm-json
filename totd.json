@@ -42121,7 +42121,7 @@
         "submitter": "c68d831c-16b2-4134-91d4-bdace1291a79",
         "timestampEnd": 1766944800,
         "timestampStart": 1766858400,
-        "timestampUpload": 1765889334,
+        "timestampUpload": 1768083111,
         "weekDay": 5,
         "year": 2025
     },
@@ -42417,6 +42417,27 @@
         "timestampStart": 1768068000,
         "timestampUpload": 1766767600,
         "weekDay": 5,
+        "year": 2026
+    },
+    "j5lrBjKTTZmq0ELiDVfqSV48BY3": {
+        "author": "5eab40e9-c78d-4c29-829d-b12fe6b571d9",
+        "authorTime": 39401,
+        "bronzeTime": 60000,
+        "campaignId": 121472,
+        "goldTime": 42000,
+        "mapId": "d1990141-0cd4-4b7a-9589-343ccb502eef",
+        "mapUid": "j5lrBjKTTZmq0ELiDVfqSV48BY3",
+        "month": 1,
+        "monthDay": 11,
+        "name": "$s$6C0Against$398 the$06F Current$FFF ft Artroy666",
+        "number": 2021,
+        "seasonUid": "52e1e131-8b61-4cf4-8aec-08bdff027f78",
+        "silverTime": 48000,
+        "submitter": "5eab40e9-c78d-4c29-829d-b12fe6b571d9",
+        "timestampEnd": 1768240800,
+        "timestampStart": 1768154400,
+        "timestampUpload": 1761667365,
+        "weekDay": 6,
         "year": 2026
     }
 }
