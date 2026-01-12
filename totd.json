@@ -42439,5 +42439,26 @@
         "timestampUpload": 1761667365,
         "weekDay": 6,
         "year": 2026
+    },
+    "cqb8u3GPn2DpzAxkx9PBw1ujWfm": {
+        "author": "46dcc889-73cb-4df5-8b44-d5a5e6addfec",
+        "authorTime": 41675,
+        "bronzeTime": 63000,
+        "campaignId": 121473,
+        "goldTime": 45000,
+        "mapId": "e2c3b499-a70c-4db1-b1c0-d63817ebb44e",
+        "mapUid": "cqb8u3GPn2DpzAxkx9PBw1ujWfm",
+        "month": 1,
+        "monthDay": 12,
+        "name": "$C21$s$iMining Valley",
+        "number": 2022,
+        "seasonUid": "68987430-af38-4d4f-ad19-211eb4ee888d",
+        "silverTime": 51000,
+        "submitter": "46dcc889-73cb-4df5-8b44-d5a5e6addfec",
+        "timestampEnd": 1768327200,
+        "timestampStart": 1768240800,
+        "timestampUpload": 1760281977,
+        "weekDay": 0,
+        "year": 2026
     }
 }
