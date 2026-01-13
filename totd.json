@@ -42460,5 +42460,26 @@
         "timestampUpload": 1760281977,
         "weekDay": 0,
         "year": 2026
+    },
+    "7JRYtOnA8wmMqP8TH4CdqFB5R4c": {
+        "author": "907cf2d6-ab34-4ef1-95e3-c8771b81ba49",
+        "authorTime": 43858,
+        "bronzeTime": 66000,
+        "campaignId": 121794,
+        "goldTime": 47000,
+        "mapId": "73268112-a5ac-44d7-85ec-f497e60014c5",
+        "mapUid": "7JRYtOnA8wmMqP8TH4CdqFB5R4c",
+        "month": 1,
+        "monthDay": 13,
+        "name": "$F09Wher$F1Ae did $F2BI go wr$F3Cong?",
+        "number": 2023,
+        "seasonUid": "1ff9ed36-283c-40af-a1b5-44bf6bfc651b",
+        "silverTime": 53000,
+        "submitter": "907cf2d6-ab34-4ef1-95e3-c8771b81ba49",
+        "timestampEnd": 1768413600,
+        "timestampStart": 1768327200,
+        "timestampUpload": 1767318768,
+        "weekDay": 1,
+        "year": 2026
     }
 }
