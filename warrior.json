@@ -1,5 +1,5 @@
 {
-    "next": 1768334400,
+    "next": 1768420800,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31665,6 +31665,17 @@
             "worldRecord": 40765,
             "mapId": "e2c3b499-a70c-4db1-b1c0-d63817ebb44e",
             "goldTime": 45000
+        },
+        {
+            "authorTime": 43858,
+            "date": "2026-01-13",
+            "mapUid": "7JRYtOnA8wmMqP8TH4CdqFB5R4c",
+            "name": "$F09Wher$F1Ae did $F2BI go wr$F3Cong?",
+            "reason": null,
+            "warriorTime": 43803,
+            "worldRecord": 43415,
+            "mapId": "73268112-a5ac-44d7-85ec-f497e60014c5",
+            "goldTime": 47000
         }
     ],
     "Other": [
