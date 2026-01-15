@@ -42502,5 +42502,26 @@
         "timestampUpload": 1766782460,
         "weekDay": 2,
         "year": 2026
+    },
+    "X39_bak7TwImRvlFWydtWCHIfMg": {
+        "author": "07819a07-7968-41e6-94be-f2f28b6922eb",
+        "authorTime": 40591,
+        "bronzeTime": 61000,
+        "campaignId": 122029,
+        "goldTime": 44000,
+        "mapId": "2256a171-23c5-4e06-b73f-a79dbcf6d662",
+        "mapUid": "X39_bak7TwImRvlFWydtWCHIfMg",
+        "month": 1,
+        "monthDay": 15,
+        "name": "$s$oFarland",
+        "number": 2025,
+        "seasonUid": "93deacc8-d58f-4936-a695-b130d3af31dd",
+        "silverTime": 49000,
+        "submitter": "1e6b3267-8184-47bb-a88d-0e861e2fe1cb",
+        "timestampEnd": 1768586400,
+        "timestampStart": 1768500000,
+        "timestampUpload": 1764966984,
+        "weekDay": 3,
+        "year": 2026
     }
 }
