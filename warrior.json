@@ -1,5 +1,5 @@
 {
-    "next": 1768593600,
+    "next": 1768680000,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31697,6 +31697,17 @@
             "warriorTime": 40141,
             "worldRecord": 36986,
             "mapId": "2256a171-23c5-4e06-b73f-a79dbcf6d662",
+            "goldTime": 44000
+        },
+        {
+            "authorTime": 41050,
+            "date": "2026-01-16",
+            "mapUid": "ZYkJTnd9Y3FqHrP8uKcWnIxecCl",
+            "name": "$ffflooking for $6b3closure $fffin places that never $6b3opened$FFF ft fekl",
+            "reason": null,
+            "warriorTime": 40990,
+            "worldRecord": 40565,
+            "mapId": "a43873ef-9d83-484c-84ad-b7b5625ebbe0",
             "goldTime": 44000
         }
     ],
