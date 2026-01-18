@@ -42565,5 +42565,26 @@
         "timestampUpload": 1768215463,
         "weekDay": 5,
         "year": 2026
+    },
+    "PyLaSeQTvfw6ufzurA5BLXarppc": {
+        "author": "2da32301-3b2b-4bf1-bf1f-ff0213ab5112",
+        "authorTime": 57557,
+        "bronzeTime": 87000,
+        "campaignId": 122026,
+        "goldTime": 62000,
+        "mapId": "8e18f6d7-781f-4d06-934b-ba5e32351d44",
+        "mapUid": "PyLaSeQTvfw6ufzurA5BLXarppc",
+        "month": 1,
+        "monthDay": 18,
+        "name": "Unbreakable",
+        "number": 2028,
+        "seasonUid": "5583f445-fb48-4b12-aec3-2912ff98d108",
+        "silverTime": 70000,
+        "submitter": "2da32301-3b2b-4bf1-bf1f-ff0213ab5112",
+        "timestampEnd": 1768845600,
+        "timestampStart": 1768759200,
+        "timestampUpload": 1768668361,
+        "weekDay": 6,
+        "year": 2026
     }
 }
