@@ -1,5 +1,5 @@
 {
-    "next": 1768766400,
+    "next": 1768852800,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31720,6 +31720,17 @@
             "worldRecord": 52781,
             "mapId": "000a0b82-6fdd-4f69-976b-5a880dd0baa1",
             "goldTime": 57000
+        },
+        {
+            "authorTime": 57557,
+            "date": "2026-01-18",
+            "mapUid": "PyLaSeQTvfw6ufzurA5BLXarppc",
+            "name": "Unbreakable",
+            "reason": null,
+            "warriorTime": 57202,
+            "worldRecord": 54713,
+            "mapId": "8e18f6d7-781f-4d06-934b-ba5e32351d44",
+            "goldTime": 62000
         }
     ],
     "Other": [
