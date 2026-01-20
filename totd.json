@@ -42607,5 +42607,26 @@
         "timestampUpload": 1759777828,
         "weekDay": 0,
         "year": 2026
+    },
+    "UIBVRt3Acv7pmgN1DKtSR1aGhua": {
+        "author": "c1d053c6-5e49-4fe8-8574-ecfa58267366",
+        "authorTime": 40995,
+        "bronzeTime": 62000,
+        "campaignId": 122697,
+        "goldTime": 44000,
+        "mapId": "0a77e9b4-903b-4cbf-8752-90c8f25403c4",
+        "mapUid": "UIBVRt3Acv7pmgN1DKtSR1aGhua",
+        "month": 1,
+        "monthDay": 20,
+        "name": "Wuschenteil ft' DL",
+        "number": 2030,
+        "seasonUid": "dc6e8e00-a2a0-4ffc-b92a-36be166ba8e6",
+        "silverTime": 50000,
+        "submitter": "c1d053c6-5e49-4fe8-8574-ecfa58267366",
+        "timestampEnd": 1769018400,
+        "timestampStart": 1768932000,
+        "timestampUpload": 1767124455,
+        "weekDay": 1,
+        "year": 2026
     }
 }
