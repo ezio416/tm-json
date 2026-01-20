@@ -1,5 +1,5 @@
 {
-    "next": 1768939200,
+    "next": 1769025600,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31742,6 +31742,17 @@
             "worldRecord": 37148,
             "mapId": "eba45abf-acc4-459b-88f5-a6fde0363c5b",
             "goldTime": 40000
+        },
+        {
+            "authorTime": 40995,
+            "date": "2026-01-20",
+            "mapUid": "UIBVRt3Acv7pmgN1DKtSR1aGhua",
+            "name": "Wuschenteil ft' DL",
+            "reason": null,
+            "warriorTime": 40994,
+            "worldRecord": 40988,
+            "mapId": "0a77e9b4-903b-4cbf-8752-90c8f25403c4",
+            "goldTime": 44000
         }
     ],
     "Other": [
