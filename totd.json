@@ -40420,7 +40420,7 @@
         "submitter": "2b98d7ba-ce3b-4f2f-beae-05688846856c",
         "timestampEnd": 1759942800,
         "timestampStart": 1759856400,
-        "timestampUpload": 1759248436,
+        "timestampUpload": 1768952671,
         "weekDay": 1,
         "year": 2025
     },
@@ -41176,7 +41176,7 @@
         "submitter": "2b98d7ba-ce3b-4f2f-beae-05688846856c",
         "timestampEnd": 1763056800,
         "timestampStart": 1762970400,
-        "timestampUpload": 1762448926,
+        "timestampUpload": 1768952671,
         "weekDay": 2,
         "year": 2025
     },
@@ -42058,7 +42058,7 @@
         "submitter": "27a564c4-ed38-4339-b6d5-16f50c1bcefe",
         "timestampEnd": 1766685600,
         "timestampStart": 1766599200,
-        "timestampUpload": 1766187862,
+        "timestampUpload": 1768967450,
         "weekDay": 2,
         "year": 2025
     },
@@ -42289,7 +42289,7 @@
         "submitter": "2b98d7ba-ce3b-4f2f-beae-05688846856c",
         "timestampEnd": 1767636000,
         "timestampStart": 1767549600,
-        "timestampUpload": 1766620526,
+        "timestampUpload": 1768952672,
         "weekDay": 6,
         "year": 2026
     },
@@ -42627,6 +42627,27 @@
         "timestampStart": 1768932000,
         "timestampUpload": 1767124455,
         "weekDay": 1,
+        "year": 2026
+    },
+    "XswXFZt9sPUjayG8HqwxE7e726g": {
+        "author": "77e81508-8431-42a3-941a-d77a809675c7",
+        "authorTime": 43208,
+        "bronzeTime": 65000,
+        "campaignId": 122698,
+        "goldTime": 46000,
+        "mapId": "ed844647-5f2c-4535-8568-2e31b8e41174",
+        "mapUid": "XswXFZt9sPUjayG8HqwxE7e726g",
+        "month": 1,
+        "monthDay": 21,
+        "name": "Techno Hills",
+        "number": 2031,
+        "seasonUid": "42369add-cef9-4685-b6ee-d0e83a97ad84",
+        "silverTime": 52000,
+        "submitter": "77e81508-8431-42a3-941a-d77a809675c7",
+        "timestampEnd": 1769104800,
+        "timestampStart": 1769018400,
+        "timestampUpload": 1768248631,
+        "weekDay": 2,
         "year": 2026
     }
 }
