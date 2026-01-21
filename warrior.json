@@ -1,5 +1,5 @@
 {
-    "next": 1769025600,
+    "next": 1769112000,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31753,6 +31753,17 @@
             "worldRecord": 40988,
             "mapId": "0a77e9b4-903b-4cbf-8752-90c8f25403c4",
             "goldTime": 44000
+        },
+        {
+            "authorTime": 43208,
+            "date": "2026-01-21",
+            "mapUid": "XswXFZt9sPUjayG8HqwxE7e726g",
+            "name": "Techno Hills",
+            "reason": null,
+            "warriorTime": 43094,
+            "worldRecord": 42292,
+            "mapId": "ed844647-5f2c-4535-8568-2e31b8e41174",
+            "goldTime": 46000
         }
     ],
     "Other": [
