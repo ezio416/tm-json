@@ -1,5 +1,5 @@
 {
-    "next": 1769112000,
+    "next": 1769198400,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31764,6 +31764,17 @@
             "worldRecord": 42292,
             "mapId": "ed844647-5f2c-4535-8568-2e31b8e41174",
             "goldTime": 46000
+        },
+        {
+            "authorTime": 39500,
+            "date": "2026-01-22",
+            "mapUid": "OazJth9a4iAJzmL8J7Pf4ysiLQ9",
+            "name": "Initium Civilta ft' Pac042",
+            "reason": null,
+            "warriorTime": 39377,
+            "worldRecord": 38510,
+            "mapId": "c28b7980-44eb-4f3f-88ed-9850c7d5691e",
+            "goldTime": 42000
         }
     ],
     "Other": [
