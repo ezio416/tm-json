@@ -38047,7 +38047,7 @@
         "submitter": "ca9b0f0a-fb65-4e0b-8ebe-d29a211ea550",
         "timestampEnd": 1750179600,
         "timestampStart": 1750093200,
-        "timestampUpload": 1749163026,
+        "timestampUpload": 1769024120,
         "weekDay": 0,
         "year": 2025
     },
@@ -42648,6 +42648,27 @@
         "timestampStart": 1769018400,
         "timestampUpload": 1768248631,
         "weekDay": 2,
+        "year": 2026
+    },
+    "OazJth9a4iAJzmL8J7Pf4ysiLQ9": {
+        "author": "441c4ce8-af3b-4b6b-9260-fcb28767a7bb",
+        "authorTime": 39500,
+        "bronzeTime": 60000,
+        "campaignId": 122825,
+        "goldTime": 42000,
+        "mapId": "c28b7980-44eb-4f3f-88ed-9850c7d5691e",
+        "mapUid": "OazJth9a4iAJzmL8J7Pf4ysiLQ9",
+        "month": 1,
+        "monthDay": 22,
+        "name": "Initium Civilta ft' Pac042",
+        "number": 2032,
+        "seasonUid": "5a3467bc-e719-4463-98d5-d0ec0a13a092",
+        "silverTime": 48000,
+        "submitter": "441c4ce8-af3b-4b6b-9260-fcb28767a7bb",
+        "timestampEnd": 1769191200,
+        "timestampStart": 1769104800,
+        "timestampUpload": 1768503546,
+        "weekDay": 3,
         "year": 2026
     }
 }
