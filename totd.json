@@ -38530,7 +38530,7 @@
         "submitter": "23321d29-49c8-4bca-84fb-3c90c7d3dca1",
         "timestampEnd": 1752166800,
         "timestampStart": 1752080400,
-        "timestampUpload": 1761822855,
+        "timestampUpload": 1769173045,
         "weekDay": 2,
         "year": 2025
     },
@@ -40882,7 +40882,7 @@
         "submitter": "23321d29-49c8-4bca-84fb-3c90c7d3dca1",
         "timestampEnd": 1761847200,
         "timestampStart": 1761760800,
-        "timestampUpload": 1761822854,
+        "timestampUpload": 1769173046,
         "weekDay": 2,
         "year": 2025
     },
@@ -42669,6 +42669,27 @@
         "timestampStart": 1769104800,
         "timestampUpload": 1768503546,
         "weekDay": 3,
+        "year": 2026
+    },
+    "25LvqqF3O7jZp6AnAb4fvoFt9S8": {
+        "author": "433b5c82-6fb4-4dc2-b686-5a9534189021",
+        "authorTime": 45908,
+        "bronzeTime": 69000,
+        "campaignId": 122826,
+        "goldTime": 49000,
+        "mapId": "61bb264a-9dd5-469e-8ad2-3fae01ac5763",
+        "mapUid": "25LvqqF3O7jZp6AnAb4fvoFt9S8",
+        "month": 1,
+        "monthDay": 23,
+        "name": "$s$iOverseas",
+        "number": 2033,
+        "seasonUid": "d6c850d8-be3f-4ad5-a0bb-880ca62d8f23",
+        "silverTime": 56000,
+        "submitter": "433b5c82-6fb4-4dc2-b686-5a9534189021",
+        "timestampEnd": 1769277600,
+        "timestampStart": 1769191200,
+        "timestampUpload": 1766831053,
+        "weekDay": 4,
         "year": 2026
     }
 }
