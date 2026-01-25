@@ -1,5 +1,5 @@
 {
-    "next": 1769371200,
+    "next": 1769457600,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31797,6 +31797,17 @@
             "worldRecord": 48796,
             "mapId": "da4c33f8-eb11-4a0a-aa8b-0697fce1e82b",
             "goldTime": 52000
+        },
+        {
+            "authorTime": 37714,
+            "date": "2026-01-25",
+            "mapUid": "wAq_eJuTpiDq3riwHPqEH7QsHL2",
+            "name": "$9C3Re$9B3a$AB3l$AA3ly$A92Ra$B82ll$B72y",
+            "reason": null,
+            "warriorTime": 37154,
+            "worldRecord": 33229,
+            "mapId": "6b056f33-d15a-4f4d-8426-f9edb99a5bac",
+            "goldTime": 40000
         }
     ],
     "Other": [
