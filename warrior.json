@@ -1,5 +1,5 @@
 {
-    "next": 1769457600,
+    "next": 1769544000,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31808,6 +31808,17 @@
             "worldRecord": 33229,
             "mapId": "6b056f33-d15a-4f4d-8426-f9edb99a5bac",
             "goldTime": 40000
+        },
+        {
+            "authorTime": 46268,
+            "date": "2026-01-26",
+            "mapUid": "yCWeD6mNdUOmrbpjnTp1DW9Gae9",
+            "name": "$n$s$o$099Melancholy Hill",
+            "reason": null,
+            "warriorTime": 46195,
+            "worldRecord": 45678,
+            "mapId": "c5fef467-40e4-4a8d-9b3e-620240ac859a",
+            "goldTime": 50000
         }
     ],
     "Other": [
