@@ -14632,7 +14632,7 @@
         "submitter": "8f18d62e-1943-4734-8a09-d52eab71f3a3",
         "timestampEnd": 1653843600,
         "timestampStart": 1653757200,
-        "timestampUpload": 1678670690,
+        "timestampUpload": 1769378851,
         "weekDay": 5,
         "year": 2022
     },
@@ -42732,6 +42732,27 @@
         "timestampStart": 1769364000,
         "timestampUpload": 1768835928,
         "weekDay": 6,
+        "year": 2026
+    },
+    "yCWeD6mNdUOmrbpjnTp1DW9Gae9": {
+        "author": "c2aaa990-1091-47d5-8aff-870bbb760ea7",
+        "authorTime": 46268,
+        "bronzeTime": 70000,
+        "campaignId": 122829,
+        "goldTime": 50000,
+        "mapId": "c5fef467-40e4-4a8d-9b3e-620240ac859a",
+        "mapUid": "yCWeD6mNdUOmrbpjnTp1DW9Gae9",
+        "month": 1,
+        "monthDay": 26,
+        "name": "$n$s$o$099Melancholy Hill",
+        "number": 2036,
+        "seasonUid": "802613b8-01ff-4f05-bf9d-98c6dc31122a",
+        "silverTime": 56000,
+        "submitter": "c2aaa990-1091-47d5-8aff-870bbb760ea7",
+        "timestampEnd": 1769536800,
+        "timestampStart": 1769450400,
+        "timestampUpload": 1768252351,
+        "weekDay": 0,
         "year": 2026
     }
 }
