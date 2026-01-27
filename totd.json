@@ -42754,5 +42754,26 @@
         "timestampUpload": 1768252351,
         "weekDay": 0,
         "year": 2026
+    },
+    "8YTEjtvYstaBRYl2mW69gDYJrpd": {
+        "author": "3468343f-bc7f-4ddd-938f-0f118d13cdc9",
+        "authorTime": 44178,
+        "bronzeTime": 67000,
+        "campaignId": 123404,
+        "goldTime": 47000,
+        "mapId": "066fbcb6-1b9c-4983-946a-d71c9e3a9e87",
+        "mapUid": "8YTEjtvYstaBRYl2mW69gDYJrpd",
+        "month": 1,
+        "monthDay": 27,
+        "name": "$s$o$n$096FIRST HORIZON",
+        "number": 2037,
+        "seasonUid": "359d9826-7480-4f44-9227-40a250ede846",
+        "silverTime": 54000,
+        "submitter": "aa02b90e-0652-4a1c-b705-4677e2983003",
+        "timestampEnd": 1769623200,
+        "timestampStart": 1769536800,
+        "timestampUpload": 1769401451,
+        "weekDay": 1,
+        "year": 2026
     }
 }
