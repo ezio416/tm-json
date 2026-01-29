@@ -1,5 +1,5 @@
 {
-    "next": 1769716800,
+    "next": 1769803200,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31841,6 +31841,17 @@
             "worldRecord": 42668,
             "mapId": "65ba1e73-6e9c-4f28-868d-77eb53a017b0",
             "goldTime": 47000
+        },
+        {
+            "authorTime": 46672,
+            "date": "2026-01-29",
+            "mapUid": "Hsdhn92_ccczyQkCpSmbBiLsur",
+            "name": "Forrest Therapy",
+            "reason": null,
+            "warriorTime": 46596,
+            "worldRecord": 46064,
+            "mapId": "e05656d7-5a97-4187-b14a-2613ac132948",
+            "goldTime": 50000
         }
     ],
     "Other": [
