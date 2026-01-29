@@ -42796,5 +42796,26 @@
         "timestampUpload": 1769576393,
         "weekDay": 2,
         "year": 2026
+    },
+    "Hsdhn92_ccczyQkCpSmbBiLsur": {
+        "author": "7cd60a75-609a-4e64-b286-16f329878249",
+        "authorTime": 46672,
+        "bronzeTime": 71000,
+        "campaignId": 123838,
+        "goldTime": 50000,
+        "mapId": "e05656d7-5a97-4187-b14a-2613ac132948",
+        "mapUid": "Hsdhn92_ccczyQkCpSmbBiLsur",
+        "month": 1,
+        "monthDay": 29,
+        "name": "Forrest Therapy",
+        "number": 2039,
+        "seasonUid": "fe319bdd-229d-44c4-9583-51275082833b",
+        "silverTime": 57000,
+        "submitter": "aa02b90e-0652-4a1c-b705-4677e2983003",
+        "timestampEnd": 1769796000,
+        "timestampStart": 1769709600,
+        "timestampUpload": 1769576389,
+        "weekDay": 3,
+        "year": 2026
     }
 }
