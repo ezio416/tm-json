@@ -42817,5 +42817,26 @@
         "timestampUpload": 1769576389,
         "weekDay": 3,
         "year": 2026
+    },
+    "lIeCVxCa0AnSAuJ2DIA3EIlGMR6": {
+        "author": "a2a59490-6834-4ba1-bdb9-ea18097570c8",
+        "authorTime": 52515,
+        "bronzeTime": 79000,
+        "campaignId": 124302,
+        "goldTime": 56000,
+        "mapId": "52a37bcc-feb7-4c6a-9d80-4983622d6ee0",
+        "mapUid": "lIeCVxCa0AnSAuJ2DIA3EIlGMR6",
+        "month": 1,
+        "monthDay": 30,
+        "name": "$i$sWelcome to Paradise!",
+        "number": 2040,
+        "seasonUid": "9bf5d8bb-db4d-4523-a528-2e008114dba6",
+        "silverTime": 64000,
+        "submitter": "aa02b90e-0652-4a1c-b705-4677e2983003",
+        "timestampEnd": 1769882400,
+        "timestampStart": 1769796000,
+        "timestampUpload": 1769758163,
+        "weekDay": 4,
+        "year": 2026
     }
 }
