@@ -1,5 +1,5 @@
 {
-    "next": 1769803200,
+    "next": 1769889600,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31852,6 +31852,17 @@
             "worldRecord": 46064,
             "mapId": "e05656d7-5a97-4187-b14a-2613ac132948",
             "goldTime": 50000
+        },
+        {
+            "authorTime": 52515,
+            "date": "2026-01-30",
+            "mapUid": "lIeCVxCa0AnSAuJ2DIA3EIlGMR6",
+            "name": "$i$sWelcome to Paradise!",
+            "reason": null,
+            "warriorTime": 52306,
+            "worldRecord": 50842,
+            "mapId": "52a37bcc-feb7-4c6a-9d80-4983622d6ee0",
+            "goldTime": 56000
         }
     ],
     "Other": [
