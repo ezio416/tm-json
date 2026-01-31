@@ -42838,5 +42838,26 @@
         "timestampUpload": 1769758163,
         "weekDay": 4,
         "year": 2026
+    },
+    "MkrNQXN74tyMMxVQyg1BBiOdMCg": {
+        "author": "1f797be5-e425-4f6d-8ebd-e74fd26e5d0d",
+        "authorTime": 42355,
+        "bronzeTime": 64000,
+        "campaignId": 124459,
+        "goldTime": 45000,
+        "mapId": "f1774e1e-68e7-4b42-af7e-155dda3f3994",
+        "mapUid": "MkrNQXN74tyMMxVQyg1BBiOdMCg",
+        "month": 1,
+        "monthDay": 31,
+        "name": "$F athaflexa",
+        "number": 2041,
+        "seasonUid": "15f52a11-9436-4a23-8a9f-7325196307a0",
+        "silverTime": 51000,
+        "submitter": "1f797be5-e425-4f6d-8ebd-e74fd26e5d0d",
+        "timestampEnd": 1769968800,
+        "timestampStart": 1769882400,
+        "timestampUpload": 1769823212,
+        "weekDay": 5,
+        "year": 2026
     }
 }
