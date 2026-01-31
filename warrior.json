@@ -1,5 +1,5 @@
 {
-    "next": 1769889600,
+    "next": 1769976000,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31863,6 +31863,17 @@
             "worldRecord": 50842,
             "mapId": "52a37bcc-feb7-4c6a-9d80-4983622d6ee0",
             "goldTime": 56000
+        },
+        {
+            "authorTime": 42355,
+            "date": "2026-01-31",
+            "mapUid": "MkrNQXN74tyMMxVQyg1BBiOdMCg",
+            "name": "$F athaflexa",
+            "reason": null,
+            "warriorTime": 41516,
+            "worldRecord": 35642,
+            "mapId": "f1774e1e-68e7-4b42-af7e-155dda3f3994",
+            "goldTime": 45000
         }
     ],
     "Other": [
