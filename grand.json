@@ -1,1 +1,46 @@
-{}
+{
+    "UGW4HQDPprsMBbLs0EjSW_9qiUd": {
+        "author": "aa02b90e-0652-4a1c-b705-4677e2983003",
+        "authorTime": 622684,
+        "bronzeTime": 935000,
+        "campaignId": 122935,
+        "goldTime": 661000,
+        "mapId": "3a8fe1c0-f2f3-498f-9412-806a4d6decea",
+        "mapIndex": 0,
+        "mapUid": "UGW4HQDPprsMBbLs0EjSW_9qiUd",
+        "name": "First Chill",
+        "number": 5,
+        "seasonUid": "bff0de5a-d5ad-453d-b3ce-2520ca9ed626",
+        "silverTime": 748000,
+        "submitter": "aa02b90e-0652-4a1c-b705-4677e2983003",
+        "timestampEdition": 1769163654,
+        "timestampEnd": 1769965200,
+        "timestampRankingSent": 0,
+        "timestampStart": 1769360400,
+        "timestampUpload": 1769161944,
+        "week": 5,
+        "year": 2026
+    },
+    "QK3hjkFJH6tLX5kwjtVfv2aUR2k": {
+        "author": "aa02b90e-0652-4a1c-b705-4677e2983003",
+        "authorTime": 663942,
+        "bronzeTime": 996000,
+        "campaignId": 124323,
+        "goldTime": 704000,
+        "mapId": "5a48bf2f-1973-4dca-8a82-8a350a079747",
+        "mapIndex": 0,
+        "mapUid": "QK3hjkFJH6tLX5kwjtVfv2aUR2k",
+        "name": "Green Flow",
+        "number": 6,
+        "seasonUid": "50fc72c1-f0b3-40a5-82b9-3f7a4450ff4d",
+        "silverTime": 797000,
+        "submitter": "aa02b90e-0652-4a1c-b705-4677e2983003",
+        "timestampEdition": 1769777358,
+        "timestampEnd": 1770570000,
+        "timestampRankingSent": 0,
+        "timestampStart": 1769965200,
+        "timestampUpload": 1769777240,
+        "week": 6,
+        "year": 2026
+    }
+}
