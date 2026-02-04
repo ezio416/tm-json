@@ -1,5 +1,5 @@
 {
-    "next": 1770235200,
+    "next": 1770321600,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31907,6 +31907,17 @@
             "worldRecord": 39851,
             "mapId": "bbbe58c5-1642-492f-96a2-facc240dbce0",
             "goldTime": 44000
+        },
+        {
+            "authorTime": 47058,
+            "date": "2026-02-04",
+            "mapUid": "qb3r4051S0dhqUl8oTGeWCzFqQ7",
+            "name": "Legacy ft Oso",
+            "reason": null,
+            "warriorTime": 46986,
+            "worldRecord": 46481,
+            "mapId": "38760df4-b4ae-4c01-b4a5-3363ca39a2fe",
+            "goldTime": 50000
         }
     ],
     "Other": [
