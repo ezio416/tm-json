@@ -4,6 +4,7 @@ Automated repository of JSON files containing information on items listed below
 
 - Maps
     - Seasonal Campaigns
+    - Weekly Grands
     - Weekly Shorts
     - Tracks of the Day
     - Zones (available regions)
