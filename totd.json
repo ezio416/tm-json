@@ -41281,7 +41281,7 @@
         "submitter": "3401efe4-f52f-46bc-8133-1472b8735b7c",
         "timestampEnd": 1763488800,
         "timestampStart": 1763402400,
-        "timestampUpload": 1762189699,
+        "timestampUpload": 1770159843,
         "weekDay": 0,
         "year": 2025
     },
@@ -42921,6 +42921,27 @@
         "timestampStart": 1770141600,
         "timestampUpload": 1767465451,
         "weekDay": 1,
+        "year": 2026
+    },
+    "qb3r4051S0dhqUl8oTGeWCzFqQ7": {
+        "author": "714f94a3-16a9-4856-97e3-49db5e8a610f",
+        "authorTime": 47058,
+        "bronzeTime": 71000,
+        "campaignId": 124948,
+        "goldTime": 50000,
+        "mapId": "38760df4-b4ae-4c01-b4a5-3363ca39a2fe",
+        "mapUid": "qb3r4051S0dhqUl8oTGeWCzFqQ7",
+        "month": 2,
+        "monthDay": 4,
+        "name": "Legacy ft Oso",
+        "number": 2045,
+        "seasonUid": "0c483fcc-b5ac-4d69-b8d6-dbeaf8d002e7",
+        "silverTime": 57000,
+        "submitter": "714f94a3-16a9-4856-97e3-49db5e8a610f",
+        "timestampEnd": 1770314400,
+        "timestampStart": 1770228000,
+        "timestampUpload": 1736283171,
+        "weekDay": 2,
         "year": 2026
     }
 }
