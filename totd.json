@@ -39664,7 +39664,7 @@
         "submitter": "a109b34a-2549-46bd-8fc5-de4540b6da19",
         "timestampEnd": 1756832400,
         "timestampStart": 1756746000,
-        "timestampUpload": 1748632225,
+        "timestampUpload": 1770331940,
         "weekDay": 0,
         "year": 2025
     },
@@ -42963,6 +42963,27 @@
         "timestampStart": 1770314400,
         "timestampUpload": 1769201624,
         "weekDay": 3,
+        "year": 2026
+    },
+    "ap7mGoZCeULOiEkh9CVLZoxUhz8": {
+        "author": "4490cba1-2220-4d54-8dc7-23b5cf2d0db3",
+        "authorTime": 46638,
+        "bronzeTime": 70000,
+        "campaignId": 125164,
+        "goldTime": 49000,
+        "mapId": "c163fab9-5958-4ad5-b587-d1baf8679d63",
+        "mapUid": "ap7mGoZCeULOiEkh9CVLZoxUhz8",
+        "month": 2,
+        "monthDay": 6,
+        "name": "$o$009N$FFFM$C00C - Black Cleaver",
+        "number": 2047,
+        "seasonUid": "2dae9460-1675-412a-9f61-0331bb26b02b",
+        "silverTime": 55000,
+        "submitter": "4490cba1-2220-4d54-8dc7-23b5cf2d0db3",
+        "timestampEnd": 1770487200,
+        "timestampStart": 1770400800,
+        "timestampUpload": 1769441041,
+        "weekDay": 4,
         "year": 2026
     }
 }
