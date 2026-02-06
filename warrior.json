@@ -1,5 +1,5 @@
 {
-    "next": 1770408000,
+    "next": 1770494400,
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -31929,6 +31929,17 @@
             "worldRecord": 43210,
             "mapId": "d3507069-8751-441e-bffc-ef128d56d596",
             "goldTime": 47000
+        },
+        {
+            "authorTime": 46638,
+            "date": "2026-02-06",
+            "mapUid": "ap7mGoZCeULOiEkh9CVLZoxUhz8",
+            "name": "$o$009N$FFFM$C00C - Black Cleaver",
+            "reason": null,
+            "warriorTime": 46564,
+            "worldRecord": 46042,
+            "mapId": "c163fab9-5958-4ad5-b587-d1baf8679d63",
+            "goldTime": 49000
         }
     ],
     "Other": [
