@@ -42985,5 +42985,26 @@
         "timestampUpload": 1769441041,
         "weekDay": 4,
         "year": 2026
+    },
+    "houZ19ONh02khcxs2Ie8P7laBC3": {
+        "author": "babd5821-8cad-4ccd-9a80-218d0e3afd50",
+        "authorTime": 48276,
+        "bronzeTime": 73000,
+        "campaignId": 125165,
+        "goldTime": 52000,
+        "mapId": "2880a8b4-0630-4159-91e6-42613483178e",
+        "mapUid": "houZ19ONh02khcxs2Ie8P7laBC3",
+        "month": 2,
+        "monthDay": 7,
+        "name": "Scottish Hill - DesertCar",
+        "number": 2048,
+        "seasonUid": "2d70c42c-bf53-4824-80cf-1d49de976f74",
+        "silverTime": 58000,
+        "submitter": "babd5821-8cad-4ccd-9a80-218d0e3afd50",
+        "timestampEnd": 1770573600,
+        "timestampStart": 1770487200,
+        "timestampUpload": 1770465578,
+        "weekDay": 5,
+        "year": 2026
     }
 }
