@@ -62,6 +62,34 @@
         "79789-67760": 1,
         "91799-84395": 0
     },
+    "Grand": [
+        {
+            "authorTime": 622684,
+            "mapUid": "UGW4HQDPprsMBbLs0EjSW_9qiUd",
+            "name": "First Chill",
+            "number": 5,
+            "reason": null,
+            "warriorTime": 602392,
+            "worldRecord": 568571,
+            "mapId": "3a8fe1c0-f2f3-498f-9412-806a4d6decea",
+            "goldTime": 661000,
+            "campaignId": 122935,
+            "week": 5
+        },
+        {
+            "authorTime": 663942,
+            "mapUid": "QK3hjkFJH6tLX5kwjtVfv2aUR2k",
+            "name": "Green Flow",
+            "number": 6,
+            "reason": null,
+            "warriorTime": 625987,
+            "worldRecord": 562727,
+            "mapId": "5a48bf2f-1973-4dca-8a82-8a350a079747",
+            "goldTime": 704000,
+            "campaignId": 124323,
+            "week": 6
+        }
+    ],
     "Seasonal": [
         {
             "authorTime": 21794,
@@ -72,7 +100,9 @@
             "warriorTime": 21209,
             "worldRecord": 19454,
             "mapId": "749f0c3c-a25f-4f3a-918a-60cd780eff3e",
-            "goldTime": 24000
+            "goldTime": 24000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 0
         },
         {
             "authorTime": 15061,
@@ -83,7 +113,9 @@
             "warriorTime": 14949,
             "worldRecord": 14613,
             "mapId": "20fbc899-920e-471c-a07e-d2bfabcaff06",
-            "goldTime": 16000
+            "goldTime": 16000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 1
         },
         {
             "authorTime": 20651,
@@ -94,7 +126,9 @@
             "warriorTime": 20077,
             "worldRecord": 18355,
             "mapId": "73edcfb9-0f84-4fd8-9c52-272dae4e82e5",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 2
         },
         {
             "authorTime": 26207,
@@ -105,7 +139,9 @@
             "warriorTime": 25323,
             "worldRecord": 22668,
             "mapId": "6e1523ee-b4ab-40a1-bc4c-879716d0082b",
-            "goldTime": 28500
+            "goldTime": 28500,
+            "campaignName": "Summer 2020",
+            "mapIndex": 3
         },
         {
             "authorTime": 33258,
@@ -116,7 +152,9 @@
             "warriorTime": 32797,
             "worldRecord": 31414,
             "mapId": "28ee72f3-ff6e-45d7-89c3-781e99f5141b",
-            "goldTime": 37000
+            "goldTime": 37000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 4
         },
         {
             "authorTime": 28887,
@@ -127,7 +165,9 @@
             "warriorTime": 28042,
             "worldRecord": 25506,
             "mapId": "ebfad46f-bffb-416b-97be-5cc5508f42f3",
-            "goldTime": 31000
+            "goldTime": 31000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 5
         },
         {
             "authorTime": 33605,
@@ -138,7 +178,9 @@
             "warriorTime": 32701,
             "worldRecord": 29986,
             "mapId": "ab9c3432-18a6-49f0-bfcc-fe95684d54d8",
-            "goldTime": 36000
+            "goldTime": 36000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 6
         },
         {
             "authorTime": 16594,
@@ -149,7 +191,9 @@
             "warriorTime": 15934,
             "worldRecord": 13952,
             "mapId": "bb5ed92d-f2af-462e-a912-7aeb686ff90c",
-            "goldTime": 20000
+            "goldTime": 20000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 7
         },
         {
             "authorTime": 49887,
@@ -160,7 +204,9 @@
             "warriorTime": 48440,
             "worldRecord": 44097,
             "mapId": "327c47e9-db3f-4688-b995-3bf06f6e6ca3",
-            "goldTime": 54000
+            "goldTime": 54000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 8
         },
         {
             "authorTime": 41575,
@@ -171,7 +217,9 @@
             "warriorTime": 41500,
             "worldRecord": 38006,
             "mapId": "28338207-805e-4d74-bc86-a889a88c682a",
-            "goldTime": 45000
+            "goldTime": 45000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 9
         },
         {
             "authorTime": 26846,
@@ -182,7 +230,9 @@
             "warriorTime": 26264,
             "worldRecord": 24515,
             "mapId": "cdb67192-3ef2-48b8-bb02-7a1324fd9fd1",
-            "goldTime": 30000
+            "goldTime": 30000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 10
         },
         {
             "authorTime": 43936,
@@ -193,7 +243,9 @@
             "warriorTime": 42491,
             "worldRecord": 38154,
             "mapId": "ddec9912-f45a-4ff3-bdb3-fef87b4ce1a5",
-            "goldTime": 47000
+            "goldTime": 47000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 11
         },
         {
             "authorTime": 37432,
@@ -204,7 +256,9 @@
             "warriorTime": 36026,
             "worldRecord": 31806,
             "mapId": "80831584-4bd2-47be-b537-04c2bd6fa904",
-            "goldTime": 41000
+            "goldTime": 41000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 12
         },
         {
             "authorTime": 30433,
@@ -215,7 +269,9 @@
             "warriorTime": 27586,
             "worldRecord": 19045,
             "mapId": "9e747437-2973-4cec-be45-8304f22616bf",
-            "goldTime": 33000
+            "goldTime": 33000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 13
         },
         {
             "authorTime": 50620,
@@ -226,7 +282,9 @@
             "warriorTime": 49055,
             "worldRecord": 44360,
             "mapId": "33663b59-63ca-4713-bbec-0b40d9120908",
-            "goldTime": 55000
+            "goldTime": 55000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 14
         },
         {
             "authorTime": 42933,
@@ -237,7 +295,9 @@
             "warriorTime": 41127,
             "worldRecord": 35707,
             "mapId": "d15b2245-d73e-44a3-b890-83f3a33f8f06",
-            "goldTime": 58000
+            "goldTime": 58000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 15
         },
         {
             "authorTime": 50324,
@@ -248,7 +308,9 @@
             "warriorTime": 48753,
             "worldRecord": 44038,
             "mapId": "fca72624-6bf8-47e1-8bb7-a7f8f3e4a4b2",
-            "goldTime": 54000
+            "goldTime": 54000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 16
         },
         {
             "authorTime": 41696,
@@ -259,7 +321,9 @@
             "warriorTime": 39735,
             "worldRecord": 33851,
             "mapId": "6a3bf410-eeb1-4feb-a424-40fdbfd83971",
-            "goldTime": 46000
+            "goldTime": 46000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 17
         },
         {
             "authorTime": 59581,
@@ -270,7 +334,9 @@
             "warriorTime": 56997,
             "worldRecord": 49243,
             "mapId": "fdd9ee73-c306-4cfb-9643-99d7432bd49a",
-            "goldTime": 65000
+            "goldTime": 65000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 18
         },
         {
             "authorTime": 42117,
@@ -281,7 +347,9 @@
             "warriorTime": 40788,
             "worldRecord": 36798,
             "mapId": "2d8dac70-af87-46a8-b34a-fea5ec550244",
-            "goldTime": 46000
+            "goldTime": 46000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 19
         },
         {
             "authorTime": 46637,
@@ -292,7 +360,9 @@
             "warriorTime": 44677,
             "worldRecord": 38794,
             "mapId": "22cb73e3-e95c-46a5-81e9-d8011624735a",
-            "goldTime": 50000
+            "goldTime": 50000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 20
         },
         {
             "authorTime": 47153,
@@ -303,7 +373,9 @@
             "warriorTime": 45615,
             "worldRecord": 40998,
             "mapId": "df6da762-689c-4781-9e13-c5d85b48c3f9",
-            "goldTime": 52000
+            "goldTime": 52000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 21
         },
         {
             "authorTime": 47259,
@@ -314,7 +386,9 @@
             "warriorTime": 45305,
             "worldRecord": 39440,
             "mapId": "dbfa5125-b4ba-4711-95a0-791627354c22",
-            "goldTime": 51000
+            "goldTime": 51000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 22
         },
         {
             "authorTime": 53291,
@@ -325,7 +399,9 @@
             "warriorTime": 51394,
             "worldRecord": 45700,
             "mapId": "c1510106-6be4-4b29-8180-67c27317b0b2",
-            "goldTime": 56000
+            "goldTime": 56000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 23
         },
         {
             "authorTime": 68261,
@@ -336,7 +412,9 @@
             "warriorTime": 65497,
             "worldRecord": 57204,
             "mapId": "df8f7ab1-522b-4c62-a456-478f32f53456",
-            "goldTime": 78000
+            "goldTime": 78000,
+            "campaignName": "Summer 2020",
+            "mapIndex": 24
         },
         {
             "authorTime": 19291,
@@ -347,7 +425,9 @@
             "warriorTime": 19012,
             "worldRecord": 18174,
             "mapId": "c8c6d134-ec15-4bb1-bee6-6303eb88fc12",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 0
         },
         {
             "authorTime": 18843,
@@ -358,7 +438,9 @@
             "warriorTime": 18727,
             "worldRecord": 18376,
             "mapId": "3ce67c4b-573b-4de9-a6a6-b69f9a00636a",
-            "goldTime": 20000
+            "goldTime": 20000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 1
         },
         {
             "authorTime": 23508,
@@ -369,7 +451,9 @@
             "warriorTime": 22973,
             "worldRecord": 21368,
             "mapId": "4cecd4af-03a0-44f9-a7a8-18f5b02cd308",
-            "goldTime": 25000
+            "goldTime": 25000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 2
         },
         {
             "authorTime": 27965,
@@ -380,7 +464,9 @@
             "warriorTime": 27533,
             "worldRecord": 26234,
             "mapId": "b8c3a63f-2e0a-4dd0-8e56-083f78678f22",
-            "goldTime": 30000
+            "goldTime": 30000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 3
         },
         {
             "authorTime": 44013,
@@ -391,7 +477,9 @@
             "warriorTime": 43200,
             "worldRecord": 40758,
             "mapId": "404eba22-7408-4a7f-be99-a0240ccc2d50",
-            "goldTime": 47000
+            "goldTime": 47000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 4
         },
         {
             "authorTime": 30401,
@@ -402,7 +490,9 @@
             "warriorTime": 29889,
             "worldRecord": 28353,
             "mapId": "46f8ae5a-a3d8-4d02-a626-f58ddd16d211",
-            "goldTime": 33000
+            "goldTime": 33000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 5
         },
         {
             "authorTime": 33883,
@@ -413,7 +503,9 @@
             "warriorTime": 33053,
             "worldRecord": 30560,
             "mapId": "b9d8e0fb-59f0-40a4-a757-7d1f3e6c0437",
-            "goldTime": 36000
+            "goldTime": 36000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 6
         },
         {
             "authorTime": 33888,
@@ -424,7 +516,9 @@
             "warriorTime": 33052,
             "worldRecord": 30543,
             "mapId": "053134f2-dc51-4b66-96c8-e1bf9368ec0b",
-            "goldTime": 36000
+            "goldTime": 36000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 7
         },
         {
             "authorTime": 37574,
@@ -435,7 +529,9 @@
             "warriorTime": 36753,
             "worldRecord": 34288,
             "mapId": "5340e6b6-3c05-469a-8a4b-fc58cd94bd88",
-            "goldTime": 40000
+            "goldTime": 40000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 8
         },
         {
             "authorTime": 36041,
@@ -446,7 +542,9 @@
             "warriorTime": 34986,
             "worldRecord": 31818,
             "mapId": "416cd11c-a867-41e5-b6c0-582bf0ecb255",
-            "goldTime": 39000
+            "goldTime": 39000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 9
         },
         {
             "authorTime": 29777,
@@ -457,7 +555,9 @@
             "warriorTime": 29177,
             "worldRecord": 27376,
             "mapId": "1759028c-9ed8-4857-be36-e73932818065",
-            "goldTime": 32000
+            "goldTime": 32000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 10
         },
         {
             "authorTime": 39097,
@@ -468,7 +568,9 @@
             "warriorTime": 37981,
             "worldRecord": 34631,
             "mapId": "eaacb8bd-0377-466c-bafd-88c144806581",
-            "goldTime": 42000
+            "goldTime": 42000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 11
         },
         {
             "authorTime": 36571,
@@ -479,7 +581,9 @@
             "warriorTime": 35361,
             "worldRecord": 31728,
             "mapId": "c03892e5-154c-4afe-ac4b-6e8c6aec2aa6",
-            "goldTime": 39000
+            "goldTime": 39000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 12
         },
         {
             "authorTime": 35046,
@@ -490,7 +594,9 @@
             "warriorTime": 32706,
             "worldRecord": 25683,
             "mapId": "6b31cdfe-3927-411a-87ae-264e5dfff1bb",
-            "goldTime": 38000
+            "goldTime": 38000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 13
         },
         {
             "authorTime": 47158,
@@ -501,7 +607,9 @@
             "warriorTime": 45766,
             "worldRecord": 41590,
             "mapId": "ff9daa53-6ae8-4708-8bc8-ec0c1c1912bb",
-            "goldTime": 50000
+            "goldTime": 50000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 14
         },
         {
             "authorTime": 49631,
@@ -512,7 +620,9 @@
             "warriorTime": 48305,
             "worldRecord": 44326,
             "mapId": "eda424ab-da66-4c9b-97c9-b756d16d974c",
-            "goldTime": 53000
+            "goldTime": 53000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 15
         },
         {
             "authorTime": 46227,
@@ -523,7 +633,9 @@
             "warriorTime": 44998,
             "worldRecord": 41308,
             "mapId": "f9a276b6-64d6-461a-8180-1bfade71e53c",
-            "goldTime": 50000
+            "goldTime": 50000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 16
         },
         {
             "authorTime": 41418,
@@ -534,7 +646,9 @@
             "warriorTime": 40422,
             "worldRecord": 37431,
             "mapId": "054b28b2-6128-435a-a575-2f867e5a8e6d",
-            "goldTime": 44000
+            "goldTime": 44000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 17
         },
         {
             "authorTime": 53997,
@@ -545,7 +659,9 @@
             "warriorTime": 52527,
             "worldRecord": 48117,
             "mapId": "4d8125e0-2971-43a6-a9c6-510b0c2379f2",
-            "goldTime": 59000
+            "goldTime": 59000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 18
         },
         {
             "authorTime": 52438,
@@ -556,7 +672,9 @@
             "warriorTime": 50960,
             "worldRecord": 46525,
             "mapId": "9706601d-07ff-4d71-92d5-79d61a13605e",
-            "goldTime": 56000
+            "goldTime": 56000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 19
         },
         {
             "authorTime": 57494,
@@ -567,7 +685,9 @@
             "warriorTime": 55871,
             "worldRecord": 51000,
             "mapId": "d44f6111-cad3-4c98-a6f2-628bb1aa6aed",
-            "goldTime": 61000
+            "goldTime": 61000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 20
         },
         {
             "authorTime": 56623,
@@ -578,7 +698,9 @@
             "warriorTime": 55727,
             "worldRecord": 53038,
             "mapId": "2cd3b0d3-ba6c-4420-8287-83fe7acfe376",
-            "goldTime": 61000
+            "goldTime": 61000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 21
         },
         {
             "authorTime": 50816,
@@ -589,7 +711,9 @@
             "warriorTime": 49526,
             "worldRecord": 45656,
             "mapId": "e005b8cd-d700-4150-a3b3-2c03268b7a51",
-            "goldTime": 55000
+            "goldTime": 55000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 22
         },
         {
             "authorTime": 57935,
@@ -600,7 +724,9 @@
             "warriorTime": 56433,
             "worldRecord": 51924,
             "mapId": "378d7610-fcc2-4bfb-83a6-34386c900e08",
-            "goldTime": 62000
+            "goldTime": 62000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 23
         },
         {
             "authorTime": 77692,
@@ -611,7 +737,9 @@
             "warriorTime": 75563,
             "worldRecord": 69174,
             "mapId": "4f266b71-68f5-4c69-a781-5bf99e5ba5d9",
-            "goldTime": 83000
+            "goldTime": 83000,
+            "campaignName": "Fall 2020",
+            "mapIndex": 24
         },
         {
             "authorTime": 25288,
@@ -622,7 +750,9 @@
             "warriorTime": 24786,
             "worldRecord": 23278,
             "mapId": "1ecb804b-caaf-4394-8a2e-2f5a23aeaf56",
-            "goldTime": 27000
+            "goldTime": 27000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 0
         },
         {
             "authorTime": 17310,
@@ -633,7 +763,9 @@
             "warriorTime": 17122,
             "worldRecord": 16556,
             "mapId": "95062c1c-e08c-420b-a548-333085b27962",
-            "goldTime": 19000
+            "goldTime": 19000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 1
         },
         {
             "authorTime": 22043,
@@ -644,7 +776,9 @@
             "warriorTime": 21654,
             "worldRecord": 20485,
             "mapId": "5b2b3bdb-ed78-4122-b0d5-e44fe1bdab2f",
-            "goldTime": 24000
+            "goldTime": 24000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 2
         },
         {
             "authorTime": 22995,
@@ -655,7 +789,9 @@
             "warriorTime": 22732,
             "worldRecord": 21941,
             "mapId": "a727fe4e-12a1-4175-a441-8531bbe23895",
-            "goldTime": 25000
+            "goldTime": 25000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 3
         },
         {
             "authorTime": 39135,
@@ -666,7 +802,9 @@
             "warriorTime": 38133,
             "worldRecord": 35125,
             "mapId": "02fbac7b-4f23-4728-94dd-7ea0ca8b6611",
-            "goldTime": 42000
+            "goldTime": 42000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 4
         },
         {
             "authorTime": 31158,
@@ -677,7 +815,9 @@
             "warriorTime": 30802,
             "worldRecord": 29731,
             "mapId": "d3fb3eaa-5928-407b-ab10-cc4e9840fad2",
-            "goldTime": 34000
+            "goldTime": 34000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 5
         },
         {
             "authorTime": 36915,
@@ -688,7 +828,9 @@
             "warriorTime": 36029,
             "worldRecord": 33370,
             "mapId": "09853d2c-b29f-4c25-8fa5-8a4c08adba8e",
-            "goldTime": 40000
+            "goldTime": 40000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 6
         },
         {
             "authorTime": 37226,
@@ -699,7 +841,9 @@
             "warriorTime": 36493,
             "worldRecord": 34291,
             "mapId": "cad8769d-bd0d-4c7c-8de0-5b625433e560",
-            "goldTime": 40000
+            "goldTime": 40000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 7
         },
         {
             "authorTime": 48336,
@@ -710,7 +854,9 @@
             "warriorTime": 47289,
             "worldRecord": 44148,
             "mapId": "52335c20-f061-4bc1-b1b3-a78b20aa4a83",
-            "goldTime": 52000
+            "goldTime": 52000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 8
         },
         {
             "authorTime": 45208,
@@ -721,7 +867,9 @@
             "warriorTime": 45200,
             "worldRecord": 41907,
             "mapId": "05396936-b8ac-4bed-bfee-4d99d4ac3f0d",
-            "goldTime": 48000
+            "goldTime": 48000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 9
         },
         {
             "authorTime": 31735,
@@ -732,7 +880,9 @@
             "warriorTime": 31000,
             "worldRecord": 28795,
             "mapId": "fe7b0fdd-f0b4-4360-b000-c9d445c6480e",
-            "goldTime": 34000
+            "goldTime": 34000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 10
         },
         {
             "authorTime": 39740,
@@ -743,7 +893,9 @@
             "warriorTime": 39221,
             "worldRecord": 37662,
             "mapId": "8c249031-b140-4d9b-84e8-1b0aae3c7343",
-            "goldTime": 43000
+            "goldTime": 43000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 11
         },
         {
             "authorTime": 33023,
@@ -754,7 +906,9 @@
             "warriorTime": 32057,
             "worldRecord": 29158,
             "mapId": "2f2ba05f-de0d-4b19-ab93-9b69f24a8b3e",
-            "goldTime": 36000
+            "goldTime": 36000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 12
         },
         {
             "authorTime": 30312,
@@ -765,7 +919,9 @@
             "warriorTime": 29718,
             "worldRecord": 27933,
             "mapId": "562e8e75-836e-4db8-b863-4027d9f5a1bb",
-            "goldTime": 33000
+            "goldTime": 33000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 13
         },
         {
             "authorTime": 59074,
@@ -776,7 +932,9 @@
             "warriorTime": 57719,
             "worldRecord": 53651,
             "mapId": "45c07a97-4920-4114-9ef7-eb5d28ef5ea0",
-            "goldTime": 63000
+            "goldTime": 63000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 14
         },
         {
             "authorTime": 43172,
@@ -787,7 +945,9 @@
             "warriorTime": 41776,
             "worldRecord": 37588,
             "mapId": "a07d6a36-4a13-4f73-9b25-9f1bf60d8e26",
-            "goldTime": 46000
+            "goldTime": 46000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 15
         },
         {
             "authorTime": 54840,
@@ -798,7 +958,9 @@
             "warriorTime": 53638,
             "worldRecord": 50032,
             "mapId": "69bb420e-4ea7-4fca-9a11-502fdff019a5",
-            "goldTime": 59000
+            "goldTime": 59000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 16
         },
         {
             "authorTime": 43500,
@@ -809,7 +971,9 @@
             "warriorTime": 42561,
             "worldRecord": 39743,
             "mapId": "e617320a-2ae4-47b3-af9a-3e011e2a7c65",
-            "goldTime": 47000
+            "goldTime": 47000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 17
         },
         {
             "authorTime": 56691,
@@ -820,7 +984,9 @@
             "warriorTime": 55460,
             "worldRecord": 51766,
             "mapId": "c91c9034-b441-44a3-a525-1498d295b4f3",
-            "goldTime": 61000
+            "goldTime": 61000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 18
         },
         {
             "authorTime": 45890,
@@ -831,7 +997,9 @@
             "warriorTime": 44712,
             "worldRecord": 41177,
             "mapId": "feb5cb98-3a35-4462-a80f-7a6ecfd843d6",
-            "goldTime": 49000
+            "goldTime": 49000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 19
         },
         {
             "authorTime": 48626,
@@ -842,7 +1010,9 @@
             "warriorTime": 46798,
             "worldRecord": 41312,
             "mapId": "96b16c5d-111b-4d39-b70c-25a7d07a3630",
-            "goldTime": 52000
+            "goldTime": 52000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 20
         },
         {
             "authorTime": 46538,
@@ -853,7 +1023,9 @@
             "warriorTime": 45752,
             "worldRecord": 43393,
             "mapId": "83afc11f-1097-4196-81f3-41e87b1db3dd",
-            "goldTime": 50000
+            "goldTime": 50000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 21
         },
         {
             "authorTime": 65175,
@@ -864,7 +1036,9 @@
             "warriorTime": 64062,
             "worldRecord": 60721,
             "mapId": "d1b41044-250a-45ac-8d51-6a5d139b0ed7",
-            "goldTime": 70000
+            "goldTime": 70000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 22
         },
         {
             "authorTime": 67547,
@@ -875,7 +1049,9 @@
             "warriorTime": 65664,
             "worldRecord": 60015,
             "mapId": "a9be9c0a-5b00-43aa-affc-047c19a13ef5",
-            "goldTime": 72000
+            "goldTime": 72000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 23
         },
         {
             "authorTime": 96533,
@@ -886,7 +1062,9 @@
             "warriorTime": 94467,
             "worldRecord": 88268,
             "mapId": "3b551f2b-7670-4cd6-98c4-89ad5dbd60dc",
-            "goldTime": 104000
+            "goldTime": 104000,
+            "campaignName": "Winter 2021",
+            "mapIndex": 24
         },
         {
             "authorTime": 21755,
@@ -897,7 +1075,9 @@
             "warriorTime": 21591,
             "worldRecord": 21096,
             "mapId": "3896dc4f-919a-4da7-8c49-bcc70a341cf1",
-            "goldTime": 24000
+            "goldTime": 24000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 0
         },
         {
             "authorTime": 19367,
@@ -908,7 +1088,9 @@
             "warriorTime": 18949,
             "worldRecord": 17694,
             "mapId": "49bd3f7f-fa15-4c0d-9c89-4024c53f91ba",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 1
         },
         {
             "authorTime": 21777,
@@ -919,7 +1101,9 @@
             "warriorTime": 21404,
             "worldRecord": 20284,
             "mapId": "4ba8473e-2ba1-42e6-8452-424e30d92d77",
-            "goldTime": 24000
+            "goldTime": 24000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 2
         },
         {
             "authorTime": 33989,
@@ -930,7 +1114,9 @@
             "warriorTime": 33134,
             "worldRecord": 30567,
             "mapId": "aceeb01e-886e-417e-b793-6766f338b8a2",
-            "goldTime": 37000
+            "goldTime": 37000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 3
         },
         {
             "authorTime": 30281,
@@ -941,7 +1127,9 @@
             "warriorTime": 29683,
             "worldRecord": 27886,
             "mapId": "bb179b91-ed69-48e1-87c2-196f25b11976",
-            "goldTime": 33000
+            "goldTime": 33000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 4
         },
         {
             "authorTime": 30868,
@@ -952,7 +1140,9 @@
             "warriorTime": 30079,
             "worldRecord": 27710,
             "mapId": "c0a88ff9-63ab-466e-8293-41d855920519",
-            "goldTime": 33000
+            "goldTime": 33000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 5
         },
         {
             "authorTime": 32456,
@@ -963,7 +1153,9 @@
             "warriorTime": 31822,
             "worldRecord": 29917,
             "mapId": "6f8762a2-13bc-4821-9845-f901883d9f70",
-            "goldTime": 35000
+            "goldTime": 35000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 6
         },
         {
             "authorTime": 34693,
@@ -974,7 +1166,9 @@
             "warriorTime": 33691,
             "worldRecord": 30685,
             "mapId": "6e2f48ef-fe35-4365-a35f-4c6430e3b103",
-            "goldTime": 37000
+            "goldTime": 37000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 7
         },
         {
             "authorTime": 39572,
@@ -985,7 +1179,9 @@
             "warriorTime": 38788,
             "worldRecord": 36435,
             "mapId": "815a2a8e-e299-4e93-8097-5285d6036240",
-            "goldTime": 42000
+            "goldTime": 42000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 8
         },
         {
             "authorTime": 39780,
@@ -996,7 +1192,9 @@
             "warriorTime": 38939,
             "worldRecord": 36415,
             "mapId": "bff0eb8e-8c15-4343-82c0-2368fbf0781c",
-            "goldTime": 43000
+            "goldTime": 43000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 9
         },
         {
             "authorTime": 34105,
@@ -1007,7 +1205,9 @@
             "warriorTime": 33501,
             "worldRecord": 31688,
             "mapId": "ddc5d0d7-260c-44a4-b691-b58abd57498b",
-            "goldTime": 37000
+            "goldTime": 37000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 10
         },
         {
             "authorTime": 34124,
@@ -1018,7 +1218,9 @@
             "warriorTime": 32776,
             "worldRecord": 28731,
             "mapId": "c5284a6e-ca67-49b7-995c-04ed9920b464",
-            "goldTime": 37000
+            "goldTime": 37000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 11
         },
         {
             "authorTime": 36930,
@@ -1029,7 +1231,9 @@
             "warriorTime": 35890,
             "worldRecord": 32768,
             "mapId": "86e8e79f-eb3b-4338-a145-bb045735d68e",
-            "goldTime": 40000
+            "goldTime": 40000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 12
         },
         {
             "authorTime": 44562,
@@ -1040,7 +1244,9 @@
             "warriorTime": 43506,
             "worldRecord": 40338,
             "mapId": "60aab799-42ab-4e89-8f07-ec13082844ee",
-            "goldTime": 48000
+            "goldTime": 48000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 13
         },
         {
             "authorTime": 39370,
@@ -1051,7 +1257,9 @@
             "warriorTime": 38297,
             "worldRecord": 35076,
             "mapId": "a6d36bba-2383-4103-912a-82525d820a01",
-            "goldTime": 42000
+            "goldTime": 42000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 14
         },
         {
             "authorTime": 35500,
@@ -1062,7 +1270,9 @@
             "warriorTime": 34958,
             "worldRecord": 33331,
             "mapId": "6237e0d1-13b5-4701-a19f-2a0442eebf8b",
-            "goldTime": 38000
+            "goldTime": 38000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 15
         },
         {
             "authorTime": 42040,
@@ -1073,7 +1283,9 @@
             "warriorTime": 41070,
             "worldRecord": 38158,
             "mapId": "649a7c26-1a88-4e45-8b12-e36ef3ff19a4",
-            "goldTime": 45000
+            "goldTime": 45000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 16
         },
         {
             "authorTime": 44140,
@@ -1084,7 +1296,9 @@
             "warriorTime": 42957,
             "worldRecord": 39407,
             "mapId": "f35d8e12-ff09-4ad2-9d82-7e80466ea295",
-            "goldTime": 47000
+            "goldTime": 47000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 17
         },
         {
             "authorTime": 56588,
@@ -1095,7 +1309,9 @@
             "warriorTime": 55623,
             "worldRecord": 52725,
             "mapId": "a45e6543-8c8a-451b-9cd9-190f04a37293",
-            "goldTime": 60000
+            "goldTime": 60000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 18
         },
         {
             "authorTime": 45362,
@@ -1106,7 +1322,9 @@
             "warriorTime": 44594,
             "worldRecord": 42287,
             "mapId": "2f0ea14d-c4f7-4e91-b16a-e605573832c7",
-            "goldTime": 49000
+            "goldTime": 49000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 19
         },
         {
             "authorTime": 54444,
@@ -1117,7 +1335,9 @@
             "warriorTime": 53251,
             "worldRecord": 49671,
             "mapId": "91551c44-652f-45e0-845e-dd91691ee29c",
-            "goldTime": 58000
+            "goldTime": 58000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 20
         },
         {
             "authorTime": 59510,
@@ -1128,7 +1348,9 @@
             "warriorTime": 58325,
             "worldRecord": 54770,
             "mapId": "496a64e4-29b9-45dc-8bd0-bbaaebb423e0",
-            "goldTime": 64000
+            "goldTime": 64000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 21
         },
         {
             "authorTime": 53735,
@@ -1139,7 +1361,9 @@
             "warriorTime": 52767,
             "worldRecord": 49861,
             "mapId": "f44840e7-e1ff-48de-8a39-a1990da738a7",
-            "goldTime": 57000
+            "goldTime": 57000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 22
         },
         {
             "authorTime": 73636,
@@ -1150,7 +1374,9 @@
             "warriorTime": 73600,
             "worldRecord": 69033,
             "mapId": "49e21d52-5cc5-430d-a512-50c1bdab8985",
-            "goldTime": 79000
+            "goldTime": 79000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 23
         },
         {
             "authorTime": 78942,
@@ -1161,7 +1387,9 @@
             "warriorTime": 77836,
             "worldRecord": 74518,
             "mapId": "920f4cb1-65a0-4bbe-909f-275829d45eb2",
-            "goldTime": 84000
+            "goldTime": 84000,
+            "campaignName": "Spring 2021",
+            "mapIndex": 24
         },
         {
             "authorTime": 21024,
@@ -1172,7 +1400,9 @@
             "warriorTime": 20832,
             "worldRecord": 20256,
             "mapId": "6fdc9bfa-6ff9-4916-ae0c-90e083a7bb19",
-            "goldTime": 23000
+            "goldTime": 23000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 0
         },
         {
             "authorTime": 25371,
@@ -1183,7 +1413,9 @@
             "warriorTime": 25035,
             "worldRecord": 24024,
             "mapId": "98e5b935-9825-44e2-99f2-ebe7f5423966",
-            "goldTime": 27000
+            "goldTime": 27000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 1
         },
         {
             "authorTime": 22201,
@@ -1194,7 +1426,9 @@
             "warriorTime": 21813,
             "worldRecord": 20648,
             "mapId": "59baaabe-7914-493b-9659-437b6ad024bf",
-            "goldTime": 24000
+            "goldTime": 24000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 2
         },
         {
             "authorTime": 26840,
@@ -1205,7 +1439,9 @@
             "warriorTime": 26192,
             "worldRecord": 24245,
             "mapId": "4350a2ce-4118-4d61-b536-14e1a2de1e15",
-            "goldTime": 29000
+            "goldTime": 29000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 3
         },
         {
             "authorTime": 37614,
@@ -1216,7 +1452,9 @@
             "warriorTime": 37061,
             "worldRecord": 35400,
             "mapId": "b9d9ad53-a005-44e9-83ed-05aeb009977b",
-            "goldTime": 40000
+            "goldTime": 40000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 4
         },
         {
             "authorTime": 27636,
@@ -1227,7 +1465,9 @@
             "warriorTime": 27120,
             "worldRecord": 25570,
             "mapId": "16fdfbaf-3b47-490b-901f-e90db89aaa84",
-            "goldTime": 30000
+            "goldTime": 30000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 5
         },
         {
             "authorTime": 25578,
@@ -1238,7 +1478,9 @@
             "warriorTime": 24847,
             "worldRecord": 22654,
             "mapId": "ba0a5af2-eecc-4dd6-bbdd-154315dccbfd",
-            "goldTime": 28000
+            "goldTime": 28000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 6
         },
         {
             "authorTime": 25940,
@@ -1249,7 +1491,9 @@
             "warriorTime": 25325,
             "worldRecord": 23478,
             "mapId": "02c4c6a0-b389-4a66-9970-f24b741a058d",
-            "goldTime": 28000
+            "goldTime": 28000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 7
         },
         {
             "authorTime": 25353,
@@ -1260,7 +1504,9 @@
             "warriorTime": 24901,
             "worldRecord": 23542,
             "mapId": "882868f8-a2cf-4767-9608-5416ad1c6cac",
-            "goldTime": 27000
+            "goldTime": 27000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 8
         },
         {
             "authorTime": 38520,
@@ -1271,7 +1517,9 @@
             "warriorTime": 37758,
             "worldRecord": 35472,
             "mapId": "1d4fb324-5974-477c-b714-216089564b89",
-            "goldTime": 41000
+            "goldTime": 41000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 9
         },
         {
             "authorTime": 33427,
@@ -1282,7 +1530,9 @@
             "warriorTime": 32775,
             "worldRecord": 30817,
             "mapId": "64cf9fce-4f49-41e8-b80b-6d2fe2151b8b",
-            "goldTime": 36000
+            "goldTime": 36000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 10
         },
         {
             "authorTime": 37097,
@@ -1293,7 +1543,9 @@
             "warriorTime": 36237,
             "worldRecord": 33656,
             "mapId": "e554e8f6-a44b-42e1-bf4b-a422f356e323",
-            "goldTime": 40000
+            "goldTime": 40000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 11
         },
         {
             "authorTime": 35829,
@@ -1304,7 +1556,9 @@
             "warriorTime": 35273,
             "worldRecord": 33604,
             "mapId": "dd26f337-8513-4d66-b248-b17f1ebee624",
-            "goldTime": 38000
+            "goldTime": 38000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 12
         },
         {
             "authorTime": 36418,
@@ -1315,7 +1569,9 @@
             "warriorTime": 35714,
             "worldRecord": 33601,
             "mapId": "d6dc412d-55ac-4ad1-9e3a-d981cd3ef808",
-            "goldTime": 39000
+            "goldTime": 39000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 13
         },
         {
             "authorTime": 48694,
@@ -1326,7 +1582,9 @@
             "warriorTime": 47872,
             "worldRecord": 45405,
             "mapId": "57c99dc6-6308-4e29-aef4-89214dffe06f",
-            "goldTime": 52000
+            "goldTime": 52000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 14
         },
         {
             "authorTime": 47745,
@@ -1337,7 +1595,9 @@
             "warriorTime": 47022,
             "worldRecord": 44851,
             "mapId": "93776012-7ee2-4286-9afe-a8d4817dfc6b",
-            "goldTime": 51000
+            "goldTime": 51000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 15
         },
         {
             "authorTime": 49178,
@@ -1348,7 +1608,9 @@
             "warriorTime": 48409,
             "worldRecord": 46102,
             "mapId": "f36b992a-e3d3-49d4-a5bb-6981627e6a8a",
-            "goldTime": 53000
+            "goldTime": 53000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 16
         },
         {
             "authorTime": 49065,
@@ -1359,7 +1621,9 @@
             "warriorTime": 47709,
             "worldRecord": 43640,
             "mapId": "15941975-e602-4de3-b4a1-cee65cf5063b",
-            "goldTime": 53000
+            "goldTime": 53000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 17
         },
         {
             "authorTime": 53363,
@@ -1370,7 +1634,9 @@
             "warriorTime": 52255,
             "worldRecord": 48928,
             "mapId": "886bf86b-3aa8-4127-98d7-75026b443eb8",
-            "goldTime": 57000
+            "goldTime": 57000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 18
         },
         {
             "authorTime": 60902,
@@ -1381,7 +1647,9 @@
             "warriorTime": 58415,
             "worldRecord": 50953,
             "mapId": "da410530-5926-4e5b-b303-f534a51e1e6f",
-            "goldTime": 65000
+            "goldTime": 65000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 19
         },
         {
             "authorTime": 55151,
@@ -1392,7 +1660,9 @@
             "warriorTime": 54272,
             "worldRecord": 51634,
             "mapId": "e828bb83-0ee1-4ede-8aba-e9326947b5f4",
-            "goldTime": 59000
+            "goldTime": 59000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 20
         },
         {
             "authorTime": 62633,
@@ -1403,7 +1673,9 @@
             "warriorTime": 61822,
             "worldRecord": 59386,
             "mapId": "90921991-4389-4617-bf5e-2890da2e5ab2",
-            "goldTime": 67000
+            "goldTime": 67000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 21
         },
         {
             "authorTime": 52414,
@@ -1414,7 +1686,9 @@
             "warriorTime": 51068,
             "worldRecord": 47027,
             "mapId": "0f3cf898-5b98-42c4-814a-5a982df8ed32",
-            "goldTime": 56000
+            "goldTime": 56000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 22
         },
         {
             "authorTime": 62568,
@@ -1425,7 +1699,9 @@
             "warriorTime": 60877,
             "worldRecord": 55804,
             "mapId": "5c863c76-3c83-4527-9daa-4d51ec5c399a",
-            "goldTime": 67000
+            "goldTime": 67000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 23
         },
         {
             "authorTime": 85858,
@@ -1436,7 +1712,9 @@
             "warriorTime": 84520,
             "worldRecord": 80505,
             "mapId": "dbd2e391-1e12-4eb9-8efd-8ed36570c3b0",
-            "goldTime": 92000
+            "goldTime": 92000,
+            "campaignName": "Summer 2021",
+            "mapIndex": 24
         },
         {
             "authorTime": 24448,
@@ -1447,7 +1725,9 @@
             "warriorTime": 24141,
             "worldRecord": 23220,
             "mapId": "2d87d82c-0bc7-4e76-bd29-69bf2b10ebaf",
-            "goldTime": 26000
+            "goldTime": 26000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 0
         },
         {
             "authorTime": 17234,
@@ -1458,7 +1738,9 @@
             "warriorTime": 17021,
             "worldRecord": 16381,
             "mapId": "7026a60a-cc4c-4322-900a-b64d16160802",
-            "goldTime": 19000
+            "goldTime": 19000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 1
         },
         {
             "authorTime": 26715,
@@ -1469,7 +1751,9 @@
             "warriorTime": 26380,
             "worldRecord": 25372,
             "mapId": "da892fb1-402a-472b-b95d-bd8cfed96e50",
-            "goldTime": 29000
+            "goldTime": 29000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 2
         },
         {
             "authorTime": 24756,
@@ -1480,7 +1764,9 @@
             "warriorTime": 24572,
             "worldRecord": 24018,
             "mapId": "1ca6150b-960d-41d3-9805-8960925317bc",
-            "goldTime": 27000
+            "goldTime": 27000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 3
         },
         {
             "authorTime": 32826,
@@ -1491,7 +1777,9 @@
             "warriorTime": 31792,
             "worldRecord": 28687,
             "mapId": "7378d9ad-4cd7-4642-8360-301def0d14a5",
-            "goldTime": 35000
+            "goldTime": 35000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 4
         },
         {
             "authorTime": 28942,
@@ -1502,7 +1790,9 @@
             "warriorTime": 28349,
             "worldRecord": 26568,
             "mapId": "7bd387fa-e5a1-4a8a-9f41-c54d2f52ba78",
-            "goldTime": 31000
+            "goldTime": 31000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 5
         },
         {
             "authorTime": 30988,
@@ -1513,7 +1803,9 @@
             "warriorTime": 30374,
             "worldRecord": 28531,
             "mapId": "b90f90e2-e7fb-4628-83b2-d8d723974884",
-            "goldTime": 33000
+            "goldTime": 33000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 6
         },
         {
             "authorTime": 33355,
@@ -1524,7 +1816,9 @@
             "warriorTime": 32834,
             "worldRecord": 31268,
             "mapId": "35fd44f5-8811-4f2c-9159-4b1eb774d28e",
-            "goldTime": 36000
+            "goldTime": 36000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 7
         },
         {
             "authorTime": 33201,
@@ -1535,7 +1829,9 @@
             "warriorTime": 32395,
             "worldRecord": 29975,
             "mapId": "76a435b6-f034-4ef9-8d11-534b169844be",
-            "goldTime": 36000
+            "goldTime": 36000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 8
         },
         {
             "authorTime": 37528,
@@ -1546,7 +1842,9 @@
             "warriorTime": 37147,
             "worldRecord": 36002,
             "mapId": "7997e20e-78b5-418a-a8f9-5c4c0785b208",
-            "goldTime": 40000
+            "goldTime": 40000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 9
         },
         {
             "authorTime": 39412,
@@ -1557,7 +1855,9 @@
             "warriorTime": 38338,
             "worldRecord": 35114,
             "mapId": "11022b79-a442-42f9-8463-c557779ec500",
-            "goldTime": 42000
+            "goldTime": 42000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 10
         },
         {
             "authorTime": 38269,
@@ -1568,7 +1868,9 @@
             "warriorTime": 37408,
             "worldRecord": 34824,
             "mapId": "3dd9a203-0237-4aa6-8482-cf867af838ad",
-            "goldTime": 41000
+            "goldTime": 41000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 11
         },
         {
             "authorTime": 35247,
@@ -1579,7 +1881,9 @@
             "warriorTime": 34544,
             "worldRecord": 32433,
             "mapId": "97f3f017-1068-4d4a-9e81-7acda708b66c",
-            "goldTime": 38000
+            "goldTime": 38000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 12
         },
         {
             "authorTime": 35258,
@@ -1590,7 +1894,9 @@
             "warriorTime": 34861,
             "worldRecord": 33668,
             "mapId": "2df8b209-40d3-4cb9-94ca-5cf6b520fade",
-            "goldTime": 38000
+            "goldTime": 38000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 13
         },
         {
             "authorTime": 38581,
@@ -1601,7 +1907,9 @@
             "warriorTime": 37369,
             "worldRecord": 33733,
             "mapId": "db2bc794-77fb-4581-ad57-7ad116d7d721",
-            "goldTime": 41000
+            "goldTime": 41000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 14
         },
         {
             "authorTime": 41624,
@@ -1612,7 +1920,9 @@
             "warriorTime": 40578,
             "worldRecord": 37438,
             "mapId": "11675d7d-f78c-40e2-9375-33b638fc0890",
-            "goldTime": 45000
+            "goldTime": 45000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 15
         },
         {
             "authorTime": 37316,
@@ -1623,7 +1933,9 @@
             "warriorTime": 36443,
             "worldRecord": 33824,
             "mapId": "2a442ade-97de-4edd-9569-bc2045e13ba3",
-            "goldTime": 40000
+            "goldTime": 40000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 16
         },
         {
             "authorTime": 42220,
@@ -1634,7 +1946,9 @@
             "warriorTime": 41157,
             "worldRecord": 37966,
             "mapId": "3a677dc3-62f0-4cf6-81fc-a55d5869798b",
-            "goldTime": 45000
+            "goldTime": 45000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 17
         },
         {
             "authorTime": 52575,
@@ -1645,7 +1959,9 @@
             "warriorTime": 50041,
             "worldRecord": 42438,
             "mapId": "54a3f5e0-e1df-4c11-8ecc-ed57e32b3c3e",
-            "goldTime": 56000
+            "goldTime": 56000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 18
         },
         {
             "authorTime": 51234,
@@ -1656,7 +1972,9 @@
             "warriorTime": 50165,
             "worldRecord": 46955,
             "mapId": "e7f101ce-8453-42c5-b0d7-b1e0d3e5aa55",
-            "goldTime": 55000
+            "goldTime": 55000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 19
         },
         {
             "authorTime": 54298,
@@ -1667,7 +1985,9 @@
             "warriorTime": 53168,
             "worldRecord": 49776,
             "mapId": "a0bf4b47-b98a-4a14-8e45-86f766d358eb",
-            "goldTime": 58000
+            "goldTime": 58000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 20
         },
         {
             "authorTime": 52037,
@@ -1678,7 +1998,9 @@
             "warriorTime": 51175,
             "worldRecord": 48588,
             "mapId": "89bda289-c267-4241-8c29-e2e7d35db4e5",
-            "goldTime": 56000
+            "goldTime": 56000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 21
         },
         {
             "authorTime": 52551,
@@ -1689,7 +2011,9 @@
             "warriorTime": 51629,
             "worldRecord": 48862,
             "mapId": "ff666b6b-1f93-4212-b5d0-5d126869f0f5",
-            "goldTime": 56000
+            "goldTime": 56000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 22
         },
         {
             "authorTime": 62641,
@@ -1700,7 +2024,9 @@
             "warriorTime": 61768,
             "worldRecord": 59148,
             "mapId": "af0292bb-6ca7-42ce-9af3-7a3546fb7da6",
-            "goldTime": 67000
+            "goldTime": 67000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 23
         },
         {
             "authorTime": 64762,
@@ -1711,7 +2037,9 @@
             "warriorTime": 63759,
             "worldRecord": 60747,
             "mapId": "41a47fac-80d1-4632-8f81-32308324ee4a",
-            "goldTime": 69000
+            "goldTime": 69000,
+            "campaignName": "Fall 2021",
+            "mapIndex": 24
         },
         {
             "authorTime": 22215,
@@ -1722,7 +2050,9 @@
             "warriorTime": 21703,
             "worldRecord": 20165,
             "mapId": "42c91c55-6ed0-4e8f-88c4-15a33459c870",
-            "goldTime": 24000
+            "goldTime": 24000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 0
         },
         {
             "authorTime": 20222,
@@ -1733,7 +2063,9 @@
             "warriorTime": 19871,
             "worldRecord": 18815,
             "mapId": "918352fb-7c5a-460c-a837-fa38f664bd9e",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 1
         },
         {
             "authorTime": 24396,
@@ -1744,7 +2076,9 @@
             "warriorTime": 24042,
             "worldRecord": 22978,
             "mapId": "e4f362b4-9628-48da-966f-49eb584f878d",
-            "goldTime": 26000
+            "goldTime": 26000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 2
         },
         {
             "authorTime": 23398,
@@ -1755,7 +2089,9 @@
             "warriorTime": 23157,
             "worldRecord": 22434,
             "mapId": "9c5076fb-df3e-458a-b28d-88fe5e8b7550",
-            "goldTime": 25000
+            "goldTime": 25000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 3
         },
         {
             "authorTime": 36658,
@@ -1766,7 +2102,9 @@
             "warriorTime": 36008,
             "worldRecord": 34056,
             "mapId": "45f80b54-205f-47a2-bff3-352d39738e03",
-            "goldTime": 39000
+            "goldTime": 39000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 4
         },
         {
             "authorTime": 27154,
@@ -1777,7 +2115,9 @@
             "warriorTime": 26710,
             "worldRecord": 25376,
             "mapId": "a5ca3607-8273-454a-96ff-1d007b734fed",
-            "goldTime": 29000
+            "goldTime": 29000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 5
         },
         {
             "authorTime": 30784,
@@ -1788,7 +2128,9 @@
             "warriorTime": 30223,
             "worldRecord": 28538,
             "mapId": "6c93a3bb-2a21-43c8-8f54-4b3f729ca2e2",
-            "goldTime": 33000
+            "goldTime": 33000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 6
         },
         {
             "authorTime": 28685,
@@ -1799,7 +2141,9 @@
             "warriorTime": 28102,
             "worldRecord": 26351,
             "mapId": "35ee8ba6-22ec-4e08-b12d-e6af1bee9c71",
-            "goldTime": 31000
+            "goldTime": 31000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 7
         },
         {
             "authorTime": 29285,
@@ -1810,7 +2154,9 @@
             "warriorTime": 28744,
             "worldRecord": 27118,
             "mapId": "88f4c0ec-f394-4b8c-90fc-11c254ac18b5",
-            "goldTime": 32000
+            "goldTime": 32000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 8
         },
         {
             "authorTime": 32257,
@@ -1821,7 +2167,9 @@
             "warriorTime": 31739,
             "worldRecord": 30183,
             "mapId": "82faae8d-d457-4628-8dfb-95171970dab5",
-            "goldTime": 35000
+            "goldTime": 35000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 9
         },
         {
             "authorTime": 43301,
@@ -1832,7 +2180,9 @@
             "warriorTime": 41596,
             "worldRecord": 36478,
             "mapId": "eaeed0f4-a5b8-4d4c-a260-5275c3fd45fd",
-            "goldTime": 46000
+            "goldTime": 46000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 10
         },
         {
             "authorTime": 33502,
@@ -1843,7 +2193,9 @@
             "warriorTime": 32878,
             "worldRecord": 31006,
             "mapId": "59130908-aba2-41c8-81d5-ce1a9fccd101",
-            "goldTime": 36000
+            "goldTime": 36000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 11
         },
         {
             "authorTime": 44364,
@@ -1854,7 +2206,9 @@
             "warriorTime": 42943,
             "worldRecord": 38680,
             "mapId": "f9d912ab-3b84-444c-81e6-4af486a721bc",
-            "goldTime": 48000
+            "goldTime": 48000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 12
         },
         {
             "authorTime": 42254,
@@ -1865,7 +2219,9 @@
             "warriorTime": 41675,
             "worldRecord": 39935,
             "mapId": "c216f0ed-f6de-4a57-9e63-07d50446795e",
-            "goldTime": 45000
+            "goldTime": 45000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 13
         },
         {
             "authorTime": 40263,
@@ -1876,7 +2232,9 @@
             "warriorTime": 39360,
             "worldRecord": 36651,
             "mapId": "804d3c67-ad14-4ff8-863a-65c62654a325",
-            "goldTime": 43000
+            "goldTime": 43000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 14
         },
         {
             "authorTime": 46628,
@@ -1887,7 +2245,9 @@
             "warriorTime": 45921,
             "worldRecord": 43798,
             "mapId": "1789af58-d494-4cb0-8f2d-dcaa2a0b8c00",
-            "goldTime": 50000
+            "goldTime": 50000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 15
         },
         {
             "authorTime": 46294,
@@ -1898,7 +2258,9 @@
             "warriorTime": 45510,
             "worldRecord": 43157,
             "mapId": "ed1bf03e-18af-432c-b6fb-bbe76db7c0a6",
-            "goldTime": 50000
+            "goldTime": 50000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 16
         },
         {
             "authorTime": 54903,
@@ -1909,7 +2271,9 @@
             "warriorTime": 53973,
             "worldRecord": 51181,
             "mapId": "624068be-4798-4a0d-a773-6b92d4e23936",
-            "goldTime": 59000
+            "goldTime": 59000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 17
         },
         {
             "authorTime": 56652,
@@ -1920,7 +2284,9 @@
             "warriorTime": 55719,
             "worldRecord": 52920,
             "mapId": "95c6d509-9a8b-4be5-b9ba-1eff760b2d35",
-            "goldTime": 61000
+            "goldTime": 61000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 18
         },
         {
             "authorTime": 47999,
@@ -1931,7 +2297,9 @@
             "warriorTime": 47546,
             "worldRecord": 46184,
             "mapId": "ca9fb42d-88fb-4baf-a1d6-5e796ee7ce2f",
-            "goldTime": 51000
+            "goldTime": 51000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 19
         },
         {
             "authorTime": 62858,
@@ -1942,7 +2310,9 @@
             "warriorTime": 61815,
             "worldRecord": 58685,
             "mapId": "f5dced31-0fd2-4bc9-91ab-0f02c150b21d",
-            "goldTime": 67000
+            "goldTime": 67000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 20
         },
         {
             "authorTime": 59497,
@@ -1953,7 +2323,9 @@
             "warriorTime": 58435,
             "worldRecord": 55246,
             "mapId": "f2e70ecb-e8c5-49ed-a71c-ca5766ea98a8",
-            "goldTime": 64000
+            "goldTime": 64000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 21
         },
         {
             "authorTime": 65678,
@@ -1964,7 +2336,9 @@
             "warriorTime": 64685,
             "worldRecord": 61703,
             "mapId": "d4972bc5-73af-438f-b02a-b4de8dc2e5f2",
-            "goldTime": 70000
+            "goldTime": 70000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 22
         },
         {
             "authorTime": 67452,
@@ -1975,7 +2349,9 @@
             "warriorTime": 65998,
             "worldRecord": 61634,
             "mapId": "a0537577-c332-49b2-8600-271b8ffa6185",
-            "goldTime": 72000
+            "goldTime": 72000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 23
         },
         {
             "authorTime": 74684,
@@ -1986,7 +2362,9 @@
             "warriorTime": 72924,
             "worldRecord": 67641,
             "mapId": "0d27d57c-a8ca-43af-91ec-98a008aff27d",
-            "goldTime": 80000
+            "goldTime": 80000,
+            "campaignName": "Winter 2022",
+            "mapIndex": 24
         },
         {
             "authorTime": 24302,
@@ -1997,7 +2375,9 @@
             "warriorTime": 24041,
             "worldRecord": 23258,
             "mapId": "df781bdb-6f9a-4efc-855b-dbef446e1b8a",
-            "goldTime": 26000
+            "goldTime": 26000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 0
         },
         {
             "authorTime": 20086,
@@ -2008,7 +2388,9 @@
             "warriorTime": 19869,
             "worldRecord": 19216,
             "mapId": "db589f15-ef00-4de4-b3ee-9383f1a1eecf",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 1
         },
         {
             "authorTime": 25672,
@@ -2019,7 +2401,9 @@
             "warriorTime": 24461,
             "worldRecord": 20828,
             "mapId": "69130a9e-674f-4491-b4f8-2dedf757c7e5",
-            "goldTime": 28000
+            "goldTime": 28000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 2
         },
         {
             "authorTime": 24658,
@@ -2030,7 +2414,9 @@
             "warriorTime": 24207,
             "worldRecord": 22854,
             "mapId": "ea3bb2f5-a546-45b4-8231-c53377280389",
-            "goldTime": 27000
+            "goldTime": 27000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 3
         },
         {
             "authorTime": 29892,
@@ -2041,7 +2427,9 @@
             "warriorTime": 29537,
             "worldRecord": 28472,
             "mapId": "09b72f75-af7b-4fd0-bba7-7a3d1c83cd6d",
-            "goldTime": 32000
+            "goldTime": 32000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 4
         },
         {
             "authorTime": 36415,
@@ -2052,7 +2440,9 @@
             "warriorTime": 35869,
             "worldRecord": 34231,
             "mapId": "17b7e6ee-2c2d-48af-9380-7d5b93c1f853",
-            "goldTime": 39000
+            "goldTime": 39000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 5
         },
         {
             "authorTime": 37065,
@@ -2063,7 +2453,9 @@
             "warriorTime": 36084,
             "worldRecord": 33138,
             "mapId": "e191d74f-a2ee-4725-b8c4-ec5e6aabbf95",
-            "goldTime": 40000
+            "goldTime": 40000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 6
         },
         {
             "authorTime": 26598,
@@ -2074,7 +2466,9 @@
             "warriorTime": 26330,
             "worldRecord": 25525,
             "mapId": "e6901f1a-d976-43eb-8fde-e86caf745e47",
-            "goldTime": 29000
+            "goldTime": 29000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 7
         },
         {
             "authorTime": 31096,
@@ -2085,7 +2479,9 @@
             "warriorTime": 30393,
             "worldRecord": 28283,
             "mapId": "f9ec5774-d2f4-4217-87dc-5d74dad02586",
-            "goldTime": 33000
+            "goldTime": 33000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 8
         },
         {
             "authorTime": 32314,
@@ -2096,7 +2492,9 @@
             "warriorTime": 31608,
             "worldRecord": 29487,
             "mapId": "e1cfc447-1c79-4e6a-8afe-5290ffa0c67f",
-            "goldTime": 35000
+            "goldTime": 35000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 9
         },
         {
             "authorTime": 40627,
@@ -2107,7 +2505,9 @@
             "warriorTime": 39671,
             "worldRecord": 36802,
             "mapId": "6e08e2c0-ff25-44e4-8ac0-276de7cdcd4b",
-            "goldTime": 44000
+            "goldTime": 44000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 10
         },
         {
             "authorTime": 40412,
@@ -2118,7 +2518,9 @@
             "warriorTime": 39365,
             "worldRecord": 36224,
             "mapId": "e9349dfa-c8bd-4c8e-88d3-daad158763ae",
-            "goldTime": 43000
+            "goldTime": 43000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 11
         },
         {
             "authorTime": 42593,
@@ -2129,7 +2531,9 @@
             "warriorTime": 41608,
             "worldRecord": 38650,
             "mapId": "23a49e05-77c9-4d2c-b6e3-182980d2408a",
-            "goldTime": 46000
+            "goldTime": 46000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 12
         },
         {
             "authorTime": 40536,
@@ -2140,7 +2544,9 @@
             "warriorTime": 39216,
             "worldRecord": 35254,
             "mapId": "869af84c-901a-496a-accb-b2b086560ff4",
-            "goldTime": 43000
+            "goldTime": 43000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 13
         },
         {
             "authorTime": 47902,
@@ -2151,7 +2557,9 @@
             "warriorTime": 46946,
             "worldRecord": 44078,
             "mapId": "9a0d330e-f5b7-45b6-aab1-6736b0a992f2",
-            "goldTime": 51000
+            "goldTime": 51000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 14
         },
         {
             "authorTime": 58996,
@@ -2162,7 +2570,9 @@
             "warriorTime": 58073,
             "worldRecord": 55301,
             "mapId": "8d533e76-44cc-436f-82b7-b54a42bb0604",
-            "goldTime": 63000
+            "goldTime": 63000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 15
         },
         {
             "authorTime": 50586,
@@ -2173,7 +2583,9 @@
             "warriorTime": 49875,
             "worldRecord": 47741,
             "mapId": "02e16512-590f-42f8-9932-0aa46e20e9c0",
-            "goldTime": 54000
+            "goldTime": 54000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 16
         },
         {
             "authorTime": 55774,
@@ -2184,7 +2596,9 @@
             "warriorTime": 53931,
             "worldRecord": 48399,
             "mapId": "7c7d55e1-de7c-4352-9704-93aee81ebf32",
-            "goldTime": 60000
+            "goldTime": 60000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 17
         },
         {
             "authorTime": 53998,
@@ -2195,7 +2609,9 @@
             "warriorTime": 52830,
             "worldRecord": 49324,
             "mapId": "643b7019-f12a-4323-88be-3e1166a89c4c",
-            "goldTime": 58000
+            "goldTime": 58000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 18
         },
         {
             "authorTime": 64325,
@@ -2206,7 +2622,9 @@
             "warriorTime": 62318,
             "worldRecord": 56297,
             "mapId": "59deeb6e-b7ed-46bc-b9e0-e0433f5662ea",
-            "goldTime": 69000
+            "goldTime": 69000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 19
         },
         {
             "authorTime": 62997,
@@ -2217,7 +2635,9 @@
             "warriorTime": 61402,
             "worldRecord": 56614,
             "mapId": "aa882d79-cae0-4733-8ae5-f80ede16e99e",
-            "goldTime": 67000
+            "goldTime": 67000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 20
         },
         {
             "authorTime": 63052,
@@ -2228,7 +2648,9 @@
             "warriorTime": 60866,
             "worldRecord": 54307,
             "mapId": "00e5a646-5b21-4a65-bc78-0233d2a7cb4e",
-            "goldTime": 67000
+            "goldTime": 67000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 21
         },
         {
             "authorTime": 59741,
@@ -2239,7 +2661,9 @@
             "warriorTime": 58935,
             "worldRecord": 56517,
             "mapId": "3a1f55bf-34f2-49aa-821f-3b101670191d",
-            "goldTime": 64000
+            "goldTime": 64000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 22
         },
         {
             "authorTime": 70854,
@@ -2250,7 +2674,9 @@
             "warriorTime": 69495,
             "worldRecord": 65418,
             "mapId": "491eebc2-7e98-4906-b11d-b1822e7a5163",
-            "goldTime": 76000
+            "goldTime": 76000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 23
         },
         {
             "authorTime": 69489,
@@ -2261,7 +2687,9 @@
             "warriorTime": 68210,
             "worldRecord": 64372,
             "mapId": "bf01c5f2-0539-476d-9406-17e213570eb8",
-            "goldTime": 74000
+            "goldTime": 74000,
+            "campaignName": "Spring 2022",
+            "mapIndex": 24
         },
         {
             "authorTime": 16805,
@@ -2272,7 +2700,9 @@
             "warriorTime": 16539,
             "worldRecord": 15738,
             "mapId": "2f7e047d-9ea5-4e03-8f8e-b3ad487bdf84",
-            "goldTime": 18000
+            "goldTime": 18000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 0
         },
         {
             "authorTime": 19701,
@@ -2283,7 +2713,9 @@
             "warriorTime": 19231,
             "worldRecord": 17818,
             "mapId": "1757ada3-30cf-421d-a24f-68a2cfc35593",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 1
         },
         {
             "authorTime": 19915,
@@ -2294,7 +2726,9 @@
             "warriorTime": 19649,
             "worldRecord": 18848,
             "mapId": "fe20f719-7ed3-4b89-8259-8001e87c3245",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 2
         },
         {
             "authorTime": 22008,
@@ -2305,7 +2739,9 @@
             "warriorTime": 21673,
             "worldRecord": 20666,
             "mapId": "7029070f-c498-4086-bc69-5f13e106417a",
-            "goldTime": 24000
+            "goldTime": 24000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 3
         },
         {
             "authorTime": 28505,
@@ -2316,7 +2752,9 @@
             "warriorTime": 27994,
             "worldRecord": 26458,
             "mapId": "9dd98ef9-8326-455e-b87c-d39a3fe4d524",
-            "goldTime": 31000
+            "goldTime": 31000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 4
         },
         {
             "authorTime": 35598,
@@ -2327,7 +2765,9 @@
             "warriorTime": 35021,
             "worldRecord": 33290,
             "mapId": "caf672ed-9920-41ac-86fb-7999c66f8040",
-            "goldTime": 38000
+            "goldTime": 38000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 5
         },
         {
             "authorTime": 26314,
@@ -2338,7 +2778,9 @@
             "warriorTime": 25547,
             "worldRecord": 23246,
             "mapId": "52e68aec-0b4a-478a-b780-296a194000f8",
-            "goldTime": 28000
+            "goldTime": 28000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 6
         },
         {
             "authorTime": 19536,
@@ -2349,7 +2791,9 @@
             "warriorTime": 18454,
             "worldRecord": 15205,
             "mapId": "a35ba227-b68c-4a1e-bbff-9847782d9620",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 7
         },
         {
             "authorTime": 36402,
@@ -2360,7 +2804,9 @@
             "warriorTime": 35721,
             "worldRecord": 33678,
             "mapId": "e34970c5-5ec4-4cd7-9812-62d83f79b9cc",
-            "goldTime": 39000
+            "goldTime": 39000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 8
         },
         {
             "authorTime": 30957,
@@ -2371,7 +2817,9 @@
             "warriorTime": 30567,
             "worldRecord": 29397,
             "mapId": "89fdee90-09d5-47a5-92fc-42eefe578834",
-            "goldTime": 33000
+            "goldTime": 33000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 9
         },
         {
             "authorTime": 33958,
@@ -2382,7 +2830,9 @@
             "warriorTime": 33408,
             "worldRecord": 31757,
             "mapId": "6fef094e-0f37-467e-8a76-f20cf5ffbf01",
-            "goldTime": 36000
+            "goldTime": 36000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 10
         },
         {
             "authorTime": 37845,
@@ -2393,7 +2843,9 @@
             "warriorTime": 37319,
             "worldRecord": 35741,
             "mapId": "97dfabaf-bc9d-4d07-b08e-6cbdab76354c",
-            "goldTime": 41000
+            "goldTime": 41000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 11
         },
         {
             "authorTime": 40196,
@@ -2404,7 +2856,9 @@
             "warriorTime": 38959,
             "worldRecord": 35246,
             "mapId": "bb917bdb-5958-495a-adfb-70a886f6bd1b",
-            "goldTime": 43000
+            "goldTime": 43000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 12
         },
         {
             "authorTime": 38970,
@@ -2415,7 +2869,9 @@
             "warriorTime": 37666,
             "worldRecord": 33751,
             "mapId": "9e7ee9cb-a38d-454b-bd60-7d3dd42143db",
-            "goldTime": 42000
+            "goldTime": 42000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 13
         },
         {
             "authorTime": 38863,
@@ -2426,7 +2882,9 @@
             "warriorTime": 38186,
             "worldRecord": 36155,
             "mapId": "bb97a468-ac98-4273-aef3-9d6631c17976",
-            "goldTime": 42000
+            "goldTime": 42000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 14
         },
         {
             "authorTime": 49644,
@@ -2437,7 +2895,9 @@
             "warriorTime": 48715,
             "worldRecord": 45926,
             "mapId": "4aa3344c-9876-417b-a0e4-96c10e5f4e2b",
-            "goldTime": 53000
+            "goldTime": 53000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 15
         },
         {
             "authorTime": 42651,
@@ -2448,7 +2908,9 @@
             "warriorTime": 42014,
             "worldRecord": 40102,
             "mapId": "158bbb98-2f67-4464-a43f-e610cddfcd76",
-            "goldTime": 46000
+            "goldTime": 46000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 16
         },
         {
             "authorTime": 51878,
@@ -2459,7 +2921,9 @@
             "warriorTime": 49603,
             "worldRecord": 42777,
             "mapId": "83bd6702-ae66-49fa-96c2-a58945cf71ea",
-            "goldTime": 55000
+            "goldTime": 55000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 17
         },
         {
             "authorTime": 44892,
@@ -2470,7 +2934,9 @@
             "warriorTime": 43294,
             "worldRecord": 38497,
             "mapId": "77f987dc-8448-409f-a969-ee89adca6ac8",
-            "goldTime": 48000
+            "goldTime": 48000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 18
         },
         {
             "authorTime": 42999,
@@ -2481,7 +2947,9 @@
             "warriorTime": 41594,
             "worldRecord": 37376,
             "mapId": "0917e050-bd20-4758-b4cf-7b0736c36863",
-            "goldTime": 46000
+            "goldTime": 46000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 19
         },
         {
             "authorTime": 58697,
@@ -2492,7 +2960,9 @@
             "warriorTime": 57767,
             "worldRecord": 54975,
             "mapId": "39a46e22-b6fd-43bd-9683-1061bd88d2d5",
-            "goldTime": 63000
+            "goldTime": 63000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 20
         },
         {
             "authorTime": 61782,
@@ -2503,7 +2973,9 @@
             "warriorTime": 60451,
             "worldRecord": 56458,
             "mapId": "2bf6d287-4ccc-488a-8bcc-a427c148600d",
-            "goldTime": 66000
+            "goldTime": 66000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 21
         },
         {
             "authorTime": 58797,
@@ -2514,7 +2986,9 @@
             "warriorTime": 56813,
             "worldRecord": 50858,
             "mapId": "13e63673-2165-4c8d-99aa-0c58d4e2a2dd",
-            "goldTime": 63000
+            "goldTime": 63000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 22
         },
         {
             "authorTime": 56986,
@@ -2525,7 +2999,9 @@
             "warriorTime": 55762,
             "worldRecord": 52088,
             "mapId": "875c05c7-dd33-4cd4-b0ea-d6e210b95260",
-            "goldTime": 61000
+            "goldTime": 61000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 23
         },
         {
             "authorTime": 66651,
@@ -2536,7 +3012,9 @@
             "warriorTime": 65831,
             "worldRecord": 63371,
             "mapId": "87ccc1f9-1fe7-4022-965c-533d72b1156d",
-            "goldTime": 71000
+            "goldTime": 71000,
+            "campaignName": "Summer 2022",
+            "mapIndex": 24
         },
         {
             "authorTime": 19545,
@@ -2547,7 +3025,9 @@
             "warriorTime": 19084,
             "worldRecord": 17698,
             "mapId": "e4cad687-ab1e-41d5-bff2-68bf8fd26be5",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 0
         },
         {
             "authorTime": 19455,
@@ -2558,7 +3038,9 @@
             "warriorTime": 19271,
             "worldRecord": 18717,
             "mapId": "1d5541f0-d139-494c-9cf8-9799dadf83b1",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 1
         },
         {
             "authorTime": 21651,
@@ -2569,7 +3051,9 @@
             "warriorTime": 21270,
             "worldRecord": 20124,
             "mapId": "4209915c-37a9-4e6e-984c-dc69cc421a8d",
-            "goldTime": 23000
+            "goldTime": 23000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 2
         },
         {
             "authorTime": 30058,
@@ -2580,7 +3064,9 @@
             "warriorTime": 29707,
             "worldRecord": 28652,
             "mapId": "9e19e005-3583-4d6d-b4a1-cb21fd3b7ea0",
-            "goldTime": 32000
+            "goldTime": 32000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 3
         },
         {
             "authorTime": 23610,
@@ -2591,7 +3077,9 @@
             "warriorTime": 23353,
             "worldRecord": 22581,
             "mapId": "8f57f9cc-380e-40a4-a790-b2c31bf082b0",
-            "goldTime": 26000
+            "goldTime": 26000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 4
         },
         {
             "authorTime": 29854,
@@ -2602,7 +3090,9 @@
             "warriorTime": 29297,
             "worldRecord": 27626,
             "mapId": "82969eb5-e48f-4d4f-8a1f-3a30b568c2fc",
-            "goldTime": 32000
+            "goldTime": 32000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 5
         },
         {
             "authorTime": 28808,
@@ -2613,7 +3103,9 @@
             "warriorTime": 28238,
             "worldRecord": 26525,
             "mapId": "ebc72d7b-437e-4254-b698-0463ba8683a0",
-            "goldTime": 31000
+            "goldTime": 31000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 6
         },
         {
             "authorTime": 28442,
@@ -2624,7 +3116,9 @@
             "warriorTime": 28081,
             "worldRecord": 26997,
             "mapId": "95dda4a0-77af-4c37-a183-873eb69fc15d",
-            "goldTime": 31000
+            "goldTime": 31000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 7
         },
         {
             "authorTime": 28891,
@@ -2635,7 +3129,9 @@
             "warriorTime": 28500,
             "worldRecord": 27326,
             "mapId": "74f3e5fa-9c92-4b8a-9ae8-e31b86b3c3d2",
-            "goldTime": 31000
+            "goldTime": 31000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 8
         },
         {
             "authorTime": 31204,
@@ -2646,7 +3142,9 @@
             "warriorTime": 30699,
             "worldRecord": 29183,
             "mapId": "9e95d12c-2c4d-4b9c-85f1-e94288a005cb",
-            "goldTime": 34000
+            "goldTime": 34000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 9
         },
         {
             "authorTime": 39852,
@@ -2657,7 +3155,9 @@
             "warriorTime": 39000,
             "worldRecord": 36443,
             "mapId": "2a72791f-f68f-440d-8d16-d0e2f8366fbc",
-            "goldTime": 43000
+            "goldTime": 43000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 10
         },
         {
             "authorTime": 43498,
@@ -2668,7 +3168,9 @@
             "warriorTime": 42833,
             "worldRecord": 40837,
             "mapId": "8021ae2d-0975-410d-a44d-ef0314e5e680",
-            "goldTime": 47000
+            "goldTime": 47000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 11
         },
         {
             "authorTime": 38367,
@@ -2679,7 +3181,9 @@
             "warriorTime": 37537,
             "worldRecord": 35047,
             "mapId": "fd44cd5d-2495-4ca0-acfd-d328d8ea2fb1",
-            "goldTime": 41000
+            "goldTime": 41000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 12
         },
         {
             "authorTime": 38284,
@@ -2690,7 +3194,9 @@
             "warriorTime": 37581,
             "worldRecord": 35472,
             "mapId": "8acc07e7-2f14-44e7-b121-8bf7836cd792",
-            "goldTime": 41000
+            "goldTime": 41000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 13
         },
         {
             "authorTime": 41882,
@@ -2701,7 +3207,9 @@
             "warriorTime": 41101,
             "worldRecord": 38755,
             "mapId": "b33ea484-c1f5-454e-818f-13603d4f5d4b",
-            "goldTime": 45000
+            "goldTime": 45000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 14
         },
         {
             "authorTime": 44721,
@@ -2712,7 +3220,9 @@
             "warriorTime": 43825,
             "worldRecord": 41137,
             "mapId": "c7e60ef0-3421-400d-abf6-e12612d8accb",
-            "goldTime": 48000
+            "goldTime": 48000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 15
         },
         {
             "authorTime": 53828,
@@ -2723,7 +3233,9 @@
             "warriorTime": 52755,
             "worldRecord": 49536,
             "mapId": "f4a8adef-dc5f-4f12-bb61-da0fbe636c3e",
-            "goldTime": 58000
+            "goldTime": 58000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 16
         },
         {
             "authorTime": 57684,
@@ -2734,7 +3246,9 @@
             "warriorTime": 56822,
             "worldRecord": 54233,
             "mapId": "4eb28728-2dfd-4d45-b889-a437c56861e3",
-            "goldTime": 62000
+            "goldTime": 62000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 17
         },
         {
             "authorTime": 56120,
@@ -2745,7 +3259,9 @@
             "warriorTime": 54897,
             "worldRecord": 51225,
             "mapId": "f4c58563-9d2f-4505-9b3b-a43a87e89b7d",
-            "goldTime": 60000
+            "goldTime": 60000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 18
         },
         {
             "authorTime": 49374,
@@ -2756,7 +3272,9 @@
             "warriorTime": 48421,
             "worldRecord": 45560,
             "mapId": "ef223b47-ba73-4527-b742-f0f2457243ba",
-            "goldTime": 53000
+            "goldTime": 53000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 19
         },
         {
             "authorTime": 62212,
@@ -2767,7 +3285,9 @@
             "warriorTime": 61382,
             "worldRecord": 58891,
             "mapId": "274b72ec-879c-470d-b633-e33c60b006ef",
-            "goldTime": 66000
+            "goldTime": 66000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 20
         },
         {
             "authorTime": 64321,
@@ -2778,7 +3298,9 @@
             "warriorTime": 62964,
             "worldRecord": 58890,
             "mapId": "ef350c64-06d0-4e31-8d6d-9cd7c20d6616",
-            "goldTime": 69000
+            "goldTime": 69000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 21
         },
         {
             "authorTime": 62636,
@@ -2789,7 +3311,9 @@
             "warriorTime": 61474,
             "worldRecord": 57988,
             "mapId": "6568a645-5c21-4766-8d57-421163b66cfe",
-            "goldTime": 67000
+            "goldTime": 67000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 22
         },
         {
             "authorTime": 62851,
@@ -2800,7 +3324,9 @@
             "warriorTime": 61275,
             "worldRecord": 56546,
             "mapId": "313bc422-8ba4-4882-9095-ee88e0a9fb2a",
-            "goldTime": 67000
+            "goldTime": 67000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 23
         },
         {
             "authorTime": 64581,
@@ -2811,7 +3337,9 @@
             "warriorTime": 63364,
             "worldRecord": 59712,
             "mapId": "14f9f9ec-e75e-495c-924a-ce63f410d748",
-            "goldTime": 69000
+            "goldTime": 69000,
+            "campaignName": "Fall 2022",
+            "mapIndex": 24
         },
         {
             "authorTime": 16020,
@@ -2822,7 +3350,9 @@
             "warriorTime": 15953,
             "worldRecord": 15752,
             "mapId": "0212f42d-bb92-4c26-8059-5ca7a5d7cfb6",
-            "goldTime": 17000
+            "goldTime": 17000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 0
         },
         {
             "authorTime": 18680,
@@ -2833,7 +3363,9 @@
             "warriorTime": 18356,
             "worldRecord": 17382,
             "mapId": "a3943be7-7203-46e3-92dd-6b3f7e374023",
-            "goldTime": 20000
+            "goldTime": 20000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 1
         },
         {
             "authorTime": 20650,
@@ -2844,7 +3376,9 @@
             "warriorTime": 20289,
             "worldRecord": 19205,
             "mapId": "14bf05ac-770d-48ba-a2ac-e3ccaf14a95b",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 2
         },
         {
             "authorTime": 20142,
@@ -2855,7 +3389,9 @@
             "warriorTime": 19702,
             "worldRecord": 18381,
             "mapId": "99b77925-3a45-4dc3-89a4-0f0574cfb1ac",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 3
         },
         {
             "authorTime": 19001,
@@ -2866,7 +3402,9 @@
             "warriorTime": 18676,
             "worldRecord": 17701,
             "mapId": "a0959eab-866c-41e2-9844-0360c752b162",
-            "goldTime": 21000
+            "goldTime": 21000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 4
         },
         {
             "authorTime": 28305,
@@ -2877,7 +3415,9 @@
             "warriorTime": 27996,
             "worldRecord": 27067,
             "mapId": "79232ebf-b4eb-4c5a-bc37-95470be648d3",
-            "goldTime": 31000
+            "goldTime": 31000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 5
         },
         {
             "authorTime": 25451,
@@ -2888,7 +3428,9 @@
             "warriorTime": 24568,
             "worldRecord": 21918,
             "mapId": "4a786e9b-f27c-4f81-9dbc-07da0398ea91",
-            "goldTime": 27000
+            "goldTime": 27000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 6
         },
         {
             "authorTime": 54558,
@@ -2899,7 +3441,9 @@
             "warriorTime": 53625,
             "worldRecord": 50825,
             "mapId": "f0191d90-e802-4929-8c9a-989e246dd47d",
-            "goldTime": 58000
+            "goldTime": 58000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 7
         },
         {
             "authorTime": 30206,
@@ -2910,7 +3454,9 @@
             "warriorTime": 29681,
             "worldRecord": 28105,
             "mapId": "f30b09d0-b29a-4632-a67b-e202b1f63df8",
-            "goldTime": 33000
+            "goldTime": 33000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 8
         },
         {
             "authorTime": 29180,
@@ -2921,7 +3467,9 @@
             "warriorTime": 28800,
             "worldRecord": 27658,
             "mapId": "47ccbae8-d1c4-40cc-9535-dbbddd397479",
-            "goldTime": 31000
+            "goldTime": 31000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 9
         },
         {
             "authorTime": 30999,
@@ -2932,7 +3480,9 @@
             "warriorTime": 30590,
             "worldRecord": 29360,
             "mapId": "d8a07371-48c6-4194-99a4-3dc060538046",
-            "goldTime": 33000
+            "goldTime": 33000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 10
         },
         {
             "authorTime": 25310,
@@ -2943,7 +3493,9 @@
             "warriorTime": 24938,
             "worldRecord": 23820,
             "mapId": "5a70b58f-6ae3-4a61-924e-74146a3c942c",
-            "goldTime": 27000
+            "goldTime": 27000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 11
         },
         {
             "authorTime": 29618,
@@ -2954,7 +3506,9 @@
             "warriorTime": 28375,
             "worldRecord": 24645,
             "mapId": "f043416e-420f-4cb6-87c6-29392ebce0de",
-            "goldTime": 32000
+            "goldTime": 32000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 12
         },
         {
             "authorTime": 33358,
@@ -2965,7 +3519,9 @@
             "warriorTime": 32810,
             "worldRecord": 31166,
             "mapId": "9bee9961-24da-43dd-8646-6d014acc69bc",
-            "goldTime": 36000
+            "goldTime": 36000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 13
         },
         {
             "authorTime": 31465,
@@ -2976,7 +3532,9 @@
             "warriorTime": 30939,
             "worldRecord": 29358,
             "mapId": "95ad9bc4-b926-4421-9f27-c4103bf9f5df",
-            "goldTime": 34000
+            "goldTime": 34000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 14
         },
         {
             "authorTime": 49822,
@@ -2987,7 +3545,9 @@
             "warriorTime": 48796,
             "worldRecord": 45718,
             "mapId": "c07cc03b-6536-44dd-85ec-54212023f4a0",
-            "goldTime": 53000
+            "goldTime": 53000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 15
         },
         {
             "authorTime": 63148,
@@ -2998,7 +3558,9 @@
             "warriorTime": 62222,
             "worldRecord": 59444,
             "mapId": "405ab088-a583-4620-8958-d360c660a58d",
-            "goldTime": 67000
+            "goldTime": 67000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 16
         },
         {
             "authorTime": 39436,
@@ -3009,7 +3571,9 @@
             "warriorTime": 38836,
             "worldRecord": 37035,
             "mapId": "55e6a61a-ebd4-46e9-9ccc-94739ae6cf05",
-            "goldTime": 42000
+            "goldTime": 42000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 17
         },
         {
             "authorTime": 45808,
@@ -3020,7 +3584,9 @@
             "warriorTime": 44731,
             "worldRecord": 41497,
             "mapId": "b2dcde56-91b3-4c4f-b2f4-f44586093721",
-            "goldTime": 49000
+            "goldTime": 49000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 18
         },
         {
             "authorTime": 38987,
@@ -3031,7 +3597,9 @@
             "warriorTime": 38109,
             "worldRecord": 35474,
             "mapId": "257bba1a-6bad-4641-adc0-5b4fbf8f5bdd",
-            "goldTime": 42000
+            "goldTime": 42000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 19
         },
         {
             "authorTime": 57140,
@@ -3042,7 +3610,9 @@
             "warriorTime": 56582,
             "worldRecord": 54908,
             "mapId": "b313f161-e437-41fb-8585-17025c6b2566",
-            "goldTime": 61000
+            "goldTime": 61000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 20
         },
         {
             "authorTime": 61423,
@@ -3053,7 +3623,9 @@
             "warriorTime": 60220,
             "worldRecord": 56611,
             "mapId": "b37e8833-cd50-4da7-99aa-9643ebf4367b",
-            "goldTime": 66000
+            "goldTime": 66000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 21
         },
         {
             "authorTime": 60952,
@@ -3064,7 +3636,9 @@
             "warriorTime": 60013,
             "worldRecord": 57195,
             "mapId": "d936184b-d319-4c43-b61f-2804d41c26e3",
-            "goldTime": 65000
+            "goldTime": 65000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 22
         },
         {
             "authorTime": 59135,
@@ -3075,7 +3649,9 @@
             "warriorTime": 58193,
             "worldRecord": 55367,
             "mapId": "b2318ea4-d0e3-460c-a87d-dd5a0ececf5d",
-            "goldTime": 63000
+            "goldTime": 63000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 23
         },
         {
             "authorTime": 65341,
@@ -3086,7 +3662,9 @@
             "warriorTime": 62916,
             "worldRecord": 55638,
             "mapId": "fdd8cb00-3aa7-45d5-856a-f9bc61355908",
-            "goldTime": 70000
+            "goldTime": 70000,
+            "campaignName": "Winter 2023",
+            "mapIndex": 24
         },
         {
             "authorTime": 28610,
@@ -3097,7 +3675,9 @@
             "warriorTime": 28276,
             "worldRecord": 27273,
             "mapId": "515d9e49-2474-4a08-9643-c1a429d0190d",
-            "goldTime": 31000
+            "goldTime": 31000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 0
         },
         {
             "authorTime": 27254,
@@ -3108,7 +3688,9 @@
             "warriorTime": 26989,
             "worldRecord": 26193,
             "mapId": "e83d6c6c-f338-4f27-ace6-1486651fd4d7",
-            "goldTime": 29000
+            "goldTime": 29000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 1
         },
         {
             "authorTime": 29442,
@@ -3119,7 +3701,9 @@
             "warriorTime": 28924,
             "worldRecord": 27368,
             "mapId": "a49f086c-7014-4419-ac80-4a4bc7618029",
-            "goldTime": 32000
+            "goldTime": 32000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 2
         },
         {
             "authorTime": 20583,
@@ -3130,7 +3714,9 @@
             "warriorTime": 20254,
             "worldRecord": 19264,
             "mapId": "37b47d24-ce70-48d2-9cca-06c080e7dddf",
-            "goldTime": 22000
+            "goldTime": 22000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 3
         },
         {
             "authorTime": 29355,
@@ -3141,7 +3727,9 @@
             "warriorTime": 28695,
             "worldRecord": 26712,
             "mapId": "12835cce-e840-4fa3-9ed1-ed4938df1538",
-            "goldTime": 32000
+            "goldTime": 32000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 4
         },
         {
             "authorTime": 35287,
@@ -3152,7 +3740,9 @@
             "warriorTime": 34729,
             "worldRecord": 33055,
             "mapId": "0b030814-8051-4fa7-8f51-78ea33cade98",
-            "goldTime": 38000
+            "goldTime": 38000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 5
         },
         {
             "authorTime": 28251,
@@ -3163,7 +3753,9 @@
             "warriorTime": 28040,
             "worldRecord": 27404,
             "mapId": "ff7ba5a3-a097-4ec1-8f89-0690773d7484",
-            "goldTime": 30000
+            "goldTime": 30000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 6
         },
         {
             "authorTime": 37420,
@@ -3174,7 +3766,9 @@
             "warriorTime": 36911,
             "worldRecord": 35383,
             "mapId": "002b34b9-783a-46a2-8fd5-35285a625f1f",
-            "goldTime": 40000
+            "goldTime": 40000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 7
         },
         {
             "authorTime": 35556,
@@ -3185,7 +3779,9 @@
             "warriorTime": 34833,
             "worldRecord": 32664,
             "mapId": "2329ee0f-19c9-4279-a370-957c80be9cad",
-            "goldTime": 38000
+            "goldTime": 38000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 8
         },
         {
             "authorTime": 36999,
@@ -3196,7 +3792,9 @@
             "warriorTime": 36588,
             "worldRecord": 35355,
             "mapId": "b73fbc07-4645-463d-9b1b-2d287293efa1",
-            "goldTime": 40000
+            "goldTime": 40000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 9
         },
         {
             "authorTime": 31284,
@@ -3207,7 +3805,9 @@
             "warriorTime": 30961,
             "worldRecord": 29990,
             "mapId": "51b8be42-6124-4562-b280-84b8f46f5d45",
-            "goldTime": 34000
+            "goldTime": 34000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 10
         },
         {
             "authorTime": 26412,
@@ -3218,7 +3818,9 @@
             "warriorTime": 26043,
             "worldRecord": 24936,
             "mapId": "91039f5f-31df-4cf6-aaa4-42b9670c057f",
-            "goldTime": 28000
+            "goldTime": 28000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 11
         },
         {
             "authorTime": 34300,
@@ -3229,7 +3831,9 @@
             "warriorTime": 33833,
             "worldRecord": 32432,
             "mapId": "12138235-3878-4e36-8460-c0a489d830cc",
-            "goldTime": 37000
+            "goldTime": 37000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 12
         },
         {
             "authorTime": 35206,
@@ -3240,7 +3844,9 @@
             "warriorTime": 34761,
             "worldRecord": 33423,
             "mapId": "d5efa099-a9b0-4615-bb3a-95a85b99bb53",
-            "goldTime": 38000
+            "goldTime": 38000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 13
         },
         {
             "authorTime": 34509,
@@ -3251,7 +3857,9 @@
             "warriorTime": 33871,
             "worldRecord": 31957,
             "mapId": "f5b8cb6a-6f00-4bea-b046-bdd9cc7d7bce",
-            "goldTime": 37000
+            "goldTime": 37000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 14
         },
         {
             "authorTime": 30856,
@@ -3262,7 +3870,9 @@
             "warriorTime": 30461,
             "worldRecord": 29273,
             "mapId": "5c859224-8661-46ef-ae22-e51dce2729b5",
-            "goldTime": 33000
+            "goldTime": 33000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 15
         },
         {
             "authorTime": 34214,
@@ -3273,7 +3883,9 @@
             "warriorTime": 33518,
             "worldRecord": 31427,
             "mapId": "8b7c0bc3-108c-455f-a97b-5286fc1a9b86",
-            "goldTime": 37000
+            "goldTime": 37000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 16
         },
         {
             "authorTime": 25681,
@@ -3284,7 +3896,9 @@
             "warriorTime": 25301,
             "worldRecord": 24160,
             "mapId": "7b7e03d9-90b2-426c-80dd-9f7638e2bc8a",
-            "goldTime": 28000
+            "goldTime": 28000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 17
         },
         {
             "authorTime": 43682,
@@ -3295,7 +3909,9 @@
             "warriorTime": 43193,
             "worldRecord": 41723,
             "mapId": "17b3410b-34e4-44be-b40b-f2ea60c6075f",
-            "goldTime": 47000
+            "goldTime": 47000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 18
         },
         {
             "authorTime": 44882,
@@ -3306,7 +3922,9 @@
             "warriorTime": 44144,
             "worldRecord": 41930,
             "mapId": "82bfac67-f6ce-4bfe-9abb-16676e5c1014",
-            "goldTime": 48000
+            "goldTime": 48000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 19
         },
         {
             "authorTime": 78969,
@@ -3317,7 +3935,9 @@
             "warriorTime": 78241,
             "worldRecord": 76055,
             "mapId": "49b1e116-a204-44f9-8d73-388a8cf7dab8",
-            "goldTime": 84000
+            "goldTime": 84000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 20
         },
         {
             "authorTime": 50998,
@@ -3328,7 +3948,9 @@
             "warriorTime": 50040,
             "worldRecord": 47165,
             "mapId": "7ec011be-c5b7-4e0f-abf7-3ecc8312c879",
-            "goldTime": 55000
+            "goldTime": 55000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 21
         },
         {
             "authorTime": 46892,
@@ -3339,7 +3961,9 @@
             "warriorTime": 46366,
             "worldRecord": 44788,
             "mapId": "dcdff84f-bd04-4b75-aad7-407435688ec8",
-            "goldTime": 50000
+            "goldTime": 50000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 22
         },
         {
             "authorTime": 48456,
@@ -3350,7 +3974,9 @@
             "warriorTime": 47488,
             "worldRecord": 44583,
             "mapId": "1ab9232c-6838-44b9-8ba9-f6dd227f0d05",
-            "goldTime": 52000
+            "goldTime": 52000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 23
         },
         {
             "authorTime": 43986,
@@ -3361,7 +3987,9 @@
             "warriorTime": 43392,
             "worldRecord": 41608,
             "mapId": "87a0a489-8bc9-4d27-a005-8fea774748c4",
-            "goldTime": 47000
+            "goldTime": 47000,
+            "campaignName": "Spring 2023",
+            "mapIndex": 24
         },
         {
             "authorTime": 23997,
@@ -3372,7 +4000,9 @@
             "warriorTime": 23746,
             "worldRecord": 22993,
             "mapId": "a93f902b-16a1-4448-ad34-65cf32d41425",
-            "goldTime": 26000
+            "goldTime": 26000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 0
         },
         {
             "authorTime": 26411,
@@ -3383,7 +4013,9 @@
             "warriorTime": 25846,
             "worldRecord": 24148,
             "mapId": "7b9373ad-b754-4c6d-9abf-7304517ba96e",
-            "goldTime": 28000
+            "goldTime": 28000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 1
         },
         {
             "authorTime": 23428,
@@ -3394,7 +4026,9 @@
             "warriorTime": 23151,
             "worldRecord": 22320,
             "mapId": "2123a833-1a50-4900-9f9d-c1c5881bfa30",
-            "goldTime": 25000
+            "goldTime": 25000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 2
         },
         {
             "authorTime": 17401,
@@ -3405,7 +4039,9 @@
             "warriorTime": 17250,
             "worldRecord": 16796,
             "mapId": "e4090910-0ce5-4150-8d8e-b1fcbb3aef48",
-            "goldTime": 19000
+            "goldTime": 19000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 3
         },
         {
             "authorTime": 25847,
@@ -3416,7 +4052,9 @@
             "warriorTime": 25681,
             "worldRecord": 25181,
             "mapId": "ab8019ba-483a-412c-9d3a-c13f424fa766",
-            "goldTime": 28000
+            "goldTime": 28000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 4
         },
         {
             "authorTime": 25462,
@@ -3427,7 +4065,9 @@
             "warriorTime": 24619,
             "worldRecord": 22087,
             "mapId": "f429cb25-3c67-4c6f-a2b9-1cc1e346743f",
-            "goldTime": 27000
+            "goldTime": 27000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 5
         },
         {
             "authorTime": 31382,
@@ -3438,7 +4078,9 @@
             "warriorTime": 30814,
             "worldRecord": 29110,
             "mapId": "8ca2f431-78dc-4be3-8763-bb8489d30f24",
-            "goldTime": 34000
+            "goldTime": 34000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 6
         },
         {
             "authorTime": 22196,
@@ -3449,7 +4091,9 @@
             "warriorTime": 21910,
             "worldRecord": 21052,
             "mapId": "11661ce2-e333-490d-99cb-f1ff6be7826c",
-            "goldTime": 24000
+            "goldTime": 24000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 7
         },
         {
             "authorTime": 27803,
@@ -3460,7 +4104,9 @@
             "warriorTime": 27349,
             "worldRecord": 25985,
             "mapId": "ede5d5a1-a6f0-4144-85cd-80dda99a029c",
-            "goldTime": 30000
+            "goldTime": 30000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 8
         },
         {
             "authorTime": 50598,
@@ -3471,7 +4117,9 @@
             "warriorTime": 49723,
             "worldRecord": 47095,
             "mapId": "5d732993-70e3-4b80-b36b-37999dde025b",
-            "goldTime": 54000
+            "goldTime": 54000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 9
         },
         {
             "authorTime": 31805,
@@ -3482,7 +4130,9 @@
             "warriorTime": 31047,
             "worldRecord": 28773,
             "mapId": "8b2c8f9e-3e7a-4866-ae17-9e1d88fb3d64",
-            "goldTime": 34000
+            "goldTime": 34000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 10
         },
         {
             "authorTime": 34250,
@@ -3493,7 +4143,9 @@
             "warriorTime": 33706,
             "worldRecord": 32072,
             "mapId": "f6d8b00e-c407-4863-900d-55ac9d6d4d93",
-            "goldTime": 37000
+            "goldTime": 37000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 11
         },
         {
             "authorTime": 31573,
@@ -3504,7 +4156,9 @@
             "warriorTime": 31075,
             "worldRecord": 29578,
             "mapId": "25d27bb9-a648-4161-bc1c-e371b28a8f93",
-            "goldTime": 34000
+            "goldTime": 34000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 12
         },
         {
             "authorTime": 44006,
@@ -3515,7 +4169,9 @@
             "warriorTime": 43226,
             "worldRecord": 40883,
             "mapId": "699e92bf-c556-4136-b6be-0600d27f6ba9",
-            "goldTime": 47000
+            "goldTime": 47000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 13
         },
         {
             "authorTime": 45396,
@@ -3526,7 +4182,9 @@
             "warriorTime": 44580,
             "worldRecord": 42132,
             "mapId": "3ae52cf0-6197-4833-99a2-ad021c44dd6b",
-            "goldTime": 49000
+            "goldTime": 49000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 14
         },
         {
             "authorTime": 45646,
@@ -3537,7 +4195,9 @@
             "warriorTime": 45148,
             "worldRecord": 43654,
             "mapId": "fcae0248-db4b-475c-bfc2-bc1ff0a17e12",
-            "goldTime": 49000
+            "goldTime": 49000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 15
         },
         {
             "authorTime": 41111,
@@ -3548,7 +4208,9 @@
             "warriorTime": 40502,
             "worldRecord": 38673,
             "mapId": "6dde3a80-3c1f-4e25-bc29-390c313f93f7",
-            "goldTime": 44000
+            "goldTime": 44000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 16
         },
         {
             "authorTime": 30251,
@@ -3559,7 +4221,9 @@
             "warriorTime": 29474,
             "worldRecord": 27142,
             "mapId": "4320e924-8748-45de-a15e-e160d61f7941",
-            "goldTime": 33000
+            "goldTime": 33000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 17
         },
         {
             "authorTime": 48478,
@@ -3570,7 +4234,9 @@
             "warriorTime": 47859,
             "worldRecord": 46001,
             "mapId": "d1c00d8e-b632-4023-8dde-b1e1ca36147f",
-            "goldTime": 52000
+            "goldTime": 52000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 18
         },
         {
             "authorTime": 36823,
@@ -3581,7 +4247,9 @@
             "warriorTime": 35757,
             "worldRecord": 32558,
             "mapId": "12d4be83-0235-4381-a23c-5f776e0826f4",
-            "goldTime": 40000
+            "goldTime": 40000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 19
         },
         {
             "authorTime": 51800,
@@ -3592,7 +4260,9 @@
             "warriorTime": 51263,
             "worldRecord": 49652,
             "mapId": "57907102-2888-4017-a4fa-c47030328809",
-            "goldTime": 55000
+            "goldTime": 55000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 20
         },
         {
             "authorTime": 47699,
@@ -3603,7 +4273,9 @@
             "warriorTime": 46516,
             "worldRecord": 42964,
             "mapId": "ecc26d2f-c997-4a77-9129-fed90f6a6b14",
-            "goldTime": 51000
+            "goldTime": 51000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 21
         },
         {
             "authorTime": 59468,
@@ -3614,7 +4286,9 @@
             "warriorTime": 58630,
             "worldRecord": 56114,
             "mapId": "abca790b-a6e3-4222-9ddc-049472a0d5fb",
-            "goldTime": 64000
+            "goldTime": 64000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 22
         },
         {
             "authorTime": 42824,
@@ -3625,7 +4299,9 @@
             "warriorTime": 42274,
             "worldRecord": 40622,
             "mapId": "1e0baa7e-7de1-4e83-af67-2c0e92c442d4",
-            "goldTime": 46000
+            "goldTime": 46000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 23
         },
         {
             "authorTime": 57001,
@@ -3636,7 +4312,9 @@
             "warriorTime": 56644,
             "worldRecord": 55573,
             "mapId": "943ca1de-272f-4d7c-a353-d996ff10e4ef",
-            "goldTime": 61000
+            "goldTime": 61000,
+            "campaignName": "Summer 2023",
+            "mapIndex": 24
         },
         {
             "authorTime": 24452,
@@ -3647,7 +4325,9 @@
             "warriorTime": 24005,
             "worldRecord": 22662,
             "mapId": "c59359ba-f033-420d-9f18-17b0c5fe8d8b",
-            "goldTime": 26000
+            "goldTime": 26000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 0
         },
         {
             "authorTime": 25560,
@@ -3658,7 +4338,9 @@
             "warriorTime": 25044,
             "worldRecord": 23493,
             "mapId": "32bc6d38-ce2b-4c39-a1ce-e69be8865149",
-            "goldTime": 28000
+            "goldTime": 28000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 1
         },
         {
             "authorTime": 28085,
@@ -3669,7 +4351,9 @@
             "warriorTime": 27355,
             "worldRecord": 25165,
             "mapId": "dc100875-ebfc-4157-afe1-ca0e5c266fc9",
-            "goldTime": 30000
+            "goldTime": 30000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 2
         },
         {
             "authorTime": 24819,
@@ -3680,7 +4364,9 @@
             "warriorTime": 24423,
             "worldRecord": 23235,
             "mapId": "5d031733-47bf-49c2-b4f8-af23c01c9061",
-            "goldTime": 27000
+            "goldTime": 27000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 3
         },
         {
             "authorTime": 28091,
@@ -3691,7 +4377,9 @@
             "warriorTime": 27296,
             "worldRecord": 24911,
             "mapId": "a9cadab9-824c-4af6-9ff2-bb7571fbaa74",
-            "goldTime": 30000
+            "goldTime": 30000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 4
         },
         {
             "authorTime": 30499,
@@ -3702,7 +4390,9 @@
             "warriorTime": 29787,
             "worldRecord": 27648,
             "mapId": "105192fa-f66c-409d-81d3-84e1e9265901",
-            "goldTime": 33000
+            "goldTime": 33000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 5
         },
         {
             "authorTime": 31775,
@@ -3713,7 +4403,9 @@
             "warriorTime": 31145,
             "worldRecord": 29255,
             "mapId": "99856698-5424-4c71-a4c3-6dc0e35d69db",
-            "goldTime": 34000
+            "goldTime": 34000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 6
         },
         {
             "authorTime": 21004,
@@ -3724,7 +4416,9 @@
             "warriorTime": 20193,
             "worldRecord": 17758,
             "mapId": "70b7d881-7396-4b23-8c01-5d43d8a686c5",
-            "goldTime": 23000
+            "goldTime": 23000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 7
         },
         {
             "authorTime": 30198,
@@ -3735,7 +4429,9 @@
             "warriorTime": 29374,
             "worldRecord": 26902,
             "mapId": "8643b3c7-9613-44d1-9790-0fc71068285a",
-            "goldTime": 33000
+            "goldTime": 33000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 8
         },
         {
             "authorTime": 35810,
@@ -3746,7 +4442,9 @@
             "warriorTime": 35129,
             "worldRecord": 33083,
             "mapId": "35301e62-9d08-404e-a58e-adf9a4256fa4",
-            "goldTime": 38000
+            "goldTime": 38000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 9
         },
         {
             "authorTime": 33823,
@@ -3757,7 +4455,9 @@
             "warriorTime": 33033,
             "worldRecord": 30661,
             "mapId": "cc97d70a-1a39-41d9-88be-6aca174c9f52",
-            "goldTime": 36000
+            "goldTime": 36000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 10
         },
         {
             "authorTime": 36016,
@@ -3768,7 +4468,9 @@
             "warriorTime": 35279,
             "worldRecord": 33066,
             "mapId": "d432f05c-7352-4956-9226-c3107e85ac12",
-            "goldTime": 39000
+            "goldTime": 39000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 11
         },
         {
             "authorTime": 38698,
@@ -3779,7 +4481,9 @@
             "warriorTime": 38048,
             "worldRecord": 36098,
             "mapId": "628187b7-f3d1-4ca9-a619-38989daaa2d0",
-            "goldTime": 42000
+            "goldTime": 42000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 12
         },
         {
             "authorTime": 36981,
@@ -3790,7 +4494,9 @@
             "warriorTime": 36104,
             "worldRecord": 33470,
             "mapId": "ddbceda1-2ca2-4079-8675-63cc324fa7a6",
-            "goldTime": 40000
+            "goldTime": 40000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 13
         },
         {
             "authorTime": 37437,
@@ -3801,7 +4507,9 @@
             "warriorTime": 36859,
             "worldRecord": 35123,
             "mapId": "201eed34-18cb-4a46-ad61-e038e98270d3",
-            "goldTime": 40000
+            "goldTime": 40000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 14
         },
         {
             "authorTime": 73011,
@@ -3812,7 +4520,9 @@
             "warriorTime": 71915,
             "worldRecord": 68627,
             "mapId": "754aacf6-dc3a-4932-9f27-3980107227ca",
-            "goldTime": 78000
+            "goldTime": 78000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 15
         },
         {
             "authorTime": 42680,
@@ -3823,7 +4533,9 @@
             "warriorTime": 42154,
             "worldRecord": 40574,
             "mapId": "5697c692-6e38-41cd-8185-667dd5c4c413",
-            "goldTime": 46000
+            "goldTime": 46000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 16
         },
         {
             "authorTime": 47701,
@@ -3834,7 +4546,9 @@
             "warriorTime": 47146,
             "worldRecord": 45481,
             "mapId": "21f72b78-904a-4c10-b761-1d5958e0d871",
-            "goldTime": 51000
+            "goldTime": 51000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 17
         },
         {
             "authorTime": 51101,
@@ -3845,7 +4559,9 @@
             "warriorTime": 50266,
             "worldRecord": 47760,
             "mapId": "740318c2-41e5-461c-9a8e-687e27831fbc",
-            "goldTime": 55000
+            "goldTime": 55000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 18
         },
         {
             "authorTime": 45351,
@@ -3856,7 +4572,9 @@
             "warriorTime": 44897,
             "worldRecord": 43532,
             "mapId": "a019620a-7b53-4a79-8c2a-150f4145e252",
-            "goldTime": 49000
+            "goldTime": 49000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 19
         },
         {
             "authorTime": 46126,
@@ -3867,7 +4585,9 @@
             "warriorTime": 45406,
             "worldRecord": 43245,
             "mapId": "49f1bb49-69a4-4a51-91f7-5a3463582cd5",
-            "goldTime": 49000
+            "goldTime": 49000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 20
         },
         {
             "authorTime": 54951,
@@ -3878,7 +4598,9 @@
             "warriorTime": 54029,
             "worldRecord": 51262,
             "mapId": "1780e317-e6b0-4eb3-87cf-57be96d0cb29",
-            "goldTime": 59000
+            "goldTime": 59000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 21
         },
         {
             "authorTime": 52252,
@@ -3889,7 +4611,9 @@
             "warriorTime": 51176,
             "worldRecord": 47945,
             "mapId": "feb1d15d-4dee-4680-bbe5-2170263e0000",
-            "goldTime": 56000
+            "goldTime": 56000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 22
         },
         {
             "authorTime": 43101,
@@ -3900,7 +4624,9 @@
             "warriorTime": 42477,
             "worldRecord": 40604,
             "mapId": "c9e5b539-bd86-4b9a-9c41-69811e0af440",
-            "goldTime": 46000
+            "goldTime": 46000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 23
         },
         {
             "authorTime": 72187,
@@ -3911,7 +4637,9 @@
             "warriorTime": 70763,
             "worldRecord": 66490,
             "mapId": "b6c6ce5d-e2cc-4730-a68f-535c26f6e0f4",
-            "goldTime": 77000
+            "goldTime": 77000,
+            "campaignName": "Fall 2023",
+            "mapIndex": 24
         },
         {
             "authorTime": 27195,
@@ -3922,7 +4650,9 @@
             "warriorTime": 26713,
             "worldRecord": 25264,
             "mapId": "be4acd7d-1ddc-48a8-875a-dbbe1ff0996e",
-            "goldTime": 29000
+            "goldTime": 29000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 0
         },
         {
             "authorTime": 27993,
@@ -3933,7 +4663,9 @@
             "warriorTime": 27397,
             "worldRecord": 25608,
             "mapId": "7ce3acd8-494b-4caa-9e0e-b7352f9afde1",
-            "goldTime": 30000
+            "goldTime": 30000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 1
         },
         {
             "authorTime": 24911,
@@ -3944,7 +4676,9 @@
             "warriorTime": 24262,
             "worldRecord": 22315,
             "mapId": "93cd9f9e-7075-4a55-8b08-e8a0db416d97",
-            "goldTime": 27000
+            "goldTime": 27000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 2
         },
         {
             "authorTime": 29232,
@@ -3955,7 +4689,9 @@
             "warriorTime": 28535,
             "worldRecord": 26444,
             "mapId": "523e5ff7-08c5-49a7-a939-d3aac1a74e61",
-            "goldTime": 31000
+            "goldTime": 31000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 3
         },
         {
             "authorTime": 26727,
@@ -3966,7 +4702,9 @@
             "warriorTime": 26032,
             "worldRecord": 23945,
             "mapId": "d7086b25-9d94-4d0f-84fb-b11a99c0de99",
-            "goldTime": 29000
+            "goldTime": 29000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 4
         },
         {
             "authorTime": 29122,
@@ -3977,7 +4715,9 @@
             "warriorTime": 28564,
             "worldRecord": 26888,
             "mapId": "2e49324b-c83c-45ef-8a2c-7172f3653427",
-            "goldTime": 31000
+            "goldTime": 31000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 5
         },
         {
             "authorTime": 35435,
@@ -3988,7 +4728,9 @@
             "warriorTime": 34637,
             "worldRecord": 32242,
             "mapId": "2cf0ce4d-82f8-48f7-b92a-4dc8e179dda7",
-            "goldTime": 38000
+            "goldTime": 38000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 6
         },
         {
             "authorTime": 26903,
@@ -3999,7 +4741,9 @@
             "warriorTime": 25725,
             "worldRecord": 22189,
             "mapId": "936ec2e4-e14c-4d91-9c93-3e3f5ac53491",
-            "goldTime": 29000
+            "goldTime": 29000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 7
         },
         {
             "authorTime": 34999,
@@ -4010,7 +4754,9 @@
             "warriorTime": 33267,
             "worldRecord": 28068,
             "mapId": "76416c30-70c5-49c1-98e1-aa0f4b4bc476",
-            "goldTime": 38000
+            "goldTime": 38000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 8
         },
         {
             "authorTime": 31010,
@@ -4021,7 +4767,9 @@
             "warriorTime": 30164,
             "worldRecord": 27623,
             "mapId": "66b37789-ecf9-4f02-b402-cdd508e7b086",
-            "goldTime": 33000
+            "goldTime": 33000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 9
         },
         {
             "authorTime": 34611,
@@ -4032,7 +4780,9 @@
             "warriorTime": 33911,
             "worldRecord": 31810,
             "mapId": "2e2a5334-4f2d-4e78-9047-9f01c98837ba",
-            "goldTime": 37000
+            "goldTime": 37000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 10
         },
         {
             "authorTime": 34144,
@@ -4043,7 +4793,9 @@
             "warriorTime": 33378,
             "worldRecord": 31078,
             "mapId": "e1566153-df51-43ca-992f-364d50eb5a43",
-            "goldTime": 37000
+            "goldTime": 37000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 11
         },
         {
             "authorTime": 34671,
@@ -4054,7 +4806,9 @@
             "warriorTime": 34074,
             "worldRecord": 32283,
             "mapId": "3a59493f-be45-4e6e-beaa-d9afe48db2f2",
-            "goldTime": 37000
+            "goldTime": 37000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 12
         },
         {
             "authorTime": 35464,
@@ -4065,7 +4819,9 @@
             "warriorTime": 34211,
             "worldRecord": 30451,
             "mapId": "a8eb1c95-07b8-460c-aafb-cf883b50113a",
-            "goldTime": 38000
+            "goldTime": 38000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 13
         },
         {
             "authorTime": 43111,
@@ -4076,7 +4832,9 @@
             "warriorTime": 42232,
             "worldRecord": 39594,
             "mapId": "0d4ae83b-0f08-4408-a2e5-2deb6779c371",
-            "goldTime": 46000
+            "goldTime": 46000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 14
         },
         {
             "authorTime": 50318,
@@ -4087,7 +4845,9 @@
             "warriorTime": 49480,
             "worldRecord": 46966,
             "mapId": "1cf76023-71c7-4d44-a25c-f7d443f7d687",
-            "goldTime": 54000
+            "goldTime": 54000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 15
         },
         {
             "authorTime": 46564,
@@ -4098,7 +4858,9 @@
             "warriorTime": 44948,
             "worldRecord": 40100,
             "mapId": "233d2044-c403-47d8-90f4-734a61f9ab48",
-            "goldTime": 50000
+            "goldTime": 50000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 16
         },
         {
             "authorTime": 49282,
@@ -4109,7 +4871,9 @@
             "warriorTime": 48314,
             "worldRecord": 45408,
             "mapId": "0227cb0a-bd61-42dd-b607-d2abf837e805",
-            "goldTime": 53000
+            "goldTime": 53000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 17
         },
         {
             "authorTime": 47188,
@@ -4120,7 +4884,9 @@
             "warriorTime": 46514,
             "worldRecord": 44491,
             "mapId": "ce583a45-840d-495c-ab04-e5cc25571898",
-            "goldTime": 51000
+            "goldTime": 51000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 18
         },
         {
             "authorTime": 53854,
@@ -4131,7 +4897,9 @@
             "warriorTime": 51542,
             "worldRecord": 44604,
             "mapId": "874d81b1-9c1a-48c4-91ae-75767fbb358e",
-            "goldTime": 58000
+            "goldTime": 58000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 19
         },
         {
             "authorTime": 49589,
@@ -4142,7 +4910,9 @@
             "warriorTime": 48191,
             "worldRecord": 43997,
             "mapId": "e1f60c7c-1381-4251-a9a1-21fdf961be3d",
-            "goldTime": 53000
+            "goldTime": 53000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 20
         },
         {
             "authorTime": 69896,
@@ -4153,7 +4923,9 @@
             "warriorTime": 68646,
             "worldRecord": 64896,
             "mapId": "5090446c-7166-494e-8fa1-ce01e5abce48",
-            "goldTime": 75000
+            "goldTime": 75000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 21
         },
         {
             "authorTime": 42598,
@@ -4164,7 +4936,9 @@
             "warriorTime": 41963,
             "worldRecord": 40056,
             "mapId": "26325150-622f-45f4-acd8-e43c01591843",
-            "goldTime": 46000
+            "goldTime": 46000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 22
         },
         {
             "authorTime": 56489,
@@ -4175,7 +4949,9 @@
             "warriorTime": 54877,
             "worldRecord": 50038,
             "mapId": "6e2bde26-d560-4f06-a33a-67424a5924d3",
-            "goldTime": 60000
+            "goldTime": 60000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 23
         },
         {
             "authorTime": 61996,
@@ -4186,7 +4962,9 @@
             "warriorTime": 61023,
             "worldRecord": 58102,
             "mapId": "28f675f8-0cfa-4f4a-9c95-d64d369fbe7e",
-            "goldTime": 66000
+            "goldTime": 66000,
+            "campaignName": "Winter 2024",
+            "mapIndex": 24
         },
         {
             "authorTime": 29089,
@@ -4197,7 +4975,9 @@
             "warriorTime": 28258,
             "worldRecord": 25765,
             "mapId": "d2b8a048-209d-4cfa-b5a4-bc3e3cab3566",
-            "goldTime": 31000
+            "goldTime": 31000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 0
         },
         {
             "authorTime": 36744,
@@ -4208,7 +4988,9 @@
             "warriorTime": 35905,
             "worldRecord": 33388,
             "mapId": "b1b9df44-7080-4c4c-8aed-46bda58e56b1",
-            "goldTime": 39000
+            "goldTime": 39000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 1
         },
         {
             "authorTime": 32144,
@@ -4219,7 +5001,9 @@
             "warriorTime": 30950,
             "worldRecord": 27367,
             "mapId": "1ed1d2c0-6da7-46b2-9777-f6ca3e5a1b2c",
-            "goldTime": 35000
+            "goldTime": 35000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 2
         },
         {
             "authorTime": 28344,
@@ -4230,7 +5014,9 @@
             "warriorTime": 27572,
             "worldRecord": 25254,
             "mapId": "46f46e2a-2db3-4ac6-a49e-38255297d73e",
-            "goldTime": 31000
+            "goldTime": 31000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 3
         },
         {
             "authorTime": 32922,
@@ -4241,7 +5027,9 @@
             "warriorTime": 32040,
             "worldRecord": 29392,
             "mapId": "cd9369a6-2a22-4f5a-8084-955a8ca2d5e0",
-            "goldTime": 35000
+            "goldTime": 35000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 4
         },
         {
             "authorTime": 29411,
@@ -4252,7 +5040,9 @@
             "warriorTime": 28926,
             "worldRecord": 27468,
             "mapId": "20b9b642-e396-4ea3-a996-105c3c5d98ee",
-            "goldTime": 32000
+            "goldTime": 32000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 5
         },
         {
             "authorTime": 35732,
@@ -4263,7 +5053,9 @@
             "warriorTime": 35198,
             "worldRecord": 33594,
             "mapId": "87a892b5-a601-44d5-a01d-a9fe32a4d686",
-            "goldTime": 38000
+            "goldTime": 38000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 6
         },
         {
             "authorTime": 29279,
@@ -4274,7 +5066,9 @@
             "warriorTime": 28525,
             "worldRecord": 26263,
             "mapId": "481977ee-a775-4515-b964-7a6e26a676a9",
-            "goldTime": 32000
+            "goldTime": 32000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 7
         },
         {
             "authorTime": 32663,
@@ -4285,7 +5079,9 @@
             "warriorTime": 31872,
             "worldRecord": 29498,
             "mapId": "bf7e990f-860e-4e2a-8dbb-5fa376184fe1",
-            "goldTime": 35000
+            "goldTime": 35000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 8
         },
         {
             "authorTime": 37878,
@@ -4296,7 +5092,9 @@
             "warriorTime": 36681,
             "worldRecord": 33087,
             "mapId": "8c973e2d-fa73-4db7-af94-57135bdaa778",
-            "goldTime": 41000
+            "goldTime": 41000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 9
         },
         {
             "authorTime": 37172,
@@ -4307,7 +5105,9 @@
             "warriorTime": 35963,
             "worldRecord": 32336,
             "mapId": "6b20ec6c-f8f1-4b8b-b6e9-93089d6a2a09",
-            "goldTime": 40000
+            "goldTime": 40000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 10
         },
         {
             "authorTime": 41838,
@@ -4318,7 +5118,9 @@
             "warriorTime": 41195,
             "worldRecord": 39265,
             "mapId": "1255469a-bbf8-4bcf-b8bb-3ad57220d6a1",
-            "goldTime": 45000
+            "goldTime": 45000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 11
         },
         {
             "authorTime": 37291,
@@ -4329,7 +5131,9 @@
             "warriorTime": 36198,
             "worldRecord": 32918,
             "mapId": "feb4c9f2-a0dd-408d-9aa4-f19dc5187bb8",
-            "goldTime": 40000
+            "goldTime": 40000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 12
         },
         {
             "authorTime": 43988,
@@ -4340,7 +5144,9 @@
             "warriorTime": 43170,
             "worldRecord": 40713,
             "mapId": "1f5e2782-07ca-4d5c-92cc-53f6112fd7f4",
-            "goldTime": 47000
+            "goldTime": 47000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 13
         },
         {
             "authorTime": 46655,
@@ -4351,7 +5157,9 @@
             "warriorTime": 45976,
             "worldRecord": 43938,
             "mapId": "f405ea1f-e805-4364-9277-d0eb746f0783",
-            "goldTime": 50000
+            "goldTime": 50000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 14
         },
         {
             "authorTime": 44978,
@@ -4362,7 +5170,9 @@
             "warriorTime": 44233,
             "worldRecord": 41997,
             "mapId": "f3766897-8e14-46ab-a3b4-9d43889a9b3d",
-            "goldTime": 48000
+            "goldTime": 48000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 15
         },
         {
             "authorTime": 50224,
@@ -4373,7 +5183,9 @@
             "warriorTime": 49304,
             "worldRecord": 46544,
             "mapId": "23a8d15f-1e8f-4ccb-9660-8702dbb56cef",
-            "goldTime": 54000
+            "goldTime": 54000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 16
         },
         {
             "authorTime": 50251,
@@ -4384,7 +5196,9 @@
             "warriorTime": 49564,
             "worldRecord": 47500,
             "mapId": "e2a51e6c-9314-441d-b81c-6f2aca87fa6a",
-            "goldTime": 54000
+            "goldTime": 54000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 17
         },
         {
             "authorTime": 35814,
@@ -4395,7 +5209,9 @@
             "warriorTime": 34560,
             "worldRecord": 30798,
             "mapId": "342c1f53-db78-40d1-9e48-e5778ac57af7",
-            "goldTime": 38000
+            "goldTime": 38000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 18
         },
         {
             "authorTime": 39275,
@@ -4406,7 +5222,9 @@
             "warriorTime": 37646,
             "worldRecord": 32756,
             "mapId": "05b3a91b-c5ad-494d-8da5-d484c0145238",
-            "goldTime": 42000
+            "goldTime": 42000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 19
         },
         {
             "authorTime": 53318,
@@ -4417,7 +5235,9 @@
             "warriorTime": 52306,
             "worldRecord": 49270,
             "mapId": "b38ed115-7feb-4660-936d-8c32324117c7",
-            "goldTime": 57000
+            "goldTime": 57000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 20
         },
         {
             "authorTime": 60706,
@@ -4428,7 +5248,9 @@
             "warriorTime": 60037,
             "worldRecord": 58030,
             "mapId": "b6f2e38d-a16e-4204-98d3-73a51c6de7a5",
-            "goldTime": 65000
+            "goldTime": 65000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 21
         },
         {
             "authorTime": 46818,
@@ -4439,7 +5261,9 @@
             "warriorTime": 46162,
             "worldRecord": 44192,
             "mapId": "0cd18b59-ef45-4d8d-9565-7d12d73f1f0d",
-            "goldTime": 50000
+            "goldTime": 50000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 22
         },
         {
             "authorTime": 61001,
@@ -4450,7 +5274,9 @@
             "warriorTime": 60407,
             "worldRecord": 58624,
             "mapId": "6bc05bad-112f-4991-8c13-f6e377e0c656",
-            "goldTime": 65000
+            "goldTime": 65000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 23
         },
         {
             "authorTime": 71111,
@@ -4461,7 +5287,9 @@
             "warriorTime": 70104,
             "worldRecord": 67080,
             "mapId": "e43cf2bd-629c-4bc1-88e8-3ae956586011",
-            "goldTime": 76000
+            "goldTime": 76000,
+            "campaignName": "Spring 2024",
+            "mapIndex": 24
         },
         {
             "authorTime": 23923,
@@ -4472,7 +5300,9 @@
             "warriorTime": 23524,
             "worldRecord": 22325,
             "mapId": "11f05603-58f4-4289-b643-d88e4d757015",
-            "goldTime": 26000
+            "goldTime": 26000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 0
         },
         {
             "authorTime": 29100,
@@ -4483,7 +5313,9 @@
             "warriorTime": 28508,
             "worldRecord": 26731,
             "mapId": "573e12c7-7b9e-4002-898d-8f8c6b121c88",
-            "goldTime": 31000
+            "goldTime": 31000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 1
         },
         {
             "authorTime": 30438,
@@ -4494,7 +5326,9 @@
             "warriorTime": 29880,
             "worldRecord": 28203,
             "mapId": "d94e9bba-528d-48d6-83c6-e9bfe3755ad9",
-            "goldTime": 33000
+            "goldTime": 33000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 2
         },
         {
             "authorTime": 31507,
@@ -4505,7 +5339,9 @@
             "warriorTime": 30785,
             "worldRecord": 28616,
             "mapId": "43c4f1d4-52c3-4611-830f-cc1412ed8696",
-            "goldTime": 34000
+            "goldTime": 34000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 3
         },
         {
             "authorTime": 28595,
@@ -4516,7 +5352,9 @@
             "warriorTime": 27864,
             "worldRecord": 25668,
             "mapId": "b93b4462-0d8a-42b2-a497-dc79c5373fbc",
-            "goldTime": 31000
+            "goldTime": 31000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 4
         },
         {
             "authorTime": 31524,
@@ -4527,7 +5365,9 @@
             "warriorTime": 31106,
             "worldRecord": 29851,
             "mapId": "29b5dc2c-4d6f-4d74-8ca3-5b6255ce2b7f",
-            "goldTime": 34000
+            "goldTime": 34000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 5
         },
         {
             "authorTime": 27744,
@@ -4538,7 +5378,9 @@
             "warriorTime": 27058,
             "worldRecord": 24998,
             "mapId": "5adf2543-7841-4f28-88d3-f1f2c6cc63fc",
-            "goldTime": 30000
+            "goldTime": 30000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 6
         },
         {
             "authorTime": 28808,
@@ -4549,7 +5391,9 @@
             "warriorTime": 28149,
             "worldRecord": 26171,
             "mapId": "ab512cb3-f415-4217-9d47-9344cece6461",
-            "goldTime": 31000
+            "goldTime": 31000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 7
         },
         {
             "authorTime": 34789,
@@ -4560,7 +5404,9 @@
             "warriorTime": 34038,
             "worldRecord": 31782,
             "mapId": "f626bb59-ef59-453d-96c4-66e9b96d2b9b",
-            "goldTime": 37000
+            "goldTime": 37000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 8
         },
         {
             "authorTime": 29000,
@@ -4571,7 +5417,9 @@
             "warriorTime": 28453,
             "worldRecord": 26812,
             "mapId": "54f52217-2e15-42a5-b6b8-cb88f35a3230",
-            "goldTime": 31000
+            "goldTime": 31000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 9
         },
         {
             "authorTime": 42221,
@@ -4582,7 +5430,9 @@
             "warriorTime": 41309,
             "worldRecord": 38572,
             "mapId": "91808e00-e4c5-4a30-9c41-6bea6c8101f9",
-            "goldTime": 45000
+            "goldTime": 45000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 10
         },
         {
             "authorTime": 36511,
@@ -4593,7 +5443,9 @@
             "warriorTime": 35984,
             "worldRecord": 34400,
             "mapId": "c3f421db-3a7a-4c27-8ba6-d153d770d0c3",
-            "goldTime": 39000
+            "goldTime": 39000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 11
         },
         {
             "authorTime": 40465,
@@ -4604,7 +5456,9 @@
             "warriorTime": 40125,
             "worldRecord": 39103,
             "mapId": "1e70fc80-c7b8-44dd-9cb0-a1d0c762c913",
-            "goldTime": 43000
+            "goldTime": 43000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 12
         },
         {
             "authorTime": 55321,
@@ -4615,7 +5469,9 @@
             "warriorTime": 54372,
             "worldRecord": 51525,
             "mapId": "02308b7a-7179-4725-bc9f-af06fee86ad7",
-            "goldTime": 59000
+            "goldTime": 59000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 13
         },
         {
             "authorTime": 37224,
@@ -4626,7 +5482,9 @@
             "warriorTime": 36585,
             "worldRecord": 34668,
             "mapId": "0638b603-0e8d-440f-a11c-64d9007e8a0e",
-            "goldTime": 40000
+            "goldTime": 40000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 14
         },
         {
             "authorTime": 49322,
@@ -4637,7 +5495,9 @@
             "warriorTime": 48582,
             "worldRecord": 46362,
             "mapId": "d4102b54-47d6-4400-a210-59c4043df499",
-            "goldTime": 53000
+            "goldTime": 53000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 15
         },
         {
             "authorTime": 48718,
@@ -4648,7 +5508,9 @@
             "warriorTime": 48194,
             "worldRecord": 46620,
             "mapId": "d90022c2-4a5e-44e4-b1da-534d82ea9ee4",
-            "goldTime": 52000
+            "goldTime": 52000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 16
         },
         {
             "authorTime": 46002,
@@ -4659,7 +5521,9 @@
             "warriorTime": 45526,
             "worldRecord": 44097,
             "mapId": "fc2bd10c-d6ac-4d41-b815-af751feccf13",
-            "goldTime": 49000
+            "goldTime": 49000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 17
         },
         {
             "authorTime": 46503,
@@ -4670,7 +5534,9 @@
             "warriorTime": 46044,
             "worldRecord": 44666,
             "mapId": "3f243712-dc7d-473d-be6e-3a31f87d4214",
-            "goldTime": 50000
+            "goldTime": 50000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 18
         },
         {
             "authorTime": 51617,
@@ -4681,7 +5547,9 @@
             "warriorTime": 50385,
             "worldRecord": 46687,
             "mapId": "826e29d4-ff33-4a1a-b5a8-6a8d1211261b",
-            "goldTime": 55000
+            "goldTime": 55000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 19
         },
         {
             "authorTime": 55452,
@@ -4692,7 +5560,9 @@
             "warriorTime": 54715,
             "worldRecord": 52502,
             "mapId": "45d25b00-b0c5-48ac-97cf-4b9351b99cbd",
-            "goldTime": 59000
+            "goldTime": 59000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 20
         },
         {
             "authorTime": 48448,
@@ -4703,7 +5573,9 @@
             "warriorTime": 47888,
             "worldRecord": 46208,
             "mapId": "ea9582c6-c879-45a9-bf1f-6edbd11877e2",
-            "goldTime": 52000
+            "goldTime": 52000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 21
         },
         {
             "authorTime": 42721,
@@ -4714,7 +5586,9 @@
             "warriorTime": 41925,
             "worldRecord": 39536,
             "mapId": "66c03ca3-b7e1-4a89-b31d-bdb329b45be2",
-            "goldTime": 46000
+            "goldTime": 46000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 22
         },
         {
             "authorTime": 63886,
@@ -4725,7 +5599,9 @@
             "warriorTime": 63381,
             "worldRecord": 61864,
             "mapId": "5ad1a58e-0a13-4d34-832b-a50c9377f02c",
-            "goldTime": 68000
+            "goldTime": 68000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 23
         },
         {
             "authorTime": 70347,
@@ -4736,7 +5612,9 @@
             "warriorTime": 69746,
             "worldRecord": 67943,
             "mapId": "0a12b854-a822-4d95-8add-49266fb9eca5",
-            "goldTime": 75000
+            "goldTime": 75000,
+            "campaignName": "Summer 2024",
+            "mapIndex": 24
         },
         {
             "authorTime": 30001,
@@ -4747,7 +5625,9 @@
             "warriorTime": 29109,
             "worldRecord": 26432,
             "mapId": "9a76212e-b3c1-4450-8f4c-ba5966f3af1d",
-            "goldTime": 32000
+            "goldTime": 32000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 0
         },
         {
             "authorTime": 27777,
@@ -4758,7 +5638,9 @@
             "warriorTime": 27045,
             "worldRecord": 24848,
             "mapId": "5eac4750-8b8e-4487-87d1-bda63ef81d00",
-            "goldTime": 30000
+            "goldTime": 30000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 1
         },
         {
             "authorTime": 31989,
@@ -4769,7 +5651,9 @@
             "warriorTime": 31035,
             "worldRecord": 28170,
             "mapId": "911c4f67-5d90-40e2-bc8d-dd9383d98deb",
-            "goldTime": 34000
+            "goldTime": 34000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 2
         },
         {
             "authorTime": 27321,
@@ -4780,7 +5664,9 @@
             "warriorTime": 26878,
             "worldRecord": 25547,
             "mapId": "70e00988-8b0b-436b-b9d4-96851b6a4083",
-            "goldTime": 29000
+            "goldTime": 29000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 3
         },
         {
             "authorTime": 29200,
@@ -4791,7 +5677,9 @@
             "warriorTime": 28384,
             "worldRecord": 25935,
             "mapId": "767dcb42-f1c0-42e1-bf7c-f97c0305e9d5",
-            "goldTime": 31000
+            "goldTime": 31000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 4
         },
         {
             "authorTime": 31957,
@@ -4802,7 +5690,9 @@
             "warriorTime": 31375,
             "worldRecord": 29626,
             "mapId": "bb920e06-4fab-4d1f-b6f0-763168ff96d9",
-            "goldTime": 34000
+            "goldTime": 34000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 5
         },
         {
             "authorTime": 33675,
@@ -4813,7 +5703,9 @@
             "warriorTime": 33256,
             "worldRecord": 31998,
             "mapId": "6baf0019-f261-479f-8033-49f475a926fa",
-            "goldTime": 36000
+            "goldTime": 36000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 6
         },
         {
             "authorTime": 23541,
@@ -4824,7 +5716,9 @@
             "warriorTime": 23214,
             "worldRecord": 22233,
             "mapId": "e82af8c0-7991-47e2-a45f-9584572af5d0",
-            "goldTime": 25000
+            "goldTime": 25000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 7
         },
         {
             "authorTime": 27511,
@@ -4835,7 +5729,9 @@
             "warriorTime": 27077,
             "worldRecord": 25773,
             "mapId": "11703854-d6fd-40f1-b5d1-0ef7347f82f8",
-            "goldTime": 30000
+            "goldTime": 30000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 8
         },
         {
             "authorTime": 33333,
@@ -4846,7 +5742,9 @@
             "warriorTime": 32473,
             "worldRecord": 29890,
             "mapId": "40805f0e-7913-4eea-95da-a6ce4efe532a",
-            "goldTime": 36000
+            "goldTime": 36000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 9
         },
         {
             "authorTime": 40182,
@@ -4857,7 +5755,9 @@
             "warriorTime": 39567,
             "worldRecord": 37722,
             "mapId": "e02396d7-1a19-4e04-b7ec-a9a05f62c94d",
-            "goldTime": 43000
+            "goldTime": 43000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 10
         },
         {
             "authorTime": 39822,
@@ -4868,7 +5768,9 @@
             "warriorTime": 39230,
             "worldRecord": 37452,
             "mapId": "db092647-f28f-41ab-b64e-86867d9d21e2",
-            "goldTime": 43000
+            "goldTime": 43000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 11
         },
         {
             "authorTime": 36351,
@@ -4879,7 +5781,9 @@
             "warriorTime": 35709,
             "worldRecord": 33781,
             "mapId": "83af63f7-ad71-43dd-8c67-834de8a207f4",
-            "goldTime": 39000
+            "goldTime": 39000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 12
         },
         {
             "authorTime": 34550,
@@ -4890,7 +5794,9 @@
             "warriorTime": 33855,
             "worldRecord": 31768,
             "mapId": "8c791e58-d1ca-4c3a-a6c1-4355c17d301b",
-            "goldTime": 37000
+            "goldTime": 37000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 13
         },
         {
             "authorTime": 40275,
@@ -4901,7 +5807,9 @@
             "warriorTime": 39815,
             "worldRecord": 38435,
             "mapId": "ec21ecf3-8fb8-4b2f-8a22-4ee008450892",
-            "goldTime": 43000
+            "goldTime": 43000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 14
         },
         {
             "authorTime": 51644,
@@ -4912,7 +5820,9 @@
             "warriorTime": 50962,
             "worldRecord": 48914,
             "mapId": "a5d38926-32e3-41eb-b76d-c6e5493a6c36",
-            "goldTime": 55000
+            "goldTime": 55000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 15
         },
         {
             "authorTime": 54082,
@@ -4923,7 +5833,9 @@
             "warriorTime": 53388,
             "worldRecord": 51303,
             "mapId": "5b4e2e0b-6b11-4d16-a90b-242ec39c6c05",
-            "goldTime": 58000
+            "goldTime": 58000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 16
         },
         {
             "authorTime": 38382,
@@ -4934,7 +5846,9 @@
             "warriorTime": 37773,
             "worldRecord": 35946,
             "mapId": "e71ef85a-c1f9-4a19-87cd-2abd6b2642be",
-            "goldTime": 41000
+            "goldTime": 41000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 17
         },
         {
             "authorTime": 69224,
@@ -4945,7 +5859,9 @@
             "warriorTime": 67689,
             "worldRecord": 63081,
             "mapId": "a0d99310-89f7-4b22-a315-bde1ee499f78",
-            "goldTime": 74000
+            "goldTime": 74000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 18
         },
         {
             "authorTime": 36858,
@@ -4956,7 +5872,9 @@
             "warriorTime": 35956,
             "worldRecord": 33247,
             "mapId": "4e25f2c5-f776-4447-9e89-a78e014b6e85",
-            "goldTime": 40000
+            "goldTime": 40000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 19
         },
         {
             "authorTime": 48939,
@@ -4967,7 +5885,9 @@
             "warriorTime": 48647,
             "worldRecord": 47768,
             "mapId": "d36f47d7-255a-46a0-abac-6d42953c637d",
-            "goldTime": 52000
+            "goldTime": 52000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 20
         },
         {
             "authorTime": 74228,
@@ -4978,7 +5898,9 @@
             "warriorTime": 73488,
             "worldRecord": 71265,
             "mapId": "e555da33-6f89-4746-aeca-a5a113968dc7",
-            "goldTime": 79000
+            "goldTime": 79000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 21
         },
         {
             "authorTime": 56888,
@@ -4989,7 +5911,9 @@
             "warriorTime": 55998,
             "worldRecord": 53328,
             "mapId": "30ce3448-135b-4bd5-af55-1a091359c9c6",
-            "goldTime": 61000
+            "goldTime": 61000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 22
         },
         {
             "authorTime": 51622,
@@ -5000,7 +5924,9 @@
             "warriorTime": 50736,
             "worldRecord": 48078,
             "mapId": "c38a5541-3c3e-4e5a-ac20-a740a8d21fa6",
-            "goldTime": 55000
+            "goldTime": 55000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 23
         },
         {
             "authorTime": 92993,
@@ -5011,7 +5937,9 @@
             "warriorTime": 91579,
             "worldRecord": 87337,
             "mapId": "f2c237a0-c455-45ba-b6e8-c4f917b997e4",
-            "goldTime": 99000
+            "goldTime": 99000,
+            "campaignName": "Fall 2024",
+            "mapIndex": 24
         },
         {
             "authorTime": 24783,
@@ -5022,7 +5950,9 @@
             "warriorTime": 24390,
             "worldRecord": 23208,
             "mapId": "3ea4157d-9ca1-4b2e-bb5e-84060286d4dd",
-            "goldTime": 27000
+            "goldTime": 27000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 0
         },
         {
             "authorTime": 26233,
@@ -5033,7 +5963,9 @@
             "warriorTime": 25720,
             "worldRecord": 24180,
             "mapId": "abf1f2cf-9841-469d-889a-410e4800b8de",
-            "goldTime": 28000
+            "goldTime": 28000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 1
         },
         {
             "authorTime": 26312,
@@ -5044,7 +5976,9 @@
             "warriorTime": 25940,
             "worldRecord": 24821,
             "mapId": "6ff492c2-8005-4dec-a021-37179a5343d3",
-            "goldTime": 28000
+            "goldTime": 28000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 2
         },
         {
             "authorTime": 21823,
@@ -5055,7 +5989,9 @@
             "warriorTime": 21428,
             "worldRecord": 20241,
             "mapId": "8bca3d04-3819-4998-ab0b-c17cc3f4cd71",
-            "goldTime": 24000
+            "goldTime": 24000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 3
         },
         {
             "authorTime": 28714,
@@ -5066,7 +6002,9 @@
             "warriorTime": 28143,
             "worldRecord": 26428,
             "mapId": "57098da1-5083-4ef4-80a7-cfb1bfc5aedc",
-            "goldTime": 31000
+            "goldTime": 31000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 4
         },
         {
             "authorTime": 28661,
@@ -5077,7 +6015,9 @@
             "warriorTime": 28086,
             "worldRecord": 26361,
             "mapId": "d7eac6da-9e42-4a4d-92a9-e197a177b549",
-            "goldTime": 31000
+            "goldTime": 31000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 5
         },
         {
             "authorTime": 31208,
@@ -5088,7 +6028,9 @@
             "warriorTime": 30281,
             "worldRecord": 27498,
             "mapId": "e0cf439d-7994-46ff-9c48-65650516e578",
-            "goldTime": 34000
+            "goldTime": 34000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 6
         },
         {
             "authorTime": 31496,
@@ -5099,7 +6041,9 @@
             "warriorTime": 31177,
             "worldRecord": 30217,
             "mapId": "6167827b-8fd6-40cb-96f7-d2ce5ef51d4c",
-            "goldTime": 34000
+            "goldTime": 34000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 7
         },
         {
             "authorTime": 28908,
@@ -5110,7 +6054,9 @@
             "warriorTime": 28432,
             "worldRecord": 27001,
             "mapId": "7a95c22f-ec47-4422-b78a-f0bdb1b9cadd",
-            "goldTime": 31000
+            "goldTime": 31000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 8
         },
         {
             "authorTime": 33728,
@@ -5121,7 +6067,9 @@
             "warriorTime": 32697,
             "worldRecord": 29602,
             "mapId": "b0ae596b-0116-4c66-b403-7f6ee22b94c2",
-            "goldTime": 36000
+            "goldTime": 36000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 9
         },
         {
             "authorTime": 41902,
@@ -5132,7 +6080,9 @@
             "warriorTime": 41264,
             "worldRecord": 39348,
             "mapId": "2af5afe7-7257-4b2f-a0fa-03834e381a4a",
-            "goldTime": 45000
+            "goldTime": 45000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 10
         },
         {
             "authorTime": 40698,
@@ -5143,7 +6093,9 @@
             "warriorTime": 40162,
             "worldRecord": 38552,
             "mapId": "8876318f-3006-4277-9e74-301279dd13e5",
-            "goldTime": 44000
+            "goldTime": 44000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 11
         },
         {
             "authorTime": 44172,
@@ -5154,7 +6106,9 @@
             "warriorTime": 43446,
             "worldRecord": 41265,
             "mapId": "6092ee87-0f12-44d2-ac20-8654472a5901",
-            "goldTime": 47000
+            "goldTime": 47000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 12
         },
         {
             "authorTime": 35901,
@@ -5165,7 +6119,9 @@
             "warriorTime": 35347,
             "worldRecord": 33683,
             "mapId": "dd6f23ad-601f-4007-b247-f1a75c2913c7",
-            "goldTime": 39000
+            "goldTime": 39000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 13
         },
         {
             "authorTime": 37080,
@@ -5176,7 +6132,9 @@
             "warriorTime": 36064,
             "worldRecord": 33015,
             "mapId": "1cce7ab3-bdd3-4423-8e7f-87f95bafb023",
-            "goldTime": 40000
+            "goldTime": 40000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 14
         },
         {
             "authorTime": 43290,
@@ -5187,7 +6145,9 @@
             "warriorTime": 42709,
             "worldRecord": 40963,
             "mapId": "8b0078bf-5d2d-4834-b6f1-4f00d230e08c",
-            "goldTime": 46000
+            "goldTime": 46000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 15
         },
         {
             "authorTime": 53918,
@@ -5198,7 +6158,9 @@
             "warriorTime": 53305,
             "worldRecord": 51464,
             "mapId": "870f297f-74cb-41b5-8179-40bc39d61d10",
-            "goldTime": 58000
+            "goldTime": 58000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 16
         },
         {
             "authorTime": 51922,
@@ -5209,7 +6171,9 @@
             "warriorTime": 51083,
             "worldRecord": 48565,
             "mapId": "0492de6b-04d5-43eb-a3fd-b6e409ad2f17",
-            "goldTime": 56000
+            "goldTime": 56000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 17
         },
         {
             "authorTime": 48782,
@@ -5220,7 +6184,9 @@
             "warriorTime": 48113,
             "worldRecord": 46105,
             "mapId": "3d93ee0c-3ec0-49ae-b7ac-caebea38ffda",
-            "goldTime": 52000
+            "goldTime": 52000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 18
         },
         {
             "authorTime": 50092,
@@ -5231,7 +6197,9 @@
             "warriorTime": 49318,
             "worldRecord": 46995,
             "mapId": "bca14f3f-b4f9-428a-b267-81aef1f5f0cf",
-            "goldTime": 54000
+            "goldTime": 54000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 19
         },
         {
             "authorTime": 53893,
@@ -5242,7 +6210,9 @@
             "warriorTime": 53555,
             "worldRecord": 52541,
             "mapId": "6199ff26-955e-4521-ac2d-2bf724cc9c1d",
-            "goldTime": 58000
+            "goldTime": 58000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 20
         },
         {
             "authorTime": 72829,
@@ -5253,7 +6223,9 @@
             "warriorTime": 71956,
             "worldRecord": 69337,
             "mapId": "c6d2f202-4c72-4e7e-a175-36894b79b4d8",
-            "goldTime": 78000
+            "goldTime": 78000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 21
         },
         {
             "authorTime": 57573,
@@ -5264,7 +6236,9 @@
             "warriorTime": 57041,
             "worldRecord": 55445,
             "mapId": "229c75d5-4d3f-4945-b652-130524aa5e98",
-            "goldTime": 62000
+            "goldTime": 62000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 22
         },
         {
             "authorTime": 55210,
@@ -5275,7 +6249,9 @@
             "warriorTime": 54462,
             "worldRecord": 52217,
             "mapId": "4009d66b-06f7-40ca-8767-4a532eefc1b5",
-            "goldTime": 59000
+            "goldTime": 59000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 23
         },
         {
             "authorTime": 79993,
@@ -5286,7 +6262,9 @@
             "warriorTime": 79231,
             "worldRecord": 76944,
             "mapId": "4ac6539c-0098-4528-acd8-393f88075fc7",
-            "goldTime": 85000
+            "goldTime": 85000,
+            "campaignName": "Winter 2025",
+            "mapIndex": 24
         },
         {
             "authorTime": 25019,
@@ -5297,7 +6275,9 @@
             "warriorTime": 24611,
             "worldRecord": 23385,
             "mapId": "56a18653-d944-4f05-aeb1-31a5572887bb",
-            "goldTime": 27000
+            "goldTime": 27000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 0
         },
         {
             "authorTime": 30528,
@@ -5308,7 +6288,9 @@
             "warriorTime": 29789,
             "worldRecord": 27572,
             "mapId": "d8ba9da8-17aa-40f1-8673-a249e8f9969f",
-            "goldTime": 33000
+            "goldTime": 33000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 1
         },
         {
             "authorTime": 26728,
@@ -5319,7 +6301,9 @@
             "warriorTime": 26010,
             "worldRecord": 23853,
             "mapId": "fa71f468-45f7-45b9-9100-ba655a961424",
-            "goldTime": 29000
+            "goldTime": 29000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 2
         },
         {
             "authorTime": 26392,
@@ -5330,7 +6314,9 @@
             "warriorTime": 25343,
             "worldRecord": 22194,
             "mapId": "50e08898-bd31-45e9-91dc-76cefa82503d",
-            "goldTime": 28000
+            "goldTime": 28000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 3
         },
         {
             "authorTime": 30255,
@@ -5341,7 +6327,9 @@
             "warriorTime": 29096,
             "worldRecord": 25617,
             "mapId": "5e4f2a7a-b2c5-4410-a4ae-0911b88c869a",
-            "goldTime": 33000
+            "goldTime": 33000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 4
         },
         {
             "authorTime": 27472,
@@ -5352,7 +6340,9 @@
             "warriorTime": 27054,
             "worldRecord": 25798,
             "mapId": "d5a77217-a2d7-4888-b829-2681c9aaec92",
-            "goldTime": 30000
+            "goldTime": 30000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 5
         },
         {
             "authorTime": 34560,
@@ -5363,7 +6353,9 @@
             "warriorTime": 33562,
             "worldRecord": 30565,
             "mapId": "e797272e-c2a5-47ca-a14a-70178973cd3c",
-            "goldTime": 37000
+            "goldTime": 37000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 6
         },
         {
             "authorTime": 24092,
@@ -5374,7 +6366,9 @@
             "warriorTime": 23090,
             "worldRecord": 20083,
             "mapId": "e16a4f3a-518d-4eff-81eb-7e3c02d8d944",
-            "goldTime": 26000
+            "goldTime": 26000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 7
         },
         {
             "authorTime": 33897,
@@ -5385,7 +6379,9 @@
             "warriorTime": 32883,
             "worldRecord": 29841,
             "mapId": "97706858-4e0e-49ff-9263-0065064dd85f",
-            "goldTime": 36000
+            "goldTime": 36000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 8
         },
         {
             "authorTime": 29663,
@@ -5396,7 +6392,9 @@
             "warriorTime": 28840,
             "worldRecord": 26368,
             "mapId": "099afa09-544f-4201-ac6e-0d4efca93b4b",
-            "goldTime": 32000
+            "goldTime": 32000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 9
         },
         {
             "authorTime": 37288,
@@ -5407,7 +6405,9 @@
             "warriorTime": 36647,
             "worldRecord": 34724,
             "mapId": "bfe81708-021b-4f66-8f92-841ba1eb3dac",
-            "goldTime": 40000
+            "goldTime": 40000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 10
         },
         {
             "authorTime": 35722,
@@ -5418,7 +6418,9 @@
             "warriorTime": 34789,
             "worldRecord": 31988,
             "mapId": "76270648-63b1-4629-b1be-37c31425e16b",
-            "goldTime": 38000
+            "goldTime": 38000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 11
         },
         {
             "authorTime": 31700,
@@ -5429,7 +6431,9 @@
             "warriorTime": 31348,
             "worldRecord": 30292,
             "mapId": "e331ad4e-78c4-49f2-949c-9a1325fd8900",
-            "goldTime": 34000
+            "goldTime": 34000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 12
         },
         {
             "authorTime": 42650,
@@ -5440,7 +6444,9 @@
             "warriorTime": 40946,
             "worldRecord": 35832,
             "mapId": "2ce82c83-633e-4f95-ba12-c1cbfb292eee",
-            "goldTime": 46000
+            "goldTime": 46000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 13
         },
         {
             "authorTime": 56252,
@@ -5451,7 +6457,9 @@
             "warriorTime": 55336,
             "worldRecord": 52585,
             "mapId": "51f79a7a-be8d-4562-92e2-665505ae687e",
-            "goldTime": 60000
+            "goldTime": 60000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 14
         },
         {
             "authorTime": 42927,
@@ -5462,7 +6470,9 @@
             "warriorTime": 42197,
             "worldRecord": 40006,
             "mapId": "c034aa43-0f53-4265-a188-1ccd0813c998",
-            "goldTime": 46000
+            "goldTime": 46000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 15
         },
         {
             "authorTime": 53024,
@@ -5473,7 +6483,9 @@
             "warriorTime": 52036,
             "worldRecord": 49071,
             "mapId": "c5179472-0ae2-4846-b7cc-f12f8cec68dd",
-            "goldTime": 57000
+            "goldTime": 57000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 16
         },
         {
             "authorTime": 44867,
@@ -5484,7 +6496,9 @@
             "warriorTime": 44062,
             "worldRecord": 41646,
             "mapId": "9433694f-df47-4838-b982-602e8d617a9f",
-            "goldTime": 48000
+            "goldTime": 48000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 17
         },
         {
             "authorTime": 48638,
@@ -5495,7 +6509,9 @@
             "warriorTime": 47959,
             "worldRecord": 45921,
             "mapId": "935acdde-d83a-4412-8efc-71607862211a",
-            "goldTime": 52000
+            "goldTime": 52000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 18
         },
         {
             "authorTime": 53701,
@@ -5506,7 +6522,9 @@
             "warriorTime": 51818,
             "worldRecord": 46168,
             "mapId": "d38f8ca7-1c4e-49ba-9fdc-f7277b6f0997",
-            "goldTime": 57000
+            "goldTime": 57000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 19
         },
         {
             "authorTime": 59815,
@@ -5517,7 +6535,9 @@
             "warriorTime": 59050,
             "worldRecord": 56752,
             "mapId": "361d59b9-ab5f-463a-b2a2-85c15341e5c1",
-            "goldTime": 64000
+            "goldTime": 64000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 20
         },
         {
             "authorTime": 63814,
@@ -5528,7 +6548,9 @@
             "warriorTime": 62735,
             "worldRecord": 59498,
             "mapId": "3117d3c5-a01e-486d-96a6-ba0fa4e70095",
-            "goldTime": 68000
+            "goldTime": 68000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 21
         },
         {
             "authorTime": 56358,
@@ -5539,7 +6561,9 @@
             "warriorTime": 54893,
             "worldRecord": 50497,
             "mapId": "1aace21a-1929-408b-afbc-cc824119d98b",
-            "goldTime": 60000
+            "goldTime": 60000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 22
         },
         {
             "authorTime": 53319,
@@ -5550,7 +6574,9 @@
             "warriorTime": 52205,
             "worldRecord": 48860,
             "mapId": "d47905f3-d6e1-451e-a687-f8fc3df31820",
-            "goldTime": 57000
+            "goldTime": 57000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 23
         },
         {
             "authorTime": 67118,
@@ -5561,7 +6587,9 @@
             "warriorTime": 66677,
             "worldRecord": 65354,
             "mapId": "7812e379-1958-4ed5-996c-d39da84029ec",
-            "goldTime": 74000
+            "goldTime": 74000,
+            "campaignName": "Spring 2025",
+            "mapIndex": 24
         },
         {
             "authorTime": 21500,
@@ -5572,7 +6600,9 @@
             "warriorTime": 20873,
             "worldRecord": 18992,
             "mapId": "25b39d58-67bf-4024-8b3b-618234423bab",
-            "goldTime": 23000
+            "goldTime": 23000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 0
         },
         {
             "authorTime": 21500,
@@ -5583,7 +6613,9 @@
             "warriorTime": 21087,
             "worldRecord": 19848,
             "mapId": "27a7a997-a812-49be-8e42-2e5414f9b529",
-            "goldTime": 23000
+            "goldTime": 23000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 1
         },
         {
             "authorTime": 25000,
@@ -5594,7 +6626,9 @@
             "warriorTime": 24507,
             "worldRecord": 23028,
             "mapId": "b26cbd89-090d-49f7-9213-9e5ed0a95787",
-            "goldTime": 27000
+            "goldTime": 27000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 2
         },
         {
             "authorTime": 25000,
@@ -5605,7 +6639,9 @@
             "warriorTime": 24423,
             "worldRecord": 22691,
             "mapId": "caf25ea4-20bb-400b-b19f-7142c4bcc8a7",
-            "goldTime": 27000
+            "goldTime": 27000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 3
         },
         {
             "authorTime": 30000,
@@ -5616,7 +6652,9 @@
             "warriorTime": 28840,
             "worldRecord": 25357,
             "mapId": "e8c575e8-ae2c-4060-b712-68f434e1aaf8",
-            "goldTime": 32000
+            "goldTime": 32000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 4
         },
         {
             "authorTime": 28000,
@@ -5627,7 +6665,9 @@
             "warriorTime": 27494,
             "worldRecord": 25976,
             "mapId": "24648120-a599-4b48-9ee9-55a900dabd68",
-            "goldTime": 30000
+            "goldTime": 30000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 5
         },
         {
             "authorTime": 33500,
@@ -5638,7 +6678,9 @@
             "warriorTime": 32697,
             "worldRecord": 30285,
             "mapId": "445a75e3-401d-4c1f-a9fe-e326e651cb94",
-            "goldTime": 36000
+            "goldTime": 36000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 6
         },
         {
             "authorTime": 31000,
@@ -5649,7 +6691,9 @@
             "warriorTime": 30503,
             "worldRecord": 29012,
             "mapId": "f89d717d-6360-499d-9c69-b0a2c2cabf12",
-            "goldTime": 33000
+            "goldTime": 33000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 7
         },
         {
             "authorTime": 26500,
@@ -5660,7 +6704,9 @@
             "warriorTime": 26049,
             "worldRecord": 24695,
             "mapId": "ae7ef8cc-f5d1-47d6-99d9-2c42155c1089",
-            "goldTime": 29000
+            "goldTime": 29000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 8
         },
         {
             "authorTime": 27500,
@@ -5671,7 +6717,9 @@
             "warriorTime": 27171,
             "worldRecord": 26183,
             "mapId": "3e4d455e-96d7-4ba6-a905-dc40d9749278",
-            "goldTime": 30000
+            "goldTime": 30000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 9
         },
         {
             "authorTime": 33256,
@@ -5682,7 +6730,9 @@
             "warriorTime": 32909,
             "worldRecord": 31867,
             "mapId": "16b39bb0-baee-4b3a-8b83-941e4bdba3f3",
-            "goldTime": 40000
+            "goldTime": 40000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 10
         },
         {
             "authorTime": 34503,
@@ -5693,7 +6743,9 @@
             "warriorTime": 33977,
             "worldRecord": 32397,
             "mapId": "030dea5d-0e9f-4227-bd67-bc8bddd8305a",
-            "goldTime": 40000
+            "goldTime": 40000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 11
         },
         {
             "authorTime": 30279,
@@ -5704,7 +6756,9 @@
             "warriorTime": 29591,
             "worldRecord": 27524,
             "mapId": "cde98348-323c-47fb-8841-f7229ba2eee5",
-            "goldTime": 35000
+            "goldTime": 35000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 12
         },
         {
             "authorTime": 38218,
@@ -5715,7 +6769,9 @@
             "warriorTime": 37698,
             "worldRecord": 36138,
             "mapId": "596729f9-3e3e-4964-bb99-53a7e6becd3c",
-            "goldTime": 44000
+            "goldTime": 44000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 13
         },
         {
             "authorTime": 120000,
@@ -5726,7 +6782,9 @@
             "warriorTime": 117597,
             "worldRecord": 110388,
             "mapId": "44171f53-ac74-4fba-80d9-1eca68ee161d",
-            "goldTime": 150000
+            "goldTime": 150000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 14
         },
         {
             "authorTime": 51402,
@@ -5737,7 +6795,9 @@
             "warriorTime": 50796,
             "worldRecord": 48975,
             "mapId": "29f84e57-71bb-4cea-880d-787b7c3601d7",
-            "goldTime": 58000
+            "goldTime": 58000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 15
         },
         {
             "authorTime": 42783,
@@ -5748,7 +6808,9 @@
             "warriorTime": 41998,
             "worldRecord": 39640,
             "mapId": "5490a4a2-3866-46a1-845a-46b5684509b9",
-            "goldTime": 49000
+            "goldTime": 49000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 16
         },
         {
             "authorTime": 50506,
@@ -5759,7 +6821,9 @@
             "warriorTime": 49531,
             "worldRecord": 46605,
             "mapId": "504e9af8-2347-409f-8830-c16017f8118b",
-            "goldTime": 58000
+            "goldTime": 58000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 17
         },
         {
             "authorTime": 51829,
@@ -5770,7 +6834,9 @@
             "warriorTime": 49978,
             "worldRecord": 44423,
             "mapId": "b3bd0652-b7ad-4880-852e-6b1d5cb2b317",
-            "goldTime": 59000
+            "goldTime": 59000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 18
         },
         {
             "authorTime": 46622,
@@ -5781,7 +6847,9 @@
             "warriorTime": 44507,
             "worldRecord": 38159,
             "mapId": "3787cd90-d59b-4ea1-a058-e3fa3eafb240",
-            "goldTime": 52000
+            "goldTime": 52000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 19
         },
         {
             "authorTime": 61501,
@@ -5792,7 +6860,9 @@
             "warriorTime": 61077,
             "worldRecord": 59804,
             "mapId": "4968de8c-314e-4488-a18e-66f215e02a8c",
-            "goldTime": 66000
+            "goldTime": 66000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 20
         },
         {
             "authorTime": 58402,
@@ -5803,7 +6873,9 @@
             "warriorTime": 57853,
             "worldRecord": 56203,
             "mapId": "9887fc5c-4471-4df4-be47-46e6fa7bfc1e",
-            "goldTime": 62000
+            "goldTime": 62000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 21
         },
         {
             "authorTime": 65720,
@@ -5814,7 +6886,9 @@
             "warriorTime": 64473,
             "worldRecord": 60732,
             "mapId": "31476ba8-dfe8-46de-9435-a955046ac46f",
-            "goldTime": 70000
+            "goldTime": 70000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 22
         },
         {
             "authorTime": 63925,
@@ -5825,7 +6899,9 @@
             "warriorTime": 63022,
             "worldRecord": 60312,
             "mapId": "cd9c2370-346c-436e-8526-82b81e5105d8",
-            "goldTime": 68000
+            "goldTime": 68000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 23
         },
         {
             "authorTime": 300000,
@@ -5836,7 +6912,9 @@
             "warriorTime": 277262,
             "worldRecord": 209047,
             "mapId": "ec9fb5e9-204c-4329-8128-e0e5d12083a5",
-            "goldTime": 319000
+            "goldTime": 319000,
+            "campaignName": "Summer 2025",
+            "mapIndex": 24
         },
         {
             "authorTime": 24500,
@@ -5847,7 +6925,9 @@
             "warriorTime": 23496,
             "worldRecord": 20481,
             "mapId": "76022f61-09ec-404c-a8bb-d4d583e5e0dd",
-            "goldTime": 26000
+            "goldTime": 26000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 0
         },
         {
             "authorTime": 23500,
@@ -5858,7 +6938,9 @@
             "warriorTime": 22798,
             "worldRecord": 20690,
             "mapId": "f7317420-386a-4de2-bec5-14e9bddef61c",
-            "goldTime": 25000
+            "goldTime": 25000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 1
         },
         {
             "authorTime": 23500,
@@ -5869,7 +6951,9 @@
             "warriorTime": 22750,
             "worldRecord": 20500,
             "mapId": "73b6b1ce-c4e7-4897-bfe8-53580ecf474a",
-            "goldTime": 25000
+            "goldTime": 25000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 2
         },
         {
             "authorTime": 23000,
@@ -5880,7 +6964,9 @@
             "warriorTime": 22332,
             "worldRecord": 20325,
             "mapId": "21dd6561-d58c-495b-80ca-af68bc21fd06",
-            "goldTime": 25000
+            "goldTime": 25000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 3
         },
         {
             "authorTime": 26000,
@@ -5891,7 +6977,9 @@
             "warriorTime": 25062,
             "worldRecord": 22248,
             "mapId": "b7283ffd-d741-4b30-8b69-1c2d9b505276",
-            "goldTime": 28000
+            "goldTime": 28000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 4
         },
         {
             "authorTime": 24500,
@@ -5902,7 +6990,9 @@
             "warriorTime": 24032,
             "worldRecord": 22626,
             "mapId": "2d5eda64-857e-4685-a6b3-9f6bcba01bc0",
-            "goldTime": 26000
+            "goldTime": 26000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 5
         },
         {
             "authorTime": 31250,
@@ -5913,7 +7003,9 @@
             "warriorTime": 30569,
             "worldRecord": 28523,
             "mapId": "e122334c-6488-4e6a-9560-afee241e6a22",
-            "goldTime": 34000
+            "goldTime": 34000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 6
         },
         {
             "authorTime": 34750,
@@ -5924,7 +7016,9 @@
             "warriorTime": 34265,
             "worldRecord": 32807,
             "mapId": "d241f3eb-4381-4c33-a4e0-ebf8fb9a7318",
-            "goldTime": 37000
+            "goldTime": 37000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 7
         },
         {
             "authorTime": 36250,
@@ -5935,7 +7029,9 @@
             "warriorTime": 35553,
             "worldRecord": 33461,
             "mapId": "39f4b5b8-a77b-4210-8f95-d18fce37472f",
-            "goldTime": 39000
+            "goldTime": 39000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 8
         },
         {
             "authorTime": 29500,
@@ -5946,7 +7042,9 @@
             "warriorTime": 28957,
             "worldRecord": 27328,
             "mapId": "fe85bb56-211f-482b-b8e6-fc374e53e2c2",
-            "goldTime": 32000
+            "goldTime": 32000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 9
         },
         {
             "authorTime": 31605,
@@ -5957,7 +7055,9 @@
             "warriorTime": 31125,
             "worldRecord": 29685,
             "mapId": "7e8ed299-8eca-4cde-91ad-6e4acac862e0",
-            "goldTime": 34000
+            "goldTime": 34000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 10
         },
         {
             "authorTime": 40336,
@@ -5968,7 +7068,9 @@
             "warriorTime": 39156,
             "worldRecord": 35613,
             "mapId": "55a28f82-e1e0-4ae1-8774-fa802f3caa1d",
-            "goldTime": 43000
+            "goldTime": 43000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 11
         },
         {
             "authorTime": 34847,
@@ -5979,7 +7081,9 @@
             "warriorTime": 34188,
             "worldRecord": 32211,
             "mapId": "a96d96bc-36f5-4d4c-9888-38d3dd2581ea",
-            "goldTime": 37000
+            "goldTime": 37000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 12
         },
         {
             "authorTime": 35561,
@@ -5990,7 +7094,9 @@
             "warriorTime": 34875,
             "worldRecord": 32816,
             "mapId": "ae78d32c-7ac1-4c74-a215-4137c5c83ede",
-            "goldTime": 38000
+            "goldTime": 38000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 13
         },
         {
             "authorTime": 42233,
@@ -6001,7 +7107,9 @@
             "warriorTime": 41676,
             "worldRecord": 40004,
             "mapId": "9f9f61a7-c346-42fe-890c-4f3bae97c9dd",
-            "goldTime": 45000
+            "goldTime": 45000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 14
         },
         {
             "authorTime": 44873,
@@ -6012,7 +7120,9 @@
             "warriorTime": 44106,
             "worldRecord": 41802,
             "mapId": "588c61e0-b404-418f-90c3-e594baf8e6bd",
-            "goldTime": 52000
+            "goldTime": 52000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 15
         },
         {
             "authorTime": 48532,
@@ -6023,7 +7133,9 @@
             "warriorTime": 47469,
             "worldRecord": 44278,
             "mapId": "1caeceef-a2aa-44df-8ce4-b18fdbf5c66d",
-            "goldTime": 54000
+            "goldTime": 54000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 16
         },
         {
             "authorTime": 50555,
@@ -6034,7 +7146,9 @@
             "warriorTime": 49478,
             "worldRecord": 46244,
             "mapId": "1025c4df-d8e5-43a0-9f25-f8b85506b0ef",
-            "goldTime": 56000
+            "goldTime": 56000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 17
         },
         {
             "authorTime": 51962,
@@ -6045,7 +7159,9 @@
             "warriorTime": 50904,
             "worldRecord": 47730,
             "mapId": "d86d708d-2930-4006-abe7-5904654ecb90",
-            "goldTime": 56000
+            "goldTime": 56000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 18
         },
         {
             "authorTime": 51328,
@@ -6056,7 +7172,9 @@
             "warriorTime": 50079,
             "worldRecord": 46331,
             "mapId": "987671ea-6757-46d0-a177-2b5c58f0cc43",
-            "goldTime": 56000
+            "goldTime": 56000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 19
         },
         {
             "authorTime": 64858,
@@ -6067,7 +7185,9 @@
             "warriorTime": 63832,
             "worldRecord": 60754,
             "mapId": "a4d7c742-936e-4c53-a4dd-2391071dfac8",
-            "goldTime": 72000
+            "goldTime": 72000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 20
         },
         {
             "authorTime": 62550,
@@ -6078,7 +7198,9 @@
             "warriorTime": 61665,
             "worldRecord": 59008,
             "mapId": "186d251f-b295-403e-bbf8-6299492bad9b",
-            "goldTime": 69000
+            "goldTime": 69000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 21
         },
         {
             "authorTime": 63582,
@@ -6089,7 +7211,9 @@
             "warriorTime": 62352,
             "worldRecord": 58660,
             "mapId": "635e4958-69b4-498a-8ba1-c3626a896a4c",
-            "goldTime": 70000
+            "goldTime": 70000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 22
         },
         {
             "authorTime": 49412,
@@ -6100,7 +7224,9 @@
             "warriorTime": 47716,
             "worldRecord": 42626,
             "mapId": "2acb7a8e-d823-4c60-83ea-d7a5253b40cf",
-            "goldTime": 55000
+            "goldTime": 55000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 23
         },
         {
             "authorTime": 65119,
@@ -6111,7 +7237,9 @@
             "warriorTime": 64388,
             "worldRecord": 62195,
             "mapId": "cc3ea5f4-053b-4af0-9828-6552282b43d3",
-            "goldTime": 73000
+            "goldTime": 73000,
+            "campaignName": "Fall 2025",
+            "mapIndex": 24
         }
     ],
     "Weekly": [
