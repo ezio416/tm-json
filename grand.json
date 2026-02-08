@@ -42,5 +42,27 @@
         "timestampUpload": 1769777240,
         "week": 6,
         "year": 2026
+    },
+    "uj7bNXDeTWy5yUXykeFFD7tlwAf": {
+        "author": "aa02b90e-0652-4a1c-b705-4677e2983003",
+        "authorTime": 588450,
+        "bronzeTime": 883000,
+        "campaignId": 125531,
+        "goldTime": 624000,
+        "mapId": "86d5fc9b-cfe7-40cf-9966-b50a34357898",
+        "mapIndex": 0,
+        "mapUid": "uj7bNXDeTWy5yUXykeFFD7tlwAf",
+        "name": "Desert Run",
+        "number": 7,
+        "seasonUid": "f0ddff44-8cac-4462-8da6-777c892aec83",
+        "silverTime": 707000,
+        "submitter": "aa02b90e-0652-4a1c-b705-4677e2983003",
+        "timestampEdition": 1770467568,
+        "timestampEnd": 1771174800,
+        "timestampRankingSent": 0,
+        "timestampStart": 1770570000,
+        "timestampUpload": 1770467542,
+        "week": 7,
+        "year": 2026
     }
 }
