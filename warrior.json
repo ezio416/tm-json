@@ -1,5 +1,5 @@
 {
-    "next": 1770753600,
+    "next": 1770840000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -33501,6 +33501,17 @@
             "worldRecord": 40032,
             "mapId": "be6eae6c-308b-4791-80ef-d3d4aad23851",
             "goldTime": 44000
+        },
+        {
+            "authorTime": 57380,
+            "date": "2026-02-10",
+            "mapUid": "Q7iuk2jqCh7COJvMXfEYgfUNEn2",
+            "name": "$000TM$928 Games $000- $fffSector 9",
+            "reason": null,
+            "warriorTime": 57285,
+            "worldRecord": 56615,
+            "mapId": "284e1fb1-d27e-46bb-ba81-7e417f93f900",
+            "goldTime": 61000
         }
     ],
     "Other": [
