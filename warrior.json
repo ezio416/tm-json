@@ -1,5 +1,5 @@
 {
-    "next": 1770742800,
+    "next": 1770753600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -88,6 +88,19 @@
             "goldTime": 704000,
             "campaignId": 124323,
             "week": 6
+        },
+        {
+            "authorTime": 588450,
+            "mapUid": "uj7bNXDeTWy5yUXykeFFD7tlwAf",
+            "name": "Desert Run",
+            "number": 7,
+            "reason": null,
+            "warriorTime": 567044,
+            "worldRecord": 531367,
+            "mapId": "86d5fc9b-cfe7-40cf-9966-b50a34357898",
+            "goldTime": 624000,
+            "campaignId": 125531,
+            "week": 7
         }
     ],
     "Seasonal": [
