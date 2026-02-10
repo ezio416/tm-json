@@ -42688,7 +42688,7 @@
         "submitter": "433b5c82-6fb4-4dc2-b686-5a9534189021",
         "timestampEnd": 1769277600,
         "timestampStart": 1769191200,
-        "timestampUpload": 1766831053,
+        "timestampUpload": 1770707860,
         "weekDay": 4,
         "year": 2026
     },
@@ -43047,6 +43047,27 @@
         "timestampStart": 1770660000,
         "timestampUpload": 1770135183,
         "weekDay": 0,
+        "year": 2026
+    },
+    "Q7iuk2jqCh7COJvMXfEYgfUNEn2": {
+        "author": "de590c4e-f98c-4783-afa8-a01efb069ceb",
+        "authorTime": 57380,
+        "bronzeTime": 87000,
+        "campaignId": 125810,
+        "goldTime": 61000,
+        "mapId": "284e1fb1-d27e-46bb-ba81-7e417f93f900",
+        "mapUid": "Q7iuk2jqCh7COJvMXfEYgfUNEn2",
+        "month": 2,
+        "monthDay": 10,
+        "name": "$000TM$928 Games $000- $fffSector 9",
+        "number": 2051,
+        "seasonUid": "1fa9cb4f-75d5-495c-8194-f16374e2870e",
+        "silverTime": 69000,
+        "submitter": "91ecc3e6-ef3c-4ed9-bf33-a79fdfc15129",
+        "timestampEnd": 1770832800,
+        "timestampStart": 1770746400,
+        "timestampUpload": 1770646770,
+        "weekDay": 1,
         "year": 2026
     }
 }
