@@ -32818,7 +32818,7 @@
         "submitter": "ac424f5e-5612-4a44-8b87-6403be2b690f",
         "timestampEnd": 1728666000,
         "timestampStart": 1728579600,
-        "timestampUpload": 1765894838,
+        "timestampUpload": 1770752337,
         "weekDay": 3,
         "year": 2024
     },
@@ -33616,7 +33616,7 @@
         "submitter": "ac424f5e-5612-4a44-8b87-6403be2b690f",
         "timestampEnd": 1731952800,
         "timestampStart": 1731866400,
-        "timestampUpload": 1765894836,
+        "timestampUpload": 1770752335,
         "weekDay": 6,
         "year": 2024
     },
@@ -38446,7 +38446,7 @@
         "submitter": "ac424f5e-5612-4a44-8b87-6403be2b690f",
         "timestampEnd": 1751821200,
         "timestampStart": 1751734800,
-        "timestampUpload": 1765894834,
+        "timestampUpload": 1770752331,
         "weekDay": 5,
         "year": 2025
     },
@@ -40084,7 +40084,7 @@
         "submitter": "ac424f5e-5612-4a44-8b87-6403be2b690f",
         "timestampEnd": 1758560400,
         "timestampStart": 1758474000,
-        "timestampUpload": 1765894832,
+        "timestampUpload": 1770752333,
         "weekDay": 6,
         "year": 2025
     },
@@ -41638,7 +41638,7 @@
         "submitter": "ac424f5e-5612-4a44-8b87-6403be2b690f",
         "timestampEnd": 1764957600,
         "timestampStart": 1764871200,
-        "timestampUpload": 1765894830,
+        "timestampUpload": 1770752328,
         "weekDay": 3,
         "year": 2025
     },
@@ -43068,6 +43068,27 @@
         "timestampStart": 1770746400,
         "timestampUpload": 1770646770,
         "weekDay": 1,
+        "year": 2026
+    },
+    "uKp8v_1W5T3orUGw0jhwsy7J780": {
+        "author": "bb425f31-5e51-4f39-bab0-c85327ed949c",
+        "authorTime": 41839,
+        "bronzeTime": 63000,
+        "campaignId": 126000,
+        "goldTime": 45000,
+        "mapId": "00d7d467-a69c-492f-a8c7-a3068722a4c9",
+        "mapUid": "uKp8v_1W5T3orUGw0jhwsy7J780",
+        "month": 2,
+        "monthDay": 11,
+        "name": "$ipoly$F3Fc$86Fh$09Fr$6CCo$3C8m$6F0e $zft' mango",
+        "number": 2052,
+        "seasonUid": "7ec3a231-0ef5-4ed9-a3f6-b91da3d1b394",
+        "silverTime": 51000,
+        "submitter": "bb425f31-5e51-4f39-bab0-c85327ed949c",
+        "timestampEnd": 1770919200,
+        "timestampStart": 1770832800,
+        "timestampUpload": 1768947662,
+        "weekDay": 2,
         "year": 2026
     }
 }
