@@ -1,5 +1,5 @@
 {
-    "next": 1771012800,
+    "next": 1771099200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -33534,6 +33534,17 @@
             "worldRecord": 36927,
             "mapId": "04a98f6f-caac-4df9-ade5-d00f1ee3dd38",
             "goldTime": 41000
+        },
+        {
+            "authorTime": 48210,
+            "date": "2026-02-13",
+            "mapUid": "_p3XlrVKFP5yQcrW7a6m5RQ8ps2",
+            "name": "Saturday $9FFCruise",
+            "reason": null,
+            "warriorTime": 47995,
+            "worldRecord": 46488,
+            "mapId": "093e080d-77f8-4769-a2b0-04cea8e40f37",
+            "goldTime": 52000
         }
     ],
     "Other": [
