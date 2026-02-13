@@ -43111,5 +43111,26 @@
         "timestampUpload": 1769017676,
         "weekDay": 3,
         "year": 2026
+    },
+    "_p3XlrVKFP5yQcrW7a6m5RQ8ps2": {
+        "author": "10991521-994f-4d9a-a3e7-a9bf76f7794a",
+        "authorTime": 48210,
+        "bronzeTime": 73000,
+        "campaignId": 126127,
+        "goldTime": 52000,
+        "mapId": "093e080d-77f8-4769-a2b0-04cea8e40f37",
+        "mapUid": "_p3XlrVKFP5yQcrW7a6m5RQ8ps2",
+        "month": 2,
+        "monthDay": 13,
+        "name": "Saturday $9FFCruise",
+        "number": 2054,
+        "seasonUid": "7b6cffed-02f5-4096-a894-9038b177c080",
+        "silverTime": 58000,
+        "submitter": "10991521-994f-4d9a-a3e7-a9bf76f7794a",
+        "timestampEnd": 1771092000,
+        "timestampStart": 1771005600,
+        "timestampUpload": 1714827996,
+        "weekDay": 4,
+        "year": 2026
     }
 }
