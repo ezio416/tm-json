@@ -64,5 +64,27 @@
         "timestampUpload": 1770467542,
         "week": 7,
         "year": 2026
+    },
+    "v2lxJMWyCGWWNMoMlJHGuwLDWdh": {
+        "author": "aa02b90e-0652-4a1c-b705-4677e2983003",
+        "authorTime": 615659,
+        "bronzeTime": 924000,
+        "campaignId": 126317,
+        "goldTime": 653000,
+        "mapId": "b4f0294a-c543-4056-88fb-84b96416951a",
+        "mapIndex": 0,
+        "mapUid": "v2lxJMWyCGWWNMoMlJHGuwLDWdh",
+        "name": "Grand Slopes",
+        "number": 8,
+        "seasonUid": "c6159a59-9a1b-488c-b064-ba78e9f547ee",
+        "silverTime": 739000,
+        "submitter": "aa02b90e-0652-4a1c-b705-4677e2983003",
+        "timestampEdition": 1771090629,
+        "timestampEnd": 1771779600,
+        "timestampRankingSent": 0,
+        "timestampStart": 1771174800,
+        "timestampUpload": 1771090601,
+        "week": 8,
+        "year": 2026
     }
 }
