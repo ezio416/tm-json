@@ -1,5 +1,5 @@
 {
-    "next": 1771272000,
+    "next": 1771347600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -33567,6 +33567,17 @@
             "worldRecord": 38032,
             "mapId": "709cb32c-c5c5-4c45-bee9-617fa3cc6419",
             "goldTime": 72000
+        },
+        {
+            "authorTime": 44034,
+            "date": "2026-02-16",
+            "mapUid": "HvwfuFPfKCzaIoPRBux2xqAK3r6",
+            "name": "Jades ft' Qez",
+            "reason": null,
+            "warriorTime": 43960,
+            "worldRecord": 43438,
+            "mapId": "83063a77-c3ff-4e49-9aa6-66f3a7f7563f",
+            "goldTime": 47000
         }
     ],
     "Other": [
