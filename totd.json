@@ -43174,5 +43174,26 @@
         "timestampUpload": 1766870743,
         "weekDay": 6,
         "year": 2026
+    },
+    "HvwfuFPfKCzaIoPRBux2xqAK3r6": {
+        "author": "0011d4b9-a323-474d-9fe2-92cb38b9fd05",
+        "authorTime": 44034,
+        "bronzeTime": 67000,
+        "campaignId": 126524,
+        "goldTime": 47000,
+        "mapId": "83063a77-c3ff-4e49-9aa6-66f3a7f7563f",
+        "mapUid": "HvwfuFPfKCzaIoPRBux2xqAK3r6",
+        "month": 2,
+        "monthDay": 16,
+        "name": "Jades ft' Qez",
+        "number": 2057,
+        "seasonUid": "ac109597-677f-4994-9bff-d86366e97087",
+        "silverTime": 53000,
+        "submitter": "0011d4b9-a323-474d-9fe2-92cb38b9fd05",
+        "timestampEnd": 1771351200,
+        "timestampStart": 1771264800,
+        "timestampUpload": 1769764487,
+        "weekDay": 0,
+        "year": 2026
     }
 }
