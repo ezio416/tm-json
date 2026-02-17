@@ -1,5 +1,5 @@
 {
-    "next": 1771347600,
+    "next": 1771358400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -101,6 +101,19 @@
             "goldTime": 624000,
             "campaignId": 125531,
             "week": 7
+        },
+        {
+            "authorTime": 615659,
+            "mapUid": "v2lxJMWyCGWWNMoMlJHGuwLDWdh",
+            "name": "Grand Slopes",
+            "number": 8,
+            "reason": null,
+            "warriorTime": 565082,
+            "worldRecord": 480787,
+            "mapId": "b4f0294a-c543-4056-88fb-84b96416951a",
+            "goldTime": 653000,
+            "campaignId": 126317,
+            "week": 8
         }
     ],
     "Seasonal": [
