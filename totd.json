@@ -42667,7 +42667,7 @@
         "submitter": "441c4ce8-af3b-4b6b-9260-fcb28767a7bb",
         "timestampEnd": 1769191200,
         "timestampStart": 1769104800,
-        "timestampUpload": 1768503546,
+        "timestampUpload": 1771278284,
         "weekDay": 3,
         "year": 2026
     },
@@ -43194,6 +43194,27 @@
         "timestampStart": 1771264800,
         "timestampUpload": 1769764487,
         "weekDay": 0,
+        "year": 2026
+    },
+    "XAJViFw1Y7TlPdFB3P44hHZkg80": {
+        "author": "abdc0576-fae7-4b31-96dc-539b8cda095f",
+        "authorTime": 42222,
+        "bronzeTime": 64000,
+        "campaignId": 126525,
+        "goldTime": 45000,
+        "mapId": "53ea3605-18da-4cc6-8eb9-dd6a4294bf9c",
+        "mapUid": "XAJViFw1Y7TlPdFB3P44hHZkg80",
+        "month": 2,
+        "monthDay": 17,
+        "name": "$svistavision",
+        "number": 2058,
+        "seasonUid": "8b93b16c-2f7f-4247-abba-a2c97ef3ab43",
+        "silverTime": 51000,
+        "submitter": "abdc0576-fae7-4b31-96dc-539b8cda095f",
+        "timestampEnd": 1771437600,
+        "timestampStart": 1771351200,
+        "timestampUpload": 1769636544,
+        "weekDay": 1,
         "year": 2026
     }
 }
