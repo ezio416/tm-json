@@ -1,5 +1,5 @@
 {
-    "next": 1771617600,
+    "next": 1771704000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -33624,6 +33624,17 @@
             "worldRecord": 37854,
             "mapId": "49198704-36c4-4b3f-a42f-0145cc4bc75e",
             "goldTime": 41000
+        },
+        {
+            "authorTime": 45918,
+            "date": "2026-02-20",
+            "mapUid": "TsR1eBWWn5W91sYSf48nkv_GYkc",
+            "name": "One Thousand Hands Dragging Me Into The Sea ft' Map88",
+            "reason": null,
+            "warriorTime": 45875,
+            "worldRecord": 45571,
+            "mapId": "9ee15d5e-7940-4653-9cbf-689243951da6",
+            "goldTime": 49000
         }
     ],
     "Other": [
