@@ -43258,5 +43258,26 @@
         "timestampUpload": 1771267641,
         "weekDay": 3,
         "year": 2026
+    },
+    "TsR1eBWWn5W91sYSf48nkv_GYkc": {
+        "author": "cb747c0d-dad7-42f2-b900-ca9efb284c86",
+        "authorTime": 45918,
+        "bronzeTime": 69000,
+        "campaignId": 126804,
+        "goldTime": 49000,
+        "mapId": "9ee15d5e-7940-4653-9cbf-689243951da6",
+        "mapUid": "TsR1eBWWn5W91sYSf48nkv_GYkc",
+        "month": 2,
+        "monthDay": 20,
+        "name": "One Thousand Hands Dragging Me Into The Sea ft' Map88",
+        "number": 2061,
+        "seasonUid": "ddae38c2-b3ca-449e-828f-d2041b408ed4",
+        "silverTime": 56000,
+        "submitter": "cb747c0d-dad7-42f2-b900-ca9efb284c86",
+        "timestampEnd": 1771696800,
+        "timestampStart": 1771610400,
+        "timestampUpload": 1770073718,
+        "weekDay": 4,
+        "year": 2026
     }
 }
