@@ -42856,7 +42856,7 @@
         "submitter": "1f797be5-e425-4f6d-8ebd-e74fd26e5d0d",
         "timestampEnd": 1769968800,
         "timestampStart": 1769882400,
-        "timestampUpload": 1770018043,
+        "timestampUpload": 1771681298,
         "weekDay": 5,
         "year": 2026
     },
@@ -43278,6 +43278,27 @@
         "timestampStart": 1771610400,
         "timestampUpload": 1770073718,
         "weekDay": 4,
+        "year": 2026
+    },
+    "WBohCLIP6UdKPzXgbr5z2w2QXN": {
+        "author": "46178b0a-1589-40ed-a06c-16c0e1673396",
+        "authorTime": 41832,
+        "bronzeTime": 63000,
+        "campaignId": 127000,
+        "goldTime": 45000,
+        "mapId": "eb564076-3a81-4226-aaef-23fb8f53140d",
+        "mapUid": "WBohCLIP6UdKPzXgbr5z2w2QXN",
+        "month": 2,
+        "monthDay": 21,
+        "name": "$sVCC Showcase 22 - $s $4E4Boulevard$4E4",
+        "number": 2062,
+        "seasonUid": "ecabd1b1-5964-4cbc-8c39-37ea0ad72411",
+        "silverTime": 51000,
+        "submitter": "46178b0a-1589-40ed-a06c-16c0e1673396",
+        "timestampEnd": 1771783200,
+        "timestampStart": 1771696800,
+        "timestampUpload": 1769442012,
+        "weekDay": 5,
         "year": 2026
     }
 }
