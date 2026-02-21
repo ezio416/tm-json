@@ -1,5 +1,5 @@
 {
-    "next": 1771704000,
+    "next": 1771790400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -33635,6 +33635,17 @@
             "worldRecord": 45571,
             "mapId": "9ee15d5e-7940-4653-9cbf-689243951da6",
             "goldTime": 49000
+        },
+        {
+            "authorTime": 41832,
+            "date": "2026-02-21",
+            "mapUid": "WBohCLIP6UdKPzXgbr5z2w2QXN",
+            "name": "$sVCC Showcase 22 - $s $4E4Boulevard$4E4",
+            "reason": null,
+            "warriorTime": 41705,
+            "worldRecord": 40813,
+            "mapId": "eb564076-3a81-4226-aaef-23fb8f53140d",
+            "goldTime": 45000
         }
     ],
     "Other": [
