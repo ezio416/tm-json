@@ -86,5 +86,27 @@
         "timestampUpload": 1771090601,
         "week": 8,
         "year": 2026
+    },
+    "qUmNc1n4eDBrncyx5Bazw0D9L0": {
+        "author": "3b6a6355-5da4-4fe7-85fe-0ee7a5c4c138",
+        "authorTime": 584307,
+        "bronzeTime": 877000,
+        "campaignId": 126997,
+        "goldTime": 620000,
+        "mapId": "6e89284e-e03f-4f03-9678-8d4577e9285e",
+        "mapIndex": 0,
+        "mapUid": "qUmNc1n4eDBrncyx5Bazw0D9L0",
+        "name": "G - $f93Pirate $9ffCove",
+        "number": 9,
+        "seasonUid": "f6ee8c32-1fad-4d51-ba9a-5e92467916f7",
+        "silverTime": 702000,
+        "submitter": "91ecc3e6-ef3c-4ed9-bf33-a79fdfc15129",
+        "timestampEdition": 1771589371,
+        "timestampEnd": 1772384400,
+        "timestampRankingSent": 0,
+        "timestampStart": 1771779600,
+        "timestampUpload": 1771588354,
+        "week": 9,
+        "year": 2026
     }
 }
