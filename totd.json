@@ -43300,5 +43300,26 @@
         "timestampUpload": 1769442012,
         "weekDay": 5,
         "year": 2026
+    },
+    "QYreMdvUdbL5qm9BjBXKbmFyut4": {
+        "author": "e79101a9-8ca2-45cf-9475-504dff614eae",
+        "authorTime": 35455,
+        "bronzeTime": 54000,
+        "campaignId": 126999,
+        "goldTime": 38000,
+        "mapId": "283afa60-5350-4eaf-97b6-9f63fcd5dbde",
+        "mapUid": "QYreMdvUdbL5qm9BjBXKbmFyut4",
+        "month": 2,
+        "monthDay": 22,
+        "name": "$39FBlue Lagoon",
+        "number": 2063,
+        "seasonUid": "968a3b15-2089-43f3-b386-8d9e08a5562b",
+        "silverTime": 43000,
+        "submitter": "e79101a9-8ca2-45cf-9475-504dff614eae",
+        "timestampEnd": 1771869600,
+        "timestampStart": 1771783200,
+        "timestampUpload": 1771261256,
+        "weekDay": 6,
+        "year": 2026
     }
 }
