@@ -43342,5 +43342,26 @@
         "timestampUpload": 1771372021,
         "weekDay": 0,
         "year": 2026
+    },
+    "Ck3YrVMk7dgiUaRByOb7KdNDxei": {
+        "author": "77e81508-8431-42a3-941a-d77a809675c7",
+        "authorTime": 44661,
+        "bronzeTime": 67000,
+        "campaignId": 127389,
+        "goldTime": 48000,
+        "mapId": "2b899ac6-5fdb-4dbf-a782-6457aff73d18",
+        "mapUid": "Ck3YrVMk7dgiUaRByOb7KdNDxei",
+        "month": 2,
+        "monthDay": 24,
+        "name": "$s$FC0G$z$FFFeronimo",
+        "number": 2065,
+        "seasonUid": "09aad522-abd3-4cfb-b3dd-3a9ee7e67f78",
+        "silverTime": 54000,
+        "submitter": "77e81508-8431-42a3-941a-d77a809675c7",
+        "timestampEnd": 1772042400,
+        "timestampStart": 1771956000,
+        "timestampUpload": 1770607168,
+        "weekDay": 1,
+        "year": 2026
     }
 }
