@@ -1,5 +1,5 @@
 {
-    "next": 1771952400,
+    "next": 1771963200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -114,6 +114,19 @@
             "goldTime": 653000,
             "campaignId": 126317,
             "week": 8
+        },
+        {
+            "authorTime": 584307,
+            "mapUid": "qUmNc1n4eDBrncyx5Bazw0D9L0",
+            "name": "G - $f93Pirate $9ffCove",
+            "number": 9,
+            "reason": null,
+            "warriorTime": 534477,
+            "worldRecord": 451425,
+            "mapId": "6e89284e-e03f-4f03-9678-8d4577e9285e",
+            "goldTime": 620000,
+            "campaignId": 126997,
+            "week": 9
         }
     ],
     "Seasonal": [
