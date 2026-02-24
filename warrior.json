@@ -1,5 +1,5 @@
 {
-    "next": 1771963200,
+    "next": 1772049600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -33681,6 +33681,17 @@
             "worldRecord": 44937,
             "mapId": "288ba7cc-ef2f-4dbc-9eb8-90b9e210053f",
             "goldTime": 49000
+        },
+        {
+            "authorTime": 44661,
+            "date": "2026-02-24",
+            "mapUid": "Ck3YrVMk7dgiUaRByOb7KdNDxei",
+            "name": "$s$FC0G$z$FFFeronimo",
+            "reason": null,
+            "warriorTime": 44585,
+            "worldRecord": 44048,
+            "mapId": "2b899ac6-5fdb-4dbf-a782-6457aff73d18",
+            "goldTime": 48000
         }
     ],
     "Other": [
