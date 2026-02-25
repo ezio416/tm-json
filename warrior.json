@@ -1,5 +1,5 @@
 {
-    "next": 1772049600,
+    "next": 1772136000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -33692,6 +33692,17 @@
             "worldRecord": 44048,
             "mapId": "2b899ac6-5fdb-4dbf-a782-6457aff73d18",
             "goldTime": 48000
+        },
+        {
+            "authorTime": 45591,
+            "date": "2026-02-25",
+            "mapUid": "Xy7udLLcs4cD6bICWvednNcHiA3",
+            "name": "Memento Vivere ft' artroy666",
+            "reason": null,
+            "warriorTime": 45505,
+            "worldRecord": 44896,
+            "mapId": "cd0650d5-3f73-4101-bd7e-da485726aa53",
+            "goldTime": 49000
         }
     ],
     "Other": [
