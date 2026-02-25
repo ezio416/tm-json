@@ -43363,5 +43363,26 @@
         "timestampUpload": 1770607168,
         "weekDay": 1,
         "year": 2026
+    },
+    "Xy7udLLcs4cD6bICWvednNcHiA3": {
+        "author": "806d550c-d36e-4a8d-a465-9db03d77dbdc",
+        "authorTime": 45591,
+        "bronzeTime": 69000,
+        "campaignId": 127388,
+        "goldTime": 49000,
+        "mapId": "cd0650d5-3f73-4101-bd7e-da485726aa53",
+        "mapUid": "Xy7udLLcs4cD6bICWvednNcHiA3",
+        "month": 2,
+        "monthDay": 25,
+        "name": "Memento Vivere ft' artroy666",
+        "number": 2066,
+        "seasonUid": "734876e3-1f7b-4db7-af34-ae00b40638d9",
+        "silverTime": 55000,
+        "submitter": "806d550c-d36e-4a8d-a465-9db03d77dbdc",
+        "timestampEnd": 1772128800,
+        "timestampStart": 1772042400,
+        "timestampUpload": 1768773457,
+        "weekDay": 2,
+        "year": 2026
     }
 }
