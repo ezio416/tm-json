@@ -1,5 +1,5 @@
 {
-    "next": 1772222400,
+    "next": 1772308800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -33714,6 +33714,17 @@
             "worldRecord": 38907,
             "mapId": "5ee94286-4499-48bd-860f-c64f15141fba",
             "goldTime": 42000
+        },
+        {
+            "authorTime": 46825,
+            "date": "2026-02-27",
+            "mapUid": "Vv1BaqcNMfF4FW4b7zI1Zg8UoNh",
+            "name": "Speed of Light ft REZY",
+            "reason": null,
+            "warriorTime": 46748,
+            "worldRecord": 46207,
+            "mapId": "f7836a0d-d993-4e9a-a499-c8ff805b8dc9",
+            "goldTime": 50000
         }
     ],
     "Other": [
