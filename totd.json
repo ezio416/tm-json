@@ -43405,5 +43405,26 @@
         "timestampUpload": 1749225080,
         "weekDay": 3,
         "year": 2026
+    },
+    "Vv1BaqcNMfF4FW4b7zI1Zg8UoNh": {
+        "author": "6487d94d-a3ea-4e38-9bbb-4dfd4225e1cb",
+        "authorTime": 46825,
+        "bronzeTime": 71000,
+        "campaignId": 127622,
+        "goldTime": 50000,
+        "mapId": "f7836a0d-d993-4e9a-a499-c8ff805b8dc9",
+        "mapUid": "Vv1BaqcNMfF4FW4b7zI1Zg8UoNh",
+        "month": 2,
+        "monthDay": 27,
+        "name": "Speed of Light ft REZY",
+        "number": 2068,
+        "seasonUid": "a5c716b3-2597-4e5b-a24e-362392e9c0f4",
+        "silverTime": 57000,
+        "submitter": "6487d94d-a3ea-4e38-9bbb-4dfd4225e1cb",
+        "timestampEnd": 1772301600,
+        "timestampStart": 1772215200,
+        "timestampUpload": 1764588244,
+        "weekDay": 4,
+        "year": 2026
     }
 }
