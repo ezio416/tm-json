@@ -43426,5 +43426,26 @@
         "timestampUpload": 1764588244,
         "weekDay": 4,
         "year": 2026
+    },
+    "2XZ1JOwBtJE1KZO_LKcA9QQT5gg": {
+        "author": "701b9536-bc38-4a98-88eb-abe6cb174c0d",
+        "authorTime": 29600,
+        "bronzeTime": 45000,
+        "campaignId": 127836,
+        "goldTime": 32000,
+        "mapId": "dfe254a0-7647-4d84-b352-c285556882f8",
+        "mapUid": "2XZ1JOwBtJE1KZO_LKcA9QQT5gg",
+        "month": 2,
+        "monthDay": 28,
+        "name": "linex",
+        "number": 2069,
+        "seasonUid": "f4e9acbf-d7e4-47cb-a125-d9466af86e25",
+        "silverTime": 36000,
+        "submitter": "701b9536-bc38-4a98-88eb-abe6cb174c0d",
+        "timestampEnd": 1772388000,
+        "timestampStart": 1772301600,
+        "timestampUpload": 1771610909,
+        "weekDay": 5,
+        "year": 2026
     }
 }
