@@ -1,5 +1,5 @@
 {
-    "next": 1772395200,
+    "next": 1772481600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -33736,6 +33736,17 @@
             "worldRecord": 29162,
             "mapId": "dfe254a0-7647-4d84-b352-c285556882f8",
             "goldTime": 32000
+        },
+        {
+            "authorTime": 50939,
+            "date": "2026-03-01",
+            "mapUid": "LTSmGzmOCnWam4uPnv3Z0E_nPIb",
+            "name": "$o$000N$C00M$FC0C - SIRE PT2",
+            "reason": null,
+            "warriorTime": 50839,
+            "worldRecord": 50134,
+            "mapId": "1dbc6b4a-b640-4fb3-9ca5-21a8ea3d13c8",
+            "goldTime": 54000
         }
     ],
     "Other": [
