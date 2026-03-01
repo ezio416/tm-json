@@ -108,5 +108,27 @@
         "timestampUpload": 1771588354,
         "week": 9,
         "year": 2026
+    },
+    "C1GVmcWNYTxlcktk_MTjx2Q_xj2": {
+        "author": "3a53cf3d-a729-4951-8478-ca73d781050f",
+        "authorTime": 563361,
+        "bronzeTime": 846000,
+        "campaignId": 127814,
+        "goldTime": 598000,
+        "mapId": "54b3b47d-e95f-44cd-96d9-599e87697610",
+        "mapIndex": 0,
+        "mapUid": "C1GVmcWNYTxlcktk_MTjx2Q_xj2",
+        "name": "G - Paradise Cruise",
+        "number": 10,
+        "seasonUid": "04d70430-a302-4d12-86ee-006ccfb61f3f",
+        "silverTime": 677000,
+        "submitter": "3a53cf3d-a729-4951-8478-ca73d781050f",
+        "timestampEdition": 1772178974,
+        "timestampEnd": 1772989200,
+        "timestampRankingSent": 0,
+        "timestampStart": 1772384400,
+        "timestampUpload": 1771364724,
+        "week": 10,
+        "year": 2026
     }
 }
