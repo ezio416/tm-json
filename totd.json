@@ -35401,7 +35401,7 @@
         "submitter": "fb678553-f730-442a-a035-dfc50f4a5b7b",
         "timestampEnd": 1739296800,
         "timestampStart": 1739210400,
-        "timestampUpload": 1738709153,
+        "timestampUpload": 1772373985,
         "weekDay": 0,
         "year": 2025
     },
@@ -35821,7 +35821,7 @@
         "submitter": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
         "timestampEnd": 1741024800,
         "timestampStart": 1740938400,
-        "timestampUpload": 1741263964,
+        "timestampUpload": 1772311116,
         "weekDay": 6,
         "year": 2025
     },
@@ -36367,7 +36367,7 @@
         "submitter": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
         "timestampEnd": 1743271200,
         "timestampStart": 1743184800,
-        "timestampUpload": 1745602951,
+        "timestampUpload": 1772311118,
         "weekDay": 4,
         "year": 2025
     },
@@ -37648,7 +37648,7 @@
         "submitter": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
         "timestampEnd": 1748538000,
         "timestampStart": 1748451600,
-        "timestampUpload": 1747938928,
+        "timestampUpload": 1772311119,
         "weekDay": 2,
         "year": 2025
     },
@@ -38068,7 +38068,7 @@
         "submitter": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
         "timestampEnd": 1750266000,
         "timestampStart": 1750179600,
-        "timestampUpload": 1749492554,
+        "timestampUpload": 1772311121,
         "weekDay": 1,
         "year": 2025
     },
@@ -39517,7 +39517,7 @@
         "submitter": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
         "timestampEnd": 1756227600,
         "timestampStart": 1756141200,
-        "timestampUpload": 1759700657,
+        "timestampUpload": 1772311121,
         "weekDay": 0,
         "year": 2025
     },
@@ -40210,7 +40210,7 @@
         "submitter": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
         "timestampEnd": 1759078800,
         "timestampStart": 1758992400,
-        "timestampUpload": 1759700656,
+        "timestampUpload": 1772311122,
         "weekDay": 5,
         "year": 2025
     },
@@ -41554,7 +41554,7 @@
         "submitter": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
         "timestampEnd": 1764612000,
         "timestampStart": 1764525600,
-        "timestampUpload": 1762886184,
+        "timestampUpload": 1772311122,
         "weekDay": 6,
         "year": 2025
     },
@@ -41785,7 +41785,7 @@
         "submitter": "043d9f0f-3a04-4910-bfb8-36ef33435826",
         "timestampEnd": 1765562400,
         "timestampStart": 1765476000,
-        "timestampUpload": 1766854776,
+        "timestampUpload": 1772316763,
         "weekDay": 3,
         "year": 2025
     },
@@ -41953,7 +41953,7 @@
         "submitter": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
         "timestampEnd": 1766253600,
         "timestampStart": 1766167200,
-        "timestampUpload": 1766061056,
+        "timestampUpload": 1772311125,
         "weekDay": 4,
         "year": 2025
     },
@@ -42163,7 +42163,7 @@
         "submitter": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
         "timestampEnd": 1767117600,
         "timestampStart": 1767031200,
-        "timestampUpload": 1765133263,
+        "timestampUpload": 1772311123,
         "weekDay": 0,
         "year": 2025
     },
@@ -43444,8 +43444,29 @@
         "submitter": "701b9536-bc38-4a98-88eb-abe6cb174c0d",
         "timestampEnd": 1772388000,
         "timestampStart": 1772301600,
-        "timestampUpload": 1771610909,
+        "timestampUpload": 1772313710,
         "weekDay": 5,
+        "year": 2026
+    },
+    "LTSmGzmOCnWam4uPnv3Z0E_nPIb": {
+        "author": "aaae15ed-ab4d-4292-ab70-48b0b3d75517",
+        "authorTime": 50939,
+        "bronzeTime": 77000,
+        "campaignId": 128029,
+        "goldTime": 54000,
+        "mapId": "1dbc6b4a-b640-4fb3-9ca5-21a8ea3d13c8",
+        "mapUid": "LTSmGzmOCnWam4uPnv3Z0E_nPIb",
+        "month": 3,
+        "monthDay": 1,
+        "name": "$o$000N$C00M$FC0C - SIRE PT2",
+        "number": 2070,
+        "seasonUid": "068fbc0d-924e-48f4-9f42-47d9309666eb",
+        "silverTime": 62000,
+        "submitter": "661dd871-4312-49b3-bc6e-08cd57bef07d",
+        "timestampEnd": 1772474400,
+        "timestampStart": 1772388000,
+        "timestampUpload": 1772317900,
+        "weekDay": 6,
         "year": 2026
     }
 }
