@@ -1,5 +1,5 @@
 {
-    "next": 1772481600,
+    "next": 1772557200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -33747,6 +33747,17 @@
             "worldRecord": 50134,
             "mapId": "1dbc6b4a-b640-4fb3-9ca5-21a8ea3d13c8",
             "goldTime": 54000
+        },
+        {
+            "authorTime": 58399,
+            "date": "2026-03-02",
+            "mapUid": "5JzTkSEt1GxqH8Ua4QylX0qcw_l",
+            "name": "$i$s$c30King of the Hillclimb",
+            "reason": null,
+            "warriorTime": 58059,
+            "worldRecord": 55673,
+            "mapId": "a53b1abe-d84e-4784-9fd7-3ab566eef9b3",
+            "goldTime": 62000
         }
     ],
     "Other": [
