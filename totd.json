@@ -33154,7 +33154,7 @@
         "submitter": "14e29f8f-343e-4132-b002-f6248509c4b6",
         "timestampEnd": 1730052000,
         "timestampStart": 1729962000,
-        "timestampUpload": 1729791692,
+        "timestampUpload": 1772394592,
         "weekDay": 5,
         "year": 2024
     },
@@ -42982,7 +42982,7 @@
         "submitter": "4490cba1-2220-4d54-8dc7-23b5cf2d0db3",
         "timestampEnd": 1770487200,
         "timestampStart": 1770400800,
-        "timestampUpload": 1769441041,
+        "timestampUpload": 1772396771,
         "weekDay": 4,
         "year": 2026
     },
@@ -43467,6 +43467,27 @@
         "timestampStart": 1772388000,
         "timestampUpload": 1772317900,
         "weekDay": 6,
+        "year": 2026
+    },
+    "5JzTkSEt1GxqH8Ua4QylX0qcw_l": {
+        "author": "808ad399-63fb-4b41-afaa-456bff4cd42b",
+        "authorTime": 58399,
+        "bronzeTime": 88000,
+        "campaignId": 128234,
+        "goldTime": 62000,
+        "mapId": "a53b1abe-d84e-4784-9fd7-3ab566eef9b3",
+        "mapUid": "5JzTkSEt1GxqH8Ua4QylX0qcw_l",
+        "month": 3,
+        "monthDay": 2,
+        "name": "$i$s$c30King of the Hillclimb",
+        "number": 2071,
+        "seasonUid": "2ae46e6c-0f96-49a8-ba7f-3d32a01b94be",
+        "silverTime": 71000,
+        "submitter": "808ad399-63fb-4b41-afaa-456bff4cd42b",
+        "timestampEnd": 1772560800,
+        "timestampStart": 1772474400,
+        "timestampUpload": 1771210803,
+        "weekDay": 0,
         "year": 2026
     }
 }
