@@ -1,5 +1,5 @@
 {
-    "next": 1772557200,
+    "next": 1772568000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -127,6 +127,19 @@
             "goldTime": 620000,
             "campaignId": 126997,
             "week": 9
+        },
+        {
+            "authorTime": 563361,
+            "mapUid": "C1GVmcWNYTxlcktk_MTjx2Q_xj2",
+            "name": "G - Paradise Cruise",
+            "number": 10,
+            "reason": null,
+            "warriorTime": 530270,
+            "worldRecord": 475116,
+            "mapId": "54b3b47d-e95f-44cd-96d9-599e87697610",
+            "goldTime": 598000,
+            "campaignId": 127814,
+            "week": 10
         }
     ],
     "Seasonal": [
