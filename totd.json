@@ -43552,5 +43552,26 @@
         "timestampUpload": 1770298871,
         "weekDay": 3,
         "year": 2026
+    },
+    "vy6lBGXtA2bOLQ5Go6rce4uZRYl": {
+        "author": "abea35a1-34d9-42e0-8b45-572d20b8f2d7",
+        "authorTime": 51452,
+        "bronzeTime": 78000,
+        "campaignId": 128704,
+        "goldTime": 55000,
+        "mapId": "f34bb1aa-8e82-4bef-9886-532c5ddceb7a",
+        "mapUid": "vy6lBGXtA2bOLQ5Go6rce4uZRYl",
+        "month": 3,
+        "monthDay": 6,
+        "name": "$n$o$i$s$0d0From the other side",
+        "number": 2075,
+        "seasonUid": "dfab7073-9e1d-424f-b16b-ad39dee39c3c",
+        "silverTime": 62000,
+        "submitter": "abea35a1-34d9-42e0-8b45-572d20b8f2d7",
+        "timestampEnd": 1772906400,
+        "timestampStart": 1772820000,
+        "timestampUpload": 1767284985,
+        "weekDay": 4,
+        "year": 2026
     }
 }
