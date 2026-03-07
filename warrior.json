@@ -1,5 +1,5 @@
 {
-    "next": 1772913600,
+    "next": 1773000000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -33815,6 +33815,17 @@
             "worldRecord": 50412,
             "mapId": "f34bb1aa-8e82-4bef-9886-532c5ddceb7a",
             "goldTime": 55000
+        },
+        {
+            "authorTime": 43986,
+            "date": "2026-03-07",
+            "mapUid": "K7purPCgZEKNrKfxUYg4R_oA90m",
+            "name": "Petrify",
+            "reason": null,
+            "warriorTime": 43753,
+            "worldRecord": 42121,
+            "mapId": "0577a5bf-4127-4732-9243-420ac5df2e64",
+            "goldTime": 47000
         }
     ],
     "Other": [
