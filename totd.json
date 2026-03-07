@@ -43573,5 +43573,26 @@
         "timestampUpload": 1767284985,
         "weekDay": 4,
         "year": 2026
+    },
+    "K7purPCgZEKNrKfxUYg4R_oA90m": {
+        "author": "a0938c1f-7c25-41a7-a338-3b7e3223b923",
+        "authorTime": 43986,
+        "bronzeTime": 66000,
+        "campaignId": 128759,
+        "goldTime": 47000,
+        "mapId": "0577a5bf-4127-4732-9243-420ac5df2e64",
+        "mapUid": "K7purPCgZEKNrKfxUYg4R_oA90m",
+        "month": 3,
+        "monthDay": 7,
+        "name": "Petrify",
+        "number": 2076,
+        "seasonUid": "0c65b0aa-7143-4679-913c-1fdbffdc0c27",
+        "silverTime": 53000,
+        "submitter": "a0938c1f-7c25-41a7-a338-3b7e3223b923",
+        "timestampEnd": 1772992800,
+        "timestampStart": 1772906400,
+        "timestampUpload": 1772313381,
+        "weekDay": 5,
+        "year": 2026
     }
 }
