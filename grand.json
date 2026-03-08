@@ -130,5 +130,27 @@
         "timestampUpload": 1771364724,
         "week": 10,
         "year": 2026
+    },
+    "MRn6GEDoZ5hupNpPOxSXbokNBMe": {
+        "author": "5d33d9ec-642b-4681-a539-a03b045eb129",
+        "authorTime": 506034,
+        "bronzeTime": 760000,
+        "campaignId": 128752,
+        "goldTime": 537000,
+        "mapId": "8c9a8076-75ee-47ce-bfd1-8b1f65138074",
+        "mapIndex": 0,
+        "mapUid": "MRn6GEDoZ5hupNpPOxSXbokNBMe",
+        "name": "G - cliffside",
+        "number": 11,
+        "seasonUid": "edb8e71d-99e9-40ac-a5cc-1394fc3010ce",
+        "silverTime": 608000,
+        "submitter": "5d33d9ec-642b-4681-a539-a03b045eb129",
+        "timestampEdition": 1772829748,
+        "timestampEnd": 1773594000,
+        "timestampRankingSent": 0,
+        "timestampStart": 1772989200,
+        "timestampUpload": 1772755429,
+        "week": 11,
+        "year": 2026
     }
 }
