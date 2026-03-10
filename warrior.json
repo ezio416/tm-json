@@ -1,5 +1,5 @@
 {
-    "next": 1773162000,
+    "next": 1773172800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -140,6 +140,19 @@
             "goldTime": 598000,
             "campaignId": 127814,
             "week": 10
+        },
+        {
+            "authorTime": 506034,
+            "mapUid": "MRn6GEDoZ5hupNpPOxSXbokNBMe",
+            "name": "G - cliffside",
+            "number": 11,
+            "reason": null,
+            "warriorTime": 485400,
+            "worldRecord": 451008,
+            "mapId": "8c9a8076-75ee-47ce-bfd1-8b1f65138074",
+            "goldTime": 537000,
+            "campaignId": 128752,
+            "week": 11
         }
     ],
     "Seasonal": [
