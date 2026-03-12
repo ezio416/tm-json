@@ -43591,7 +43591,7 @@
         "submitter": "a0938c1f-7c25-41a7-a338-3b7e3223b923",
         "timestampEnd": 1772992800,
         "timestampStart": 1772906400,
-        "timestampUpload": 1772313381,
+        "timestampUpload": 1773254456,
         "weekDay": 5,
         "year": 2026
     },
@@ -43677,6 +43677,27 @@
         "timestampStart": 1773252000,
         "timestampUpload": 1771611634,
         "weekDay": 2,
+        "year": 2026
+    },
+    "RsPr3nhqW8O9RUOfIZL3Fjs8MYb": {
+        "author": "a951feb8-d900-414b-871f-7b8fe6edf1ee",
+        "authorTime": 39802,
+        "bronzeTime": 60000,
+        "campaignId": 129148,
+        "goldTime": 43000,
+        "mapId": "f28070db-10d6-43a5-8208-3c1d7879ef0d",
+        "mapUid": "RsPr3nhqW8O9RUOfIZL3Fjs8MYb",
+        "month": 3,
+        "monthDay": 12,
+        "name": "$s$F90B$Guried ft' Qez",
+        "number": 2081,
+        "seasonUid": "49a596e0-1590-4ab9-9c04-1a8d9a296462",
+        "silverTime": 48000,
+        "submitter": "a951feb8-d900-414b-871f-7b8fe6edf1ee",
+        "timestampEnd": 1773424800,
+        "timestampStart": 1773338400,
+        "timestampUpload": 1772824248,
+        "weekDay": 3,
         "year": 2026
     }
 }
