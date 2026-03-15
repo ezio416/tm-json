@@ -42331,7 +42331,7 @@
         "submitter": "bb50cb56-b104-4314-a7bd-49ab725fd2d9",
         "timestampEnd": 1767808800,
         "timestampStart": 1767722400,
-        "timestampUpload": 1767560542,
+        "timestampUpload": 1773522156,
         "weekDay": 1,
         "year": 2026
     },
@@ -43740,6 +43740,27 @@
         "timestampStart": 1773511200,
         "timestampUpload": 1764168868,
         "weekDay": 5,
+        "year": 2026
+    },
+    "VLY3C9u6gJpJGLdiJzyUdbwrU7": {
+        "author": "2212a68c-7071-4901-9b4f-d8af9c51d00c",
+        "authorTime": 41588,
+        "bronzeTime": 63000,
+        "campaignId": 129155,
+        "goldTime": 45000,
+        "mapId": "9252422a-543f-4e2e-8072-b26a843d5938",
+        "mapUid": "VLY3C9u6gJpJGLdiJzyUdbwrU7",
+        "month": 3,
+        "monthDay": 15,
+        "name": "$s$iBurcht Walachria",
+        "number": 2084,
+        "seasonUid": "065b0861-f2fe-4f80-93ff-c52c223c4002",
+        "silverTime": 50000,
+        "submitter": "2212a68c-7071-4901-9b4f-d8af9c51d00c",
+        "timestampEnd": 1773684000,
+        "timestampStart": 1773597600,
+        "timestampUpload": 1773321634,
+        "weekDay": 6,
         "year": 2026
     }
 }
