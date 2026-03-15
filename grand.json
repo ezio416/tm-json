@@ -152,5 +152,27 @@
         "timestampUpload": 1772755429,
         "week": 11,
         "year": 2026
+    },
+    "3HNTAVzdWiugRKRw6YKAm7CkWG": {
+        "author": "ef1540c6-c6f1-4b21-b5e2-e088a3fe0ddd",
+        "authorTime": 439068,
+        "bronzeTime": 659000,
+        "campaignId": 129336,
+        "goldTime": 466000,
+        "mapId": "c46f17d2-43b8-48fe-9a0c-7c0d16cfba9f",
+        "mapIndex": 0,
+        "mapUid": "3HNTAVzdWiugRKRw6YKAm7CkWG",
+        "name": " G - Palmy",
+        "number": 12,
+        "seasonUid": "8a16cfe6-10a9-4222-9219-5e22a60a1968",
+        "silverTime": 527000,
+        "submitter": "ef1540c6-c6f1-4b21-b5e2-e088a3fe0ddd",
+        "timestampEdition": 1773238269,
+        "timestampEnd": 1774198800,
+        "timestampRankingSent": 0,
+        "timestampStart": 1773594000,
+        "timestampUpload": 1771546567,
+        "week": 12,
+        "year": 2026
     }
 }
