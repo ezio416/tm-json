@@ -1,5 +1,5 @@
 {
-    "next": 1773604800,
+    "next": 1773691200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -33916,6 +33916,17 @@
             "worldRecord": 40548,
             "mapId": "44ce61e2-68b8-43ec-95b7-b37c5c81c5c7",
             "goldTime": 44000
+        },
+        {
+            "authorTime": 41588,
+            "date": "2026-03-15",
+            "mapUid": "VLY3C9u6gJpJGLdiJzyUdbwrU7",
+            "name": "$s$iBurcht Walachria",
+            "reason": null,
+            "warriorTime": 41442,
+            "worldRecord": 40415,
+            "mapId": "9252422a-543f-4e2e-8072-b26a843d5938",
+            "goldTime": 45000
         }
     ],
     "Other": [
