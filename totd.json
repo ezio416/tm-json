@@ -43762,5 +43762,26 @@
         "timestampUpload": 1773321634,
         "weekDay": 6,
         "year": 2026
+    },
+    "LJ8IUlJDZC4NdYC5GuEvCaMzGY6": {
+        "author": "a951feb8-d900-414b-871f-7b8fe6edf1ee",
+        "authorTime": 36536,
+        "bronzeTime": 55000,
+        "campaignId": 129058,
+        "goldTime": 39000,
+        "mapId": "41cddde5-fbac-4072-807a-beaaa7275db3",
+        "mapUid": "LJ8IUlJDZC4NdYC5GuEvCaMzGY6",
+        "month": 3,
+        "monthDay": 16,
+        "name": "Timewarp ft' XLRB & Scarzor",
+        "number": 2085,
+        "seasonUid": "daf2c7e8-807b-4745-b2df-a7aff246be5f",
+        "silverTime": 44000,
+        "submitter": "a951feb8-d900-414b-871f-7b8fe6edf1ee",
+        "timestampEnd": 1773770400,
+        "timestampStart": 1773684000,
+        "timestampUpload": 1773248016,
+        "weekDay": 0,
+        "year": 2026
     }
 }
