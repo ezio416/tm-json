@@ -1,5 +1,5 @@
 {
-    "next": 1773691200,
+    "next": 1773766800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -33927,6 +33927,17 @@
             "worldRecord": 40415,
             "mapId": "9252422a-543f-4e2e-8072-b26a843d5938",
             "goldTime": 45000
+        },
+        {
+            "authorTime": 36536,
+            "date": "2026-03-16",
+            "mapUid": "LJ8IUlJDZC4NdYC5GuEvCaMzGY6",
+            "name": "Timewarp ft' XLRB & Scarzor",
+            "reason": null,
+            "warriorTime": 36513,
+            "worldRecord": 36351,
+            "mapId": "41cddde5-fbac-4072-807a-beaaa7275db3",
+            "goldTime": 39000
         }
     ],
     "Other": [
