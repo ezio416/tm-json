@@ -1,5 +1,5 @@
 {
-    "next": 1773766800,
+    "next": 1773777600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -153,6 +153,19 @@
             "goldTime": 537000,
             "campaignId": 128752,
             "week": 11
+        },
+        {
+            "authorTime": 439068,
+            "mapUid": "3HNTAVzdWiugRKRw6YKAm7CkWG",
+            "name": " G - Palmy",
+            "number": 12,
+            "reason": null,
+            "warriorTime": 413460,
+            "worldRecord": 370778,
+            "mapId": "c46f17d2-43b8-48fe-9a0c-7c0d16cfba9f",
+            "goldTime": 466000,
+            "campaignId": 129336,
+            "week": 12
         }
     ],
     "Seasonal": [
