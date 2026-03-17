@@ -1,5 +1,5 @@
 {
-    "next": 1773777600,
+    "next": 1773864000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -33951,6 +33951,17 @@
             "worldRecord": 36351,
             "mapId": "41cddde5-fbac-4072-807a-beaaa7275db3",
             "goldTime": 39000
+        },
+        {
+            "authorTime": 41572,
+            "date": "2026-03-17",
+            "mapUid": "gCEDP7_cQlHwSFKXqmOM_g4fCX1",
+            "name": "Ocean Eye",
+            "reason": null,
+            "warriorTime": 41439,
+            "worldRecord": 40505,
+            "mapId": "b98b2f23-9c4b-4aa0-90a8-374a420fb6d4",
+            "goldTime": 45000
         }
     ],
     "Other": [
