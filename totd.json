@@ -43783,5 +43783,26 @@
         "timestampUpload": 1773248016,
         "weekDay": 0,
         "year": 2026
+    },
+    "gCEDP7_cQlHwSFKXqmOM_g4fCX1": {
+        "author": "77e81508-8431-42a3-941a-d77a809675c7",
+        "authorTime": 41572,
+        "bronzeTime": 63000,
+        "campaignId": 129151,
+        "goldTime": 45000,
+        "mapId": "b98b2f23-9c4b-4aa0-90a8-374a420fb6d4",
+        "mapUid": "gCEDP7_cQlHwSFKXqmOM_g4fCX1",
+        "month": 3,
+        "monthDay": 17,
+        "name": "Ocean Eye",
+        "number": 2086,
+        "seasonUid": "a6f8551d-63ee-4d40-af8d-37b5759f6605",
+        "silverTime": 50000,
+        "submitter": "77e81508-8431-42a3-941a-d77a809675c7",
+        "timestampEnd": 1773856800,
+        "timestampStart": 1773770400,
+        "timestampUpload": 1772638512,
+        "weekDay": 1,
+        "year": 2026
     }
 }
