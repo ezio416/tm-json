@@ -23515,7 +23515,7 @@
         "submitter": "09d24735-d878-4164-a1e9-4d46b0464cce",
         "timestampEnd": 1690390800,
         "timestampStart": 1690304400,
-        "timestampUpload": 1692149181,
+        "timestampUpload": 1773780545,
         "weekDay": 1,
         "year": 2023
     },
@@ -43803,6 +43803,27 @@
         "timestampStart": 1773770400,
         "timestampUpload": 1772638512,
         "weekDay": 1,
+        "year": 2026
+    },
+    "nwqcymAbn32WIPOJ8hrsurPrpe9": {
+        "author": "e2edd2e2-a5fd-4641-9f21-b8da7675c52b",
+        "authorTime": 52548,
+        "bronzeTime": 79000,
+        "campaignId": 129292,
+        "goldTime": 56000,
+        "mapId": "6cd3a9fe-fe96-4bb3-b78e-df2cf279d9c5",
+        "mapUid": "nwqcymAbn32WIPOJ8hrsurPrpe9",
+        "month": 3,
+        "monthDay": 18,
+        "name": "[NAVC] $o$s$c30Eroded Embankment",
+        "number": 2087,
+        "seasonUid": "f42fd6fa-00de-4ace-8c76-5340bd7e26cb",
+        "silverTime": 64000,
+        "submitter": "a07f01cd-afb0-4230-9c13-868c1ede28a3",
+        "timestampEnd": 1773943200,
+        "timestampStart": 1773856800,
+        "timestampUpload": 1772341040,
+        "weekDay": 2,
         "year": 2026
     }
 }
