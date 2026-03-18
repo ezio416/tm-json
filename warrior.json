@@ -1,5 +1,5 @@
 {
-    "next": 1773864000,
+    "next": 1773950400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -33962,6 +33962,17 @@
             "worldRecord": 40505,
             "mapId": "b98b2f23-9c4b-4aa0-90a8-374a420fb6d4",
             "goldTime": 45000
+        },
+        {
+            "authorTime": 52548,
+            "date": "2026-03-18",
+            "mapUid": "nwqcymAbn32WIPOJ8hrsurPrpe9",
+            "name": "[NAVC] $o$s$c30Eroded Embankment",
+            "reason": null,
+            "warriorTime": 52413,
+            "worldRecord": 51466,
+            "mapId": "6cd3a9fe-fe96-4bb3-b78e-df2cf279d9c5",
+            "goldTime": 56000
         }
     ],
     "Other": [
