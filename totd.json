@@ -23515,7 +23515,7 @@
         "submitter": "09d24735-d878-4164-a1e9-4d46b0464cce",
         "timestampEnd": 1690390800,
         "timestampStart": 1690304400,
-        "timestampUpload": 1773780545,
+        "timestampUpload": 1773981904,
         "weekDay": 1,
         "year": 2023
     },
@@ -43845,6 +43845,27 @@
         "timestampStart": 1773943200,
         "timestampUpload": 1772812271,
         "weekDay": 3,
+        "year": 2026
+    },
+    "PyvSBycRlVvwohkk1LpqFAiko83": {
+        "author": "43276c27-5cbe-48e6-a3a3-0b1550c80992",
+        "authorTime": 43603,
+        "bronzeTime": 66000,
+        "campaignId": 129394,
+        "goldTime": 47000,
+        "mapId": "118f60f1-8079-4281-8b3c-c5eb0d02eb49",
+        "mapUid": "PyvSBycRlVvwohkk1LpqFAiko83",
+        "month": 3,
+        "monthDay": 20,
+        "name": "In My Zone",
+        "number": 2089,
+        "seasonUid": "973f65b7-8cec-4833-b143-96540d97a8c0",
+        "silverTime": 53000,
+        "submitter": "43276c27-5cbe-48e6-a3a3-0b1550c80992",
+        "timestampEnd": 1774116000,
+        "timestampStart": 1774029600,
+        "timestampUpload": 1772937886,
+        "weekDay": 4,
         "year": 2026
     }
 }
