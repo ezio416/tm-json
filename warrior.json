@@ -1,5 +1,5 @@
 {
-    "next": 1774036800,
+    "next": 1774123200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -33984,6 +33984,17 @@
             "worldRecord": 46785,
             "mapId": "4cb80904-adc4-425c-a570-e2e3ae6a2c23",
             "goldTime": 51000
+        },
+        {
+            "authorTime": 43603,
+            "date": "2026-03-20",
+            "mapUid": "PyvSBycRlVvwohkk1LpqFAiko83",
+            "name": "In My Zone",
+            "reason": null,
+            "warriorTime": 43574,
+            "worldRecord": 43368,
+            "mapId": "118f60f1-8079-4281-8b3c-c5eb0d02eb49",
+            "goldTime": 47000
         }
     ],
     "Other": [
