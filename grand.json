@@ -174,5 +174,27 @@
         "timestampUpload": 1771546567,
         "week": 12,
         "year": 2026
+    },
+    "PaCBcqdWY2BNrC9f60Og_dYcNJb": {
+        "author": "f37147a8-36f3-4c58-9577-bf0faff3aafa",
+        "authorTime": 632951,
+        "bronzeTime": 950000,
+        "campaignId": 130221,
+        "goldTime": 671000,
+        "mapId": "d275dcc4-59b4-4c30-b7e1-2bc0c40d9b89",
+        "mapIndex": 0,
+        "mapUid": "PaCBcqdWY2BNrC9f60Og_dYcNJb",
+        "name": "G - Redrock Dam",
+        "number": 13,
+        "seasonUid": "96b87b37-6af9-4838-967c-cff299d4633d",
+        "silverTime": 760000,
+        "submitter": "f37147a8-36f3-4c58-9577-bf0faff3aafa",
+        "timestampEdition": 1773994802,
+        "timestampEnd": 1774800000,
+        "timestampRankingSent": 0,
+        "timestampStart": 1774198800,
+        "timestampUpload": 1772037574,
+        "week": 13,
+        "year": 2026
     }
 }
