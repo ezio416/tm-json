@@ -1,5 +1,5 @@
 {
-    "next": 1774209600,
+    "next": 1774296000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34006,6 +34006,17 @@
             "worldRecord": 46251,
             "mapId": "6a2216ea-05c1-49ef-ad09-2bd858b08153",
             "goldTime": 51000
+        },
+        {
+            "authorTime": 51987,
+            "date": "2026-03-22",
+            "mapUid": "8QIzXULyhhyYYJyki7mQdF7l2H",
+            "name": "$0c0Dreamcore",
+            "reason": null,
+            "warriorTime": 51780,
+            "worldRecord": 50329,
+            "mapId": "346a65e5-3f36-42f9-9f3b-e9c849ec71a6",
+            "goldTime": 56000
         }
     ],
     "Other": [
