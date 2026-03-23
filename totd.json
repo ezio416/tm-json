@@ -43909,5 +43909,26 @@
         "timestampUpload": 1771360999,
         "weekDay": 6,
         "year": 2026
+    },
+    "YZUer1EnrAo61chHBe6J_PHgWP": {
+        "author": "34fdec71-7121-418a-918b-cb24257f2a68",
+        "authorTime": 41521,
+        "bronzeTime": 63000,
+        "campaignId": 129393,
+        "goldTime": 45000,
+        "mapId": "302bdfd3-e93b-44cb-97dc-55fe90026ef1",
+        "mapUid": "YZUer1EnrAo61chHBe6J_PHgWP",
+        "month": 3,
+        "monthDay": 23,
+        "name": "$sLigand",
+        "number": 2092,
+        "seasonUid": "a5233749-41f3-456d-bc33-175803f1861b",
+        "silverTime": 50000,
+        "submitter": "34fdec71-7121-418a-918b-cb24257f2a68",
+        "timestampEnd": 1774375200,
+        "timestampStart": 1774288800,
+        "timestampUpload": 1771761214,
+        "weekDay": 0,
+        "year": 2026
     }
 }
