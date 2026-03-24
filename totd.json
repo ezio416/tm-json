@@ -43930,5 +43930,26 @@
         "timestampUpload": 1771761214,
         "weekDay": 0,
         "year": 2026
+    },
+    "5UqLUnj3wsOft2ouAPVnU9vxwPg": {
+        "author": "be2a56ce-ff4a-4a8e-8607-94b9cdff2631",
+        "authorTime": 39849,
+        "bronzeTime": 83000,
+        "campaignId": 129397,
+        "goldTime": 43000,
+        "mapId": "856e811e-194f-4adc-8199-d396822975a8",
+        "mapUid": "5UqLUnj3wsOft2ouAPVnU9vxwPg",
+        "month": 3,
+        "monthDay": 24,
+        "name": "$w$i$s$9F9THE OLD $Z$B$S$W$090VALE",
+        "number": 2093,
+        "seasonUid": "270de22b-7964-4f17-bd8e-c0c510f61b9a",
+        "silverTime": 48000,
+        "submitter": "be2a56ce-ff4a-4a8e-8607-94b9cdff2631",
+        "timestampEnd": 1774461600,
+        "timestampStart": 1774375200,
+        "timestampUpload": 1772698364,
+        "weekDay": 1,
+        "year": 2026
     }
 }
