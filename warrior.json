@@ -1,5 +1,5 @@
 {
-    "next": 1774371600,
+    "next": 1774382400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -166,6 +166,19 @@
             "goldTime": 466000,
             "campaignId": 129336,
             "week": 12
+        },
+        {
+            "authorTime": 632951,
+            "mapUid": "PaCBcqdWY2BNrC9f60Og_dYcNJb",
+            "name": "G - Redrock Dam",
+            "number": 13,
+            "reason": null,
+            "warriorTime": 593904,
+            "worldRecord": 528824,
+            "mapId": "d275dcc4-59b4-4c30-b7e1-2bc0c40d9b89",
+            "goldTime": 671000,
+            "campaignId": 130221,
+            "week": 13
         }
     ],
     "Seasonal": [
