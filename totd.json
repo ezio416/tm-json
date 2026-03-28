@@ -44014,5 +44014,26 @@
         "timestampUpload": 1771432135,
         "weekDay": 4,
         "year": 2026
+    },
+    "qnmyB7EovJxKOnDyDW0gph4rxvd": {
+        "author": "8ae9b0ce-1ad2-4c02-98ee-511edfde0795",
+        "authorTime": 43558,
+        "bronzeTime": 66000,
+        "campaignId": 129399,
+        "goldTime": 47000,
+        "mapId": "5766b5d3-4a09-41cb-a9eb-8bc8619f6348",
+        "mapUid": "qnmyB7EovJxKOnDyDW0gph4rxvd",
+        "month": 3,
+        "monthDay": 28,
+        "name": "$n$bbbTerrible Cable Management",
+        "number": 2097,
+        "seasonUid": "dcb231b5-20bc-4e3e-a0cb-f331059e4c0e",
+        "silverTime": 53000,
+        "submitter": "8ae9b0ce-1ad2-4c02-98ee-511edfde0795",
+        "timestampEnd": 1774803600,
+        "timestampStart": 1774720800,
+        "timestampUpload": 1771035030,
+        "weekDay": 5,
+        "year": 2026
     }
 }
