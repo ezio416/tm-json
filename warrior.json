@@ -1,5 +1,5 @@
 {
-    "next": 1774728000,
+    "next": 1774810800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34085,6 +34085,17 @@
             "worldRecord": 37527,
             "mapId": "8b594402-3bf6-4f9d-903b-b2ea8ba61ed6",
             "goldTime": 41000
+        },
+        {
+            "authorTime": 43558,
+            "date": "2026-03-28",
+            "mapUid": "qnmyB7EovJxKOnDyDW0gph4rxvd",
+            "name": "$n$bbbTerrible Cable Management",
+            "reason": null,
+            "warriorTime": 43416,
+            "worldRecord": 42420,
+            "mapId": "5766b5d3-4a09-41cb-a9eb-8bc8619f6348",
+            "goldTime": 47000
         }
     ],
     "Other": [
