@@ -196,5 +196,27 @@
         "timestampUpload": 1772037574,
         "week": 13,
         "year": 2026
+    },
+    "XoEBeDVbXUCjXes0T6Qwix3Mr19": {
+        "author": "612af86f-918a-4cba-a747-01584a8aefb2",
+        "authorTime": 419663,
+        "bronzeTime": 630000,
+        "campaignId": 130824,
+        "goldTime": 445000,
+        "mapId": "c122fc28-6fa7-4ca3-8eaf-0796c4894dc4",
+        "mapIndex": 0,
+        "mapUid": "XoEBeDVbXUCjXes0T6Qwix3Mr19",
+        "name": "$sG - $i$s$o$999Midnight in $966Mexico",
+        "number": 14,
+        "seasonUid": "ca5931cd-8fe9-4aaf-b537-6996f8042673",
+        "silverTime": 504000,
+        "submitter": "612af86f-918a-4cba-a747-01584a8aefb2",
+        "timestampEdition": 1774436095,
+        "timestampEnd": 1775404800,
+        "timestampRankingSent": 0,
+        "timestampStart": 1774800000,
+        "timestampUpload": 1774099995,
+        "week": 14,
+        "year": 2026
     }
 }
