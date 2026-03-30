@@ -44056,5 +44056,26 @@
         "timestampUpload": 1751134855,
         "weekDay": 6,
         "year": 2026
+    },
+    "eiIsvuRzvaAguhO_ycOTfXMUgB6": {
+        "author": "65b0fa08-50df-49f3-8122-b5878e29206d",
+        "authorTime": 45655,
+        "bronzeTime": 69000,
+        "campaignId": 131167,
+        "goldTime": 49000,
+        "mapId": "486bfe2b-5c48-4af0-9963-1dd06deed8bb",
+        "mapUid": "eiIsvuRzvaAguhO_ycOTfXMUgB6",
+        "month": 3,
+        "monthDay": 30,
+        "name": "$i$s$FC0Eternally Enchanted ft' Taco",
+        "number": 2099,
+        "seasonUid": "48575068-df27-4795-bd19-c555f8e09bf0",
+        "silverTime": 55000,
+        "submitter": "65b0fa08-50df-49f3-8122-b5878e29206d",
+        "timestampEnd": 1774976400,
+        "timestampStart": 1774890000,
+        "timestampUpload": 1774390614,
+        "weekDay": 0,
+        "year": 2026
     }
 }
