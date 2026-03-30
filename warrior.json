@@ -1,5 +1,5 @@
 {
-    "next": 1774897200,
+    "next": 1774972800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34107,6 +34107,17 @@
             "worldRecord": 30980,
             "mapId": "e54ad3e8-0cd0-4c69-837a-5b1ec454a977",
             "goldTime": 43000
+        },
+        {
+            "authorTime": 45655,
+            "date": "2026-03-30",
+            "mapUid": "eiIsvuRzvaAguhO_ycOTfXMUgB6",
+            "name": "$i$s$FC0Eternally Enchanted ft' Taco",
+            "reason": null,
+            "warriorTime": 45593,
+            "worldRecord": 45152,
+            "mapId": "486bfe2b-5c48-4af0-9963-1dd06deed8bb",
+            "goldTime": 49000
         }
     ],
     "Other": [
