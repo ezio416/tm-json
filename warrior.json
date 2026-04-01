@@ -1,5 +1,5 @@
 {
-    "next": 1775070000,
+    "next": 1775156400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34142,6 +34142,17 @@
             "worldRecord": 44855,
             "mapId": "29aada99-cbec-44a6-b6c6-5855f6fa407e",
             "goldTime": 49000
+        },
+        {
+            "authorTime": 38118,
+            "date": "2026-04-01",
+            "mapUid": "0kS2NszGsdjGrT3mZQsWVKDBry9",
+            "name": "Pachinko Machine",
+            "reason": null,
+            "warriorTime": 33364,
+            "worldRecord": 84,
+            "mapId": "b6689610-dc7d-4a33-8188-0ebacb2e31c7",
+            "goldTime": 41000
         }
     ],
     "Other": [
