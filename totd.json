@@ -44098,5 +44098,26 @@
         "timestampUpload": 1774260223,
         "weekDay": 1,
         "year": 2026
+    },
+    "0kS2NszGsdjGrT3mZQsWVKDBry9": {
+        "author": "aeb17f1a-5867-4bc7-9e7e-a29ae1e0507e",
+        "authorTime": 38118,
+        "bronzeTime": 58000,
+        "campaignId": 131443,
+        "goldTime": 41000,
+        "mapId": "b6689610-dc7d-4a33-8188-0ebacb2e31c7",
+        "mapUid": "0kS2NszGsdjGrT3mZQsWVKDBry9",
+        "month": 4,
+        "monthDay": 1,
+        "name": "Pachinko Machine",
+        "number": 2101,
+        "seasonUid": "5a2dadbc-ad65-4d70-9b45-907a07a1f35e",
+        "silverTime": 46000,
+        "submitter": "aeb17f1a-5867-4bc7-9e7e-a29ae1e0507e",
+        "timestampEnd": 1775149200,
+        "timestampStart": 1775062800,
+        "timestampUpload": 1773005671,
+        "weekDay": 2,
+        "year": 2026
     }
 }
