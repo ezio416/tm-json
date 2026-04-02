@@ -1,5 +1,5 @@
 {
-    "next": 1775156400,
+    "next": 1775242800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34153,6 +34153,17 @@
             "worldRecord": 84,
             "mapId": "b6689610-dc7d-4a33-8188-0ebacb2e31c7",
             "goldTime": 41000
+        },
+        {
+            "authorTime": 50194,
+            "date": "2026-04-02",
+            "mapUid": "K4R1JLDDwm1GcybkqqeR8ieTBEm",
+            "name": "[FS] Cliffhanger",
+            "reason": null,
+            "warriorTime": 50183,
+            "worldRecord": 50105,
+            "mapId": "cce0b379-70cb-4a59-a30b-3ca6c0c05b4b",
+            "goldTime": 54000
         }
     ],
     "Other": [
