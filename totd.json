@@ -44119,5 +44119,26 @@
         "timestampUpload": 1773005671,
         "weekDay": 2,
         "year": 2026
+    },
+    "K4R1JLDDwm1GcybkqqeR8ieTBEm": {
+        "author": "05250075-a907-4dc8-a39f-552f7a698d16",
+        "authorTime": 50194,
+        "bronzeTime": 76000,
+        "campaignId": 131812,
+        "goldTime": 54000,
+        "mapId": "cce0b379-70cb-4a59-a30b-3ca6c0c05b4b",
+        "mapUid": "K4R1JLDDwm1GcybkqqeR8ieTBEm",
+        "month": 4,
+        "monthDay": 2,
+        "name": "[FS] Cliffhanger",
+        "number": 2102,
+        "seasonUid": "7dbbc8ad-e20a-419e-b220-1c5849467b3e",
+        "silverTime": 61000,
+        "submitter": "05250075-a907-4dc8-a39f-552f7a698d16",
+        "timestampEnd": 1775235600,
+        "timestampStart": 1775149200,
+        "timestampUpload": 1773431433,
+        "weekDay": 3,
+        "year": 2026
     }
 }
