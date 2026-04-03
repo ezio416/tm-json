@@ -34540,7 +34540,7 @@
         "submitter": "82323873-ddff-4ec7-9bf5-8329b5da0a91",
         "timestampEnd": 1735754400,
         "timestampStart": 1735668000,
-        "timestampUpload": 1733394770,
+        "timestampUpload": 1775163340,
         "weekDay": 1,
         "year": 2024
     },
@@ -44139,6 +44139,27 @@
         "timestampStart": 1775149200,
         "timestampUpload": 1773431433,
         "weekDay": 3,
+        "year": 2026
+    },
+    "0B_DTGVevj_BGrBtq9TMXgYMhKi": {
+        "author": "998aea42-36c4-4dca-a30a-8e0c78727f51",
+        "authorTime": 59000,
+        "bronzeTime": 89000,
+        "campaignId": 131809,
+        "goldTime": 63000,
+        "mapId": "706b8b08-f2e2-4bf6-b080-d81743ceb6f9",
+        "mapUid": "0B_DTGVevj_BGrBtq9TMXgYMhKi",
+        "month": 4,
+        "monthDay": 3,
+        "name": "$s$018FASTER $EEEOBSTACLE",
+        "number": 2103,
+        "seasonUid": "151579d2-7ece-45e4-bcb1-57a349da5072",
+        "silverTime": 71000,
+        "submitter": "91ecc3e6-ef3c-4ed9-bf33-a79fdfc15129",
+        "timestampEnd": 1775322000,
+        "timestampStart": 1775235600,
+        "timestampUpload": 1775065609,
+        "weekDay": 4,
         "year": 2026
     }
 }
