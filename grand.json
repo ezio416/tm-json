@@ -218,5 +218,27 @@
         "timestampUpload": 1774099995,
         "week": 14,
         "year": 2026
+    },
+    "pgLcxPz1JX7zBHxsOIkC3Fl4Fwc": {
+        "author": "31dd51fd-961f-496d-ac64-1758fa8545c0",
+        "authorTime": 507997,
+        "bronzeTime": 762000,
+        "campaignId": 132033,
+        "goldTime": 539000,
+        "mapId": "728d3bfc-10c7-434b-90b3-1e56c288d204",
+        "mapIndex": 0,
+        "mapUid": "pgLcxPz1JX7zBHxsOIkC3Fl4Fwc",
+        "name": "G - $9F3g$9E3re$9D3e$9C3n $gcircle",
+        "number": 15,
+        "seasonUid": "53d02d76-46e9-44ea-ab1f-ca96e3922b1d",
+        "silverTime": 610000,
+        "submitter": "31dd51fd-961f-496d-ac64-1758fa8545c0",
+        "timestampEdition": 1775226498,
+        "timestampEnd": 1776009600,
+        "timestampRankingSent": 0,
+        "timestampStart": 1775404800,
+        "timestampUpload": 1775223361,
+        "week": 15,
+        "year": 2026
     }
 }
