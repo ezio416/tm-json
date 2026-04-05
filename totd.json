@@ -44179,8 +44179,29 @@
         "submitter": "de590c4e-f98c-4783-afa8-a01efb069ceb",
         "timestampEnd": 1775408400,
         "timestampStart": 1775322000,
-        "timestampUpload": 1774659118,
+        "timestampUpload": 1775325048,
         "weekDay": 5,
+        "year": 2026
+    },
+    "2PxmrfZ0R0u6LQ17JUavzZwDT92": {
+        "author": "aaea611d-3516-4d91-8b2f-6d065807d84f",
+        "authorTime": 36578,
+        "bronzeTime": 55000,
+        "campaignId": 132138,
+        "goldTime": 39000,
+        "mapId": "0ee42539-325c-4bde-ad3d-7e8c5662941b",
+        "mapUid": "2PxmrfZ0R0u6LQ17JUavzZwDT92",
+        "month": 4,
+        "monthDay": 5,
+        "name": "$f70$oTHIS IS DITCHFEST",
+        "number": 2105,
+        "seasonUid": "4594aa7c-4702-4978-98be-8d6c7022d0c1",
+        "silverTime": 44000,
+        "submitter": "aaea611d-3516-4d91-8b2f-6d065807d84f",
+        "timestampEnd": 1775494800,
+        "timestampStart": 1775408400,
+        "timestampUpload": 1775197219,
+        "weekDay": 6,
         "year": 2026
     }
 }
