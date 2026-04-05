@@ -1,5 +1,5 @@
 {
-    "next": 1775415600,
+    "next": 1775502000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34186,6 +34186,17 @@
             "worldRecord": 16630,
             "mapId": "af96eee2-6974-4c1b-9ab0-2322d48d0cdf",
             "goldTime": 50000
+        },
+        {
+            "authorTime": 36578,
+            "date": "2026-04-05",
+            "mapUid": "2PxmrfZ0R0u6LQ17JUavzZwDT92",
+            "name": "$f70$oTHIS IS DITCHFEST",
+            "reason": null,
+            "warriorTime": 36411,
+            "worldRecord": 35240,
+            "mapId": "0ee42539-325c-4bde-ad3d-7e8c5662941b",
+            "goldTime": 39000
         }
     ],
     "Other": [
