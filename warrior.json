@@ -1,5 +1,5 @@
 {
-    "next": 1775502000,
+    "next": 1775577600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34197,6 +34197,17 @@
             "worldRecord": 35240,
             "mapId": "0ee42539-325c-4bde-ad3d-7e8c5662941b",
             "goldTime": 39000
+        },
+        {
+            "authorTime": 46088,
+            "date": "2026-04-06",
+            "mapUid": "uR_fV0ZeoLvB5M_NYJ59Va3n3cg",
+            "name": "$sBleu-dee \u2019Ell | $06Fft' glory",
+            "reason": null,
+            "warriorTime": 46073,
+            "worldRecord": 45962,
+            "mapId": "d344cb73-19e0-42b1-a495-4de2370bc92b",
+            "goldTime": 49000
         }
     ],
     "Other": [
