@@ -30109,7 +30109,7 @@
         "submitter": "ac30c580-9cb8-40b0-b7b4-d6902c7d2a9a",
         "timestampEnd": 1717520400,
         "timestampStart": 1717434000,
-        "timestampUpload": 1716151656,
+        "timestampUpload": 1775438415,
         "weekDay": 0,
         "year": 2024
     },
@@ -44202,6 +44202,27 @@
         "timestampStart": 1775408400,
         "timestampUpload": 1775197219,
         "weekDay": 6,
+        "year": 2026
+    },
+    "uR_fV0ZeoLvB5M_NYJ59Va3n3cg": {
+        "author": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
+        "authorTime": 46088,
+        "bronzeTime": 70000,
+        "campaignId": 132139,
+        "goldTime": 49000,
+        "mapId": "d344cb73-19e0-42b1-a495-4de2370bc92b",
+        "mapUid": "uR_fV0ZeoLvB5M_NYJ59Va3n3cg",
+        "month": 4,
+        "monthDay": 6,
+        "name": "$sBleu-dee \u2019Ell | $06Fft' glory",
+        "number": 2106,
+        "seasonUid": "614fde9f-47be-4baf-9306-3f4a5f6092ee",
+        "silverTime": 56000,
+        "submitter": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
+        "timestampEnd": 1775581200,
+        "timestampStart": 1775494800,
+        "timestampUpload": 1774442324,
+        "weekDay": 0,
         "year": 2026
     }
 }
