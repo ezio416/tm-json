@@ -43234,7 +43234,7 @@
         "submitter": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
         "timestampEnd": 1771524000,
         "timestampStart": 1771437600,
-        "timestampUpload": 1770829470,
+        "timestampUpload": 1775577260,
         "weekDay": 2,
         "year": 2026
     },
@@ -44221,8 +44221,29 @@
         "submitter": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
         "timestampEnd": 1775581200,
         "timestampStart": 1775494800,
-        "timestampUpload": 1774442324,
+        "timestampUpload": 1775577262,
         "weekDay": 0,
+        "year": 2026
+    },
+    "VNEnBAdOhnJNNZ0ICdjeUvR0Z80": {
+        "author": "dadbaf28-e7b5-429b-bf37-8c8c1419fcf4",
+        "authorTime": 54835,
+        "bronzeTime": 83000,
+        "campaignId": 132140,
+        "goldTime": 59000,
+        "mapId": "4ecfcbe7-ca3d-4aa0-b30c-baeafe1c7b4a",
+        "mapUid": "VNEnBAdOhnJNNZ0ICdjeUvR0Z80",
+        "month": 4,
+        "monthDay": 7,
+        "name": "$i$sLoop Region ft SIRIUS",
+        "number": 2107,
+        "seasonUid": "d0d41453-dc39-4e8b-896c-07dfedf34e79",
+        "silverTime": 66000,
+        "submitter": "dadbaf28-e7b5-429b-bf37-8c8c1419fcf4",
+        "timestampEnd": 1775667600,
+        "timestampStart": 1775581200,
+        "timestampUpload": 1774771809,
+        "weekDay": 1,
         "year": 2026
     }
 }
