@@ -1,5 +1,5 @@
 {
-    "next": 1775588400,
+    "next": 1775674800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34221,6 +34221,17 @@
             "worldRecord": 45962,
             "mapId": "d344cb73-19e0-42b1-a495-4de2370bc92b",
             "goldTime": 49000
+        },
+        {
+            "authorTime": 54835,
+            "date": "2026-04-07",
+            "mapUid": "VNEnBAdOhnJNNZ0ICdjeUvR0Z80",
+            "name": "$i$sLoop Region ft SIRIUS",
+            "reason": null,
+            "warriorTime": 54833,
+            "worldRecord": 54812,
+            "mapId": "4ecfcbe7-ca3d-4aa0-b30c-baeafe1c7b4a",
+            "goldTime": 59000
         }
     ],
     "Other": [
