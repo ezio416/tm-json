@@ -44266,5 +44266,26 @@
         "timestampUpload": 1773346752,
         "weekDay": 2,
         "year": 2026
+    },
+    "c4WhRqY9Z7XLR98Jb_uoS9Vwc64": {
+        "author": "a951feb8-d900-414b-871f-7b8fe6edf1ee",
+        "authorTime": 45568,
+        "bronzeTime": 69000,
+        "campaignId": 132142,
+        "goldTime": 49000,
+        "mapId": "5372e887-d345-4909-b82a-01c6dfd60124",
+        "mapUid": "c4WhRqY9Z7XLR98Jb_uoS9Vwc64",
+        "month": 4,
+        "monthDay": 9,
+        "name": "$f93[$444Ca$333pu$222ci$111ne$f93] $111ft' Boomylette$f93*",
+        "number": 2109,
+        "seasonUid": "26246407-592d-4279-b174-321dfee3b143",
+        "silverTime": 55000,
+        "submitter": "a951feb8-d900-414b-871f-7b8fe6edf1ee",
+        "timestampEnd": 1775840400,
+        "timestampStart": 1775754000,
+        "timestampUpload": 1773264021,
+        "weekDay": 3,
+        "year": 2026
     }
 }
