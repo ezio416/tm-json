@@ -33028,7 +33028,7 @@
         "submitter": "07899ab0-b920-4c28-ab2a-1d0192751d72",
         "timestampEnd": 1729530000,
         "timestampStart": 1729443600,
-        "timestampUpload": 1729182054,
+        "timestampUpload": 1775758376,
         "weekDay": 6,
         "year": 2024
     },
@@ -44286,6 +44286,27 @@
         "timestampStart": 1775754000,
         "timestampUpload": 1773264021,
         "weekDay": 3,
+        "year": 2026
+    },
+    "cHN21p98x3noCDJudZ9LCLlyLQ1": {
+        "author": "6487d94d-a3ea-4e38-9bbb-4dfd4225e1cb",
+        "authorTime": 53062,
+        "bronzeTime": 80000,
+        "campaignId": 132143,
+        "goldTime": 57000,
+        "mapId": "b3bcd23f-1db8-48b1-9837-ae17c949eb21",
+        "mapUid": "cHN21p98x3noCDJudZ9LCLlyLQ1",
+        "month": 4,
+        "monthDay": 10,
+        "name": "Pistazieneis ft'artroy666",
+        "number": 2110,
+        "seasonUid": "a9b53ad0-6eb6-4576-b726-aa82261877de",
+        "silverTime": 64000,
+        "submitter": "6487d94d-a3ea-4e38-9bbb-4dfd4225e1cb",
+        "timestampEnd": 1775926800,
+        "timestampStart": 1775840400,
+        "timestampUpload": 1774035017,
+        "weekDay": 4,
         "year": 2026
     }
 }
