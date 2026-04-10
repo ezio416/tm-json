@@ -1,5 +1,5 @@
 {
-    "next": 1775847600,
+    "next": 1775934000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34254,6 +34254,17 @@
             "worldRecord": 44460,
             "mapId": "5372e887-d345-4909-b82a-01c6dfd60124",
             "goldTime": 49000
+        },
+        {
+            "authorTime": 53062,
+            "date": "2026-04-10",
+            "mapUid": "cHN21p98x3noCDJudZ9LCLlyLQ1",
+            "name": "Pistazieneis ft'artroy666",
+            "reason": null,
+            "warriorTime": 53009,
+            "worldRecord": 52631,
+            "mapId": "b3bcd23f-1db8-48b1-9837-ae17c949eb21",
+            "goldTime": 57000
         }
     ],
     "Other": [
