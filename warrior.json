@@ -1,5 +1,5 @@
 {
-    "next": 1775934000,
+    "next": 1776020400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34265,6 +34265,17 @@
             "worldRecord": 52631,
             "mapId": "b3bcd23f-1db8-48b1-9837-ae17c949eb21",
             "goldTime": 57000
+        },
+        {
+            "authorTime": 47673,
+            "date": "2026-04-11",
+            "mapUid": "OOTv5T22Vu9_g5b4dLJV5DbxVZ4",
+            "name": "Caught In The Jaws of a False Nostalgia",
+            "reason": null,
+            "warriorTime": 47593,
+            "worldRecord": 47027,
+            "mapId": "46964812-3499-4617-b148-94ae0bcae494",
+            "goldTime": 51000
         }
     ],
     "Other": [
