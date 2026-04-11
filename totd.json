@@ -44308,5 +44308,26 @@
         "timestampUpload": 1774035017,
         "weekDay": 4,
         "year": 2026
+    },
+    "OOTv5T22Vu9_g5b4dLJV5DbxVZ4": {
+        "author": "cb747c0d-dad7-42f2-b900-ca9efb284c86",
+        "authorTime": 47673,
+        "bronzeTime": 72000,
+        "campaignId": 133215,
+        "goldTime": 51000,
+        "mapId": "46964812-3499-4617-b148-94ae0bcae494",
+        "mapUid": "OOTv5T22Vu9_g5b4dLJV5DbxVZ4",
+        "month": 4,
+        "monthDay": 11,
+        "name": "Caught In The Jaws of a False Nostalgia",
+        "number": 2111,
+        "seasonUid": "23ebed5b-395a-40e6-b444-aac4f84698a9",
+        "silverTime": 58000,
+        "submitter": "cb747c0d-dad7-42f2-b900-ca9efb284c86",
+        "timestampEnd": 1776013200,
+        "timestampStart": 1775926800,
+        "timestampUpload": 1775516864,
+        "weekDay": 5,
+        "year": 2026
     }
 }
