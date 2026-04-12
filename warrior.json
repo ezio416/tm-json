@@ -1,5 +1,5 @@
 {
-    "next": 1776020400,
+    "next": 1776106800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34276,6 +34276,17 @@
             "worldRecord": 47027,
             "mapId": "46964812-3499-4617-b148-94ae0bcae494",
             "goldTime": 51000
+        },
+        {
+            "authorTime": 31648,
+            "date": "2026-04-12",
+            "mapUid": "ZxsqwFcXKHmkkCUimUSYtpAQ5N6",
+            "name": "$sWater Works",
+            "reason": null,
+            "warriorTime": 30851,
+            "worldRecord": 25272,
+            "mapId": "d36cdb41-3ab9-4cf1-9d8c-bfb0baa453c6",
+            "goldTime": 34000
         }
     ],
     "Other": [
