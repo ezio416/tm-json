@@ -44326,8 +44326,29 @@
         "submitter": "cb747c0d-dad7-42f2-b900-ca9efb284c86",
         "timestampEnd": 1776013200,
         "timestampStart": 1775926800,
-        "timestampUpload": 1775516864,
+        "timestampUpload": 1775947420,
         "weekDay": 5,
+        "year": 2026
+    },
+    "ZxsqwFcXKHmkkCUimUSYtpAQ5N6": {
+        "author": "62e3dfa8-4410-4105-b482-05831f399bed",
+        "authorTime": 31648,
+        "bronzeTime": 48000,
+        "campaignId": 133216,
+        "goldTime": 34000,
+        "mapId": "d36cdb41-3ab9-4cf1-9d8c-bfb0baa453c6",
+        "mapUid": "ZxsqwFcXKHmkkCUimUSYtpAQ5N6",
+        "month": 4,
+        "monthDay": 12,
+        "name": "$sWater Works",
+        "number": 2112,
+        "seasonUid": "aec81714-4721-4060-9813-da7743678860",
+        "silverTime": 38000,
+        "submitter": "62e3dfa8-4410-4105-b482-05831f399bed",
+        "timestampEnd": 1776099600,
+        "timestampStart": 1776013200,
+        "timestampUpload": 1775015856,
+        "weekDay": 6,
         "year": 2026
     }
 }
