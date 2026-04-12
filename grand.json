@@ -240,5 +240,27 @@
         "timestampUpload": 1775223361,
         "week": 15,
         "year": 2026
+    },
+    "go3M4SkqLP6o9VRwKaiIR3sdCDl": {
+        "author": "ac30c580-9cb8-40b0-b7b4-d6902c7d2a9a",
+        "authorTime": 580727,
+        "bronzeTime": 872000,
+        "campaignId": 133212,
+        "goldTime": 616000,
+        "mapId": "7777f046-fca3-4fcc-b21a-11e81cb832c3",
+        "mapIndex": 0,
+        "mapUid": "go3M4SkqLP6o9VRwKaiIR3sdCDl",
+        "name": "G - A Familiar City",
+        "number": 16,
+        "seasonUid": "b7840783-0362-44d3-ab42-1766ce72b7df",
+        "silverTime": 697000,
+        "submitter": "ac30c580-9cb8-40b0-b7b4-d6902c7d2a9a",
+        "timestampEdition": 1775806620,
+        "timestampEnd": 1776614400,
+        "timestampRankingSent": 0,
+        "timestampStart": 1776009600,
+        "timestampUpload": 1775946508,
+        "week": 16,
+        "year": 2026
     }
 }
