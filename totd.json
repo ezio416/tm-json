@@ -44350,5 +44350,26 @@
         "timestampUpload": 1775015856,
         "weekDay": 6,
         "year": 2026
+    },
+    "C2WJKEa0F1gEo_ZAfAWa8kT2ZO3": {
+        "author": "c7ee4552-0dce-4ca1-9e0c-dccaa4d72c62",
+        "authorTime": 45806,
+        "bronzeTime": 69000,
+        "campaignId": 133217,
+        "goldTime": 49000,
+        "mapId": "7144a5e5-2ee8-440b-b12e-9d88d14119c3",
+        "mapUid": "C2WJKEa0F1gEo_ZAfAWa8kT2ZO3",
+        "month": 4,
+        "monthDay": 13,
+        "name": "$346Manga",
+        "number": 2113,
+        "seasonUid": "ca1f91e2-52ad-49b2-b4ea-928ab9f94d8c",
+        "silverTime": 55000,
+        "submitter": "c7ee4552-0dce-4ca1-9e0c-dccaa4d72c62",
+        "timestampEnd": 1776186000,
+        "timestampStart": 1776099600,
+        "timestampUpload": 1776013140,
+        "weekDay": 0,
+        "year": 2026
     }
 }
