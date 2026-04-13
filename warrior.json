@@ -1,5 +1,5 @@
 {
-    "next": 1776106800,
+    "next": 1776182400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34287,6 +34287,17 @@
             "worldRecord": 25272,
             "mapId": "d36cdb41-3ab9-4cf1-9d8c-bfb0baa453c6",
             "goldTime": 34000
+        },
+        {
+            "authorTime": 45806,
+            "date": "2026-04-13",
+            "mapUid": "C2WJKEa0F1gEo_ZAfAWa8kT2ZO3",
+            "name": "$346Manga",
+            "reason": null,
+            "warriorTime": 45579,
+            "worldRecord": 43987,
+            "mapId": "7144a5e5-2ee8-440b-b12e-9d88d14119c3",
+            "goldTime": 49000
         }
     ],
     "Other": [
