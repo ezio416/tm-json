@@ -1,5 +1,5 @@
 {
-    "next": 1776193200,
+    "next": 1776279600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34311,6 +34311,17 @@
             "worldRecord": 43987,
             "mapId": "7144a5e5-2ee8-440b-b12e-9d88d14119c3",
             "goldTime": 49000
+        },
+        {
+            "authorTime": 39993,
+            "date": "2026-04-14",
+            "mapUid": "Mc9JZTuqqqTJzaLdiwtw3SggM10",
+            "name": "$6C0G$FFFrassy $6C0G$FFFlide $FFF(ft nix)",
+            "reason": null,
+            "warriorTime": 39987,
+            "worldRecord": 39944,
+            "mapId": "d578367b-60a4-4061-a297-4b01899b9317",
+            "goldTime": 43000
         }
     ],
     "Other": [
