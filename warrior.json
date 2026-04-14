@@ -1,5 +1,5 @@
 {
-    "next": 1776182400,
+    "next": 1776193200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -205,6 +205,19 @@
             "goldTime": 539000,
             "campaignId": 132033,
             "week": 15
+        },
+        {
+            "authorTime": 580727,
+            "mapUid": "go3M4SkqLP6o9VRwKaiIR3sdCDl",
+            "name": "G - A Familiar City",
+            "number": 16,
+            "reason": null,
+            "warriorTime": 553925,
+            "worldRecord": 509253,
+            "mapId": "7777f046-fca3-4fcc-b21a-11e81cb832c3",
+            "goldTime": 616000,
+            "campaignId": 133212,
+            "week": 16
         }
     ],
     "Seasonal": [
