@@ -44392,5 +44392,26 @@
         "timestampUpload": 1754820375,
         "weekDay": 1,
         "year": 2026
+    },
+    "djGy97LO7vyq8mBoxoW3tEFajK6": {
+        "author": "1a37c1b3-cead-4d03-ae94-712c8b4961b0",
+        "authorTime": 41388,
+        "bronzeTime": 63000,
+        "campaignId": 133681,
+        "goldTime": 44000,
+        "mapId": "fb3a8a5d-6ea3-4e27-9dfa-bd846a14c7e6",
+        "mapUid": "djGy97LO7vyq8mBoxoW3tEFajK6",
+        "month": 4,
+        "monthDay": 15,
+        "name": "$03FAbz$FFFalaya",
+        "number": 2115,
+        "seasonUid": "88b9e680-9e18-4046-8a6f-38235a9987ec",
+        "silverTime": 50000,
+        "submitter": "1a37c1b3-cead-4d03-ae94-712c8b4961b0",
+        "timestampEnd": 1776358800,
+        "timestampStart": 1776272400,
+        "timestampUpload": 1774622359,
+        "weekDay": 2,
+        "year": 2026
     }
 }
