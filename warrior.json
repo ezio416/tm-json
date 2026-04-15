@@ -1,5 +1,5 @@
 {
-    "next": 1776279600,
+    "next": 1776366000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34322,6 +34322,17 @@
             "worldRecord": 39944,
             "mapId": "d578367b-60a4-4061-a297-4b01899b9317",
             "goldTime": 43000
+        },
+        {
+            "authorTime": 41388,
+            "date": "2026-04-15",
+            "mapUid": "djGy97LO7vyq8mBoxoW3tEFajK6",
+            "name": "$03FAbz$FFFalaya",
+            "reason": null,
+            "warriorTime": 41103,
+            "worldRecord": 39102,
+            "mapId": "fb3a8a5d-6ea3-4e27-9dfa-bd846a14c7e6",
+            "goldTime": 44000
         }
     ],
     "Other": [
