@@ -44413,5 +44413,26 @@
         "timestampUpload": 1774622359,
         "weekDay": 2,
         "year": 2026
+    },
+    "HSpYyCls72UoUsu1kfABvK81TS": {
+        "author": "10991521-994f-4d9a-a3e7-a9bf76f7794a",
+        "authorTime": 49167,
+        "bronzeTime": 74000,
+        "campaignId": 133682,
+        "goldTime": 53000,
+        "mapId": "68d85c2b-c955-4e58-8d8c-bb0e5e1392ed",
+        "mapUid": "HSpYyCls72UoUsu1kfABvK81TS",
+        "month": 4,
+        "monthDay": 16,
+        "name": "$F99Fragrant$FFFMeadows",
+        "number": 2116,
+        "seasonUid": "ab22a727-9f00-4a72-a82a-245a75c3f040",
+        "silverTime": 60000,
+        "submitter": "10991521-994f-4d9a-a3e7-a9bf76f7794a",
+        "timestampEnd": 1776445200,
+        "timestampStart": 1776358800,
+        "timestampUpload": 1770232062,
+        "weekDay": 3,
+        "year": 2026
     }
 }
