@@ -1,5 +1,5 @@
 {
-    "next": 1776366000,
+    "next": 1776452400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34333,6 +34333,17 @@
             "worldRecord": 39102,
             "mapId": "fb3a8a5d-6ea3-4e27-9dfa-bd846a14c7e6",
             "goldTime": 44000
+        },
+        {
+            "authorTime": 49167,
+            "date": "2026-04-16",
+            "mapUid": "HSpYyCls72UoUsu1kfABvK81TS",
+            "name": "$F99Fragrant$FFFMeadows",
+            "reason": null,
+            "warriorTime": 48737,
+            "worldRecord": 45723,
+            "mapId": "68d85c2b-c955-4e58-8d8c-bb0e5e1392ed",
+            "goldTime": 53000
         }
     ],
     "Other": [
