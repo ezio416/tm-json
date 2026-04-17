@@ -31432,7 +31432,7 @@
         "submitter": "88c2a160-6cc6-4a5d-9624-d0582ff503aa",
         "timestampEnd": 1722963600,
         "timestampStart": 1722877200,
-        "timestampUpload": 1722193469,
+        "timestampUpload": 1776440099,
         "weekDay": 0,
         "year": 2024
     },
@@ -34540,7 +34540,7 @@
         "submitter": "82323873-ddff-4ec7-9bf5-8329b5da0a91",
         "timestampEnd": 1735754400,
         "timestampStart": 1735668000,
-        "timestampUpload": 1775163340,
+        "timestampUpload": 1776367713,
         "weekDay": 1,
         "year": 2024
     },
@@ -44433,6 +44433,27 @@
         "timestampStart": 1776358800,
         "timestampUpload": 1770232062,
         "weekDay": 3,
+        "year": 2026
+    },
+    "awGnN2pF3meUQem8RJFNDMuEhxc": {
+        "author": "c2aaa990-1091-47d5-8aff-870bbb760ea7",
+        "authorTime": 39825,
+        "bronzeTime": 60000,
+        "campaignId": 133683,
+        "goldTime": 43000,
+        "mapId": "ef190ed1-99c6-4087-a954-415f0b89e59a",
+        "mapUid": "awGnN2pF3meUQem8RJFNDMuEhxc",
+        "month": 4,
+        "monthDay": 17,
+        "name": "$n$o$i$s$3b8By the Way",
+        "number": 2117,
+        "seasonUid": "2003f5d6-2fde-46e6-9694-1c57ad9ea246",
+        "silverTime": 48000,
+        "submitter": "c2aaa990-1091-47d5-8aff-870bbb760ea7",
+        "timestampEnd": 1776531600,
+        "timestampStart": 1776445200,
+        "timestampUpload": 1775863313,
+        "weekDay": 4,
         "year": 2026
     }
 }
