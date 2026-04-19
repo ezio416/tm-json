@@ -262,5 +262,27 @@
         "timestampUpload": 1775946508,
         "week": 16,
         "year": 2026
+    },
+    "rnwwnbtZDl7IdeUkz6GJ0IUh9g0": {
+        "author": "5244711e-ff6b-4bec-9d6e-1343ceaaa803",
+        "authorTime": 515590,
+        "bronzeTime": 774000,
+        "campaignId": 134229,
+        "goldTime": 547000,
+        "mapId": "43709738-0087-4407-9029-8a4615763a4d",
+        "mapIndex": 0,
+        "mapUid": "rnwwnbtZDl7IdeUkz6GJ0IUh9g0",
+        "name": "G - $o$F64Roja",
+        "number": 17,
+        "seasonUid": "9bf391fd-614c-4a68-a028-e32915ccb987",
+        "silverTime": 619000,
+        "submitter": "5244711e-ff6b-4bec-9d6e-1343ceaaa803",
+        "timestampEdition": 1776403395,
+        "timestampEnd": 1777219200,
+        "timestampRankingSent": 0,
+        "timestampStart": 1776614400,
+        "timestampUpload": 1773849916,
+        "week": 17,
+        "year": 2026
     }
 }
