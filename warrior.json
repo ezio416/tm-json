@@ -1,5 +1,5 @@
 {
-    "next": 1776711600,
+    "next": 1776787200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34377,6 +34377,17 @@
             "worldRecord": 46587,
             "mapId": "71dc3635-e272-46a2-9d5a-d3115dbfa846",
             "goldTime": 51000
+        },
+        {
+            "authorTime": 49606,
+            "date": "2026-04-20",
+            "mapUid": "UAqmHSUAVp90jS6pk7rYVoEaAdi",
+            "name": "Are Aliens Rally There?",
+            "reason": null,
+            "warriorTime": 49376,
+            "worldRecord": 47766,
+            "mapId": "6b4d2204-8a34-4d21-b445-59918451bda6",
+            "goldTime": 53000
         }
     ],
     "Other": [
