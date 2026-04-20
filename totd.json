@@ -44497,5 +44497,26 @@
         "timestampUpload": 1775592777,
         "weekDay": 6,
         "year": 2026
+    },
+    "UAqmHSUAVp90jS6pk7rYVoEaAdi": {
+        "author": "4d339df3-849c-4e2c-a0d5-b731157e863c",
+        "authorTime": 49606,
+        "bronzeTime": 75000,
+        "campaignId": 133686,
+        "goldTime": 53000,
+        "mapId": "6b4d2204-8a34-4d21-b445-59918451bda6",
+        "mapUid": "UAqmHSUAVp90jS6pk7rYVoEaAdi",
+        "month": 4,
+        "monthDay": 20,
+        "name": "Are Aliens Rally There?",
+        "number": 2120,
+        "seasonUid": "db2554f8-20eb-4ca3-a0c3-24cf4c12dbab",
+        "silverTime": 60000,
+        "submitter": "4d339df3-849c-4e2c-a0d5-b731157e863c",
+        "timestampEnd": 1776790800,
+        "timestampStart": 1776704400,
+        "timestampUpload": 1773773515,
+        "weekDay": 0,
+        "year": 2026
     }
 }
