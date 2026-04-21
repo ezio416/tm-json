@@ -1,5 +1,5 @@
 {
-    "next": 1776787200,
+    "next": 1776798000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -218,6 +218,19 @@
             "goldTime": 616000,
             "campaignId": 133212,
             "week": 16
+        },
+        {
+            "authorTime": 515590,
+            "mapUid": "rnwwnbtZDl7IdeUkz6GJ0IUh9g0",
+            "name": "G - $o$F64Roja",
+            "number": 17,
+            "reason": null,
+            "warriorTime": 498663,
+            "worldRecord": 470451,
+            "mapId": "43709738-0087-4407-9029-8a4615763a4d",
+            "goldTime": 547000,
+            "campaignId": 134229,
+            "week": 17
         }
     ],
     "Seasonal": [
