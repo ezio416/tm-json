@@ -1,5 +1,5 @@
 {
-    "next": 1776884400,
+    "next": 1777230000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34412,6 +34412,17 @@
             "worldRecord": 41576,
             "mapId": "edc3e920-52ec-47a9-8042-897138a5268c",
             "goldTime": 44000
+        },
+        {
+            "authorTime": 49407,
+            "date": "2026-04-22",
+            "mapUid": "RSFZX4G3eHKOEOwwNa0PlZu5aKc",
+            "name": " $2d2$iToxic Hazards",
+            "reason": null,
+            "warriorTime": 49340,
+            "worldRecord": 48868,
+            "mapId": "4f70abac-5654-41aa-9c57-456f6f48a362",
+            "goldTime": 53000
         }
     ],
     "Other": [
