@@ -44539,5 +44539,26 @@
         "timestampUpload": 1776093366,
         "weekDay": 1,
         "year": 2026
+    },
+    "RSFZX4G3eHKOEOwwNa0PlZu5aKc": {
+        "author": "a1a565e3-65c1-4257-8bca-602a7e4e0c90",
+        "authorTime": 49407,
+        "bronzeTime": 75000,
+        "campaignId": 134818,
+        "goldTime": 53000,
+        "mapId": "4f70abac-5654-41aa-9c57-456f6f48a362",
+        "mapUid": "RSFZX4G3eHKOEOwwNa0PlZu5aKc",
+        "month": 4,
+        "monthDay": 22,
+        "name": " $2d2$iToxic Hazards",
+        "number": 2122,
+        "seasonUid": "96007e02-8e4f-477e-9439-0d23a99c5eff",
+        "silverTime": 60000,
+        "submitter": "a1a565e3-65c1-4257-8bca-602a7e4e0c90",
+        "timestampEnd": 1776963600,
+        "timestampStart": 1776877200,
+        "timestampUpload": 1770141462,
+        "weekDay": 2,
+        "year": 2026
     }
 }
