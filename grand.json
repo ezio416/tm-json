@@ -281,8 +281,30 @@
         "timestampEnd": 1777219200,
         "timestampRankingSent": 0,
         "timestampStart": 1776614400,
-        "timestampUpload": 1773849916,
+        "timestampUpload": 1777087281,
         "week": 17,
+        "year": 2026
+    },
+    "VpfULzUKrVT4sAHjKeN5ubcFov8": {
+        "author": "8b9d3e56-a68d-46fd-a623-f6fa3127cc1e",
+        "authorTime": 512779,
+        "bronzeTime": 770000,
+        "campaignId": 135143,
+        "goldTime": 544000,
+        "mapId": "8f617e0c-ee4a-4b25-80c3-be6e2257ccc2",
+        "mapIndex": 0,
+        "mapUid": "VpfULzUKrVT4sAHjKeN5ubcFov8",
+        "name": "$oG - $ee0Morning Ride",
+        "number": 18,
+        "seasonUid": "9ece3c8d-8b5d-46bb-a16c-b0490dcdea8d",
+        "silverTime": 616000,
+        "submitter": "8b9d3e56-a68d-46fd-a623-f6fa3127cc1e",
+        "timestampEdition": 1777038970,
+        "timestampEnd": 1777824000,
+        "timestampRankingSent": 0,
+        "timestampStart": 1777219200,
+        "timestampUpload": 1776753221,
+        "week": 18,
         "year": 2026
     }
 }
