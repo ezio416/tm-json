@@ -44644,5 +44644,26 @@
         "timestampUpload": 1776450753,
         "weekDay": 6,
         "year": 2026
+    },
+    "lNtykM2NbKiUoQfBqWSYJ7jdQld": {
+        "author": "dcba2856-c834-4c95-91b8-ff8dc818f48c",
+        "authorTime": 49162,
+        "bronzeTime": 74000,
+        "campaignId": 134989,
+        "goldTime": 53000,
+        "mapId": "a1af984c-df25-447d-9fc5-be803a8b87be",
+        "mapUid": "lNtykM2NbKiUoQfBqWSYJ7jdQld",
+        "month": 4,
+        "monthDay": 27,
+        "name": "$n$o$FFFC$EEEor$DDDv$CCCer$BBBg$AAAen$999t $FFFft' Jorday",
+        "number": 2127,
+        "seasonUid": "1e47352f-34ec-4802-b2f7-996d8ac8d4b8",
+        "silverTime": 59000,
+        "submitter": "dcba2856-c834-4c95-91b8-ff8dc818f48c",
+        "timestampEnd": 1777395600,
+        "timestampStart": 1777309200,
+        "timestampUpload": 1707248281,
+        "weekDay": 0,
+        "year": 2026
     }
 }
