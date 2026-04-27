@@ -1,5 +1,5 @@
 {
-    "next": 1777316400,
+    "next": 1777392000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34434,6 +34434,17 @@
             "worldRecord": 47611,
             "mapId": "a59cf3ea-6a30-42ba-b170-a5097a029945",
             "goldTime": 52000
+        },
+        {
+            "authorTime": 49162,
+            "date": "2026-04-27",
+            "mapUid": "lNtykM2NbKiUoQfBqWSYJ7jdQld",
+            "name": "$n$o$FFFC$EEEor$DDDv$CCCer$BBBg$AAAen$999t $FFFft' Jorday",
+            "reason": null,
+            "warriorTime": 49108,
+            "worldRecord": 48725,
+            "mapId": "a1af984c-df25-447d-9fc5-be803a8b87be",
+            "goldTime": 53000
         }
     ],
     "Other": [
