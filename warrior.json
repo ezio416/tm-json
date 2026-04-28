@@ -1,5 +1,5 @@
 {
-    "next": 1777392000,
+    "next": 1777402800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -231,6 +231,19 @@
             "goldTime": 547000,
             "campaignId": 134229,
             "week": 17
+        },
+        {
+            "authorTime": 512779,
+            "mapUid": "VpfULzUKrVT4sAHjKeN5ubcFov8",
+            "name": "$oG - $ee0Morning Ride",
+            "number": 18,
+            "reason": null,
+            "warriorTime": 477763,
+            "worldRecord": 419403,
+            "mapId": "8f617e0c-ee4a-4b25-80c3-be6e2257ccc2",
+            "goldTime": 544000,
+            "campaignId": 135143,
+            "week": 18
         }
     ],
     "Seasonal": [
