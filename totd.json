@@ -41638,7 +41638,7 @@
         "submitter": "ac424f5e-5612-4a44-8b87-6403be2b690f",
         "timestampEnd": 1764957600,
         "timestampStart": 1764871200,
-        "timestampUpload": 1771365280,
+        "timestampUpload": 1777334632,
         "weekDay": 3,
         "year": 2025
     },
@@ -44664,6 +44664,27 @@
         "timestampStart": 1777309200,
         "timestampUpload": 1707248281,
         "weekDay": 0,
+        "year": 2026
+    },
+    "m19xgAr6F8H3XWGFzOxqNvZbcne": {
+        "author": "f18c6c3a-44ce-4d98-88f9-77b0a5425b81",
+        "authorTime": 47627,
+        "bronzeTime": 72000,
+        "campaignId": 135577,
+        "goldTime": 51000,
+        "mapId": "50c237f6-45d5-446a-972f-ca7cab6530f8",
+        "mapUid": "m19xgAr6F8H3XWGFzOxqNvZbcne",
+        "month": 4,
+        "monthDay": 28,
+        "name": "$s$F93Obser$fffvation Belt ft' $FC9Dead$FC9fish",
+        "number": 2128,
+        "seasonUid": "90ad93bc-4c8d-4f6e-b924-db9915c13276",
+        "silverTime": 58000,
+        "submitter": "f18c6c3a-44ce-4d98-88f9-77b0a5425b81",
+        "timestampEnd": 1777482000,
+        "timestampStart": 1777395600,
+        "timestampUpload": 1776090960,
+        "weekDay": 1,
         "year": 2026
     }
 }
