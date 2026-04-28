@@ -1,5 +1,5 @@
 {
-    "next": 1777402800,
+    "next": 1777474800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34458,6 +34458,17 @@
             "worldRecord": 48725,
             "mapId": "a1af984c-df25-447d-9fc5-be803a8b87be",
             "goldTime": 53000
+        },
+        {
+            "authorTime": 47627,
+            "date": "2026-04-28",
+            "mapUid": "m19xgAr6F8H3XWGFzOxqNvZbcne",
+            "name": "$s$F93Obser$fffvation Belt ft' $FC9Dead$FC9fish",
+            "reason": null,
+            "warriorTime": 47572,
+            "worldRecord": 47182,
+            "mapId": "50c237f6-45d5-446a-972f-ca7cab6530f8",
+            "goldTime": 51000
         }
     ],
     "Other": [
