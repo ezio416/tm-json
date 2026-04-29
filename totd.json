@@ -44686,5 +44686,26 @@
         "timestampUpload": 1776090960,
         "weekDay": 1,
         "year": 2026
+    },
+    "dtAI16Sp4iU6GQHSJYFj3KBKCt2": {
+        "author": "ad477c0d-a52b-4050-9683-d8b390dddbd8",
+        "authorTime": 54948,
+        "bronzeTime": 83000,
+        "campaignId": 135644,
+        "goldTime": 59000,
+        "mapId": "2d48ac9d-46fb-40d5-8579-b27cd72bc4e7",
+        "mapUid": "dtAI16Sp4iU6GQHSJYFj3KBKCt2",
+        "month": 4,
+        "monthDay": 29,
+        "name": "$i$C13CC3$fff | Castell (CE)",
+        "number": 2129,
+        "seasonUid": "49620c44-222c-4670-8189-7b9a6bf1d1b9",
+        "silverTime": 66000,
+        "submitter": "d76b8d6c-3a97-4942-bae7-c419c7f13def",
+        "timestampEnd": 1777568400,
+        "timestampStart": 1777482000,
+        "timestampUpload": 1776718125,
+        "weekDay": 2,
+        "year": 2026
     }
 }
