@@ -44704,8 +44704,29 @@
         "submitter": "d76b8d6c-3a97-4942-bae7-c419c7f13def",
         "timestampEnd": 1777568400,
         "timestampStart": 1777482000,
-        "timestampUpload": 1776718125,
+        "timestampUpload": 1777488809,
         "weekDay": 2,
+        "year": 2026
+    },
+    "JX8bpOIhnTixReCf1BfV6UOScFc": {
+        "author": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
+        "authorTime": 43424,
+        "bronzeTime": 66000,
+        "campaignId": 135640,
+        "goldTime": 47000,
+        "mapId": "88f4efe9-94ea-49cc-b209-2ea24c67958c",
+        "mapUid": "JX8bpOIhnTixReCf1BfV6UOScFc",
+        "month": 4,
+        "monthDay": 30,
+        "name": "$i$930Greetings from Oxirt $z$FFFft' Artroy",
+        "number": 2130,
+        "seasonUid": "6d47d87d-00a1-4b89-80f2-61c5fd8c2ebe",
+        "silverTime": 53000,
+        "submitter": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
+        "timestampEnd": 1777654800,
+        "timestampStart": 1777568400,
+        "timestampUpload": 1777152006,
+        "weekDay": 3,
         "year": 2026
     }
 }
