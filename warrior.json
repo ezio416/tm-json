@@ -1,5 +1,5 @@
 {
-    "next": 1777575600,
+    "next": 1777662000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34805,6 +34805,17 @@
             "worldRecord": 53709,
             "mapId": "2d48ac9d-46fb-40d5-8579-b27cd72bc4e7",
             "goldTime": 59000
+        },
+        {
+            "authorTime": 43424,
+            "date": "2026-04-30",
+            "mapUid": "JX8bpOIhnTixReCf1BfV6UOScFc",
+            "name": "$i$930Greetings from Oxirt $z$FFFft' Artroy",
+            "reason": null,
+            "warriorTime": 43354,
+            "worldRecord": 42862,
+            "mapId": "88f4efe9-94ea-49cc-b209-2ea24c67958c",
+            "goldTime": 47000
         }
     ],
     "Other": [
