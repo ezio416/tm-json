@@ -1,5 +1,5 @@
 {
-    "next": 1777662000,
+    "next": 1777748400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34816,6 +34816,17 @@
             "worldRecord": 42862,
             "mapId": "88f4efe9-94ea-49cc-b209-2ea24c67958c",
             "goldTime": 47000
+        },
+        {
+            "authorTime": 45172,
+            "date": "2026-05-01",
+            "mapUid": "u5ppqbH1ftf5D8yMv0gzy8nCuS4",
+            "name": "COLLARD $6F3G$7F4R$8F5E$AF7E$BF8N$CF9S",
+            "reason": null,
+            "warriorTime": 44900,
+            "worldRecord": 42992,
+            "mapId": "4da50f4f-9ccd-4c14-8130-b9dcd5079fb9",
+            "goldTime": 48000
         }
     ],
     "Other": [
