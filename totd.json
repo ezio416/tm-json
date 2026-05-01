@@ -44641,7 +44641,7 @@
         "submitter": "2b3c5767-148b-4fba-9baa-2d5930db2973",
         "timestampEnd": 1777309200,
         "timestampStart": 1777222800,
-        "timestampUpload": 1776450753,
+        "timestampUpload": 1777611404,
         "weekDay": 6,
         "year": 2026
     },
@@ -44727,6 +44727,27 @@
         "timestampStart": 1777568400,
         "timestampUpload": 1777152006,
         "weekDay": 3,
+        "year": 2026
+    },
+    "u5ppqbH1ftf5D8yMv0gzy8nCuS4": {
+        "author": "8790b16b-6b35-4c98-8fbb-4834a33e591f",
+        "authorTime": 45172,
+        "bronzeTime": 68000,
+        "campaignId": 135641,
+        "goldTime": 48000,
+        "mapId": "4da50f4f-9ccd-4c14-8130-b9dcd5079fb9",
+        "mapUid": "u5ppqbH1ftf5D8yMv0gzy8nCuS4",
+        "month": 5,
+        "monthDay": 1,
+        "name": "COLLARD $6F3G$7F4R$8F5E$AF7E$BF8N$CF9S",
+        "number": 2131,
+        "seasonUid": "89989e92-4d4e-439a-b3a4-c7671ce1a24f",
+        "silverTime": 55000,
+        "submitter": "8790b16b-6b35-4c98-8fbb-4834a33e591f",
+        "timestampEnd": 1777741200,
+        "timestampStart": 1777654800,
+        "timestampUpload": 1776355852,
+        "weekDay": 4,
         "year": 2026
     }
 }
