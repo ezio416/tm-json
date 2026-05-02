@@ -1,5 +1,5 @@
 {
-    "next": 1777748400,
+    "next": 1777834800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34827,6 +34827,17 @@
             "worldRecord": 42992,
             "mapId": "4da50f4f-9ccd-4c14-8130-b9dcd5079fb9",
             "goldTime": 48000
+        },
+        {
+            "authorTime": 44338,
+            "date": "2026-05-02",
+            "mapUid": "53eJqRn5IisGixYOnOyhPF2M8je",
+            "name": "$n$o$s$F90Au$F80re$F70li$F60os $FFF ft' Jitsky",
+            "reason": null,
+            "warriorTime": 44310,
+            "worldRecord": 44109,
+            "mapId": "861f3074-5776-425a-ae47-7464de36cc30",
+            "goldTime": 47000
         }
     ],
     "Other": [
