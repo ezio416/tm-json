@@ -44770,5 +44770,26 @@
         "timestampUpload": 1777407071,
         "weekDay": 5,
         "year": 2026
+    },
+    "AjA3VaQPBf5cN9n4tEl5zmp_Umd": {
+        "author": "a0d85450-0b61-431e-9291-57b660af4f5f",
+        "authorTime": 54174,
+        "bronzeTime": 82000,
+        "campaignId": 135800,
+        "goldTime": 58000,
+        "mapId": "ebc0b123-1728-4e01-94c0-0bb7a2e1fd6f",
+        "mapUid": "AjA3VaQPBf5cN9n4tEl5zmp_Umd",
+        "month": 5,
+        "monthDay": 3,
+        "name": "$s$i$fa2Where Villains Meet",
+        "number": 2133,
+        "seasonUid": "61a22808-e346-4b9a-a732-23bbc34123bc",
+        "silverTime": 66000,
+        "submitter": "91ecc3e6-ef3c-4ed9-bf33-a79fdfc15129",
+        "timestampEnd": 1777914000,
+        "timestampStart": 1777827600,
+        "timestampUpload": 1777481438,
+        "weekDay": 6,
+        "year": 2026
     }
 }
