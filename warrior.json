@@ -1,5 +1,5 @@
 {
-    "next": 1777834800,
+    "next": 1777921200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34838,6 +34838,17 @@
             "worldRecord": 44109,
             "mapId": "861f3074-5776-425a-ae47-7464de36cc30",
             "goldTime": 47000
+        },
+        {
+            "authorTime": 54174,
+            "date": "2026-05-03",
+            "mapUid": "AjA3VaQPBf5cN9n4tEl5zmp_Umd",
+            "name": "$s$i$fa2Where Villains Meet",
+            "reason": null,
+            "warriorTime": 54038,
+            "worldRecord": 53085,
+            "mapId": "ebc0b123-1728-4e01-94c0-0bb7a2e1fd6f",
+            "goldTime": 58000
         }
     ],
     "Other": [
