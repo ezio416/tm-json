@@ -306,5 +306,27 @@
         "timestampUpload": 1776753221,
         "week": 18,
         "year": 2026
+    },
+    "ffrrZlUVdTvfiMNJ1sQSqrI1Re6": {
+        "author": "91ecc3e6-ef3c-4ed9-bf33-a79fdfc15129",
+        "authorTime": 661547,
+        "bronzeTime": 993000,
+        "campaignId": 135953,
+        "goldTime": 702000,
+        "mapId": "fa0b987a-755c-4e0d-9637-fbf1cf38d471",
+        "mapIndex": 0,
+        "mapUid": "ffrrZlUVdTvfiMNJ1sQSqrI1Re6",
+        "name": "G - We Need More Maps",
+        "number": 19,
+        "seasonUid": "4ac69af3-be12-47ff-9ec3-327a7662e55a",
+        "silverTime": 794000,
+        "submitter": "91ecc3e6-ef3c-4ed9-bf33-a79fdfc15129",
+        "timestampEdition": 1777610450,
+        "timestampEnd": 1778428800,
+        "timestampRankingSent": 0,
+        "timestampStart": 1777824000,
+        "timestampUpload": 1777610402,
+        "week": 19,
+        "year": 2026
     }
 }
