@@ -44791,5 +44791,26 @@
         "timestampUpload": 1777481438,
         "weekDay": 6,
         "year": 2026
+    },
+    "TXo5DECN38jmCbnOcRDV89RTq1a": {
+        "author": "a07f01cd-afb0-4230-9c13-868c1ede28a3",
+        "authorTime": 48777,
+        "bronzeTime": 74000,
+        "campaignId": 135956,
+        "goldTime": 52000,
+        "mapId": "1967fc89-5dc4-4813-a48b-01b2482a24c0",
+        "mapUid": "TXo5DECN38jmCbnOcRDV89RTq1a",
+        "month": 5,
+        "monthDay": 4,
+        "name": "$n$o$f80Summer 2020 $fff- 24 $08fBlue Bay",
+        "number": 2134,
+        "seasonUid": "833690ee-ff0d-4161-ba4d-4414838a716f",
+        "silverTime": 59000,
+        "submitter": "a07f01cd-afb0-4230-9c13-868c1ede28a3",
+        "timestampEnd": 1778000400,
+        "timestampStart": 1777914000,
+        "timestampUpload": 1775016316,
+        "weekDay": 0,
+        "year": 2026
     }
 }
