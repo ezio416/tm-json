@@ -1,5 +1,5 @@
 {
-    "next": 1777921200,
+    "next": 1777996800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34849,6 +34849,17 @@
             "worldRecord": 53085,
             "mapId": "ebc0b123-1728-4e01-94c0-0bb7a2e1fd6f",
             "goldTime": 58000
+        },
+        {
+            "authorTime": 48777,
+            "date": "2026-05-04",
+            "mapUid": "TXo5DECN38jmCbnOcRDV89RTq1a",
+            "name": "$n$o$f80Summer 2020 $fff- 24 $08fBlue Bay",
+            "reason": null,
+            "warriorTime": 48351,
+            "worldRecord": 45364,
+            "mapId": "1967fc89-5dc4-4813-a48b-01b2482a24c0",
+            "goldTime": 52000
         }
     ],
     "Other": [
