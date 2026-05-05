@@ -1,5 +1,5 @@
 {
-    "next": 1777996800,
+    "next": 1778007600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -244,6 +244,19 @@
             "goldTime": 544000,
             "campaignId": 135143,
             "week": 18
+        },
+        {
+            "authorTime": 661547,
+            "mapUid": "ffrrZlUVdTvfiMNJ1sQSqrI1Re6",
+            "name": "G - We Need More Maps",
+            "number": 19,
+            "reason": null,
+            "warriorTime": 616381,
+            "worldRecord": 541102,
+            "mapId": "fa0b987a-755c-4e0d-9637-fbf1cf38d471",
+            "goldTime": 702000,
+            "campaignId": 135953,
+            "week": 19
         }
     ],
     "Seasonal": [
