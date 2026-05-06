@@ -44833,5 +44833,26 @@
         "timestampUpload": 1763738132,
         "weekDay": 1,
         "year": 2026
+    },
+    "RIEulqKDgYcc4zFfTP7fgMRa4Sm": {
+        "author": "a951feb8-d900-414b-871f-7b8fe6edf1ee",
+        "authorTime": 47598,
+        "bronzeTime": 72000,
+        "campaignId": 136491,
+        "goldTime": 51000,
+        "mapId": "353ed9ce-6d29-45d3-b659-482fdcea153a",
+        "mapUid": "RIEulqKDgYcc4zFfTP7fgMRa4Sm",
+        "month": 5,
+        "monthDay": 6,
+        "name": "$s$i$69fE t $8bfh e $acfr $bcfe $cdfa l * $gft' Taco",
+        "number": 2136,
+        "seasonUid": "4cd7fd74-1ad8-49b5-b152-11186211574c",
+        "silverTime": 58000,
+        "submitter": "a951feb8-d900-414b-871f-7b8fe6edf1ee",
+        "timestampEnd": 1778173200,
+        "timestampStart": 1778086800,
+        "timestampUpload": 1763738132,
+        "weekDay": 2,
+        "year": 2026
     }
 }
