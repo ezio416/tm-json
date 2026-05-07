@@ -1,5 +1,5 @@
 {
-    "next": 1778180400,
+    "next": 1778266800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34895,6 +34895,17 @@
             "worldRecord": 46678,
             "mapId": "353ed9ce-6d29-45d3-b659-482fdcea153a",
             "goldTime": 51000
+        },
+        {
+            "authorTime": 41270,
+            "date": "2026-05-07",
+            "mapUid": "MLrEZIvQhYd9OpjBLWLjBcJSomc",
+            "name": "$sMargarita ft Djabski",
+            "reason": null,
+            "warriorTime": 41184,
+            "worldRecord": 40582,
+            "mapId": "64d7080f-992d-49a7-8d8b-e5af1f79e083",
+            "goldTime": 44000
         }
     ],
     "Other": [
