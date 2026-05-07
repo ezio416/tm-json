@@ -44854,5 +44854,26 @@
         "timestampUpload": 1763738132,
         "weekDay": 2,
         "year": 2026
+    },
+    "MLrEZIvQhYd9OpjBLWLjBcJSomc": {
+        "author": "5caf0042-0e73-4766-bbcc-a1c16cb4afd7",
+        "authorTime": 41270,
+        "bronzeTime": 62000,
+        "campaignId": 136493,
+        "goldTime": 44000,
+        "mapId": "64d7080f-992d-49a7-8d8b-e5af1f79e083",
+        "mapUid": "MLrEZIvQhYd9OpjBLWLjBcJSomc",
+        "month": 5,
+        "monthDay": 7,
+        "name": "$sMargarita ft Djabski",
+        "number": 2137,
+        "seasonUid": "c3877aa5-de44-4f45-860e-8889d133b6c9",
+        "silverTime": 50000,
+        "submitter": "5caf0042-0e73-4766-bbcc-a1c16cb4afd7",
+        "timestampEnd": 1778259600,
+        "timestampStart": 1778173200,
+        "timestampUpload": 1777817537,
+        "weekDay": 3,
+        "year": 2026
     }
 }
