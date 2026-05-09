@@ -44896,5 +44896,26 @@
         "timestampUpload": 1777738330,
         "weekDay": 4,
         "year": 2026
+    },
+    "27At2KM_G_OH8TftPeq2vHyZEEl": {
+        "author": "abea35a1-34d9-42e0-8b45-572d20b8f2d7",
+        "authorTime": 41238,
+        "bronzeTime": 62000,
+        "campaignId": 136492,
+        "goldTime": 44000,
+        "mapId": "d8abe7d3-4c8d-42b2-b480-942a99aefaa8",
+        "mapUid": "27At2KM_G_OH8TftPeq2vHyZEEl",
+        "month": 5,
+        "monthDay": 9,
+        "name": "$o$i$n$s$FE5Slightly slower nascar $gft Cotton",
+        "number": 2139,
+        "seasonUid": "0b953fe3-8125-4230-a482-6156d5b8ffa9",
+        "silverTime": 50000,
+        "submitter": "abea35a1-34d9-42e0-8b45-572d20b8f2d7",
+        "timestampEnd": 1778432400,
+        "timestampStart": 1778346000,
+        "timestampUpload": 1769017043,
+        "weekDay": 5,
+        "year": 2026
     }
 }
