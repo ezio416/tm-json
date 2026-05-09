@@ -1,5 +1,5 @@
 {
-    "next": 1778353200,
+    "next": 1778439600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34917,6 +34917,17 @@
             "worldRecord": 41564,
             "mapId": "fa5f2b17-5b3c-4d96-acce-03a78d137d67",
             "goldTime": 46000
+        },
+        {
+            "authorTime": 41238,
+            "date": "2026-05-09",
+            "mapUid": "27At2KM_G_OH8TftPeq2vHyZEEl",
+            "name": "$o$i$n$s$FE5Slightly slower nascar $gft Cotton",
+            "reason": null,
+            "warriorTime": 41157,
+            "worldRecord": 40588,
+            "mapId": "d8abe7d3-4c8d-42b2-b480-942a99aefaa8",
+            "goldTime": 44000
         }
     ],
     "Other": [
