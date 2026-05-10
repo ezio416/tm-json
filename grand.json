@@ -328,5 +328,27 @@
         "timestampUpload": 1777610402,
         "week": 19,
         "year": 2026
+    },
+    "m80h5dUPHlNZ4S4MfoIWdWSXjwc": {
+        "author": "a5dbf3e4-18dc-4bea-84f1-a6381c5ff2e1",
+        "authorTime": 592565,
+        "bronzeTime": 889000,
+        "campaignId": 136866,
+        "goldTime": 629000,
+        "mapId": "12f9b8f0-6997-413b-a613-4356bf65d4d5",
+        "mapIndex": 0,
+        "mapUid": "m80h5dUPHlNZ4S4MfoIWdWSXjwc",
+        "name": "G - Spiraling",
+        "number": 20,
+        "seasonUid": "19ad35ec-e549-487c-8a89-97ec427846a6",
+        "silverTime": 712000,
+        "submitter": "a5dbf3e4-18dc-4bea-84f1-a6381c5ff2e1",
+        "timestampEdition": 1778233485,
+        "timestampEnd": 1779033600,
+        "timestampRankingSent": 0,
+        "timestampStart": 1778428800,
+        "timestampUpload": 1777929110,
+        "week": 20,
+        "year": 2026
     }
 }
