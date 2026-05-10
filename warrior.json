@@ -1,5 +1,5 @@
 {
-    "next": 1778439600,
+    "next": 1778526000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34928,6 +34928,17 @@
             "worldRecord": 40588,
             "mapId": "d8abe7d3-4c8d-42b2-b480-942a99aefaa8",
             "goldTime": 44000
+        },
+        {
+            "authorTime": 43376,
+            "date": "2026-05-10",
+            "mapUid": "9gkIfQwZnJ0QETz44SvkWtFS0B4",
+            "name": "Wintereinbruch",
+            "reason": null,
+            "warriorTime": 43056,
+            "worldRecord": 40812,
+            "mapId": "24763f7b-b590-4c81-be11-711c4a50333c",
+            "goldTime": 46000
         }
     ],
     "Other": [
