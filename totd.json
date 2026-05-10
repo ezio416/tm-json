@@ -44263,7 +44263,7 @@
         "submitter": "f61cfc67-350f-4ec3-9c54-8959e80c2372",
         "timestampEnd": 1775754000,
         "timestampStart": 1775667600,
-        "timestampUpload": 1773346752,
+        "timestampUpload": 1778371624,
         "weekDay": 2,
         "year": 2026
     },
@@ -44725,7 +44725,7 @@
         "submitter": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
         "timestampEnd": 1777654800,
         "timestampStart": 1777568400,
-        "timestampUpload": 1777152006,
+        "timestampUpload": 1778406166,
         "weekDay": 3,
         "year": 2026
     },
@@ -44916,6 +44916,27 @@
         "timestampStart": 1778346000,
         "timestampUpload": 1769017043,
         "weekDay": 5,
+        "year": 2026
+    },
+    "9gkIfQwZnJ0QETz44SvkWtFS0B4": {
+        "author": "babd5821-8cad-4ccd-9a80-218d0e3afd50",
+        "authorTime": 43376,
+        "bronzeTime": 66000,
+        "campaignId": 136490,
+        "goldTime": 46000,
+        "mapId": "24763f7b-b590-4c81-be11-711c4a50333c",
+        "mapUid": "9gkIfQwZnJ0QETz44SvkWtFS0B4",
+        "month": 5,
+        "monthDay": 10,
+        "name": "Wintereinbruch",
+        "number": 2140,
+        "seasonUid": "7c82698c-7af0-4366-9a0e-5adc7186e122",
+        "silverTime": 53000,
+        "submitter": "babd5821-8cad-4ccd-9a80-218d0e3afd50",
+        "timestampEnd": 1778518800,
+        "timestampStart": 1778432400,
+        "timestampUpload": 1772571634,
+        "weekDay": 6,
         "year": 2026
     }
 }
