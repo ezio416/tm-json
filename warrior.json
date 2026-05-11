@@ -1,5 +1,5 @@
 {
-    "next": 1778526000,
+    "next": 1778601600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34939,6 +34939,17 @@
             "worldRecord": 40812,
             "mapId": "24763f7b-b590-4c81-be11-711c4a50333c",
             "goldTime": 46000
+        },
+        {
+            "authorTime": 44545,
+            "date": "2026-05-11",
+            "mapUid": "jKEB0XIoZdxTYt__drvuaVudMc4",
+            "name": "$FFFF$FFEi$FEEr$FEDew$FECo$FDCo$FDBd$g ft' PhineasTM",
+            "reason": null,
+            "warriorTime": 44406,
+            "worldRecord": 43427,
+            "mapId": "129b4010-e66d-497e-82ef-63b33f5a2098",
+            "goldTime": 47043
         }
     ],
     "Other": [
