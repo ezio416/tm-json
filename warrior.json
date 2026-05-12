@@ -1,5 +1,5 @@
 {
-    "next": 1778601600,
+    "next": 1778612400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -257,6 +257,19 @@
             "goldTime": 702000,
             "campaignId": 135953,
             "week": 19
+        },
+        {
+            "authorTime": 592565,
+            "mapUid": "m80h5dUPHlNZ4S4MfoIWdWSXjwc",
+            "name": "G - Spiraling",
+            "number": 20,
+            "reason": null,
+            "warriorTime": 548009,
+            "worldRecord": 473747,
+            "mapId": "12f9b8f0-6997-413b-a613-4356bf65d4d5",
+            "goldTime": 629000,
+            "campaignId": 136866,
+            "week": 20
         }
     ],
     "Seasonal": [
