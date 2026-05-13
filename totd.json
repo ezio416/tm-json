@@ -44980,5 +44980,26 @@
         "timestampUpload": 1778185055,
         "weekDay": 1,
         "year": 2026
+    },
+    "F5FR_R5CAjYnEy_jT0RGnr7zxr6": {
+        "author": "88c2a160-6cc6-4a5d-9624-d0582ff503aa",
+        "authorTime": 48277,
+        "bronzeTime": 73000,
+        "campaignId": 137329,
+        "goldTime": 52000,
+        "mapId": "b5c5cb2e-97e7-4d69-8076-12400ffa147b",
+        "mapUid": "F5FR_R5CAjYnEy_jT0RGnr7zxr6",
+        "month": 5,
+        "monthDay": 13,
+        "name": "Vanilla Springs",
+        "number": 2143,
+        "seasonUid": "c17b5486-7cd1-4370-ab76-dd7bc08be2fa",
+        "silverTime": 58000,
+        "submitter": "88c2a160-6cc6-4a5d-9624-d0582ff503aa",
+        "timestampEnd": 1778778000,
+        "timestampStart": 1778691600,
+        "timestampUpload": 1778176355,
+        "weekDay": 2,
+        "year": 2026
     }
 }
