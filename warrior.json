@@ -1,5 +1,5 @@
 {
-    "next": 1778698800,
+    "next": 1778785200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34974,6 +34974,17 @@
             "worldRecord": 40772,
             "mapId": "eb1a3b72-817d-4871-9d9b-f638cece7bb6",
             "goldTime": 45000
+        },
+        {
+            "authorTime": 48277,
+            "date": "2026-05-13",
+            "mapUid": "F5FR_R5CAjYnEy_jT0RGnr7zxr6",
+            "name": "Vanilla Springs",
+            "reason": null,
+            "warriorTime": 48028,
+            "worldRecord": 46279,
+            "mapId": "b5c5cb2e-97e7-4d69-8076-12400ffa147b",
+            "goldTime": 52000
         }
     ],
     "Other": [
