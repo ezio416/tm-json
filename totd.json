@@ -45001,5 +45001,26 @@
         "timestampUpload": 1778176355,
         "weekDay": 2,
         "year": 2026
+    },
+    "l_Kx5e3clO65qk4pXzujs0oC64a": {
+        "author": "c2aaa990-1091-47d5-8aff-870bbb760ea7",
+        "authorTime": 54200,
+        "bronzeTime": 82000,
+        "campaignId": 137326,
+        "goldTime": 58000,
+        "mapId": "6102bc7e-4feb-41db-978c-ccfc03703584",
+        "mapUid": "l_Kx5e3clO65qk4pXzujs0oC64a",
+        "month": 5,
+        "monthDay": 14,
+        "name": "$i$s$o$n$431Ghost of Perdition",
+        "number": 2144,
+        "seasonUid": "f0bce0a2-2309-413e-b040-6805c92f3e61",
+        "silverTime": 66000,
+        "submitter": "c2aaa990-1091-47d5-8aff-870bbb760ea7",
+        "timestampEnd": 1778864400,
+        "timestampStart": 1778778000,
+        "timestampUpload": 1778185178,
+        "weekDay": 3,
+        "year": 2026
     }
 }
