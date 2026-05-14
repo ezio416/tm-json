@@ -1,5 +1,5 @@
 {
-    "next": 1778785200,
+    "next": 1778871600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -34985,6 +34985,17 @@
             "worldRecord": 46279,
             "mapId": "b5c5cb2e-97e7-4d69-8076-12400ffa147b",
             "goldTime": 52000
+        },
+        {
+            "authorTime": 54200,
+            "date": "2026-05-14",
+            "mapUid": "l_Kx5e3clO65qk4pXzujs0oC64a",
+            "name": "$i$s$o$n$431Ghost of Perdition",
+            "reason": null,
+            "warriorTime": 54124,
+            "worldRecord": 53588,
+            "mapId": "6102bc7e-4feb-41db-978c-ccfc03703584",
+            "goldTime": 58000
         }
     ],
     "Other": [
