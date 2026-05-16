@@ -40441,7 +40441,7 @@
         "submitter": "c68d831c-16b2-4134-91d4-bdace1291a79",
         "timestampEnd": 1760029200,
         "timestampStart": 1759942800,
-        "timestampUpload": 1758961018,
+        "timestampUpload": 1778880076,
         "weekDay": 2,
         "year": 2025
     },
@@ -45042,6 +45042,27 @@
         "timestampStart": 1778864400,
         "timestampUpload": 1777563519,
         "weekDay": 4,
+        "year": 2026
+    },
+    "HBrozCN7lyXLHYOjK1aAxDC86I0": {
+        "author": "e61740e8-7cd2-4e69-9bde-b139967b032a",
+        "authorTime": 44683,
+        "bronzeTime": 68000,
+        "campaignId": 137331,
+        "goldTime": 48000,
+        "mapId": "6aec9118-e34b-4b37-8002-30fc88a82bbb",
+        "mapUid": "HBrozCN7lyXLHYOjK1aAxDC86I0",
+        "month": 5,
+        "monthDay": 16,
+        "name": "$fffA$ec2mbrosia",
+        "number": 2146,
+        "seasonUid": "61d7053b-9369-48f2-b05b-2557e80410f8",
+        "silverTime": 54000,
+        "submitter": "e61740e8-7cd2-4e69-9bde-b139967b032a",
+        "timestampEnd": 1779037200,
+        "timestampStart": 1778950800,
+        "timestampUpload": 1774110234,
+        "weekDay": 5,
         "year": 2026
     }
 }
