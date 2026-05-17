@@ -350,5 +350,27 @@
         "timestampUpload": 1777929110,
         "week": 20,
         "year": 2026
+    },
+    "lrRBzAUuKFXtRjZ1Pbe5TJfxza2": {
+        "author": "1dd55257-6eed-4faf-9896-992075f794a3",
+        "authorTime": 625507,
+        "bronzeTime": 939000,
+        "campaignId": 137991,
+        "goldTime": 664000,
+        "mapId": "761a6c3a-db9c-4ac3-bfd3-538016463751",
+        "mapIndex": 0,
+        "mapUid": "lrRBzAUuKFXtRjZ1Pbe5TJfxza2",
+        "name": "G - $s$i$FFF\u0130$F33stanbul Park Remake",
+        "number": 21,
+        "seasonUid": "8052e41e-8455-4d9c-b3ec-7dcd1f6a47d3",
+        "silverTime": 751000,
+        "submitter": "1dd55257-6eed-4faf-9896-992075f794a3",
+        "timestampEdition": 1778844682,
+        "timestampEnd": 1779638400,
+        "timestampRankingSent": 0,
+        "timestampStart": 1779033600,
+        "timestampUpload": 1778513462,
+        "week": 21,
+        "year": 2026
     }
 }
