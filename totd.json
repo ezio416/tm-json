@@ -45085,5 +45085,26 @@
         "timestampUpload": 1778534225,
         "weekDay": 6,
         "year": 2026
+    },
+    "dVvvPbkbPFciwh47_t9geFUXRdc": {
+        "author": "46dcc889-73cb-4df5-8b44-d5a5e6addfec",
+        "authorTime": 45211,
+        "bronzeTime": 68000,
+        "campaignId": 137330,
+        "goldTime": 48000,
+        "mapId": "28d43556-4d33-4cef-a2ac-7f5857878715",
+        "mapUid": "dVvvPbkbPFciwh47_t9geFUXRdc",
+        "month": 5,
+        "monthDay": 18,
+        "name": "$i$o[$FB0UA$00FCC$g]-$FB0Carpathian $00FValley",
+        "number": 2148,
+        "seasonUid": "09923e39-bfb8-4e40-8239-6eb3a51c7e08",
+        "silverTime": 55000,
+        "submitter": "46dcc889-73cb-4df5-8b44-d5a5e6addfec",
+        "timestampEnd": 1779210000,
+        "timestampStart": 1779123600,
+        "timestampUpload": 1766597460,
+        "weekDay": 0,
+        "year": 2026
     }
 }
