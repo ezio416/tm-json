@@ -1,5 +1,5 @@
 {
-    "next": 1779130800,
+    "next": 1779206400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -35029,6 +35029,17 @@
             "worldRecord": 44750,
             "mapId": "15c01ce4-fec0-4d6d-86f3-b6f477e593c8",
             "goldTime": 49000
+        },
+        {
+            "authorTime": 45211,
+            "date": "2026-05-18",
+            "mapUid": "dVvvPbkbPFciwh47_t9geFUXRdc",
+            "name": "$i$o[$FB0UA$00FCC$g]-$FB0Carpathian $00FValley",
+            "reason": null,
+            "warriorTime": 45080,
+            "worldRecord": 44158,
+            "mapId": "28d43556-4d33-4cef-a2ac-7f5857878715",
+            "goldTime": 48000
         }
     ],
     "Other": [
