@@ -1,5 +1,5 @@
 {
-    "next": 1779206400,
+    "next": 1779217200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -270,6 +270,19 @@
             "goldTime": 629000,
             "campaignId": 136866,
             "week": 20
+        },
+        {
+            "authorTime": 625507,
+            "mapUid": "lrRBzAUuKFXtRjZ1Pbe5TJfxza2",
+            "name": "G - $s$i$FFF\u0130$F33stanbul Park Remake",
+            "number": 21,
+            "reason": null,
+            "warriorTime": 572828,
+            "worldRecord": 485028,
+            "mapId": "761a6c3a-db9c-4ac3-bfd3-538016463751",
+            "goldTime": 664000,
+            "campaignId": 137991,
+            "week": 21
         }
     ],
     "Seasonal": [
