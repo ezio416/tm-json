@@ -1,5 +1,5 @@
 {
-    "next": 1779303600,
+    "next": 1779390000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -35064,6 +35064,17 @@
             "worldRecord": 42131,
             "mapId": "1a5cbbdd-50ed-4826-b4ba-94bbea8808f5",
             "goldTime": 46000
+        },
+        {
+            "authorTime": 48699,
+            "date": "2026-05-20",
+            "mapUid": "rb0S4yVKDkuT4ZTPpEvSios8Pba",
+            "name": "$s$f93C$gorrosion ft Kcedus",
+            "reason": null,
+            "warriorTime": 48628,
+            "worldRecord": 48129,
+            "mapId": "3f6b4d7d-2f79-468e-903d-bd589350b850",
+            "goldTime": 52000
         }
     ],
     "Other": [
