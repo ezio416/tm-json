@@ -43864,7 +43864,7 @@
         "submitter": "43276c27-5cbe-48e6-a3a3-0b1550c80992",
         "timestampEnd": 1774116000,
         "timestampStart": 1774029600,
-        "timestampUpload": 1772937886,
+        "timestampUpload": 1779586867,
         "weekDay": 4,
         "year": 2026
     },
@@ -45210,6 +45210,27 @@
         "timestampStart": 1779555600,
         "timestampUpload": 1778427216,
         "weekDay": 5,
+        "year": 2026
+    },
+    "z0JeDUH5yrzPNFP3UmisT0P797d": {
+        "author": "4f10bc6a-3351-4a2f-a950-4a7b36998d22",
+        "authorTime": 32939,
+        "bronzeTime": 50000,
+        "campaignId": 139291,
+        "goldTime": 35000,
+        "mapId": "f6652539-d1d6-44b6-9f82-55fc7b2d57b2",
+        "mapUid": "z0JeDUH5yrzPNFP3UmisT0P797d",
+        "month": 5,
+        "monthDay": 24,
+        "name": "Snakebite_DTX",
+        "number": 2154,
+        "seasonUid": "25ab7610-297c-4a81-b065-9eaaf7ce86dc",
+        "silverTime": 40000,
+        "submitter": "4f10bc6a-3351-4a2f-a950-4a7b36998d22",
+        "timestampEnd": 1779728400,
+        "timestampStart": 1779642000,
+        "timestampUpload": 1778400226,
+        "weekDay": 6,
         "year": 2026
     }
 }
