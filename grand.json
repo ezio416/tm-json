@@ -372,5 +372,27 @@
         "timestampUpload": 1778513462,
         "week": 21,
         "year": 2026
+    },
+    "H1sUW0AjBcZUn8zSTnDKufwOfTi": {
+        "author": "8710ed78-e877-4c2f-a0c0-09d55f0d1c26",
+        "authorTime": 522012,
+        "bronzeTime": 784000,
+        "campaignId": 139288,
+        "goldTime": 554000,
+        "mapId": "e9598cf1-a557-4241-9db0-f1abee0db11e",
+        "mapIndex": 0,
+        "mapUid": "H1sUW0AjBcZUn8zSTnDKufwOfTi",
+        "name": "G - mesa madness",
+        "number": 22,
+        "seasonUid": "8ee05144-dd13-4428-b58a-ca9d9abeb3a3",
+        "silverTime": 627000,
+        "submitter": "8710ed78-e877-4c2f-a0c0-09d55f0d1c26",
+        "timestampEdition": 1779448050,
+        "timestampEnd": 1780243200,
+        "timestampRankingSent": 0,
+        "timestampStart": 1779638400,
+        "timestampUpload": 1779128129,
+        "week": 22,
+        "year": 2026
     }
 }
