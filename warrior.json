@@ -1,5 +1,5 @@
 {
-    "next": 1779649200,
+    "next": 1779735600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -35108,6 +35108,17 @@
             "worldRecord": 48858,
             "mapId": "9302f40f-cd96-4d17-9e07-8f31ad4e4e03",
             "goldTime": 55000
+        },
+        {
+            "authorTime": 32939,
+            "date": "2026-05-24",
+            "mapUid": "z0JeDUH5yrzPNFP3UmisT0P797d",
+            "name": "Snakebite_DTX",
+            "reason": null,
+            "warriorTime": 32848,
+            "worldRecord": 32208,
+            "mapId": "f6652539-d1d6-44b6-9f82-55fc7b2d57b2",
+            "goldTime": 35000
         }
     ],
     "Other": [
