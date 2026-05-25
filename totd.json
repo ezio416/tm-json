@@ -45232,5 +45232,26 @@
         "timestampUpload": 1778400226,
         "weekDay": 6,
         "year": 2026
+    },
+    "tZDfsLHPu3n6MEi258KSMlBUqj7": {
+        "author": "de590c4e-f98c-4783-afa8-a01efb069ceb",
+        "authorTime": 43692,
+        "bronzeTime": 66000,
+        "campaignId": 139292,
+        "goldTime": 47000,
+        "mapId": "fe3ff311-4a45-422b-9fdd-993913ee956e",
+        "mapUid": "tZDfsLHPu3n6MEi258KSMlBUqj7",
+        "month": 5,
+        "monthDay": 25,
+        "name": "$i$FCCLun$FCBae ve$FCArita$FC9tis $fffft'Taco",
+        "number": 2155,
+        "seasonUid": "6bfd8803-13ae-4e7e-812f-c4b24c24ad1c",
+        "silverTime": 53000,
+        "submitter": "de590c4e-f98c-4783-afa8-a01efb069ceb",
+        "timestampEnd": 1779814800,
+        "timestampStart": 1779728400,
+        "timestampUpload": 1779213470,
+        "weekDay": 0,
+        "year": 2026
     }
 }
