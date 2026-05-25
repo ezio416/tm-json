@@ -1,5 +1,5 @@
 {
-    "next": 1779735600,
+    "next": 1779811200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -35119,6 +35119,17 @@
             "worldRecord": 32208,
             "mapId": "f6652539-d1d6-44b6-9f82-55fc7b2d57b2",
             "goldTime": 35000
+        },
+        {
+            "authorTime": 43692,
+            "date": "2026-05-25",
+            "mapUid": "tZDfsLHPu3n6MEi258KSMlBUqj7",
+            "name": "$i$FCCLun$FCBae ve$FCArita$FC9tis $fffft'Taco",
+            "reason": null,
+            "warriorTime": 43575,
+            "worldRecord": 42754,
+            "mapId": "fe3ff311-4a45-422b-9fdd-993913ee956e",
+            "goldTime": 47000
         }
     ],
     "Other": [
