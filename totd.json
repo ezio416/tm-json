@@ -45250,8 +45250,29 @@
         "submitter": "de590c4e-f98c-4783-afa8-a01efb069ceb",
         "timestampEnd": 1779814800,
         "timestampStart": 1779728400,
-        "timestampUpload": 1779213470,
+        "timestampUpload": 1779729183,
         "weekDay": 0,
+        "year": 2026
+    },
+    "YqIrlLbWIWqYGfOUprwPOjvpQG5": {
+        "author": "d53a4fa1-4d6a-4649-bc82-2dfc1ba2da4b",
+        "authorTime": 53035,
+        "bronzeTime": 80000,
+        "campaignId": 139805,
+        "goldTime": 57000,
+        "mapId": "961e7624-caa8-4a1b-8f46-0c06fb62798d",
+        "mapUid": "YqIrlLbWIWqYGfOUprwPOjvpQG5",
+        "month": 5,
+        "monthDay": 26,
+        "name": "[AS] $s$f72Race of Cha$f84mpi$f96ons $zft' Artroy & xJKlyS",
+        "number": 2156,
+        "seasonUid": "4f0ac7c0-74ee-4a9f-9c10-3ed0605268e2",
+        "silverTime": 64000,
+        "submitter": "91ecc3e6-ef3c-4ed9-bf33-a79fdfc15129",
+        "timestampEnd": 1779901200,
+        "timestampStart": 1779814800,
+        "timestampUpload": 1779720767,
+        "weekDay": 1,
         "year": 2026
     }
 }
