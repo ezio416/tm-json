@@ -1,5 +1,5 @@
 {
-    "next": 1779811200,
+    "next": 1779822000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -283,6 +283,19 @@
             "goldTime": 664000,
             "campaignId": 137991,
             "week": 21
+        },
+        {
+            "authorTime": 522012,
+            "mapUid": "H1sUW0AjBcZUn8zSTnDKufwOfTi",
+            "name": "G - mesa madness",
+            "number": 22,
+            "reason": null,
+            "warriorTime": 486024,
+            "worldRecord": 426042,
+            "mapId": "e9598cf1-a557-4241-9db0-f1abee0db11e",
+            "goldTime": 554000,
+            "campaignId": 139288,
+            "week": 22
         }
     ],
     "Seasonal": [
