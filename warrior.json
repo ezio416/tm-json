@@ -1,5 +1,5 @@
 {
-    "next": 1779822000,
+    "next": 1779908400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -35143,6 +35143,17 @@
             "worldRecord": 42754,
             "mapId": "fe3ff311-4a45-422b-9fdd-993913ee956e",
             "goldTime": 47000
+        },
+        {
+            "authorTime": 53035,
+            "date": "2026-05-26",
+            "mapUid": "YqIrlLbWIWqYGfOUprwPOjvpQG5",
+            "name": "[AS] $s$f72Race of Cha$f84mpi$f96ons $zft' Artroy & xJKlyS",
+            "reason": null,
+            "warriorTime": 52639,
+            "worldRecord": 49864,
+            "mapId": "961e7624-caa8-4a1b-8f46-0c06fb62798d",
+            "goldTime": 57000
         }
     ],
     "Other": [
