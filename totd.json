@@ -45274,5 +45274,26 @@
         "timestampUpload": 1779720767,
         "weekDay": 1,
         "year": 2026
+    },
+    "qU3qdfz5hvVlxdID0VQdegJt3a7": {
+        "author": "c8a25ce4-3a28-4c70-be13-598ae3618d27",
+        "authorTime": 43105,
+        "bronzeTime": 65000,
+        "campaignId": 139967,
+        "goldTime": 46000,
+        "mapId": "b5e8f951-a10c-4147-ab1d-d4a607575b33",
+        "mapUid": "qU3qdfz5hvVlxdID0VQdegJt3a7",
+        "month": 5,
+        "monthDay": 27,
+        "name": "Doirt",
+        "number": 2157,
+        "seasonUid": "2ea5bf2c-b9f8-4448-bc0a-493c86f97c18",
+        "silverTime": 52000,
+        "submitter": "c8a25ce4-3a28-4c70-be13-598ae3618d27",
+        "timestampEnd": 1779987600,
+        "timestampStart": 1779901200,
+        "timestampUpload": 1732393020,
+        "weekDay": 2,
+        "year": 2026
     }
 }
