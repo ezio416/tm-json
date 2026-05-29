@@ -1,5 +1,5 @@
 {
-    "next": 1780081200,
+    "next": 1780167600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -35176,6 +35176,17 @@
             "worldRecord": 46965,
             "mapId": "45e97a8b-5fa0-4a1f-a56b-da49b977d3ce",
             "goldTime": 51000
+        },
+        {
+            "authorTime": 42747,
+            "date": "2026-05-29",
+            "mapUid": "_FraFuKWLX_WBz2NI7mHtG5lvoa",
+            "name": "$s$ff Bouncy Castle",
+            "reason": null,
+            "warriorTime": 42674,
+            "worldRecord": 42162,
+            "mapId": "9d162c16-99df-41b2-b687-d7bc9b1f7b06",
+            "goldTime": 46000
         }
     ],
     "Other": [
