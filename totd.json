@@ -45316,5 +45316,26 @@
         "timestampUpload": 1779638652,
         "weekDay": 3,
         "year": 2026
+    },
+    "_FraFuKWLX_WBz2NI7mHtG5lvoa": {
+        "author": "5a1b3368-d3cb-4a13-93e8-ff9800d7df2f",
+        "authorTime": 42747,
+        "bronzeTime": 65000,
+        "campaignId": 140172,
+        "goldTime": 46000,
+        "mapId": "9d162c16-99df-41b2-b687-d7bc9b1f7b06",
+        "mapUid": "_FraFuKWLX_WBz2NI7mHtG5lvoa",
+        "month": 5,
+        "monthDay": 29,
+        "name": "$s$ff Bouncy Castle",
+        "number": 2159,
+        "seasonUid": "7ccd194b-e915-4884-b504-1cfa3de46a03",
+        "silverTime": 52000,
+        "submitter": "5a1b3368-d3cb-4a13-93e8-ff9800d7df2f",
+        "timestampEnd": 1780160400,
+        "timestampStart": 1780074000,
+        "timestampUpload": 1778425681,
+        "weekDay": 4,
+        "year": 2026
     }
 }
