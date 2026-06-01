@@ -28387,7 +28387,7 @@
         "submitter": "38559d59-6a7e-4c76-8d84-5f7456581429",
         "timestampEnd": 1710439200,
         "timestampStart": 1710352800,
-        "timestampUpload": 1730322265,
+        "timestampUpload": 1780279421,
         "weekDay": 2,
         "year": 2024
     },
@@ -30445,7 +30445,7 @@
         "submitter": "38559d59-6a7e-4c76-8d84-5f7456581429",
         "timestampEnd": 1718902800,
         "timestampStart": 1718816400,
-        "timestampUpload": 1730322282,
+        "timestampUpload": 1780279421,
         "weekDay": 2,
         "year": 2024
     },
@@ -31558,7 +31558,7 @@
         "submitter": "38559d59-6a7e-4c76-8d84-5f7456581429",
         "timestampEnd": 1723482000,
         "timestampStart": 1723395600,
-        "timestampUpload": 1730322278,
+        "timestampUpload": 1780279421,
         "weekDay": 6,
         "year": 2024
     },
@@ -45378,6 +45378,27 @@
         "timestampStart": 1780246800,
         "timestampUpload": 1779917862,
         "weekDay": 6,
+        "year": 2026
+    },
+    "eXBJaLi77IQlmn97nGSUDliJbM5": {
+        "author": "46dcc889-73cb-4df5-8b44-d5a5e6addfec",
+        "authorTime": 33530,
+        "bronzeTime": 51000,
+        "campaignId": 140178,
+        "goldTime": 36000,
+        "mapId": "6e7fe075-40d2-4ad0-8380-81ed004f9217",
+        "mapUid": "eXBJaLi77IQlmn97nGSUDliJbM5",
+        "month": 6,
+        "monthDay": 1,
+        "name": "$S$ISomewhere Beyond The Moon",
+        "number": 2162,
+        "seasonUid": "ec669862-9add-4b60-b9e1-509c87e45ac1",
+        "silverTime": 41000,
+        "submitter": "46dcc889-73cb-4df5-8b44-d5a5e6addfec",
+        "timestampEnd": 1780419600,
+        "timestampStart": 1780333200,
+        "timestampUpload": 1773257351,
+        "weekDay": 0,
         "year": 2026
     }
 }
