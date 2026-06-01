@@ -1,5 +1,5 @@
 {
-    "next": 1780340400,
+    "next": 1780416000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -35209,6 +35209,17 @@
             "worldRecord": 45332,
             "mapId": "b4fc06f8-b4dd-44d2-a61c-6fb45fc19a1c",
             "goldTime": 53000
+        },
+        {
+            "authorTime": 33530,
+            "date": "2026-06-01",
+            "mapUid": "eXBJaLi77IQlmn97nGSUDliJbM5",
+            "name": "$S$ISomewhere Beyond The Moon",
+            "reason": null,
+            "warriorTime": 33254,
+            "worldRecord": 31315,
+            "mapId": "6e7fe075-40d2-4ad0-8380-81ed004f9217",
+            "goldTime": 36000
         }
     ],
     "Other": [
