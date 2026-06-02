@@ -1,5 +1,5 @@
 {
-    "next": 1780416000,
+    "next": 1780426800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -296,6 +296,19 @@
             "goldTime": 554000,
             "campaignId": 139288,
             "week": 22
+        },
+        {
+            "authorTime": 520012,
+            "mapUid": "WatsJ4TbApKPxeJ9yDXke8AFFq8",
+            "name": "G - Obwin$000Grand $gft' Heravan",
+            "number": 23,
+            "reason": null,
+            "warriorTime": 480992,
+            "worldRecord": 415958,
+            "mapId": "f4b9cf34-ea2d-42cf-a599-f782ee6691e9",
+            "goldTime": 552000,
+            "campaignId": 140480,
+            "week": 23
         }
     ],
     "Seasonal": [
