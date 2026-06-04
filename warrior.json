@@ -1,5 +1,5 @@
 {
-    "next": 1780599600,
+    "next": 1780686000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -35255,6 +35255,17 @@
             "worldRecord": 43111,
             "mapId": "4b5918cc-1c8e-422c-8fbd-c6b97692a812",
             "goldTime": 48000
+        },
+        {
+            "authorTime": 46718,
+            "date": "2026-06-04",
+            "mapUid": "fGopGlg3S8oLzzgZDzTo5oAOZd2",
+            "name": "ArtSick",
+            "reason": null,
+            "warriorTime": 46681,
+            "worldRecord": 46418,
+            "mapId": "5f5d6011-0eba-4e38-b448-65aa3f928310",
+            "goldTime": 50000
         }
     ],
     "Other": [
