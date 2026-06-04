@@ -45442,5 +45442,26 @@
         "timestampUpload": 1748306563,
         "weekDay": 2,
         "year": 2026
+    },
+    "fGopGlg3S8oLzzgZDzTo5oAOZd2": {
+        "author": "cb747c0d-dad7-42f2-b900-ca9efb284c86",
+        "authorTime": 46718,
+        "bronzeTime": 71000,
+        "campaignId": 141308,
+        "goldTime": 50000,
+        "mapId": "5f5d6011-0eba-4e38-b448-65aa3f928310",
+        "mapUid": "fGopGlg3S8oLzzgZDzTo5oAOZd2",
+        "month": 6,
+        "monthDay": 4,
+        "name": "ArtSick",
+        "number": 2165,
+        "seasonUid": "0cf96e11-5747-45f8-ae48-48a3da088fed",
+        "silverTime": 57000,
+        "submitter": "cb747c0d-dad7-42f2-b900-ca9efb284c86",
+        "timestampEnd": 1780678800,
+        "timestampStart": 1780592400,
+        "timestampUpload": 1780179736,
+        "weekDay": 3,
+        "year": 2026
     }
 }
