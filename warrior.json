@@ -1,5 +1,5 @@
 {
-    "next": 1780772400,
+    "next": 1780858800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -35277,6 +35277,17 @@
             "worldRecord": 41698,
             "mapId": "e3c86d19-dc14-49a1-bf55-7088ec599f20",
             "goldTime": 46000
+        },
+        {
+            "authorTime": 61105,
+            "date": "2026-06-06",
+            "mapUid": "OygJ4K0MATb_UKd_nfi2AXmYuZa",
+            "name": "MLE - Calaboose",
+            "reason": null,
+            "warriorTime": 60884,
+            "worldRecord": 59335,
+            "mapId": "da07f213-8fe7-49db-bd16-fe9ad1325b4a",
+            "goldTime": 65000
         }
     ],
     "Other": [
