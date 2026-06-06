@@ -45484,5 +45484,26 @@
         "timestampUpload": 1780170753,
         "weekDay": 4,
         "year": 2026
+    },
+    "OygJ4K0MATb_UKd_nfi2AXmYuZa": {
+        "author": "0011d4b9-a323-474d-9fe2-92cb38b9fd05",
+        "authorTime": 61105,
+        "bronzeTime": 92000,
+        "campaignId": 141304,
+        "goldTime": 65000,
+        "mapId": "da07f213-8fe7-49db-bd16-fe9ad1325b4a",
+        "mapUid": "OygJ4K0MATb_UKd_nfi2AXmYuZa",
+        "month": 6,
+        "monthDay": 6,
+        "name": "MLE - Calaboose",
+        "number": 2167,
+        "seasonUid": "18541d6d-5bd6-4d64-9b61-80e8df3c78ea",
+        "silverTime": 74000,
+        "submitter": "383df219-53b5-41ce-b7a8-bd53d95d531a",
+        "timestampEnd": 1780851600,
+        "timestampStart": 1780765200,
+        "timestampUpload": 1780250471,
+        "weekDay": 5,
+        "year": 2026
     }
 }
