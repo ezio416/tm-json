@@ -416,5 +416,27 @@
         "timestampUpload": 1779453175,
         "week": 23,
         "year": 2026
+    },
+    "29ffnmnFK1ER14p0SwlaMqaziF5": {
+        "author": "43ebff70-bc3b-4d4c-9d0d-19da89c223e8",
+        "authorTime": 453385,
+        "bronzeTime": 681000,
+        "campaignId": 141476,
+        "goldTime": 481000,
+        "mapId": "0b36a94b-f03f-4eb6-ac3f-fbc18ba35d0b",
+        "mapIndex": 0,
+        "mapUid": "29ffnmnFK1ER14p0SwlaMqaziF5",
+        "name": "G - $s$o$800Grand $C00Red-$FFFemption",
+        "number": 24,
+        "seasonUid": "fcadb645-7ddf-4b4e-9fc3-de35b672586d",
+        "silverTime": 545000,
+        "submitter": "43ebff70-bc3b-4d4c-9d0d-19da89c223e8",
+        "timestampEdition": 1780630129,
+        "timestampEnd": 1781452800,
+        "timestampRankingSent": 0,
+        "timestampStart": 1780848000,
+        "timestampUpload": 1780488024,
+        "week": 24,
+        "year": 2026
     }
 }
