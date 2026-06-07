@@ -45334,7 +45334,7 @@
         "submitter": "5a1b3368-d3cb-4a13-93e8-ff9800d7df2f",
         "timestampEnd": 1780160400,
         "timestampStart": 1780074000,
-        "timestampUpload": 1778425681,
+        "timestampUpload": 1780813761,
         "weekDay": 4,
         "year": 2026
     },
@@ -45481,7 +45481,7 @@
         "submitter": "2b3c5767-148b-4fba-9baa-2d5930db2973",
         "timestampEnd": 1780765200,
         "timestampStart": 1780678800,
-        "timestampUpload": 1780170753,
+        "timestampUpload": 1780778662,
         "weekDay": 4,
         "year": 2026
     },
@@ -45504,6 +45504,27 @@
         "timestampStart": 1780765200,
         "timestampUpload": 1780250471,
         "weekDay": 5,
+        "year": 2026
+    },
+    "gmcDMkOTcgZ5ZHxYVYtk9gSK1h2": {
+        "author": "3792698d-1156-4502-ab27-10daa29ae8eb",
+        "authorTime": 44671,
+        "bronzeTime": 68000,
+        "campaignId": 141306,
+        "goldTime": 48000,
+        "mapId": "80af3999-b76f-4184-8d37-53572dc79e47",
+        "mapUid": "gmcDMkOTcgZ5ZHxYVYtk9gSK1h2",
+        "month": 6,
+        "monthDay": 7,
+        "name": "$d44Thats B*mping Awesome! [COTD Edition]",
+        "number": 2168,
+        "seasonUid": "2e049fc0-bba1-4c58-a369-844f61293a55",
+        "silverTime": 54000,
+        "submitter": "3792698d-1156-4502-ab27-10daa29ae8eb",
+        "timestampEnd": 1780938000,
+        "timestampStart": 1780851600,
+        "timestampUpload": 1780087469,
+        "weekDay": 6,
         "year": 2026
     }
 }
