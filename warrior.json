@@ -1,5 +1,5 @@
 {
-    "next": 1781020800,
+    "next": 1781031600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -309,6 +309,19 @@
             "goldTime": 552000,
             "campaignId": 140480,
             "week": 23
+        },
+        {
+            "authorTime": 453385,
+            "mapUid": "29ffnmnFK1ER14p0SwlaMqaziF5",
+            "name": "G - $s$o$800Grand $C00Red-$FFFemption",
+            "number": 24,
+            "reason": null,
+            "warriorTime": 422718,
+            "worldRecord": 371604,
+            "mapId": "0b36a94b-f03f-4eb6-ac3f-fbc18ba35d0b",
+            "goldTime": 481000,
+            "campaignId": 141476,
+            "week": 24
         }
     ],
     "Seasonal": [
