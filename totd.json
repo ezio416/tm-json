@@ -45631,5 +45631,26 @@
         "timestampUpload": 1780528525,
         "weekDay": 4,
         "year": 2026
+    },
+    "l3_lDPWMfU4qbi2twYG6Cr2Rzq2": {
+        "author": "e1323a39-f817-48ed-ac40-09968bbe9458",
+        "authorTime": 44311,
+        "bronzeTime": 67000,
+        "campaignId": 142604,
+        "goldTime": 47000,
+        "mapId": "750500ed-55e3-4803-aad4-ef99029d68c4",
+        "mapUid": "l3_lDPWMfU4qbi2twYG6Cr2Rzq2",
+        "month": 6,
+        "monthDay": 13,
+        "name": "[QCC] $o$9eeLily $fffof the $facWind",
+        "number": 2174,
+        "seasonUid": "ffcbdf55-8b8d-4906-bd68-f70aff4ee98b",
+        "silverTime": 54000,
+        "submitter": "e1323a39-f817-48ed-ac40-09968bbe9458",
+        "timestampEnd": 1781456400,
+        "timestampStart": 1781370000,
+        "timestampUpload": 1738503178,
+        "weekDay": 5,
+        "year": 2026
     }
 }
