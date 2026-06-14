@@ -438,5 +438,27 @@
         "timestampUpload": 1780488024,
         "week": 24,
         "year": 2026
+    },
+    "fi_ScqcY_Nm3LUWeTIp4MVMSCRd": {
+        "author": "8710ed78-e877-4c2f-a0c0-09d55f0d1c26",
+        "authorTime": 561997,
+        "bronzeTime": 843000,
+        "campaignId": 142601,
+        "goldTime": 596000,
+        "mapId": "8fad2b01-3aed-4e84-b39d-dc5877a2953c",
+        "mapIndex": 0,
+        "mapUid": "fi_ScqcY_Nm3LUWeTIp4MVMSCRd",
+        "name": "G - $o$n$90FWalk$B5F $BBAin the$C9F $9D9Park",
+        "number": 25,
+        "seasonUid": "a6738a37-9c22-4b92-be25-a1ef504251a5",
+        "silverTime": 675000,
+        "submitter": "8710ed78-e877-4c2f-a0c0-09d55f0d1c26",
+        "timestampEdition": 1781249897,
+        "timestampEnd": 1782057600,
+        "timestampRankingSent": 0,
+        "timestampStart": 1781452800,
+        "timestampUpload": 1780492403,
+        "week": 25,
+        "year": 2026
     }
 }
