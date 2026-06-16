@@ -1,5 +1,5 @@
 {
-    "next": 1781625600,
+    "next": 1781636400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -322,6 +322,19 @@
             "goldTime": 481000,
             "campaignId": 141476,
             "week": 24
+        },
+        {
+            "authorTime": 561997,
+            "mapUid": "fi_ScqcY_Nm3LUWeTIp4MVMSCRd",
+            "name": "G - $o$n$90FWalk$B5F $BBAin the$C9F $9D9Park",
+            "number": 25,
+            "reason": null,
+            "warriorTime": 531739,
+            "worldRecord": 481308,
+            "mapId": "8fad2b01-3aed-4e84-b39d-dc5877a2953c",
+            "goldTime": 596000,
+            "campaignId": 142601,
+            "week": 25
         }
     ],
     "Seasonal": [
