@@ -1,5 +1,5 @@
 {
-    "next": 1781636400,
+    "next": 1781722800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -35391,6 +35391,17 @@
             "worldRecord": 43505,
             "mapId": "a69b6f84-ce8b-4216-9ff0-ca6dd845996d",
             "goldTime": 47000
+        },
+        {
+            "authorTime": 48018,
+            "date": "2026-06-16",
+            "mapUid": "hAc4mGujLuGFUyKymIWowm1_eRh",
+            "name": "Greetings from Finland",
+            "reason": null,
+            "warriorTime": 47963,
+            "worldRecord": 47577,
+            "mapId": "08d2df80-45aa-4933-b51b-22bf64afe092",
+            "goldTime": 51000
         }
     ],
     "Other": [
