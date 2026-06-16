@@ -45694,5 +45694,26 @@
         "timestampUpload": 1779993369,
         "weekDay": 0,
         "year": 2026
+    },
+    "hAc4mGujLuGFUyKymIWowm1_eRh": {
+        "author": "88c2a160-6cc6-4a5d-9624-d0582ff503aa",
+        "authorTime": 48018,
+        "bronzeTime": 73000,
+        "campaignId": 142964,
+        "goldTime": 51000,
+        "mapId": "08d2df80-45aa-4933-b51b-22bf64afe092",
+        "mapUid": "hAc4mGujLuGFUyKymIWowm1_eRh",
+        "month": 6,
+        "monthDay": 16,
+        "name": "Greetings from Finland",
+        "number": 2177,
+        "seasonUid": "1ed53653-5cbf-49c9-b447-b13922c6eb53",
+        "silverTime": 58000,
+        "submitter": "88c2a160-6cc6-4a5d-9624-d0582ff503aa",
+        "timestampEnd": 1781715600,
+        "timestampStart": 1781629200,
+        "timestampUpload": 1781109139,
+        "weekDay": 1,
+        "year": 2026
     }
 }
