@@ -45712,8 +45712,29 @@
         "submitter": "88c2a160-6cc6-4a5d-9624-d0582ff503aa",
         "timestampEnd": 1781715600,
         "timestampStart": 1781629200,
-        "timestampUpload": 1781109139,
+        "timestampUpload": 1781637174,
         "weekDay": 1,
+        "year": 2026
+    },
+    "eIOU8SCEFbdOt6qymLOBfGX_j78": {
+        "author": "1fd61635-57f7-46a7-aa4e-6bc93046b325",
+        "authorTime": 49247,
+        "bronzeTime": 74000,
+        "campaignId": 142963,
+        "goldTime": 53000,
+        "mapId": "05c16cc5-a337-4309-9f87-c124b60e0d10",
+        "mapUid": "eIOU8SCEFbdOt6qymLOBfGX_j78",
+        "month": 6,
+        "monthDay": 17,
+        "name": "$o$nSNRGY\u00b2 - Better Late Than Never",
+        "number": 2178,
+        "seasonUid": "25024198-67d4-4027-86b7-09c361bca20f",
+        "silverTime": 60000,
+        "submitter": "aa02b90e-0652-4a1c-b705-4677e2983003",
+        "timestampEnd": 1781802000,
+        "timestampStart": 1781715600,
+        "timestampUpload": 1781438545,
+        "weekDay": 2,
         "year": 2026
     }
 }
