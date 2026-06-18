@@ -1,5 +1,5 @@
 {
-    "next": 1781809200,
+    "next": 1781895600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -35479,6 +35479,17 @@
             "worldRecord": 48080,
             "mapId": "05c16cc5-a337-4309-9f87-c124b60e0d10",
             "goldTime": 53000
+        },
+        {
+            "authorTime": 41335,
+            "date": "2026-06-18",
+            "mapUid": "Y8ptWjTH8JFTYfUdrLxR1iUyES8",
+            "name": "Trade-Off",
+            "reason": null,
+            "warriorTime": 41246,
+            "worldRecord": 40618,
+            "mapId": "dd232bdd-3563-4ca7-9fba-5a68e2599af1",
+            "goldTime": 44000
         }
     ],
     "Other": [
