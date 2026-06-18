@@ -45736,5 +45736,26 @@
         "timestampUpload": 1781438545,
         "weekDay": 2,
         "year": 2026
+    },
+    "Y8ptWjTH8JFTYfUdrLxR1iUyES8": {
+        "author": "8734f99c-fc4e-43e0-83d5-65291d8a0878",
+        "authorTime": 41335,
+        "bronzeTime": 63000,
+        "campaignId": 143356,
+        "goldTime": 44000,
+        "mapId": "dd232bdd-3563-4ca7-9fba-5a68e2599af1",
+        "mapUid": "Y8ptWjTH8JFTYfUdrLxR1iUyES8",
+        "month": 6,
+        "monthDay": 18,
+        "name": "Trade-Off",
+        "number": 2179,
+        "seasonUid": "96014527-c1e3-48ef-90f0-c9141db9f0ef",
+        "silverTime": 50000,
+        "submitter": "8734f99c-fc4e-43e0-83d5-65291d8a0878",
+        "timestampEnd": 1781888400,
+        "timestampStart": 1781802000,
+        "timestampUpload": 1781001571,
+        "weekDay": 3,
+        "year": 2026
     }
 }
