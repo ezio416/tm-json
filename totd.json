@@ -45778,5 +45778,26 @@
         "timestampUpload": 1781529489,
         "weekDay": 4,
         "year": 2026
+    },
+    "5T11YkumfHplo4JZJrxqLJSJwoa": {
+        "author": "5caf0042-0e73-4766-bbcc-a1c16cb4afd7",
+        "authorTime": 39441,
+        "bronzeTime": 60000,
+        "campaignId": 143679,
+        "goldTime": 42000,
+        "mapId": "87ca3668-cec5-4692-a726-17b26e46e61d",
+        "mapUid": "5T11YkumfHplo4JZJrxqLJSJwoa",
+        "month": 6,
+        "monthDay": 20,
+        "name": "White Space ft' Myth0cal",
+        "number": 2181,
+        "seasonUid": "181be7f0-aec2-4218-a3a1-02d3c6878138",
+        "silverTime": 48000,
+        "submitter": "5caf0042-0e73-4766-bbcc-a1c16cb4afd7",
+        "timestampEnd": 1782061200,
+        "timestampStart": 1781974800,
+        "timestampUpload": 1781542272,
+        "weekDay": 5,
+        "year": 2026
     }
 }
