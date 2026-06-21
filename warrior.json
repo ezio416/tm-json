@@ -1,5 +1,5 @@
 {
-    "next": 1782068400,
+    "next": 1782154800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -35512,6 +35512,17 @@
             "worldRecord": 38851,
             "mapId": "87ca3668-cec5-4692-a726-17b26e46e61d",
             "goldTime": 42000
+        },
+        {
+            "authorTime": 36091,
+            "date": "2026-06-21",
+            "mapUid": "1wnPGvK14INjb8W2Ka78wpFMvs4",
+            "name": "Jungle Lazy River",
+            "reason": null,
+            "warriorTime": 35847,
+            "worldRecord": 34138,
+            "mapId": "b6aca7e9-82e7-4d2c-bf50-c7ad958e1c28",
+            "goldTime": 39000
         }
     ],
     "Other": [
