@@ -460,5 +460,27 @@
         "timestampUpload": 1780492403,
         "week": 25,
         "year": 2026
+    },
+    "mIVBk_rdir6TdI4yj6v_iopOERk": {
+        "author": "cfa451b2-a8a6-4377-9060-03d431b22082",
+        "authorTime": 522205,
+        "bronzeTime": 784000,
+        "campaignId": 143681,
+        "goldTime": 554000,
+        "mapId": "70fe2824-3160-4356-8572-20561acb214f",
+        "mapIndex": 0,
+        "mapUid": "mIVBk_rdir6TdI4yj6v_iopOERk",
+        "name": "G - Cinder Island",
+        "number": 26,
+        "seasonUid": "f4676963-2089-4029-9e90-6aeb2e4408f3",
+        "silverTime": 627000,
+        "submitter": "cfa451b2-a8a6-4377-9060-03d431b22082",
+        "timestampEdition": 1781870631,
+        "timestampEnd": 1782662400,
+        "timestampRankingSent": 0,
+        "timestampStart": 1782057600,
+        "timestampUpload": 1778098193,
+        "week": 26,
+        "year": 2026
     }
 }
