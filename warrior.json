@@ -1,5 +1,5 @@
 {
-    "next": 1782230400,
+    "next": 1782241200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -335,6 +335,19 @@
             "goldTime": 596000,
             "campaignId": 142601,
             "week": 25
+        },
+        {
+            "authorTime": 522205,
+            "mapUid": "mIVBk_rdir6TdI4yj6v_iopOERk",
+            "name": "G - Cinder Island",
+            "number": 26,
+            "reason": null,
+            "warriorTime": 500082,
+            "worldRecord": 463208,
+            "mapId": "70fe2824-3160-4356-8572-20561acb214f",
+            "goldTime": 554000,
+            "campaignId": 143681,
+            "week": 26
         }
     ],
     "Seasonal": [
