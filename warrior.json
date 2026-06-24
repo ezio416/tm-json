@@ -1,5 +1,5 @@
 {
-    "next": 1782327600,
+    "next": 1782414000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -35558,6 +35558,17 @@
             "worldRecord": 47804,
             "mapId": "cbf61ecf-13ae-48d0-93a0-d460541bfa0d",
             "goldTime": 52000
+        },
+        {
+            "authorTime": 45388,
+            "date": "2026-06-24",
+            "mapUid": "UV6lnyWQHZ0kEc83rU1sVKS5tbm",
+            "name": "Forever Left to Live",
+            "reason": null,
+            "warriorTime": 45308,
+            "worldRecord": 44743,
+            "mapId": "6487eac7-57c8-4a87-843a-d309adebcddb",
+            "goldTime": 49000
         }
     ],
     "Other": [
