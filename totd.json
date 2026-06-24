@@ -45187,7 +45187,7 @@
         "submitter": "2b3c5767-148b-4fba-9baa-2d5930db2973",
         "timestampEnd": 1779555600,
         "timestampStart": 1779469200,
-        "timestampUpload": 1779212971,
+        "timestampUpload": 1782273984,
         "weekDay": 4,
         "year": 2026
     },
@@ -45481,7 +45481,7 @@
         "submitter": "2b3c5767-148b-4fba-9baa-2d5930db2973",
         "timestampEnd": 1780765200,
         "timestampStart": 1780678800,
-        "timestampUpload": 1780778662,
+        "timestampUpload": 1782273986,
         "weekDay": 4,
         "year": 2026
     },
@@ -45861,6 +45861,27 @@
         "timestampStart": 1782234000,
         "timestampUpload": 1779141218,
         "weekDay": 1,
+        "year": 2026
+    },
+    "UV6lnyWQHZ0kEc83rU1sVKS5tbm": {
+        "author": "36328818-d9ae-41f9-acd6-5c3564c7a1c5",
+        "authorTime": 45388,
+        "bronzeTime": 69000,
+        "campaignId": 144295,
+        "goldTime": 49000,
+        "mapId": "6487eac7-57c8-4a87-843a-d309adebcddb",
+        "mapUid": "UV6lnyWQHZ0kEc83rU1sVKS5tbm",
+        "month": 6,
+        "monthDay": 24,
+        "name": "Forever Left to Live",
+        "number": 2185,
+        "seasonUid": "269253a9-cf19-4dfb-ba3c-a5e08b88a4be",
+        "silverTime": 55000,
+        "submitter": "36328818-d9ae-41f9-acd6-5c3564c7a1c5",
+        "timestampEnd": 1782406800,
+        "timestampStart": 1782320400,
+        "timestampUpload": 1773530582,
+        "weekDay": 2,
         "year": 2026
     }
 }
