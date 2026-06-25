@@ -45883,5 +45883,26 @@
         "timestampUpload": 1773530582,
         "weekDay": 2,
         "year": 2026
+    },
+    "Oea3r3A1Tq3Mwk8gXWapEqQ60b6": {
+        "author": "5a1b3368-d3cb-4a13-93e8-ff9800d7df2f",
+        "authorTime": 41924,
+        "bronzeTime": 63000,
+        "campaignId": 144496,
+        "goldTime": 45000,
+        "mapId": "642e1f36-6cdb-4035-adfc-a71e8b6b9cef",
+        "mapUid": "Oea3r3A1Tq3Mwk8gXWapEqQ60b6",
+        "month": 6,
+        "monthDay": 25,
+        "name": "$i$s$b0fMarsupial Garden",
+        "number": 2186,
+        "seasonUid": "c2a5e116-b4bd-4c43-a453-1a4310647be5",
+        "silverTime": 51000,
+        "submitter": "5a1b3368-d3cb-4a13-93e8-ff9800d7df2f",
+        "timestampEnd": 1782493200,
+        "timestampStart": 1782406800,
+        "timestampUpload": 1781719068,
+        "weekDay": 3,
+        "year": 2026
     }
 }
