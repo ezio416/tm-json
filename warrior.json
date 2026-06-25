@@ -1,5 +1,5 @@
 {
-    "next": 1782414000,
+    "next": 1782500400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -35569,6 +35569,17 @@
             "worldRecord": 44743,
             "mapId": "6487eac7-57c8-4a87-843a-d309adebcddb",
             "goldTime": 49000
+        },
+        {
+            "authorTime": 41924,
+            "date": "2026-06-25",
+            "mapUid": "Oea3r3A1Tq3Mwk8gXWapEqQ60b6",
+            "name": "$i$s$b0fMarsupial Garden",
+            "reason": null,
+            "warriorTime": 41902,
+            "worldRecord": 41745,
+            "mapId": "642e1f36-6cdb-4035-adfc-a71e8b6b9cef",
+            "goldTime": 45000
         }
     ],
     "Other": [
