@@ -44242,7 +44242,7 @@
         "submitter": "dadbaf28-e7b5-429b-bf37-8c8c1419fcf4",
         "timestampEnd": 1775667600,
         "timestampStart": 1775581200,
-        "timestampUpload": 1774771809,
+        "timestampUpload": 1782450595,
         "weekDay": 1,
         "year": 2026
     },
@@ -45903,6 +45903,27 @@
         "timestampStart": 1782406800,
         "timestampUpload": 1781719068,
         "weekDay": 3,
+        "year": 2026
+    },
+    "XlI599qMmmSYkeF_iOjdkpKRlhk": {
+        "author": "82323873-ddff-4ec7-9bf5-8329b5da0a91",
+        "authorTime": 41602,
+        "bronzeTime": 63000,
+        "campaignId": 144499,
+        "goldTime": 45000,
+        "mapId": "09ffa0c7-f819-4cfb-998c-d0c870be872e",
+        "mapUid": "XlI599qMmmSYkeF_iOjdkpKRlhk",
+        "month": 6,
+        "monthDay": 26,
+        "name": "Lockin' the Slide",
+        "number": 2187,
+        "seasonUid": "dd315907-4b47-4c99-a648-300e74132a97",
+        "silverTime": 50000,
+        "submitter": "82323873-ddff-4ec7-9bf5-8329b5da0a91",
+        "timestampEnd": 1782579600,
+        "timestampStart": 1782493200,
+        "timestampUpload": 1782052542,
+        "weekDay": 4,
         "year": 2026
     }
 }
