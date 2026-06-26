@@ -1,5 +1,5 @@
 {
-    "next": 1782500400,
+    "next": 1782586800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -35579,6 +35579,17 @@
             "warriorTime": 41902,
             "worldRecord": 41745,
             "mapId": "642e1f36-6cdb-4035-adfc-a71e8b6b9cef",
+            "goldTime": 45000
+        },
+        {
+            "authorTime": 41602,
+            "date": "2026-06-26",
+            "mapUid": "XlI599qMmmSYkeF_iOjdkpKRlhk",
+            "name": "Lockin' the Slide",
+            "reason": null,
+            "warriorTime": 41523,
+            "worldRecord": 40963,
+            "mapId": "09ffa0c7-f819-4cfb-998c-d0c870be872e",
             "goldTime": 45000
         }
     ],
