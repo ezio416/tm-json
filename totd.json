@@ -45925,5 +45925,26 @@
         "timestampUpload": 1782052542,
         "weekDay": 4,
         "year": 2026
+    },
+    "gFlB4nqJf8TPK0rugCsUPWU2tDf": {
+        "author": "09d24735-d878-4164-a1e9-4d46b0464cce",
+        "authorTime": 48266,
+        "bronzeTime": 60000,
+        "campaignId": 144498,
+        "goldTime": 50000,
+        "mapId": "b4e16c15-30b5-4867-ae78-8c1be6f0cac8",
+        "mapUid": "gFlB4nqJf8TPK0rugCsUPWU2tDf",
+        "month": 6,
+        "monthDay": 27,
+        "name": "$24fBlueberry Rush",
+        "number": 2188,
+        "seasonUid": "ba1a48ad-de2e-4e86-8b2f-bbeb5a07a641",
+        "silverTime": 54000,
+        "submitter": "09d24735-d878-4164-a1e9-4d46b0464cce",
+        "timestampEnd": 1782666000,
+        "timestampStart": 1782579600,
+        "timestampUpload": 1773277187,
+        "weekDay": 5,
+        "year": 2026
     }
 }
