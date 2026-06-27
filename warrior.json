@@ -1,5 +1,5 @@
 {
-    "next": 1782586800,
+    "next": 1782673200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -35591,6 +35591,17 @@
             "worldRecord": 40963,
             "mapId": "09ffa0c7-f819-4cfb-998c-d0c870be872e",
             "goldTime": 45000
+        },
+        {
+            "authorTime": 48266,
+            "date": "2026-06-27",
+            "mapUid": "gFlB4nqJf8TPK0rugCsUPWU2tDf",
+            "name": "$24fBlueberry Rush",
+            "reason": null,
+            "warriorTime": 48139,
+            "worldRecord": 47246,
+            "mapId": "b4e16c15-30b5-4867-ae78-8c1be6f0cac8",
+            "goldTime": 50000
         }
     ],
     "Other": [
