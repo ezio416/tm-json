@@ -45946,5 +45946,26 @@
         "timestampUpload": 1773277187,
         "weekDay": 5,
         "year": 2026
+    },
+    "i0AEzTSaWEJCvprle5_zLzl5Ami": {
+        "author": "38d7168e-f106-4d90-bf59-686b0adf9fc3",
+        "authorTime": 44148,
+        "bronzeTime": 67000,
+        "campaignId": 144497,
+        "goldTime": 47000,
+        "mapId": "acd4020e-cebf-45e9-947d-bbb52d10ae3b",
+        "mapUid": "i0AEzTSaWEJCvprle5_zLzl5Ami",
+        "month": 6,
+        "monthDay": 28,
+        "name": "$o$s$4f4S$000M$4f4C $000 - $fff Machtou Pichtou",
+        "number": 2189,
+        "seasonUid": "8a7fe710-9f38-4fc8-9596-05d4a88e3760",
+        "silverTime": 53000,
+        "submitter": "38d7168e-f106-4d90-bf59-686b0adf9fc3",
+        "timestampEnd": 1782752400,
+        "timestampStart": 1782666000,
+        "timestampUpload": 1780866502,
+        "weekDay": 6,
+        "year": 2026
     }
 }
