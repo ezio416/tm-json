@@ -1,5 +1,5 @@
 {
-    "next": 1782673200,
+    "next": 1782759600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -35602,6 +35602,17 @@
             "worldRecord": 47246,
             "mapId": "b4e16c15-30b5-4867-ae78-8c1be6f0cac8",
             "goldTime": 50000
+        },
+        {
+            "authorTime": 44148,
+            "date": "2026-06-28",
+            "mapUid": "i0AEzTSaWEJCvprle5_zLzl5Ami",
+            "name": "$o$s$4f4S$000M$4f4C $000 - $fff Machtou Pichtou",
+            "reason": null,
+            "warriorTime": 43919,
+            "worldRecord": 42311,
+            "mapId": "acd4020e-cebf-45e9-947d-bbb52d10ae3b",
+            "goldTime": 47000
         }
     ],
     "Other": [
