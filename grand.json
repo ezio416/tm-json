@@ -391,7 +391,7 @@
         "timestampEnd": 1780243200,
         "timestampRankingSent": 0,
         "timestampStart": 1779638400,
-        "timestampUpload": 1779128129,
+        "timestampUpload": 1782294989,
         "week": 22,
         "year": 2026
     },
@@ -481,6 +481,28 @@
         "timestampStart": 1782057600,
         "timestampUpload": 1778098193,
         "week": 26,
+        "year": 2026
+    },
+    "l9kRdYtqK_XIsWrIeHav5s7xqkj": {
+        "author": "4ebca996-6efe-434b-a3c9-28970c77c864",
+        "authorTime": 598370,
+        "bronzeTime": 898000,
+        "campaignId": 144655,
+        "goldTime": 635000,
+        "mapId": "4515bf16-a80b-4679-86c2-0f752aa12405",
+        "mapIndex": 0,
+        "mapUid": "l9kRdYtqK_XIsWrIeHav5s7xqkj",
+        "name": "G - $s$o$F00Grand$FFFSand ft'Obwinang",
+        "number": 27,
+        "seasonUid": "f4ffd9db-9b8a-48d3-800d-fc143614f8d8",
+        "silverTime": 719000,
+        "submitter": "4ebca996-6efe-434b-a3c9-28970c77c864",
+        "timestampEdition": 1782439119,
+        "timestampEnd": 1783267200,
+        "timestampRankingSent": 0,
+        "timestampStart": 1782662400,
+        "timestampUpload": 1781895774,
+        "week": 27,
         "year": 2026
     }
 }
