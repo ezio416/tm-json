@@ -1,5 +1,5 @@
 {
-    "next": 1782835200,
+    "next": 1782846000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -348,6 +348,19 @@
             "goldTime": 554000,
             "campaignId": 143681,
             "week": 26
+        },
+        {
+            "authorTime": 598370,
+            "mapUid": "l9kRdYtqK_XIsWrIeHav5s7xqkj",
+            "name": "G - $s$o$F00Grand$FFFSand ft'Obwinang",
+            "number": 27,
+            "reason": null,
+            "warriorTime": 520706,
+            "worldRecord": 391266,
+            "mapId": "4515bf16-a80b-4679-86c2-0f752aa12405",
+            "goldTime": 635000,
+            "campaignId": 144655,
+            "week": 27
         }
     ],
     "Seasonal": [
