@@ -46030,5 +46030,26 @@
         "timestampUpload": 1747253321,
         "weekDay": 2,
         "year": 2026
+    },
+    "RAUyN3ayZ5eBP9jTIDj5VPme1bc": {
+        "author": "6e4dcf7a-6122-4f2f-8a3c-9428ef26db41",
+        "authorTime": 44108,
+        "bronzeTime": 83000,
+        "campaignId": 145320,
+        "goldTime": 47000,
+        "mapId": "4366bae8-1ae2-4136-933c-fd909cc5a437",
+        "mapUid": "RAUyN3ayZ5eBP9jTIDj5VPme1bc",
+        "month": 7,
+        "monthDay": 2,
+        "name": "$S$f60MICRO$i$AAAPLASTICS",
+        "number": 2193,
+        "seasonUid": "e4404fb3-58be-4d59-9a54-aae421591707",
+        "silverTime": 67000,
+        "submitter": "6e4dcf7a-6122-4f2f-8a3c-9428ef26db41",
+        "timestampEnd": 1783098000,
+        "timestampStart": 1783011600,
+        "timestampUpload": 1782389627,
+        "weekDay": 3,
+        "year": 2026
     }
 }
