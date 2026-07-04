@@ -1,5 +1,5 @@
 {
-    "next": 1783191600,
+    "next": 1783278000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -35681,6 +35681,17 @@
             "worldRecord": 49372,
             "mapId": "5c8df5bd-01d8-45dd-b06b-3c933ef033d4",
             "goldTime": 53000
+        },
+        {
+            "authorTime": 41121,
+            "date": "2026-07-04",
+            "mapUid": "7kE3VeDK0jdSUYfbI_IYBmfuAKl",
+            "name": "$s$i$oYou Bet $000Yon Can!",
+            "reason": null,
+            "warriorTime": 40949,
+            "worldRecord": 39738,
+            "mapId": "29ea02e5-78ca-4a6b-bac7-1b34b2a358c9",
+            "goldTime": 44000
         }
     ],
     "Other": [
