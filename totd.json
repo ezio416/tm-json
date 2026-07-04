@@ -46072,5 +46072,26 @@
         "timestampUpload": 1782750443,
         "weekDay": 4,
         "year": 2026
+    },
+    "7kE3VeDK0jdSUYfbI_IYBmfuAKl": {
+        "author": "506b41a3-156e-4073-baca-b31519852777",
+        "authorTime": 41121,
+        "bronzeTime": 62000,
+        "campaignId": 145971,
+        "goldTime": 44000,
+        "mapId": "29ea02e5-78ca-4a6b-bac7-1b34b2a358c9",
+        "mapUid": "7kE3VeDK0jdSUYfbI_IYBmfuAKl",
+        "month": 7,
+        "monthDay": 4,
+        "name": "$s$i$oYou Bet $000Yon Can!",
+        "number": 2195,
+        "seasonUid": "c1e66121-e7b4-4883-8294-9fd53eb8a40f",
+        "silverTime": 50000,
+        "submitter": "506b41a3-156e-4073-baca-b31519852777",
+        "timestampEnd": 1783270800,
+        "timestampStart": 1783184400,
+        "timestampUpload": 1782576301,
+        "weekDay": 5,
+        "year": 2026
     }
 }
