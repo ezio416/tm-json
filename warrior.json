@@ -1,5 +1,5 @@
 {
-    "next": 1783278000,
+    "next": 1783364400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -35692,6 +35692,17 @@
             "worldRecord": 39738,
             "mapId": "29ea02e5-78ca-4a6b-bac7-1b34b2a358c9",
             "goldTime": 44000
+        },
+        {
+            "authorTime": 59263,
+            "date": "2026-07-05",
+            "mapUid": "tdwiIPYoS30sksljtoEnhao5AHh",
+            "name": "MTC - Car $F00A$F20d$F40v$F60e$F80n$F90t$FB0u$FD0r$FF0e",
+            "reason": null,
+            "warriorTime": 58844,
+            "worldRecord": 55904,
+            "mapId": "856bf4aa-4cdd-4a84-97e3-88b252b67af2",
+            "goldTime": 63000
         }
     ],
     "Other": [
