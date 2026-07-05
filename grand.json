@@ -504,5 +504,27 @@
         "timestampUpload": 1781895774,
         "week": 27,
         "year": 2026
+    },
+    "5PoaaiAhTvK1aHPDQdim9r14AKi": {
+        "author": "70938029-a6e3-49e6-8ca2-e6eec32251e5",
+        "authorTime": 550103,
+        "bronzeTime": 826000,
+        "campaignId": 145968,
+        "goldTime": 584000,
+        "mapId": "cfa3ea66-e935-43e9-9951-53f1d3c7ba46",
+        "mapIndex": 0,
+        "mapUid": "5PoaaiAhTvK1aHPDQdim9r14AKi",
+        "name": "G - Plastic Waves",
+        "number": 28,
+        "seasonUid": "e0379b67-4569-469f-ab1e-76ec5233bf2d",
+        "silverTime": 661000,
+        "submitter": "70938029-a6e3-49e6-8ca2-e6eec32251e5",
+        "timestampEdition": 1783057761,
+        "timestampEnd": 1783872000,
+        "timestampRankingSent": 0,
+        "timestampStart": 1783267200,
+        "timestampUpload": 1782509047,
+        "week": 28,
+        "year": 2026
     }
 }
