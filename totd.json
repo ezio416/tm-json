@@ -46093,5 +46093,26 @@
         "timestampUpload": 1782576301,
         "weekDay": 5,
         "year": 2026
+    },
+    "tdwiIPYoS30sksljtoEnhao5AHh": {
+        "author": "8519608a-02f6-4f0f-b741-d203c6694496",
+        "authorTime": 59263,
+        "bronzeTime": 89000,
+        "campaignId": 145323,
+        "goldTime": 63000,
+        "mapId": "856bf4aa-4cdd-4a84-97e3-88b252b67af2",
+        "mapUid": "tdwiIPYoS30sksljtoEnhao5AHh",
+        "month": 7,
+        "monthDay": 5,
+        "name": "MTC - Car $F00A$F20d$F40v$F60e$F80n$F90t$FB0u$FD0r$FF0e",
+        "number": 2196,
+        "seasonUid": "293df993-83b9-4c04-8345-64b108bd97c5",
+        "silverTime": 72000,
+        "submitter": "8519608a-02f6-4f0f-b741-d203c6694496",
+        "timestampEnd": 1783357200,
+        "timestampStart": 1783270800,
+        "timestampUpload": 1782504727,
+        "weekDay": 6,
+        "year": 2026
     }
 }
