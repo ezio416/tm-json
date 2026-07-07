@@ -1,5 +1,5 @@
 {
-    "next": 1783440000,
+    "next": 1783450800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -361,6 +361,19 @@
             "goldTime": 635000,
             "campaignId": 144655,
             "week": 27
+        },
+        {
+            "authorTime": 550103,
+            "mapUid": "5PoaaiAhTvK1aHPDQdim9r14AKi",
+            "name": "G - Plastic Waves",
+            "number": 28,
+            "reason": null,
+            "warriorTime": 521767,
+            "worldRecord": 474538,
+            "mapId": "cfa3ea66-e935-43e9-9951-53f1d3c7ba46",
+            "goldTime": 584000,
+            "campaignId": 145968,
+            "week": 28
         }
     ],
     "Seasonal": [
