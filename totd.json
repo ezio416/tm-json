@@ -46177,5 +46177,26 @@
         "timestampUpload": 1782867712,
         "weekDay": 2,
         "year": 2026
+    },
+    "IV3A_Lxh_6CcEGiw3HAqeKkJUvk": {
+        "author": "9b71ebf0-86c8-4145-be11-db6941cb8f1a",
+        "authorTime": 54847,
+        "bronzeTime": 83000,
+        "campaignId": 146544,
+        "goldTime": 59000,
+        "mapId": "f90301d4-d521-4571-9792-0e289f890344",
+        "mapUid": "IV3A_Lxh_6CcEGiw3HAqeKkJUvk",
+        "month": 7,
+        "monthDay": 9,
+        "name": "$F00U$F88T$FFFR - De Rode Gladiool",
+        "number": 2200,
+        "seasonUid": "32150a61-8ce0-492a-ac23-22cfedbc5402",
+        "silverTime": 66000,
+        "submitter": "9b71ebf0-86c8-4145-be11-db6941cb8f1a",
+        "timestampEnd": 1783702800,
+        "timestampStart": 1783616400,
+        "timestampUpload": 1782236121,
+        "weekDay": 3,
+        "year": 2026
     }
 }
