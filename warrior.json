@@ -1,5 +1,5 @@
 {
-    "next": 1783623600,
+    "next": 1783710000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -35749,6 +35749,17 @@
             "worldRecord": 43586,
             "mapId": "5f94d6bd-9394-4858-ac4f-021807948c35",
             "goldTime": 48000
+        },
+        {
+            "authorTime": 54847,
+            "date": "2026-07-09",
+            "mapUid": "IV3A_Lxh_6CcEGiw3HAqeKkJUvk",
+            "name": "$F00U$F88T$FFFR - De Rode Gladiool",
+            "reason": null,
+            "warriorTime": 54830,
+            "worldRecord": 54711,
+            "mapId": "f90301d4-d521-4571-9792-0e289f890344",
+            "goldTime": 59000
         }
     ],
     "Other": [
