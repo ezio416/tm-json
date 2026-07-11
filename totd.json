@@ -46219,5 +46219,26 @@
         "timestampUpload": 1781997700,
         "weekDay": 4,
         "year": 2026
+    },
+    "6xhQOkNn42x_yCrz0QLRh8w0yVg": {
+        "author": "fcae29da-c97a-48a8-9158-2c96cd4dc02c",
+        "authorTime": 42187,
+        "bronzeTime": 64000,
+        "campaignId": 147155,
+        "goldTime": 45000,
+        "mapId": "868ff6b1-330c-4af2-af07-920f902941f4",
+        "mapUid": "6xhQOkNn42x_yCrz0QLRh8w0yVg",
+        "month": 7,
+        "monthDay": 11,
+        "name": "Tarka Rise",
+        "number": 2202,
+        "seasonUid": "b8faa9d4-351c-43ad-92fd-10352c6c7020",
+        "silverTime": 51000,
+        "submitter": "fcae29da-c97a-48a8-9158-2c96cd4dc02c",
+        "timestampEnd": 1783875600,
+        "timestampStart": 1783789200,
+        "timestampUpload": 1767628313,
+        "weekDay": 5,
+        "year": 2026
     }
 }
