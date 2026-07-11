@@ -1,5 +1,5 @@
 {
-    "next": 1783796400,
+    "next": 1783882800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -35771,6 +35771,17 @@
             "worldRecord": 38718,
             "mapId": "37808f95-050a-4ee4-bfce-06c8fd3e9ce6",
             "goldTime": 43000
+        },
+        {
+            "authorTime": 42187,
+            "date": "2026-07-11",
+            "mapUid": "6xhQOkNn42x_yCrz0QLRh8w0yVg",
+            "name": "Tarka Rise",
+            "reason": null,
+            "warriorTime": 42006,
+            "worldRecord": 40734,
+            "mapId": "868ff6b1-330c-4af2-af07-920f902941f4",
+            "goldTime": 45000
         }
     ],
     "Other": [
