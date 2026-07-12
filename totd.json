@@ -39811,7 +39811,7 @@
         "submitter": "a39b42d7-bcb9-4b91-89d8-adefcc874975",
         "timestampEnd": 1757437200,
         "timestampStart": 1757350800,
-        "timestampUpload": 1763696349,
+        "timestampUpload": 1783805719,
         "weekDay": 0,
         "year": 2025
     },
@@ -42310,7 +42310,7 @@
         "submitter": "a39b42d7-bcb9-4b91-89d8-adefcc874975",
         "timestampEnd": 1767722400,
         "timestampStart": 1767636000,
-        "timestampUpload": 1767666395,
+        "timestampUpload": 1783805719,
         "weekDay": 0,
         "year": 2026
     },
@@ -45670,7 +45670,7 @@
         "submitter": "a39b42d7-bcb9-4b91-89d8-adefcc874975",
         "timestampEnd": 1781542800,
         "timestampStart": 1781456400,
-        "timestampUpload": 1780443002,
+        "timestampUpload": 1783805719,
         "weekDay": 6,
         "year": 2026
     },
@@ -45859,7 +45859,7 @@
         "submitter": "a39b42d7-bcb9-4b91-89d8-adefcc874975",
         "timestampEnd": 1782320400,
         "timestampStart": 1782234000,
-        "timestampUpload": 1779141218,
+        "timestampUpload": 1783805719,
         "weekDay": 1,
         "year": 2026
     },
@@ -46239,6 +46239,27 @@
         "timestampStart": 1783789200,
         "timestampUpload": 1767628313,
         "weekDay": 5,
+        "year": 2026
+    },
+    "zEMpnBk25dUlxu3T9xtmz_v2Aw1": {
+        "author": "8710ed78-e877-4c2f-a0c0-09d55f0d1c26",
+        "authorTime": 54847,
+        "bronzeTime": 83000,
+        "campaignId": 147159,
+        "goldTime": 59000,
+        "mapId": "cbcc60e0-256d-412c-8bb0-4bdcc9039549",
+        "mapUid": "zEMpnBk25dUlxu3T9xtmz_v2Aw1",
+        "month": 7,
+        "monthDay": 12,
+        "name": "SONday Funyay",
+        "number": 2203,
+        "seasonUid": "f9e4b02f-cbea-4979-8644-31d098a9be66",
+        "silverTime": 66000,
+        "submitter": "8710ed78-e877-4c2f-a0c0-09d55f0d1c26",
+        "timestampEnd": 1783962000,
+        "timestampStart": 1783875600,
+        "timestampUpload": 1783004043,
+        "weekDay": 6,
         "year": 2026
     }
 }
