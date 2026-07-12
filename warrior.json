@@ -1,5 +1,5 @@
 {
-    "next": 1783882800,
+    "next": 1783969200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -35782,6 +35782,17 @@
             "worldRecord": 40734,
             "mapId": "868ff6b1-330c-4af2-af07-920f902941f4",
             "goldTime": 45000
+        },
+        {
+            "authorTime": 54847,
+            "date": "2026-07-12",
+            "mapUid": "zEMpnBk25dUlxu3T9xtmz_v2Aw1",
+            "name": "SONday Funyay",
+            "reason": null,
+            "warriorTime": 54728,
+            "worldRecord": 53888,
+            "mapId": "cbcc60e0-256d-412c-8bb0-4bdcc9039549",
+            "goldTime": 59000
         }
     ],
     "Other": [
