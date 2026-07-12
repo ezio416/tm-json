@@ -149,7 +149,7 @@
         "timestampEnd": 1773594000,
         "timestampRankingSent": 0,
         "timestampStart": 1772989200,
-        "timestampUpload": 1772755429,
+        "timestampUpload": 1783522981,
         "week": 11,
         "year": 2026
     },
@@ -525,6 +525,28 @@
         "timestampStart": 1783267200,
         "timestampUpload": 1782509047,
         "week": 28,
+        "year": 2026
+    },
+    "O7pVDMrlF84AWLSipFt_r5LBFe": {
+        "author": "9868f47b-1572-4bad-b0f4-e800c63ba8af",
+        "authorTime": 538884,
+        "bronzeTime": 809000,
+        "campaignId": 147153,
+        "goldTime": 572000,
+        "mapId": "7136848f-7a25-4582-b6c3-6bce9907adb4",
+        "mapIndex": 0,
+        "mapUid": "O7pVDMrlF84AWLSipFt_r5LBFe",
+        "name": "G - Justice at the forks",
+        "number": 29,
+        "seasonUid": "c7be1c13-2141-420b-b00d-0ba65cdec563",
+        "silverTime": 647000,
+        "submitter": "9868f47b-1572-4bad-b0f4-e800c63ba8af",
+        "timestampEdition": 1783672433,
+        "timestampEnd": 1784476800,
+        "timestampRankingSent": 0,
+        "timestampStart": 1783872000,
+        "timestampUpload": 1783100024,
+        "week": 29,
         "year": 2026
     }
 }
