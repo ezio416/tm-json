@@ -1,5 +1,5 @@
 {
-    "next": 1784044800,
+    "next": 1784055600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -374,6 +374,19 @@
             "goldTime": 584000,
             "campaignId": 145968,
             "week": 28
+        },
+        {
+            "authorTime": 538884,
+            "mapUid": "O7pVDMrlF84AWLSipFt_r5LBFe",
+            "name": "G - Justice at the forks",
+            "number": 29,
+            "reason": null,
+            "warriorTime": 502316,
+            "worldRecord": 441368,
+            "mapId": "7136848f-7a25-4582-b6c3-6bce9907adb4",
+            "goldTime": 572000,
+            "campaignId": 147153,
+            "week": 29
         }
     ],
     "Seasonal": [
