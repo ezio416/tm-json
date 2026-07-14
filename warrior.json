@@ -1,5 +1,5 @@
 {
-    "next": 1784055600,
+    "next": 1784127600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -35817,6 +35817,17 @@
             "worldRecord": 40871,
             "mapId": "8eb071a7-8676-445c-b869-c4b6f482499f",
             "goldTime": 45000
+        },
+        {
+            "authorTime": 40729,
+            "date": "2026-07-14",
+            "mapUid": "dasm3lJIt4jzbHOB9ObDEmvI9pc",
+            "name": "$s$i$FECCalvert Drain",
+            "reason": null,
+            "warriorTime": 40593,
+            "worldRecord": 39635,
+            "mapId": "443f6d93-5cf8-4353-a1ca-4a7a3cae80df",
+            "goldTime": 44000
         }
     ],
     "Other": [
