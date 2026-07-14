@@ -46282,5 +46282,26 @@
         "timestampUpload": 1780843532,
         "weekDay": 0,
         "year": 2026
+    },
+    "dasm3lJIt4jzbHOB9ObDEmvI9pc": {
+        "author": "eba667ab-bb2d-421b-ab7c-e98ad72f4abb",
+        "authorTime": 40729,
+        "bronzeTime": 62000,
+        "campaignId": 147157,
+        "goldTime": 44000,
+        "mapId": "443f6d93-5cf8-4353-a1ca-4a7a3cae80df",
+        "mapUid": "dasm3lJIt4jzbHOB9ObDEmvI9pc",
+        "month": 7,
+        "monthDay": 14,
+        "name": "$s$i$FECCalvert Drain",
+        "number": 2205,
+        "seasonUid": "cc74bd02-183f-4c5f-bdd6-2365eeb423d0",
+        "silverTime": 49000,
+        "submitter": "eba667ab-bb2d-421b-ab7c-e98ad72f4abb",
+        "timestampEnd": 1784134800,
+        "timestampStart": 1784048400,
+        "timestampUpload": 1783270451,
+        "weekDay": 1,
+        "year": 2026
     }
 }
