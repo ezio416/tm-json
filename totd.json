@@ -46324,5 +46324,26 @@
         "timestampUpload": 1738350729,
         "weekDay": 2,
         "year": 2026
+    },
+    "0pLD7M4oMRfPK8BiZH5Gatf7hR4": {
+        "author": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
+        "authorTime": 43010,
+        "bronzeTime": 55000,
+        "campaignId": 148331,
+        "goldTime": 45000,
+        "mapId": "69a95fc1-56e6-45ff-b671-ea5584c6a908",
+        "mapUid": "0pLD7M4oMRfPK8BiZH5Gatf7hR4",
+        "month": 7,
+        "monthDay": 16,
+        "name": "$z$s$db0G$eeeOLDEN SKANS FT' $db0M$eeeAP",
+        "number": 2207,
+        "seasonUid": "96133f1e-d0de-4ad3-98d9-e01381ffc6cf",
+        "silverTime": 49000,
+        "submitter": "24be0670-be26-44c2-bcb6-1ee6cea55640",
+        "timestampEnd": 1784307600,
+        "timestampStart": 1784221200,
+        "timestampUpload": 1783377980,
+        "weekDay": 3,
+        "year": 2026
     }
 }
