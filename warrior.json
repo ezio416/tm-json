@@ -1,5 +1,5 @@
 {
-    "next": 1784228400,
+    "next": 1784314800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36164,6 +36164,17 @@
             "worldRecord": 43082,
             "mapId": "005b3aac-3554-4fe7-8d7b-01f1e8b2e7c2",
             "goldTime": 47000
+        },
+        {
+            "authorTime": 43010,
+            "date": "2026-07-16",
+            "mapUid": "0pLD7M4oMRfPK8BiZH5Gatf7hR4",
+            "name": "$z$s$db0G$eeeOLDEN SKANS FT' $db0M$eeeAP",
+            "reason": null,
+            "warriorTime": 42963,
+            "worldRecord": 42632,
+            "mapId": "69a95fc1-56e6-45ff-b671-ea5584c6a908",
+            "goldTime": 45000
         }
     ],
     "Other": [
