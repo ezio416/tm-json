@@ -13414,7 +13414,7 @@
         "submitter": "3d71524d-922d-4755-9f9a-86bd93cedbf9",
         "timestampEnd": 1648832400,
         "timestampStart": 1648746000,
-        "timestampUpload": 1648056095,
+        "timestampUpload": 1784418436,
         "weekDay": 3,
         "year": 2022
     },
@@ -13645,7 +13645,7 @@
         "submitter": "3d71524d-922d-4755-9f9a-86bd93cedbf9",
         "timestampEnd": 1649782800,
         "timestampStart": 1649696400,
-        "timestampUpload": 1649531927,
+        "timestampUpload": 1784418436,
         "weekDay": 0,
         "year": 2022
     },
@@ -14044,7 +14044,7 @@
         "submitter": "3d71524d-922d-4755-9f9a-86bd93cedbf9",
         "timestampEnd": 1651424400,
         "timestampStart": 1651338000,
-        "timestampUpload": 1651075203,
+        "timestampUpload": 1784418436,
         "weekDay": 5,
         "year": 2022
     },
@@ -16606,7 +16606,7 @@
         "submitter": "3d71524d-922d-4755-9f9a-86bd93cedbf9",
         "timestampEnd": 1661965200,
         "timestampStart": 1661878800,
-        "timestampUpload": 1666735342,
+        "timestampUpload": 1784418436,
         "weekDay": 1,
         "year": 2022
     },
@@ -20050,7 +20050,7 @@
         "submitter": "3d71524d-922d-4755-9f9a-86bd93cedbf9",
         "timestampEnd": 1676138400,
         "timestampStart": 1676052000,
-        "timestampUpload": 1707081811,
+        "timestampUpload": 1784418436,
         "weekDay": 4,
         "year": 2023
     },
@@ -24082,7 +24082,7 @@
         "submitter": "3d71524d-922d-4755-9f9a-86bd93cedbf9",
         "timestampEnd": 1692723600,
         "timestampStart": 1692637200,
-        "timestampUpload": 1707081811,
+        "timestampUpload": 1784418436,
         "weekDay": 0,
         "year": 2023
     },
@@ -28450,7 +28450,7 @@
         "submitter": "3d71524d-922d-4755-9f9a-86bd93cedbf9",
         "timestampEnd": 1710698400,
         "timestampStart": 1710612000,
-        "timestampUpload": 1709581606,
+        "timestampUpload": 1784418436,
         "weekDay": 5,
         "year": 2024
     },
@@ -39244,7 +39244,7 @@
         "submitter": "3d71524d-922d-4755-9f9a-86bd93cedbf9",
         "timestampEnd": 1755104400,
         "timestampStart": 1755018000,
-        "timestampUpload": 1754339011,
+        "timestampUpload": 1784418436,
         "weekDay": 1,
         "year": 2025
     },
@@ -46386,6 +46386,27 @@
         "timestampStart": 1784394000,
         "timestampUpload": 1783710006,
         "weekDay": 5,
+        "year": 2026
+    },
+    "OdcDrL6AR20PCOmKt7e6pvX9n8i": {
+        "author": "8710ed78-e877-4c2f-a0c0-09d55f0d1c26",
+        "authorTime": 36355,
+        "bronzeTime": 55000,
+        "campaignId": 148949,
+        "goldTime": 39000,
+        "mapId": "b74bffc3-6e5c-4ba4-9a13-b5144dad9534",
+        "mapUid": "OdcDrL6AR20PCOmKt7e6pvX9n8i",
+        "month": 7,
+        "monthDay": 19,
+        "name": "what i would've built in 2020 if i wasnt playing fortnite",
+        "number": 2210,
+        "seasonUid": "27469e05-f38a-471c-84fc-0687950a3f16",
+        "silverTime": 44000,
+        "submitter": "8710ed78-e877-4c2f-a0c0-09d55f0d1c26",
+        "timestampEnd": 1784566800,
+        "timestampStart": 1784480400,
+        "timestampUpload": 1784206627,
+        "weekDay": 6,
         "year": 2026
     }
 }
