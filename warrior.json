@@ -1,5 +1,5 @@
 {
-    "next": 1784574000,
+    "next": 1784649600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36208,6 +36208,17 @@
             "worldRecord": 35628,
             "mapId": "b74bffc3-6e5c-4ba4-9a13-b5144dad9534",
             "goldTime": 39000
+        },
+        {
+            "authorTime": 47301,
+            "date": "2026-07-20",
+            "mapUid": "kSlLtUYpdu9IJkGg4mUTy3eE6nj",
+            "name": "mantis",
+            "reason": null,
+            "warriorTime": 47219,
+            "worldRecord": 46642,
+            "mapId": "3823afb9-8b51-4b08-a691-cf8fbdba88a0",
+            "goldTime": 51000
         }
     ],
     "Other": [
