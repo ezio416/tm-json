@@ -46405,8 +46405,29 @@
         "submitter": "8710ed78-e877-4c2f-a0c0-09d55f0d1c26",
         "timestampEnd": 1784566800,
         "timestampStart": 1784480400,
-        "timestampUpload": 1784206627,
+        "timestampUpload": 1784491627,
         "weekDay": 6,
+        "year": 2026
+    },
+    "kSlLtUYpdu9IJkGg4mUTy3eE6nj": {
+        "author": "aaae15ed-ab4d-4292-ab70-48b0b3d75517",
+        "authorTime": 47301,
+        "bronzeTime": 71000,
+        "campaignId": 148950,
+        "goldTime": 51000,
+        "mapId": "3823afb9-8b51-4b08-a691-cf8fbdba88a0",
+        "mapUid": "kSlLtUYpdu9IJkGg4mUTy3eE6nj",
+        "month": 7,
+        "monthDay": 20,
+        "name": "mantis",
+        "number": 2211,
+        "seasonUid": "d6ddd73f-bc3f-40ea-a44a-48f556898590",
+        "silverTime": 57000,
+        "submitter": "aaae15ed-ab4d-4292-ab70-48b0b3d75517",
+        "timestampEnd": 1784653200,
+        "timestampStart": 1784566800,
+        "timestampUpload": 1782821824,
+        "weekDay": 0,
         "year": 2026
     }
 }
