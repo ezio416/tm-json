@@ -1,5 +1,5 @@
 {
-    "next": 1784660400,
+    "next": 1784746800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36232,6 +36232,17 @@
             "worldRecord": 46642,
             "mapId": "3823afb9-8b51-4b08-a691-cf8fbdba88a0",
             "goldTime": 51000
+        },
+        {
+            "authorTime": 43544,
+            "date": "2026-07-21",
+            "mapUid": "a2WRgwXqGvzGwpO4E4ZFaMHWQIg",
+            "name": "splash that",
+            "reason": null,
+            "warriorTime": 43465,
+            "worldRecord": 42908,
+            "mapId": "617891e3-1c62-4d1d-a965-0de571d0c890",
+            "goldTime": 47000
         }
     ],
     "Other": [
