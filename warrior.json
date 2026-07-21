@@ -1,5 +1,5 @@
 {
-    "next": 1784649600,
+    "next": 1784660400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -387,6 +387,19 @@
             "goldTime": 572000,
             "campaignId": 147153,
             "week": 29
+        },
+        {
+            "authorTime": 447189,
+            "mapUid": "U7PRR5BJu3bgceY0xvKvnHLUY4n",
+            "name": "G - Zo ben ik nu Tweemaal",
+            "number": 30,
+            "reason": null,
+            "warriorTime": 428861,
+            "worldRecord": 398313,
+            "mapId": "415b7838-d2bb-436d-8585-22e576463c1d",
+            "goldTime": 475000,
+            "campaignId": 148942,
+            "week": 30
         }
     ],
     "Seasonal": [
