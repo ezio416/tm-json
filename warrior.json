@@ -1,5 +1,5 @@
 {
-    "next": 1784833200,
+    "next": 1784919600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36254,6 +36254,17 @@
             "worldRecord": 52817,
             "mapId": "c7938c79-94b5-488f-ab06-c7ac23d91421",
             "goldTime": 58000
+        },
+        {
+            "authorTime": 48000,
+            "date": "2026-07-23",
+            "mapUid": "1PYndWG_ce7bYa3NTY_APFre8h2",
+            "name": "$s$f95Dripping Sun $fffft' Lackadal",
+            "reason": null,
+            "warriorTime": 47976,
+            "worldRecord": 47805,
+            "mapId": "f3d16bae-f30d-487f-b191-b42f445a845a",
+            "goldTime": 51000
         }
     ],
     "Other": [
