@@ -46471,5 +46471,26 @@
         "timestampUpload": 1784125388,
         "weekDay": 2,
         "year": 2026
+    },
+    "1PYndWG_ce7bYa3NTY_APFre8h2": {
+        "author": "05addcce-108b-410f-b315-3af9d9705ce7",
+        "authorTime": 48000,
+        "bronzeTime": 73000,
+        "campaignId": 149901,
+        "goldTime": 51000,
+        "mapId": "f3d16bae-f30d-487f-b191-b42f445a845a",
+        "mapUid": "1PYndWG_ce7bYa3NTY_APFre8h2",
+        "month": 7,
+        "monthDay": 23,
+        "name": "$s$f95Dripping Sun $fffft' Lackadal",
+        "number": 2214,
+        "seasonUid": "33a6207a-9d7a-4c47-8044-0f89a3c1fe4a",
+        "silverTime": 58000,
+        "submitter": "05addcce-108b-410f-b315-3af9d9705ce7",
+        "timestampEnd": 1784912400,
+        "timestampStart": 1784826000,
+        "timestampUpload": 1756158357,
+        "weekDay": 3,
+        "year": 2026
     }
 }
