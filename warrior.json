@@ -1,5 +1,5 @@
 {
-    "next": 1784919600,
+    "next": 1785006000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36265,6 +36265,17 @@
             "worldRecord": 47805,
             "mapId": "f3d16bae-f30d-487f-b191-b42f445a845a",
             "goldTime": 51000
+        },
+        {
+            "authorTime": 65818,
+            "date": "2026-07-24",
+            "mapUid": "uDedD3SpBBrkjB3CoCPU_8ZD5M9",
+            "name": "$o$fa0Tempest $6e6Tangle",
+            "reason": null,
+            "warriorTime": 65475,
+            "worldRecord": 63072,
+            "mapId": "957efc27-ecaa-4ff1-a5d5-780136e07b53",
+            "goldTime": 70000
         }
     ],
     "Other": [
