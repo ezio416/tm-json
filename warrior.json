@@ -1,5 +1,5 @@
 {
-    "next": 1785006000,
+    "next": 1785092400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36276,6 +36276,17 @@
             "worldRecord": 63072,
             "mapId": "957efc27-ecaa-4ff1-a5d5-780136e07b53",
             "goldTime": 70000
+        },
+        {
+            "authorTime": 39017,
+            "date": "2026-07-25",
+            "mapUid": "3QQWjXn3Gq_b0dDAFcrZwe_gdR6",
+            "name": "Dustline 2099",
+            "reason": null,
+            "warriorTime": 38959,
+            "worldRecord": 38551,
+            "mapId": "136bf630-1ead-48eb-9cf9-92c9375a7a16",
+            "goldTime": 42000
         }
     ],
     "Other": [
