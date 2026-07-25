@@ -46513,5 +46513,26 @@
         "timestampUpload": 1647223208,
         "weekDay": 4,
         "year": 2026
+    },
+    "3QQWjXn3Gq_b0dDAFcrZwe_gdR6": {
+        "author": "c0129075-0b45-4670-a3d0-4468ea2d5630",
+        "authorTime": 39017,
+        "bronzeTime": 59000,
+        "campaignId": 150397,
+        "goldTime": 42000,
+        "mapId": "136bf630-1ead-48eb-9cf9-92c9375a7a16",
+        "mapUid": "3QQWjXn3Gq_b0dDAFcrZwe_gdR6",
+        "month": 7,
+        "monthDay": 25,
+        "name": "Dustline 2099",
+        "number": 2216,
+        "seasonUid": "596057ff-f506-4f9d-a962-03d0e299a895",
+        "silverTime": 47000,
+        "submitter": "1bc8f22f-e573-4ae6-b583-f043500b2fb6",
+        "timestampEnd": 1785085200,
+        "timestampStart": 1784998800,
+        "timestampUpload": 1783709997,
+        "weekDay": 5,
+        "year": 2026
     }
 }
