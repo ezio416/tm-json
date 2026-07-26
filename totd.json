@@ -46534,5 +46534,26 @@
         "timestampUpload": 1783709997,
         "weekDay": 5,
         "year": 2026
+    },
+    "zPmmpgb2kS69vVUZQvozUkaluw4": {
+        "author": "f3cf9fe9-0f07-4d59-a6ac-5f580db25134",
+        "authorTime": 43552,
+        "bronzeTime": 66000,
+        "campaignId": 150398,
+        "goldTime": 47000,
+        "mapId": "d0c49d84-6be5-4f96-8609-f60fddad123e",
+        "mapUid": "zPmmpgb2kS69vVUZQvozUkaluw4",
+        "month": 7,
+        "monthDay": 26,
+        "name": "$o$fc3T$gwistful",
+        "number": 2217,
+        "seasonUid": "1efb22bd-5aee-4b3e-867f-873fa78f00cb",
+        "silverTime": 53000,
+        "submitter": "f3cf9fe9-0f07-4d59-a6ac-5f580db25134",
+        "timestampEnd": 1785171600,
+        "timestampStart": 1785085200,
+        "timestampUpload": 1784231847,
+        "weekDay": 6,
+        "year": 2026
     }
 }
