@@ -171,7 +171,7 @@
         "timestampEnd": 1774198800,
         "timestampRankingSent": 0,
         "timestampStart": 1773594000,
-        "timestampUpload": 1771546567,
+        "timestampUpload": 1784478994,
         "week": 12,
         "year": 2026
     },
@@ -567,8 +567,30 @@
         "timestampEnd": 1785081600,
         "timestampRankingSent": 0,
         "timestampStart": 1784476800,
-        "timestampUpload": 1783903776,
+        "timestampUpload": 1784491627,
         "week": 30,
+        "year": 2026
+    },
+    "VktQ5wRt3E1Lh94Twd2zqtMohPh": {
+        "author": "4ebca996-6efe-434b-a3c9-28970c77c864",
+        "authorTime": 505234,
+        "bronzeTime": 758000,
+        "campaignId": 150389,
+        "goldTime": 536000,
+        "mapId": "8fd622f0-5034-4170-b8a4-f1db53973443",
+        "mapIndex": 0,
+        "mapUid": "VktQ5wRt3E1Lh94Twd2zqtMohPh",
+        "name": "$s$o$6cfG - Verdand$fffi",
+        "number": 31,
+        "seasonUid": "dc92d7b6-d658-4dd7-adde-8ef98575a1bb",
+        "silverTime": 607000,
+        "submitter": "4ebca996-6efe-434b-a3c9-28970c77c864",
+        "timestampEdition": 1784925399,
+        "timestampEnd": 1785686400,
+        "timestampRankingSent": 0,
+        "timestampStart": 1785081600,
+        "timestampUpload": 1784853827,
+        "week": 31,
         "year": 2026
     }
 }
