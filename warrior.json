@@ -1,5 +1,5 @@
 {
-    "next": 1785265200,
+    "next": 1785351600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36322,6 +36322,17 @@
             "worldRecord": 40070,
             "mapId": "59b7a1a3-e483-4c76-bcf5-3d08e1c746ec",
             "goldTime": 44000
+        },
+        {
+            "authorTime": 46078,
+            "date": "2026-07-28",
+            "mapUid": "9HikgP2B_gSvu8aWI4X3KSGvdyf",
+            "name": "$C60Reborn",
+            "reason": null,
+            "warriorTime": 46036,
+            "worldRecord": 45742,
+            "mapId": "8a338404-fbe9-448b-810d-1a055b34da9f",
+            "goldTime": 49000
         }
     ],
     "Other": [
