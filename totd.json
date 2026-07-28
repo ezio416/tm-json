@@ -46576,5 +46576,26 @@
         "timestampUpload": 1784846146,
         "weekDay": 0,
         "year": 2026
+    },
+    "9HikgP2B_gSvu8aWI4X3KSGvdyf": {
+        "author": "2826edba-c6f2-4afb-8b29-e1e204ae81fb",
+        "authorTime": 46078,
+        "bronzeTime": 70000,
+        "campaignId": 150804,
+        "goldTime": 49000,
+        "mapId": "8a338404-fbe9-448b-810d-1a055b34da9f",
+        "mapUid": "9HikgP2B_gSvu8aWI4X3KSGvdyf",
+        "month": 7,
+        "monthDay": 28,
+        "name": "$C60Reborn",
+        "number": 2219,
+        "seasonUid": "003e0d04-2b84-4e04-83cb-0b5a6b4e8b7b",
+        "silverTime": 56000,
+        "submitter": "2826edba-c6f2-4afb-8b29-e1e204ae81fb",
+        "timestampEnd": 1785344400,
+        "timestampStart": 1785258000,
+        "timestampUpload": 1756122659,
+        "weekDay": 1,
+        "year": 2026
     }
 }
