@@ -1,5 +1,5 @@
 {
-    "next": 1785254400,
+    "next": 1785265200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -400,6 +400,19 @@
             "goldTime": 475000,
             "campaignId": 148942,
             "week": 30
+        },
+        {
+            "authorTime": 505234,
+            "mapUid": "VktQ5wRt3E1Lh94Twd2zqtMohPh",
+            "name": "$s$o$6cfG - Verdand$fffi",
+            "number": 31,
+            "reason": null,
+            "warriorTime": 441072,
+            "worldRecord": 334135,
+            "mapId": "8fd622f0-5034-4170-b8a4-f1db53973443",
+            "goldTime": 536000,
+            "campaignId": 150389,
+            "week": 31
         }
     ],
     "Seasonal": [
