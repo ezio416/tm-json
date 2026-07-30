@@ -46618,5 +46618,26 @@
         "timestampUpload": 1779540433,
         "weekDay": 2,
         "year": 2026
+    },
+    "Zey28ykUObGaUvcecrlqQiM2BEa": {
+        "author": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
+        "authorTime": 45692,
+        "bronzeTime": 69000,
+        "campaignId": 150894,
+        "goldTime": 49000,
+        "mapId": "81f9b8bf-ef48-429e-b06b-ed0b6d19c1da",
+        "mapUid": "Zey28ykUObGaUvcecrlqQiM2BEa",
+        "month": 7,
+        "monthDay": 30,
+        "name": "$s$690Emerald Eyes $fffft' Mitra",
+        "number": 2221,
+        "seasonUid": "487428c8-1a32-4306-8510-1c01b46303a7",
+        "silverTime": 55000,
+        "submitter": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
+        "timestampEnd": 1785517200,
+        "timestampStart": 1785430800,
+        "timestampUpload": 1782746490,
+        "weekDay": 3,
+        "year": 2026
     }
 }
