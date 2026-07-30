@@ -1,5 +1,5 @@
 {
-    "next": 1785438000,
+    "next": 1785524400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36344,6 +36344,17 @@
             "worldRecord": 45375,
             "mapId": "a104fcab-f3eb-4634-82fe-654e24841eca",
             "goldTime": 49000
+        },
+        {
+            "authorTime": 45692,
+            "date": "2026-07-30",
+            "mapUid": "Zey28ykUObGaUvcecrlqQiM2BEa",
+            "name": "$s$690Emerald Eyes $fffft' Mitra",
+            "reason": null,
+            "warriorTime": 45616,
+            "worldRecord": 45081,
+            "mapId": "81f9b8bf-ef48-429e-b06b-ed0b6d19c1da",
+            "goldTime": 49000
         }
     ],
     "Other": [
@@ -51701,8 +51712,8 @@
             "mapIndex": 13,
             "mapUid": "qvUG_K8pAnCn5jwRvX2uAuQcgP",
             "name": "$sMicro$ff0K $FFF#114",
-            "reason": null,
-            "warriorTime": 9997,
+            "reason": "cheated at (was at 9.998, wm 9.997)",
+            "warriorTime": 10200,
             "worldRecord": 10144,
             "mapId": "ed239cde-9aae-47bf-a8bc-df37bf47c444",
             "goldTime": 11000
