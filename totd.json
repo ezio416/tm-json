@@ -46660,5 +46660,26 @@
         "timestampUpload": 1785181666,
         "weekDay": 4,
         "year": 2026
+    },
+    "Et1IVfZ6A59U6G_Bqx2UZ8pFw_g": {
+        "author": "e2297617-aed5-4392-b883-e64767bc0891",
+        "authorTime": 45224,
+        "bronzeTime": 68000,
+        "campaignId": 151084,
+        "goldTime": 48000,
+        "mapId": "d39df09e-1a44-4e18-bc02-8b2d4a1680b1",
+        "mapUid": "Et1IVfZ6A59U6G_Bqx2UZ8pFw_g",
+        "month": 8,
+        "monthDay": 1,
+        "name": "$o$e40Bear's $c40Valley",
+        "number": 2223,
+        "seasonUid": "fa938d72-fbb7-4422-bc2e-8c93f521a6e0",
+        "silverTime": 55000,
+        "submitter": "e2297617-aed5-4392-b883-e64767bc0891",
+        "timestampEnd": 1785690000,
+        "timestampStart": 1785603600,
+        "timestampUpload": 1784046189,
+        "weekDay": 5,
+        "year": 2026
     }
 }
