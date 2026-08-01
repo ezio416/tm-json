@@ -1,5 +1,5 @@
 {
-    "next": 1785610800,
+    "next": 1785697200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36366,6 +36366,17 @@
             "worldRecord": 43563,
             "mapId": "8d172889-5845-4a89-bd7d-a867d2e3db8a",
             "goldTime": 47000
+        },
+        {
+            "authorTime": 45224,
+            "date": "2026-08-01",
+            "mapUid": "Et1IVfZ6A59U6G_Bqx2UZ8pFw_g",
+            "name": "$o$e40Bear's $c40Valley",
+            "reason": null,
+            "warriorTime": 45157,
+            "worldRecord": 44688,
+            "mapId": "d39df09e-1a44-4e18-bc02-8b2d4a1680b1",
+            "goldTime": 48000
         }
     ],
     "Other": [
