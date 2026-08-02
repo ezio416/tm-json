@@ -46258,7 +46258,7 @@
         "submitter": "8710ed78-e877-4c2f-a0c0-09d55f0d1c26",
         "timestampEnd": 1783962000,
         "timestampStart": 1783875600,
-        "timestampUpload": 1784115710,
+        "timestampUpload": 1785674379,
         "weekDay": 6,
         "year": 2026
     },
@@ -46680,6 +46680,27 @@
         "timestampStart": 1785603600,
         "timestampUpload": 1784046189,
         "weekDay": 5,
+        "year": 2026
+    },
+    "sHpoZAvf7kmtpbg8hZT7BAaHzx9": {
+        "author": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
+        "authorTime": 38784,
+        "bronzeTime": 50000,
+        "campaignId": 151078,
+        "goldTime": 41000,
+        "mapId": "81e25087-84b6-422b-860e-61534c1c1db3",
+        "mapUid": "sHpoZAvf7kmtpbg8hZT7BAaHzx9",
+        "month": 8,
+        "monthDay": 2,
+        "name": "$z$s$n$o$3beLost Umbrella $fff\uf0e9",
+        "number": 2224,
+        "seasonUid": "8a9e2c3a-6361-4ce4-a8ba-a6528b4599a8",
+        "silverTime": 45000,
+        "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
+        "timestampEnd": 1785776400,
+        "timestampStart": 1785690000,
+        "timestampUpload": 1784629478,
+        "weekDay": 6,
         "year": 2026
     }
 }
