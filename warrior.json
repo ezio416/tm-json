@@ -1,5 +1,5 @@
 {
-    "next": 1785697200,
+    "next": 1785783600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36377,6 +36377,17 @@
             "worldRecord": 44688,
             "mapId": "d39df09e-1a44-4e18-bc02-8b2d4a1680b1",
             "goldTime": 48000
+        },
+        {
+            "authorTime": 38784,
+            "date": "2026-08-02",
+            "mapUid": "sHpoZAvf7kmtpbg8hZT7BAaHzx9",
+            "name": "$z$s$n$o$3beLost Umbrella $fff\uf0e9",
+            "reason": null,
+            "warriorTime": 38660,
+            "worldRecord": 37786,
+            "mapId": "81e25087-84b6-422b-860e-61534c1c1db3",
+            "goldTime": 41000
         }
     ],
     "Other": [
