@@ -171,7 +171,7 @@
         "timestampEnd": 1774198800,
         "timestampRankingSent": 0,
         "timestampStart": 1773594000,
-        "timestampUpload": 1784478994,
+        "timestampUpload": 1785238108,
         "week": 12,
         "year": 2026
     },
@@ -457,7 +457,7 @@
         "timestampEnd": 1782057600,
         "timestampRankingSent": 0,
         "timestampStart": 1781452800,
-        "timestampUpload": 1784115712,
+        "timestampUpload": 1785674379,
         "week": 25,
         "year": 2026
     },
@@ -567,7 +567,7 @@
         "timestampEnd": 1785081600,
         "timestampRankingSent": 0,
         "timestampStart": 1784476800,
-        "timestampUpload": 1784491627,
+        "timestampUpload": 1785674378,
         "week": 30,
         "year": 2026
     },
@@ -591,6 +591,28 @@
         "timestampStart": 1785081600,
         "timestampUpload": 1784853827,
         "week": 31,
+        "year": 2026
+    },
+    "nUK2ne5XHrNYwBQdXFN8NITjlI8": {
+        "author": "4ebca996-6efe-434b-a3c9-28970c77c864",
+        "authorTime": 521226,
+        "bronzeTime": 782000,
+        "campaignId": 151086,
+        "goldTime": 553000,
+        "mapId": "1d108c1d-621a-4c39-ad86-fe3e029017cb",
+        "mapIndex": 0,
+        "mapUid": "nUK2ne5XHrNYwBQdXFN8NITjlI8",
+        "name": "$s$o$3c6G - The Green Factory",
+        "number": 32,
+        "seasonUid": "dbda0094-292d-47a1-ac86-9646ef681170",
+        "silverTime": 626000,
+        "submitter": "4ebca996-6efe-434b-a3c9-28970c77c864",
+        "timestampEdition": 1785475326,
+        "timestampEnd": 1786291200,
+        "timestampRankingSent": 0,
+        "timestampStart": 1785686400,
+        "timestampUpload": 1785369179,
+        "week": 32,
         "year": 2026
     }
 }
