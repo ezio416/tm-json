@@ -1,5 +1,5 @@
 {
-    "next": 1785859200,
+    "next": 1785870000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -413,6 +413,19 @@
             "goldTime": 536000,
             "campaignId": 150389,
             "week": 31
+        },
+        {
+            "authorTime": 521226,
+            "mapUid": "nUK2ne5XHrNYwBQdXFN8NITjlI8",
+            "name": "$s$o$3c6G - The Green Factory",
+            "number": 32,
+            "reason": null,
+            "warriorTime": 467540,
+            "worldRecord": 378061,
+            "mapId": "1d108c1d-621a-4c39-ad86-fe3e029017cb",
+            "goldTime": 553000,
+            "campaignId": 151086,
+            "week": 32
         }
     ],
     "Seasonal": [
