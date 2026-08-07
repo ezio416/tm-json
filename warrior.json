@@ -1,5 +1,5 @@
 {
-    "next": 1786129200,
+    "next": 1786215600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36444,6 +36444,17 @@
             "warriorTime": 46768,
             "worldRecord": 45424,
             "mapId": "19ae21e5-7900-410f-b1dd-7e3d79124130",
+            "goldTime": 50000
+        },
+        {
+            "authorTime": 46960,
+            "date": "2026-08-07",
+            "mapUid": "5PAoVGz3AE7dVBxwz3IJJitRUT3",
+            "name": "Gute K\u00e4se ft' Artroy",
+            "reason": null,
+            "warriorTime": 46857,
+            "worldRecord": 46133,
+            "mapId": "de44e11b-520c-40cc-829f-7abe53debeb3",
             "goldTime": 50000
         }
     ],
