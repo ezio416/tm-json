@@ -46786,5 +46786,26 @@
         "timestampUpload": 1773928884,
         "weekDay": 3,
         "year": 2026
+    },
+    "5PAoVGz3AE7dVBxwz3IJJitRUT3": {
+        "author": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
+        "authorTime": 46960,
+        "bronzeTime": 71000,
+        "campaignId": 151706,
+        "goldTime": 50000,
+        "mapId": "de44e11b-520c-40cc-829f-7abe53debeb3",
+        "mapUid": "5PAoVGz3AE7dVBxwz3IJJitRUT3",
+        "month": 8,
+        "monthDay": 7,
+        "name": "Gute K\u00e4se ft' Artroy",
+        "number": 2229,
+        "seasonUid": "e1622f3c-f5db-4cb7-bde9-8dd11ce89432",
+        "silverTime": 57000,
+        "submitter": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
+        "timestampEnd": 1786208400,
+        "timestampStart": 1786122000,
+        "timestampUpload": 1785860411,
+        "weekDay": 4,
+        "year": 2026
     }
 }
