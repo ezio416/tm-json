@@ -46807,5 +46807,26 @@
         "timestampUpload": 1785860411,
         "weekDay": 4,
         "year": 2026
+    },
+    "kVcCPBGhvjoFaTsc7u_ec9Y_Z5d": {
+        "author": "c7ee4552-0dce-4ca1-9e0c-dccaa4d72c62",
+        "authorTime": 45967,
+        "bronzeTime": 69000,
+        "campaignId": 151897,
+        "goldTime": 49000,
+        "mapId": "8e449810-dd0c-4cb5-a22e-4598b87f4d0d",
+        "mapUid": "kVcCPBGhvjoFaTsc7u_ec9Y_Z5d",
+        "month": 8,
+        "monthDay": 8,
+        "name": "$iteaspoon reflection",
+        "number": 2230,
+        "seasonUid": "6ef3c0d2-ddd6-42b9-9430-4f73cf07b8d4",
+        "silverTime": 56000,
+        "submitter": "433b5c82-6fb4-4dc2-b686-5a9534189021",
+        "timestampEnd": 1786294800,
+        "timestampStart": 1786208400,
+        "timestampUpload": 1784677647,
+        "weekDay": 5,
+        "year": 2026
     }
 }
