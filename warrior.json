@@ -1,5 +1,5 @@
 {
-    "next": 1786215600,
+    "next": 1786302000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36456,6 +36456,17 @@
             "worldRecord": 46133,
             "mapId": "de44e11b-520c-40cc-829f-7abe53debeb3",
             "goldTime": 50000
+        },
+        {
+            "authorTime": 45967,
+            "date": "2026-08-08",
+            "mapUid": "kVcCPBGhvjoFaTsc7u_ec9Y_Z5d",
+            "name": "$iteaspoon reflection",
+            "reason": null,
+            "warriorTime": 45862,
+            "worldRecord": 45126,
+            "mapId": "8e449810-dd0c-4cb5-a22e-4598b87f4d0d",
+            "goldTime": 49000
         }
     ],
     "Other": [
