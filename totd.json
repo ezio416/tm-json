@@ -46762,7 +46762,7 @@
         "submitter": "d620091b-876b-4af4-8f98-ed3625d234e9",
         "timestampEnd": 1786035600,
         "timestampStart": 1785949200,
-        "timestampUpload": 1785513567,
+        "timestampUpload": 1786299203,
         "weekDay": 2,
         "year": 2026
     },
@@ -46848,6 +46848,27 @@
         "timestampStart": 1786294800,
         "timestampUpload": 1757217693,
         "weekDay": 6,
+        "year": 2026
+    },
+    "XT3pibgqwvv58Oly7Hy9lyxp_am": {
+        "author": "8710ed78-e877-4c2f-a0c0-09d55f0d1c26",
+        "authorTime": 39426,
+        "bronzeTime": 60000,
+        "campaignId": 151902,
+        "goldTime": 42000,
+        "mapId": "1ba0b7bb-a1f4-4073-981a-35e8abdf38a4",
+        "mapUid": "XT3pibgqwvv58Oly7Hy9lyxp_am",
+        "month": 8,
+        "monthDay": 10,
+        "name": "$o$888The $72fPark $5f6Tour",
+        "number": 2232,
+        "seasonUid": "416c8f86-0998-414f-9606-ba95af85ecac",
+        "silverTime": 48000,
+        "submitter": "8710ed78-e877-4c2f-a0c0-09d55f0d1c26",
+        "timestampEnd": 1786467600,
+        "timestampStart": 1786381200,
+        "timestampUpload": 1785779982,
+        "weekDay": 0,
         "year": 2026
     }
 }
