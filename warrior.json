@@ -1,5 +1,5 @@
 {
-    "next": 1786388400,
+    "next": 1786464000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36478,6 +36478,17 @@
             "worldRecord": 50197,
             "mapId": "c0789f8c-6215-462e-a19e-c6ff74bdf3f8",
             "goldTime": 60000
+        },
+        {
+            "authorTime": 39426,
+            "date": "2026-08-10",
+            "mapUid": "XT3pibgqwvv58Oly7Hy9lyxp_am",
+            "name": "$o$888The $72fPark $5f6Tour",
+            "reason": null,
+            "warriorTime": 39289,
+            "worldRecord": 38324,
+            "mapId": "1ba0b7bb-a1f4-4073-981a-35e8abdf38a4",
+            "goldTime": 42000
         }
     ],
     "Other": [
