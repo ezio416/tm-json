@@ -1,5 +1,5 @@
 {
-    "next": 1786464000,
+    "next": 1786474800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -426,6 +426,19 @@
             "goldTime": 553000,
             "campaignId": 151086,
             "week": 32
+        },
+        {
+            "authorTime": 419512,
+            "mapUid": "Bo2DS7AXtvq3NWE3qrPmh7Ynolf",
+            "name": "G - Last hour",
+            "number": 33,
+            "reason": null,
+            "warriorTime": 400700,
+            "worldRecord": 369345,
+            "mapId": "334b6b11-6870-4b01-8ba6-143f06506022",
+            "goldTime": 445000,
+            "campaignId": 151744,
+            "week": 33
         }
     ],
     "Seasonal": [
