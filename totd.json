@@ -46279,7 +46279,7 @@
         "submitter": "daed5fce-a158-4c83-bad0-fb888b1786f0",
         "timestampEnd": 1784048400,
         "timestampStart": 1783962000,
-        "timestampUpload": 1780843532,
+        "timestampUpload": 1786392067,
         "weekDay": 0,
         "year": 2026
     },
@@ -46783,7 +46783,7 @@
         "submitter": "daed5fce-a158-4c83-bad0-fb888b1786f0",
         "timestampEnd": 1786122000,
         "timestampStart": 1786035600,
-        "timestampUpload": 1773928884,
+        "timestampUpload": 1786392067,
         "weekDay": 3,
         "year": 2026
     },
@@ -46867,8 +46867,29 @@
         "submitter": "8710ed78-e877-4c2f-a0c0-09d55f0d1c26",
         "timestampEnd": 1786467600,
         "timestampStart": 1786381200,
-        "timestampUpload": 1785779982,
+        "timestampUpload": 1786394629,
         "weekDay": 0,
+        "year": 2026
+    },
+    "URvoAuSuOIjXac_faPndmz1BBOi": {
+        "author": "f36cac49-391e-4621-aa64-82069ed68c78",
+        "authorTime": 55037,
+        "bronzeTime": 83000,
+        "campaignId": 151903,
+        "goldTime": 59000,
+        "mapId": "1ceacb54-9b85-46f6-a1c5-612e029fca6a",
+        "mapUid": "URvoAuSuOIjXac_faPndmz1BBOi",
+        "month": 8,
+        "monthDay": 11,
+        "name": "Sedona ft' Mime",
+        "number": 2233,
+        "seasonUid": "cba5ec11-9f21-4116-85ec-ca62d5042023",
+        "silverTime": 67000,
+        "submitter": "f36cac49-391e-4621-aa64-82069ed68c78",
+        "timestampEnd": 1786554000,
+        "timestampStart": 1786467600,
+        "timestampUpload": 1782338716,
+        "weekDay": 1,
         "year": 2026
     }
 }
