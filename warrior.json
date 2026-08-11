@@ -1,5 +1,5 @@
 {
-    "next": 1786474800,
+    "next": 1786561200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36502,6 +36502,17 @@
             "worldRecord": 38324,
             "mapId": "1ba0b7bb-a1f4-4073-981a-35e8abdf38a4",
             "goldTime": 42000
+        },
+        {
+            "authorTime": 55037,
+            "date": "2026-08-11",
+            "mapUid": "URvoAuSuOIjXac_faPndmz1BBOi",
+            "name": "Sedona ft' Mime",
+            "reason": null,
+            "warriorTime": 55003,
+            "worldRecord": 54765,
+            "mapId": "1ceacb54-9b85-46f6-a1c5-612e029fca6a",
+            "goldTime": 59000
         }
     ],
     "Other": [
