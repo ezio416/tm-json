@@ -1,5 +1,5 @@
 {
-    "next": 1786561200,
+    "next": 1786647600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36513,6 +36513,17 @@
             "worldRecord": 54765,
             "mapId": "1ceacb54-9b85-46f6-a1c5-612e029fca6a",
             "goldTime": 59000
+        },
+        {
+            "authorTime": 43720,
+            "date": "2026-08-12",
+            "mapUid": "MaIA4ppPxHCSWJ2HTFo9l5XPAS4",
+            "name": "Aincrad ft Loso",
+            "reason": null,
+            "warriorTime": 43682,
+            "worldRecord": 43415,
+            "mapId": "5658f62a-ea4e-4ede-8b38-4e043eaa5d6d",
+            "goldTime": 47000
         }
     ],
     "Other": [
