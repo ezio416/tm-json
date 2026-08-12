@@ -46891,5 +46891,26 @@
         "timestampUpload": 1782338716,
         "weekDay": 1,
         "year": 2026
+    },
+    "MaIA4ppPxHCSWJ2HTFo9l5XPAS4": {
+        "author": "77e81508-8431-42a3-941a-d77a809675c7",
+        "authorTime": 43720,
+        "bronzeTime": 66000,
+        "campaignId": 152475,
+        "goldTime": 47000,
+        "mapId": "5658f62a-ea4e-4ede-8b38-4e043eaa5d6d",
+        "mapUid": "MaIA4ppPxHCSWJ2HTFo9l5XPAS4",
+        "month": 8,
+        "monthDay": 12,
+        "name": "Aincrad ft Loso",
+        "number": 2234,
+        "seasonUid": "ffea1523-c682-4bec-a1f2-631d10caa221",
+        "silverTime": 53000,
+        "submitter": "77e81508-8431-42a3-941a-d77a809675c7",
+        "timestampEnd": 1786640400,
+        "timestampStart": 1786554000,
+        "timestampUpload": 1786027773,
+        "weekDay": 2,
+        "year": 2026
     }
 }
