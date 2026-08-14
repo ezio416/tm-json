@@ -46933,5 +46933,26 @@
         "timestampUpload": 1784822977,
         "weekDay": 3,
         "year": 2026
+    },
+    "7bbEpRt5SlJZbqSwcknNfRJta23": {
+        "author": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
+        "authorTime": 45972,
+        "bronzeTime": 69000,
+        "campaignId": 152476,
+        "goldTime": 49000,
+        "mapId": "fe600a78-7ef5-4e81-94cd-cb67dfd8b740",
+        "mapUid": "7bbEpRt5SlJZbqSwcknNfRJta23",
+        "month": 8,
+        "monthDay": 14,
+        "name": "$s$nSunscreen $000ft' $fffNumberplay",
+        "number": 2236,
+        "seasonUid": "2814445a-ca47-4ac9-ab3c-0bc55e35aa8d",
+        "silverTime": 56000,
+        "submitter": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
+        "timestampEnd": 1786813200,
+        "timestampStart": 1786726800,
+        "timestampUpload": 1785872227,
+        "weekDay": 4,
+        "year": 2026
     }
 }
