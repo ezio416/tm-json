@@ -1,5 +1,5 @@
 {
-    "next": 1786734000,
+    "next": 1786820400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36535,6 +36535,17 @@
             "worldRecord": 40192,
             "mapId": "3cc27508-0ad3-42ff-801d-6cb50aef381f",
             "goldTime": 43000
+        },
+        {
+            "authorTime": 45972,
+            "date": "2026-08-14",
+            "mapUid": "7bbEpRt5SlJZbqSwcknNfRJta23",
+            "name": "$s$nSunscreen $000ft' $fffNumberplay",
+            "reason": null,
+            "warriorTime": 45835,
+            "worldRecord": 44872,
+            "mapId": "fe600a78-7ef5-4e81-94cd-cb67dfd8b740",
+            "goldTime": 49000
         }
     ],
     "Other": [
