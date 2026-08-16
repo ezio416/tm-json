@@ -633,8 +633,30 @@
         "timestampEnd": 1786896000,
         "timestampRankingSent": 0,
         "timestampStart": 1786291200,
-        "timestampUpload": 1784931723,
+        "timestampUpload": 1786486920,
         "week": 33,
+        "year": 2026
+    },
+    "h8YvqsaUvdUoiuw93uBffTfinr5": {
+        "author": "3b6a6355-5da4-4fe7-85fe-0ee7a5c4c138",
+        "authorTime": 490972,
+        "bronzeTime": 737000,
+        "campaignId": 152870,
+        "goldTime": 521000,
+        "mapId": "26ca568a-7ff5-4bd9-ba33-0db73f1cc4fe",
+        "mapIndex": 0,
+        "mapUid": "h8YvqsaUvdUoiuw93uBffTfinr5",
+        "name": "G - $cfcCalm $gDown and Up",
+        "number": 34,
+        "seasonUid": "6688f722-f963-4609-9ac2-e8c63da21ad9",
+        "silverTime": 590000,
+        "submitter": "3b6a6355-5da4-4fe7-85fe-0ee7a5c4c138",
+        "timestampEdition": 1786704342,
+        "timestampEnd": 1787500800,
+        "timestampRankingSent": 0,
+        "timestampStart": 1786896000,
+        "timestampUpload": 1786653254,
+        "week": 34,
         "year": 2026
     }
 }
