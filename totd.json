@@ -46996,5 +46996,26 @@
         "timestampUpload": 1785574979,
         "weekDay": 6,
         "year": 2026
+    },
+    "Sw0ljlUp3nNfFACLGBF4jZD_sue": {
+        "author": "79d68536-fe16-4749-aa3d-d9bbfe6ad1db",
+        "authorTime": 47998,
+        "bronzeTime": 72000,
+        "campaignId": 152872,
+        "goldTime": 51000,
+        "mapId": "1a4ad95e-be48-4db4-bbc9-3c8d105128a6",
+        "mapUid": "Sw0ljlUp3nNfFACLGBF4jZD_sue",
+        "month": 8,
+        "monthDay": 17,
+        "name": "$s$F95TWL - $oArroyo Race\uf101",
+        "number": 2239,
+        "seasonUid": "0c084b9d-70eb-480b-9ad2-5f20035ccda9",
+        "silverTime": 58000,
+        "submitter": "24be0670-be26-44c2-bcb6-1ee6cea55640",
+        "timestampEnd": 1787072400,
+        "timestampStart": 1786986000,
+        "timestampUpload": 1786416365,
+        "weekDay": 0,
+        "year": 2026
     }
 }
