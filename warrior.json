@@ -1,5 +1,5 @@
 {
-    "next": 1786993200,
+    "next": 1787068800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36568,6 +36568,17 @@
             "worldRecord": 39009,
             "mapId": "801eef3c-64c8-4fa9-a3c7-c979aee60cd0",
             "goldTime": 44000
+        },
+        {
+            "authorTime": 47998,
+            "date": "2026-08-17",
+            "mapUid": "Sw0ljlUp3nNfFACLGBF4jZD_sue",
+            "name": "$s$F95TWL - $oArroyo Race\uf101",
+            "reason": null,
+            "warriorTime": 47845,
+            "worldRecord": 46768,
+            "mapId": "1a4ad95e-be48-4db4-bbc9-3c8d105128a6",
+            "goldTime": 51000
         }
     ],
     "Other": [
