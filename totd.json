@@ -47017,5 +47017,26 @@
         "timestampUpload": 1786416365,
         "weekDay": 0,
         "year": 2026
+    },
+    "TMeN7eRguFfhUrcZ4Hb7KtDmwPb": {
+        "author": "aa32fc89-e0c4-4b73-a33e-026df0807b5c",
+        "authorTime": 42687,
+        "bronzeTime": 68000,
+        "campaignId": 153344,
+        "goldTime": 47000,
+        "mapId": "5648b21d-be07-48b2-bfa5-3767d2868cd0",
+        "mapUid": "TMeN7eRguFfhUrcZ4Hb7KtDmwPb",
+        "month": 8,
+        "monthDay": 18,
+        "name": "The $f80Illusion $gof $08fChoice",
+        "number": 2240,
+        "seasonUid": "6f9ea745-808b-42de-8b9b-5c54118b30ad",
+        "silverTime": 54000,
+        "submitter": "aa32fc89-e0c4-4b73-a33e-026df0807b5c",
+        "timestampEnd": 1787158800,
+        "timestampStart": 1787072400,
+        "timestampUpload": 1785666366,
+        "weekDay": 1,
+        "year": 2026
     }
 }
