@@ -1,5 +1,5 @@
 {
-    "next": 1787079600,
+    "next": 1787166000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36592,6 +36592,17 @@
             "worldRecord": 46768,
             "mapId": "1a4ad95e-be48-4db4-bbc9-3c8d105128a6",
             "goldTime": 51000
+        },
+        {
+            "authorTime": 42687,
+            "date": "2026-08-18",
+            "mapUid": "TMeN7eRguFfhUrcZ4Hb7KtDmwPb",
+            "name": "The $f80Illusion $gof $08fChoice",
+            "reason": null,
+            "warriorTime": 42584,
+            "worldRecord": 41862,
+            "mapId": "5648b21d-be07-48b2-bfa5-3767d2868cd0",
+            "goldTime": 47000
         }
     ],
     "Other": [
