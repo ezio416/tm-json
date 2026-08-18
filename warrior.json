@@ -1,5 +1,5 @@
 {
-    "next": 1787068800,
+    "next": 1787079600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -439,6 +439,19 @@
             "goldTime": 445000,
             "campaignId": 151744,
             "week": 33
+        },
+        {
+            "authorTime": 490972,
+            "mapUid": "h8YvqsaUvdUoiuw93uBffTfinr5",
+            "name": "G - $cfcCalm $gDown and Up",
+            "number": 34,
+            "reason": null,
+            "warriorTime": 460390,
+            "worldRecord": 409418,
+            "mapId": "26ca568a-7ff5-4bd9-ba33-0db73f1cc4fe",
+            "goldTime": 521000,
+            "campaignId": 152870,
+            "week": 34
         }
     ],
     "Seasonal": [
