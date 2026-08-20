@@ -47059,5 +47059,26 @@
         "timestampUpload": 1786589538,
         "weekDay": 2,
         "year": 2026
+    },
+    "IHGlG7dFsCCSXbVuirNVw18MIsg": {
+        "author": "97ce073f-04c1-4c05-97bd-c3f2602adb66",
+        "authorTime": 42161,
+        "bronzeTime": 64000,
+        "campaignId": 153454,
+        "goldTime": 45000,
+        "mapId": "a3a4a9b8-29d4-48a1-b0e2-d63fc4e57716",
+        "mapUid": "IHGlG7dFsCCSXbVuirNVw18MIsg",
+        "month": 8,
+        "monthDay": 20,
+        "name": "$141Voidreaper's Sanctuary",
+        "number": 2242,
+        "seasonUid": "9b3898bf-5bcf-45eb-a624-baa8a4bf52b4",
+        "silverTime": 51000,
+        "submitter": "97ce073f-04c1-4c05-97bd-c3f2602adb66",
+        "timestampEnd": 1787331600,
+        "timestampStart": 1787245200,
+        "timestampUpload": 1785873126,
+        "weekDay": 3,
+        "year": 2026
     }
 }
