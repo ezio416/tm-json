@@ -1,5 +1,5 @@
 {
-    "next": 1787252400,
+    "next": 1787338800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36614,6 +36614,17 @@
             "worldRecord": 45118,
             "mapId": "d81a1412-c24a-44a6-a8cd-814f12261f21",
             "goldTime": 49000
+        },
+        {
+            "authorTime": 42161,
+            "date": "2026-08-20",
+            "mapUid": "IHGlG7dFsCCSXbVuirNVw18MIsg",
+            "name": "$141Voidreaper's Sanctuary",
+            "reason": null,
+            "warriorTime": 42002,
+            "worldRecord": 40888,
+            "mapId": "a3a4a9b8-29d4-48a1-b0e2-d63fc4e57716",
+            "goldTime": 45000
         }
     ],
     "Other": [
