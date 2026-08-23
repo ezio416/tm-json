@@ -47122,5 +47122,26 @@
         "timestampUpload": 1786896122,
         "weekDay": 5,
         "year": 2026
+    },
+    "2AXKKG5QXcPIoSBL2BIekJk6Jef": {
+        "author": "62e3dfa8-4410-4105-b482-05831f399bed",
+        "authorTime": 40760,
+        "bronzeTime": 62000,
+        "campaignId": 153455,
+        "goldTime": 44000,
+        "mapId": "966cd0a0-9647-4405-b35d-f92b12d00905",
+        "mapUid": "2AXKKG5QXcPIoSBL2BIekJk6Jef",
+        "month": 8,
+        "monthDay": 23,
+        "name": "$s$IReactor? I Hardly Know Her",
+        "number": 2245,
+        "seasonUid": "14edd7f6-49ec-4ef3-8d61-9a8da8941a17",
+        "silverTime": 49000,
+        "submitter": "62e3dfa8-4410-4105-b482-05831f399bed",
+        "timestampEnd": 1787590800,
+        "timestampStart": 1787504400,
+        "timestampUpload": 1786981845,
+        "weekDay": 6,
+        "year": 2026
     }
 }
