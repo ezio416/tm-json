@@ -658,5 +658,27 @@
         "timestampUpload": 1786653254,
         "week": 34,
         "year": 2026
+    },
+    "2iqM5sYS15vATcsMaiR9r7iFqR9": {
+        "author": "a5dbf3e4-18dc-4bea-84f1-a6381c5ff2e1",
+        "authorTime": 573136,
+        "bronzeTime": 860000,
+        "campaignId": 153859,
+        "goldTime": 608000,
+        "mapId": "ca73c3b8-035d-4c82-89ad-cb65d3afdf7a",
+        "mapIndex": 0,
+        "mapUid": "2iqM5sYS15vATcsMaiR9r7iFqR9",
+        "name": "G - Snowy Endurance",
+        "number": 35,
+        "seasonUid": "fc8cb111-7d76-4f63-9573-e9f40ad76415",
+        "silverTime": 688000,
+        "submitter": "a5dbf3e4-18dc-4bea-84f1-a6381c5ff2e1",
+        "timestampEdition": 1787332994,
+        "timestampEnd": 1788105600,
+        "timestampRankingSent": 0,
+        "timestampStart": 1787500800,
+        "timestampUpload": 1774308137,
+        "week": 35,
+        "year": 2026
     }
 }
