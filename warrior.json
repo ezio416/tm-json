@@ -1,5 +1,5 @@
 {
-    "next": 1787511600,
+    "next": 1787598000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36647,6 +36647,17 @@
             "worldRecord": 41952,
             "mapId": "60ee6d47-a3b1-4334-84de-9b8a05062867",
             "goldTime": 46000
+        },
+        {
+            "authorTime": 40760,
+            "date": "2026-08-23",
+            "mapUid": "2AXKKG5QXcPIoSBL2BIekJk6Jef",
+            "name": "$s$IReactor? I Hardly Know Her",
+            "reason": null,
+            "warriorTime": 40035,
+            "worldRecord": 34954,
+            "mapId": "966cd0a0-9647-4405-b35d-f92b12d00905",
+            "goldTime": 44000
         }
     ],
     "Other": [
