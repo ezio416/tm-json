@@ -1,5 +1,5 @@
 {
-    "next": 1787673600,
+    "next": 1787684400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -452,6 +452,19 @@
             "goldTime": 521000,
             "campaignId": 152870,
             "week": 34
+        },
+        {
+            "authorTime": 573136,
+            "mapUid": "2iqM5sYS15vATcsMaiR9r7iFqR9",
+            "name": "G - Snowy Endurance",
+            "number": 35,
+            "reason": null,
+            "warriorTime": 480612,
+            "worldRecord": 326405,
+            "mapId": "ca73c3b8-035d-4c82-89ad-cb65d3afdf7a",
+            "goldTime": 608000,
+            "campaignId": 153859,
+            "week": 35
         }
     ],
     "Seasonal": [
