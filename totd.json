@@ -39538,7 +39538,7 @@
         "submitter": "a1a565e3-65c1-4257-8bca-602a7e4e0c90",
         "timestampEnd": 1756314000,
         "timestampStart": 1756227600,
-        "timestampUpload": 1770141462,
+        "timestampUpload": 1787742384,
         "weekDay": 1,
         "year": 2025
     },
@@ -42562,7 +42562,7 @@
         "submitter": "a1a565e3-65c1-4257-8bca-602a7e4e0c90",
         "timestampEnd": 1768759200,
         "timestampStart": 1768672800,
-        "timestampUpload": 1770141462,
+        "timestampUpload": 1787742384,
         "weekDay": 5,
         "year": 2026
     },
@@ -47184,6 +47184,27 @@
         "timestampStart": 1787677200,
         "timestampUpload": 1762619133,
         "weekDay": 1,
+        "year": 2026
+    },
+    "VI54yPE_npe6EAH3NPbV0zo2m01": {
+        "author": "b4a2a877-47a3-4a1e-8ab3-eeb28f45637d",
+        "authorTime": 52378,
+        "bronzeTime": 79000,
+        "campaignId": 154374,
+        "goldTime": 56000,
+        "mapId": "a372ba04-1382-42d0-b59b-b65991d0bf4d",
+        "mapUid": "VI54yPE_npe6EAH3NPbV0zo2m01",
+        "month": 8,
+        "monthDay": 26,
+        "name": "$i$o$CF0Windswept $fff$i$oft' Seven",
+        "number": 2248,
+        "seasonUid": "bc6de290-20ef-4f61-8497-0fc78bab15c5",
+        "silverTime": 63000,
+        "submitter": "b4a2a877-47a3-4a1e-8ab3-eeb28f45637d",
+        "timestampEnd": 1787850000,
+        "timestampStart": 1787763600,
+        "timestampUpload": 1783697948,
+        "weekDay": 2,
         "year": 2026
     }
 }
