@@ -1,5 +1,5 @@
 {
-    "next": 1787770800,
+    "next": 1787857200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36693,6 +36693,17 @@
             "worldRecord": 34697,
             "mapId": "de7fb36d-f407-4148-b06c-8b8967eff454",
             "goldTime": 39000
+        },
+        {
+            "authorTime": 52378,
+            "date": "2026-08-26",
+            "mapUid": "VI54yPE_npe6EAH3NPbV0zo2m01",
+            "name": "$i$o$CF0Windswept $fff$i$oft' Seven",
+            "reason": null,
+            "warriorTime": 52377,
+            "worldRecord": 52531,
+            "mapId": "a372ba04-1382-42d0-b59b-b65991d0bf4d",
+            "goldTime": 56000
         }
     ],
     "Other": [
