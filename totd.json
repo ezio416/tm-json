@@ -30928,7 +30928,7 @@
         "submitter": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
         "timestampEnd": 1720890000,
         "timestampStart": 1720803600,
-        "timestampUpload": 1787600794,
+        "timestampUpload": 1787854846,
         "weekDay": 4,
         "year": 2024
     },
@@ -47226,6 +47226,27 @@
         "timestampStart": 1787850000,
         "timestampUpload": 1786392068,
         "weekDay": 3,
+        "year": 2026
+    },
+    "G197ae7Z7kUW3sUyj6Yi65TIt57": {
+        "author": "aba13037-4e1b-4214-87e6-eb0273e505e3",
+        "authorTime": 54648,
+        "bronzeTime": 82000,
+        "campaignId": 154372,
+        "goldTime": 58000,
+        "mapId": "bffce2f2-3ee0-4dd5-b40d-68f87046ab0d",
+        "mapUid": "G197ae7Z7kUW3sUyj6Yi65TIt57",
+        "month": 8,
+        "monthDay": 28,
+        "name": "$n$i$o$000XP$F09Evo26 $n$i$fff - DeutscheBahn Z",
+        "number": 2250,
+        "seasonUid": "549ffb45-2883-4d71-a0ee-6eb9f39346dc",
+        "silverTime": 66000,
+        "submitter": "06a503ae-f6da-430b-8d75-901e1302dfb5",
+        "timestampEnd": 1788022800,
+        "timestampStart": 1787936400,
+        "timestampUpload": 1787606070,
+        "weekDay": 4,
         "year": 2026
     }
 }
