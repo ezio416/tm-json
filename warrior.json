@@ -1,5 +1,5 @@
 {
-    "next": 1787943600,
+    "next": 1788030000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36715,6 +36715,17 @@
             "worldRecord": 44028,
             "mapId": "cee641c0-f3a4-4c71-8ff0-74d0d76ad14d",
             "goldTime": 49000
+        },
+        {
+            "authorTime": 54648,
+            "date": "2026-08-28",
+            "mapUid": "G197ae7Z7kUW3sUyj6Yi65TIt57",
+            "name": "$n$i$o$000XP$F09Evo26 $n$i$fff - DeutscheBahn Z",
+            "reason": null,
+            "warriorTime": 54574,
+            "worldRecord": 54052,
+            "mapId": "bffce2f2-3ee0-4dd5-b40d-68f87046ab0d",
+            "goldTime": 58000
         }
     ],
     "Other": [
