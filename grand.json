@@ -680,5 +680,27 @@
         "timestampUpload": 1774308137,
         "week": 35,
         "year": 2026
+    },
+    "PRXBqCEiXgplgKlSzekDIcQc0S1": {
+        "author": "31dd51fd-961f-496d-ac64-1758fa8545c0",
+        "authorTime": 578474,
+        "bronzeTime": 868000,
+        "campaignId": 154593,
+        "goldTime": 614000,
+        "mapId": "6a223268-7717-48e2-9220-432d62f28e61",
+        "mapIndex": 0,
+        "mapUid": "PRXBqCEiXgplgKlSzekDIcQc0S1",
+        "name": "G - A Knight\u2019s Gauntlet",
+        "number": 36,
+        "seasonUid": "f0cc75be-0315-4d4c-aba0-0e1465a40f67",
+        "silverTime": 695000,
+        "submitter": "31dd51fd-961f-496d-ac64-1758fa8545c0",
+        "timestampEdition": 1787892149,
+        "timestampEnd": 1788710400,
+        "timestampRankingSent": 0,
+        "timestampStart": 1788105600,
+        "timestampUpload": 1786578772,
+        "week": 36,
+        "year": 2026
     }
 }
