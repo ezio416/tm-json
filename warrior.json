@@ -1,5 +1,5 @@
 {
-    "next": 1788116400,
+    "next": 1788202800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36737,6 +36737,17 @@
             "worldRecord": 39721,
             "mapId": "fbab8ea0-3359-432e-abc4-7bb06b1fbb00",
             "goldTime": 43000
+        },
+        {
+            "authorTime": 47306,
+            "date": "2026-08-30",
+            "mapUid": "OUXKhsbqx5waQEn7x5LoNCjwwe0",
+            "name": "$03COnde B$03Cois\u00e9e",
+            "reason": null,
+            "warriorTime": 47084,
+            "worldRecord": 45526,
+            "mapId": "6f4ad596-239f-4251-9d89-dc1c9e09b6b1",
+            "goldTime": 51000
         }
     ],
     "Other": [
