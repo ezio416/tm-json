@@ -47290,5 +47290,26 @@
         "timestampUpload": 1787177524,
         "weekDay": 6,
         "year": 2026
+    },
+    "dASzlSVI1BSWjc1MH2QV8lKGlFm": {
+        "author": "1f797be5-e425-4f6d-8ebd-e74fd26e5d0d",
+        "authorTime": 53000,
+        "bronzeTime": 80000,
+        "campaignId": 154597,
+        "goldTime": 57000,
+        "mapId": "a7df8d03-4230-488d-927a-c32641df4375",
+        "mapUid": "dASzlSVI1BSWjc1MH2QV8lKGlFm",
+        "month": 8,
+        "monthDay": 31,
+        "name": "$s$FC0   Dark Hive $F Nightflow U&R",
+        "number": 2253,
+        "seasonUid": "aa9e1838-d653-4e49-ada3-edcf6d8b2db8",
+        "silverTime": 64000,
+        "submitter": "1f797be5-e425-4f6d-8ebd-e74fd26e5d0d",
+        "timestampEnd": 1788282000,
+        "timestampStart": 1788195600,
+        "timestampUpload": 1776799172,
+        "weekDay": 0,
+        "year": 2026
     }
 }
