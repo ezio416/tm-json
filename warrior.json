@@ -1,5 +1,5 @@
 {
-    "next": 1788202800,
+    "next": 1788278400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36748,6 +36748,17 @@
             "worldRecord": 45526,
             "mapId": "6f4ad596-239f-4251-9d89-dc1c9e09b6b1",
             "goldTime": 51000
+        },
+        {
+            "authorTime": 53000,
+            "date": "2026-08-31",
+            "mapUid": "dASzlSVI1BSWjc1MH2QV8lKGlFm",
+            "name": "$s$FC0   Dark Hive $F Nightflow U&R",
+            "reason": null,
+            "warriorTime": 52641,
+            "worldRecord": 50124,
+            "mapId": "a7df8d03-4230-488d-927a-c32641df4375",
+            "goldTime": 57000
         }
     ],
     "Other": [
