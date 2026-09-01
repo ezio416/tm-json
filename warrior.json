@@ -1,5 +1,5 @@
 {
-    "next": 1788289200,
+    "next": 1788375600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36772,6 +36772,17 @@
             "worldRecord": 50124,
             "mapId": "a7df8d03-4230-488d-927a-c32641df4375",
             "goldTime": 57000
+        },
+        {
+            "authorTime": 54912,
+            "date": "2026-09-01",
+            "mapUid": "DTxdk3q4kA52fMdkOOgaRANZODb",
+            "name": "Chilly Reception ft Ealipse",
+            "reason": null,
+            "warriorTime": 54600,
+            "worldRecord": 52414,
+            "mapId": "182c3cbe-21de-4668-9dc2-fb58414a97b9",
+            "goldTime": 59000
         }
     ],
     "Other": [
