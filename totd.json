@@ -47311,5 +47311,26 @@
         "timestampUpload": 1776799172,
         "weekDay": 0,
         "year": 2026
+    },
+    "DTxdk3q4kA52fMdkOOgaRANZODb": {
+        "author": "07fc0309-fdbc-4926-97c1-16776db374f6",
+        "authorTime": 54912,
+        "bronzeTime": 83000,
+        "campaignId": 154900,
+        "goldTime": 59000,
+        "mapId": "182c3cbe-21de-4668-9dc2-fb58414a97b9",
+        "mapUid": "DTxdk3q4kA52fMdkOOgaRANZODb",
+        "month": 9,
+        "monthDay": 1,
+        "name": "Chilly Reception ft Ealipse",
+        "number": 2254,
+        "seasonUid": "2e43e804-3970-4e97-973c-c59b37b7638e",
+        "silverTime": 66000,
+        "submitter": "07fc0309-fdbc-4926-97c1-16776db374f6",
+        "timestampEnd": 1788368400,
+        "timestampStart": 1788282000,
+        "timestampUpload": 1696874991,
+        "weekDay": 1,
+        "year": 2026
     }
 }
