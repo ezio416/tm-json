@@ -1,5 +1,5 @@
 {
-    "next": 1788278400,
+    "next": 1788289200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -465,6 +465,19 @@
             "goldTime": 608000,
             "campaignId": 153859,
             "week": 35
+        },
+        {
+            "authorTime": 578474,
+            "mapUid": "PRXBqCEiXgplgKlSzekDIcQc0S1",
+            "name": "G - A Knight\u2019s Gauntlet",
+            "number": 36,
+            "reason": null,
+            "warriorTime": 521741,
+            "worldRecord": 427185,
+            "mapId": "6a223268-7717-48e2-9220-432d62f28e61",
+            "goldTime": 614000,
+            "campaignId": 154593,
+            "week": 36
         }
     ],
     "Seasonal": [
