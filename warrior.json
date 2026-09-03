@@ -1,5 +1,5 @@
 {
-    "next": 1788462000,
+    "next": 1788548400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36794,6 +36794,17 @@
             "worldRecord": 45688,
             "mapId": "3aad0d2f-0a2c-4e0f-a8a5-d06eb99057b8",
             "goldTime": 51000
+        },
+        {
+            "authorTime": 42438,
+            "date": "2026-09-03",
+            "mapUid": "D9PGWHRAYm45fA0aWP88WN61aJc",
+            "name": "you're so golden",
+            "reason": null,
+            "warriorTime": 42369,
+            "worldRecord": 41883,
+            "mapId": "8d4be180-4d40-42f4-a2ce-d12db180c350",
+            "goldTime": 45000
         }
     ],
     "Other": [
