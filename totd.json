@@ -47353,5 +47353,26 @@
         "timestampUpload": 1783115539,
         "weekDay": 2,
         "year": 2026
+    },
+    "D9PGWHRAYm45fA0aWP88WN61aJc": {
+        "author": "7599d4de-2ced-46d0-abf6-91612e1dca30",
+        "authorTime": 42438,
+        "bronzeTime": 64000,
+        "campaignId": 155014,
+        "goldTime": 45000,
+        "mapId": "8d4be180-4d40-42f4-a2ce-d12db180c350",
+        "mapUid": "D9PGWHRAYm45fA0aWP88WN61aJc",
+        "month": 9,
+        "monthDay": 3,
+        "name": "you're so golden",
+        "number": 2256,
+        "seasonUid": "fce5983d-7d6f-49cf-9334-34087be1213d",
+        "silverTime": 51000,
+        "submitter": "7599d4de-2ced-46d0-abf6-91612e1dca30",
+        "timestampEnd": 1788541200,
+        "timestampStart": 1788454800,
+        "timestampUpload": 1788105452,
+        "weekDay": 3,
+        "year": 2026
     }
 }
