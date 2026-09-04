@@ -47374,5 +47374,26 @@
         "timestampUpload": 1788105452,
         "weekDay": 3,
         "year": 2026
+    },
+    "pd6i0dIVha_9Q2oxrEeXJmE5Pz7": {
+        "author": "07fc0309-fdbc-4926-97c1-16776db374f6",
+        "authorTime": 50452,
+        "bronzeTime": 76000,
+        "campaignId": 155017,
+        "goldTime": 54000,
+        "mapId": "fc0602fa-e0e7-4a7b-8455-97b3e0c692bb",
+        "mapUid": "pd6i0dIVha_9Q2oxrEeXJmE5Pz7",
+        "month": 9,
+        "monthDay": 4,
+        "name": "Giga Drain",
+        "number": 2257,
+        "seasonUid": "17cb43c5-65c6-410c-9b38-2e3118049fe8",
+        "silverTime": 61000,
+        "submitter": "07fc0309-fdbc-4926-97c1-16776db374f6",
+        "timestampEnd": 1788627600,
+        "timestampStart": 1788541200,
+        "timestampUpload": 1696875844,
+        "weekDay": 4,
+        "year": 2026
     }
 }
