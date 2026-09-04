@@ -1,5 +1,5 @@
 {
-    "next": 1788548400,
+    "next": 1788634800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36805,6 +36805,17 @@
             "worldRecord": 41883,
             "mapId": "8d4be180-4d40-42f4-a2ce-d12db180c350",
             "goldTime": 45000
+        },
+        {
+            "authorTime": 50452,
+            "date": "2026-09-04",
+            "mapUid": "pd6i0dIVha_9Q2oxrEeXJmE5Pz7",
+            "name": "Giga Drain",
+            "reason": null,
+            "warriorTime": 50278,
+            "worldRecord": 49055,
+            "mapId": "fc0602fa-e0e7-4a7b-8455-97b3e0c692bb",
+            "goldTime": 54000
         }
     ],
     "Other": [
