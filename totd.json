@@ -47395,5 +47395,26 @@
         "timestampUpload": 1696875844,
         "weekDay": 4,
         "year": 2026
+    },
+    "QFnICsp1aJdQpIk001f1rcgIBC1": {
+        "author": "97a73f3f-cdb3-4dca-8537-479134d7c805",
+        "authorTime": 43898,
+        "bronzeTime": 66000,
+        "campaignId": 155018,
+        "goldTime": 47000,
+        "mapId": "c5776360-69f7-4cae-8430-9cabee6dd713",
+        "mapUid": "QFnICsp1aJdQpIk001f1rcgIBC1",
+        "month": 9,
+        "monthDay": 5,
+        "name": "$s$F96Walk On By $fffft$f96' $fffSampler",
+        "number": 2258,
+        "seasonUid": "dac2b9a2-233c-4273-a5bf-69336af61302",
+        "silverTime": 53000,
+        "submitter": "97a73f3f-cdb3-4dca-8537-479134d7c805",
+        "timestampEnd": 1788714000,
+        "timestampStart": 1788627600,
+        "timestampUpload": 1742927137,
+        "weekDay": 5,
+        "year": 2026
     }
 }
