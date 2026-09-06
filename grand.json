@@ -702,5 +702,27 @@
         "timestampUpload": 1786578772,
         "week": 36,
         "year": 2026
+    },
+    "8hcYH5PF0RqX5UDYXxiPgdFxjjh": {
+        "author": "24694142-d2ff-4c46-a437-77ce47319a5b",
+        "authorTime": 627438,
+        "bronzeTime": 942000,
+        "campaignId": 155301,
+        "goldTime": 666000,
+        "mapId": "a3590cf2-4c37-4422-8f11-9c76b7269226",
+        "mapIndex": 0,
+        "mapUid": "8hcYH5PF0RqX5UDYXxiPgdFxjjh",
+        "name": "G - Elphalinda Bay",
+        "number": 37,
+        "seasonUid": "787f7ed6-b768-45a0-8f30-fdbbcbac4a0e",
+        "silverTime": 753000,
+        "submitter": "24694142-d2ff-4c46-a437-77ce47319a5b",
+        "timestampEdition": 1788521719,
+        "timestampEnd": 1789315200,
+        "timestampRankingSent": 0,
+        "timestampStart": 1788710400,
+        "timestampUpload": 1778391225,
+        "week": 37,
+        "year": 2026
     }
 }
