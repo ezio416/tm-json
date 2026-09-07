@@ -1,5 +1,5 @@
 {
-    "next": 1788807600,
+    "next": 1788883200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36838,6 +36838,17 @@
             "worldRecord": 44882,
             "mapId": "c4282818-ff34-4b8d-919f-2d13b4f6bd85",
             "goldTime": 49000
+        },
+        {
+            "authorTime": 47718,
+            "date": "2026-09-07",
+            "mapUid": "53pLPCrlRNzFCVcDVj9icz5WbC4",
+            "name": "SCORIA",
+            "reason": null,
+            "warriorTime": 47618,
+            "worldRecord": 46917,
+            "mapId": "7ee626c5-d4c1-4ed1-a08b-e1131391b4c2",
+            "goldTime": 51000
         }
     ],
     "Other": [
