@@ -47434,8 +47434,29 @@
         "submitter": "de590c4e-f98c-4783-afa8-a01efb069ceb",
         "timestampEnd": 1788800400,
         "timestampStart": 1788714000,
-        "timestampUpload": 1788000521,
+        "timestampUpload": 1788732590,
         "weekDay": 6,
+        "year": 2026
+    },
+    "53pLPCrlRNzFCVcDVj9icz5WbC4": {
+        "author": "c68d831c-16b2-4134-91d4-bdace1291a79",
+        "authorTime": 47718,
+        "bronzeTime": 72000,
+        "campaignId": 155016,
+        "goldTime": 51000,
+        "mapId": "7ee626c5-d4c1-4ed1-a08b-e1131391b4c2",
+        "mapUid": "53pLPCrlRNzFCVcDVj9icz5WbC4",
+        "month": 9,
+        "monthDay": 7,
+        "name": "SCORIA",
+        "number": 2260,
+        "seasonUid": "492388c9-f721-4160-a8fe-8871b7225e34",
+        "silverTime": 58000,
+        "submitter": "c68d831c-16b2-4134-91d4-bdace1291a79",
+        "timestampEnd": 1788886800,
+        "timestampStart": 1788800400,
+        "timestampUpload": 1786476526,
+        "weekDay": 0,
         "year": 2026
     }
 }
