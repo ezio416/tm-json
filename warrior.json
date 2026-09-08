@@ -1,5 +1,5 @@
 {
-    "next": 1788894000,
+    "next": 1788980400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36862,6 +36862,17 @@
             "worldRecord": 46917,
             "mapId": "7ee626c5-d4c1-4ed1-a08b-e1131391b4c2",
             "goldTime": 51000
+        },
+        {
+            "authorTime": 44186,
+            "date": "2026-09-08",
+            "mapUid": "Y9RlhNc820M4TMZ6K9AySGzeXOa",
+            "name": "$888$sWear your Seat Belt",
+            "reason": null,
+            "warriorTime": 44121,
+            "worldRecord": 43666,
+            "mapId": "9e2036b9-ebb2-425a-8385-97330dcdfaf6",
+            "goldTime": 47000
         }
     ],
     "Other": [
