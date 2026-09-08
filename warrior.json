@@ -1,5 +1,5 @@
 {
-    "next": 1788883200,
+    "next": 1788894000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -478,6 +478,19 @@
             "goldTime": 614000,
             "campaignId": 154593,
             "week": 36
+        },
+        {
+            "authorTime": 627438,
+            "mapUid": "8hcYH5PF0RqX5UDYXxiPgdFxjjh",
+            "name": "G - Elphalinda Bay",
+            "number": 37,
+            "reason": null,
+            "warriorTime": 600434,
+            "worldRecord": 555425,
+            "mapId": "a3590cf2-4c37-4422-8f11-9c76b7269226",
+            "goldTime": 666000,
+            "campaignId": 155301,
+            "week": 37
         }
     ],
     "Seasonal": [
