@@ -47479,5 +47479,26 @@
         "timestampUpload": 1788799740,
         "weekDay": 1,
         "year": 2026
+    },
+    "IEESxNBIrvJmq3ZiGCwfZvA2np7": {
+        "author": "2455daf8-fb9f-42ce-b3bf-8de2c452dbf1",
+        "authorTime": 50384,
+        "bronzeTime": 76000,
+        "campaignId": 155675,
+        "goldTime": 54000,
+        "mapId": "32d011ca-2fe7-444a-acf2-7d1259d917b1",
+        "mapUid": "IEESxNBIrvJmq3ZiGCwfZvA2np7",
+        "month": 9,
+        "monthDay": 9,
+        "name": "MTC - Escaping Silence",
+        "number": 2262,
+        "seasonUid": "90e6c8f3-fbca-4ca3-8e86-59464d6971da",
+        "silverTime": 61000,
+        "submitter": "2455daf8-fb9f-42ce-b3bf-8de2c452dbf1",
+        "timestampEnd": 1789059600,
+        "timestampStart": 1788973200,
+        "timestampUpload": 1788194462,
+        "weekDay": 2,
+        "year": 2026
     }
 }
