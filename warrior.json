@@ -1,5 +1,5 @@
 {
-    "next": 1788980400,
+    "next": 1789066800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36873,6 +36873,17 @@
             "worldRecord": 43666,
             "mapId": "9e2036b9-ebb2-425a-8385-97330dcdfaf6",
             "goldTime": 47000
+        },
+        {
+            "authorTime": 50384,
+            "date": "2026-09-09",
+            "mapUid": "IEESxNBIrvJmq3ZiGCwfZvA2np7",
+            "name": "MTC - Escaping Silence",
+            "reason": null,
+            "warriorTime": 50153,
+            "worldRecord": 48534,
+            "mapId": "32d011ca-2fe7-444a-acf2-7d1259d917b1",
+            "goldTime": 54000
         }
     ],
     "Other": [
