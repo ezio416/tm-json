@@ -7009,7 +7009,7 @@
         "submitter": "ad6b44c0-091c-4183-8f60-af61ffec2f8a",
         "timestampEnd": 1622480400,
         "timestampStart": 1622394000,
-        "timestampUpload": 1636467722,
+        "timestampUpload": 1788981827,
         "weekDay": 6,
         "year": 2021
     },
@@ -47499,6 +47499,27 @@
         "timestampStart": 1788973200,
         "timestampUpload": 1788194462,
         "weekDay": 2,
+        "year": 2026
+    },
+    "doAm6WqRinGWeQieDCgTtma3T01": {
+        "author": "011e877d-9511-4182-b5be-ea0b71bef050",
+        "authorTime": 44572,
+        "bronzeTime": 67000,
+        "campaignId": 155678,
+        "goldTime": 48000,
+        "mapId": "61c62513-6a47-4ba5-a071-e2fb58488a7c",
+        "mapUid": "doAm6WqRinGWeQieDCgTtma3T01",
+        "month": 9,
+        "monthDay": 10,
+        "name": " $C00$s$oPeak$g $o$3C3$iUnemployment$g $s$ift' Artroy",
+        "number": 2263,
+        "seasonUid": "3c180f3f-ffde-4189-ae34-f8ed4cd7fafa",
+        "silverTime": 54000,
+        "submitter": "011e877d-9511-4182-b5be-ea0b71bef050",
+        "timestampEnd": 1789146000,
+        "timestampStart": 1789059600,
+        "timestampUpload": 1788546600,
+        "weekDay": 3,
         "year": 2026
     }
 }
