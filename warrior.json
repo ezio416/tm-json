@@ -1,5 +1,5 @@
 {
-    "next": 1789066800,
+    "next": 1789153200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36884,6 +36884,17 @@
             "worldRecord": 48534,
             "mapId": "32d011ca-2fe7-444a-acf2-7d1259d917b1",
             "goldTime": 54000
+        },
+        {
+            "authorTime": 44572,
+            "date": "2026-09-10",
+            "mapUid": "doAm6WqRinGWeQieDCgTtma3T01",
+            "name": " $C00$s$oPeak$g $o$3C3$iUnemployment$g $s$ift' Artroy",
+            "reason": null,
+            "warriorTime": 44542,
+            "worldRecord": 44332,
+            "mapId": "61c62513-6a47-4ba5-a071-e2fb58488a7c",
+            "goldTime": 48000
         }
     ],
     "Other": [
