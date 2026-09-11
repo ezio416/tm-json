@@ -47521,5 +47521,26 @@
         "timestampUpload": 1788546600,
         "weekDay": 3,
         "year": 2026
+    },
+    "PN0MknK9aAeXzcIysVq_Qt00gu4": {
+        "author": "24be0670-be26-44c2-bcb6-1ee6cea55640",
+        "authorTime": 42128,
+        "bronzeTime": 64000,
+        "campaignId": 155676,
+        "goldTime": 45000,
+        "mapId": "18497f2f-f86c-4beb-93a4-84457d641df6",
+        "mapUid": "PN0MknK9aAeXzcIysVq_Qt00gu4",
+        "month": 9,
+        "monthDay": 11,
+        "name": "$i$sBeauty At The Bottom Ft KrisTM",
+        "number": 2264,
+        "seasonUid": "a7b066d2-cc1f-4ca7-8cec-fbd68ebba652",
+        "silverTime": 51000,
+        "submitter": "24be0670-be26-44c2-bcb6-1ee6cea55640",
+        "timestampEnd": 1789232400,
+        "timestampStart": 1789146000,
+        "timestampUpload": 1777333162,
+        "weekDay": 4,
+        "year": 2026
     }
 }
