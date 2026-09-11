@@ -1,5 +1,5 @@
 {
-    "next": 1789153200,
+    "next": 1789239600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36895,6 +36895,17 @@
             "worldRecord": 44332,
             "mapId": "61c62513-6a47-4ba5-a071-e2fb58488a7c",
             "goldTime": 48000
+        },
+        {
+            "authorTime": 42128,
+            "date": "2026-09-11",
+            "mapUid": "PN0MknK9aAeXzcIysVq_Qt00gu4",
+            "name": "$i$sBeauty At The Bottom Ft KrisTM",
+            "reason": null,
+            "warriorTime": 41862,
+            "worldRecord": 39999,
+            "mapId": "18497f2f-f86c-4beb-93a4-84457d641df6",
+            "goldTime": 45000
         }
     ],
     "Other": [
