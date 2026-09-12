@@ -47542,5 +47542,26 @@
         "timestampUpload": 1777333162,
         "weekDay": 4,
         "year": 2026
+    },
+    "8otgByIN9qrJilOJT0n87tcQ1b3": {
+        "author": "2a1dd7a0-a4ce-4a1b-a4c0-a9ce0c79837e",
+        "authorTime": 40477,
+        "bronzeTime": 61000,
+        "campaignId": 155679,
+        "goldTime": 43000,
+        "mapId": "2ba2ac1c-756a-4206-8142-59cb19b8725e",
+        "mapUid": "8otgByIN9qrJilOJT0n87tcQ1b3",
+        "month": 9,
+        "monthDay": 12,
+        "name": "$s$CA6Sonder $FECft'$FFFQez",
+        "number": 2265,
+        "seasonUid": "1b4848b9-20c2-4bc2-a8c4-9559af96e061",
+        "silverTime": 49000,
+        "submitter": "2a1dd7a0-a4ce-4a1b-a4c0-a9ce0c79837e",
+        "timestampEnd": 1789318800,
+        "timestampStart": 1789232400,
+        "timestampUpload": 1788622795,
+        "weekDay": 5,
+        "year": 2026
     }
 }
