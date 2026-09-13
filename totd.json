@@ -47563,5 +47563,26 @@
         "timestampUpload": 1788622795,
         "weekDay": 5,
         "year": 2026
+    },
+    "Su0bIFSPmvtDU_2uuJ6IFJP7WCj": {
+        "author": "46dcc889-73cb-4df5-8b44-d5a5e6addfec",
+        "authorTime": 50596,
+        "bronzeTime": 76000,
+        "campaignId": 155680,
+        "goldTime": 54000,
+        "mapId": "a2083b4e-49b9-4171-9452-1d9d998ac575",
+        "mapUid": "Su0bIFSPmvtDU_2uuJ6IFJP7WCj",
+        "month": 9,
+        "monthDay": 13,
+        "name": "$600$o$S$IShadows of Abyss",
+        "number": 2266,
+        "seasonUid": "2da4f069-a37a-4bf1-91e1-9aac8ab32fba",
+        "silverTime": 61000,
+        "submitter": "46dcc889-73cb-4df5-8b44-d5a5e6addfec",
+        "timestampEnd": 1789405200,
+        "timestampStart": 1789318800,
+        "timestampUpload": 1782331887,
+        "weekDay": 6,
+        "year": 2026
     }
 }
