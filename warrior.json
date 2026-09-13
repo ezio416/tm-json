@@ -1,5 +1,5 @@
 {
-    "next": 1789326000,
+    "next": 1789412400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36917,6 +36917,17 @@
             "worldRecord": 39734,
             "mapId": "2ba2ac1c-756a-4206-8142-59cb19b8725e",
             "goldTime": 43000
+        },
+        {
+            "authorTime": 50596,
+            "date": "2026-09-13",
+            "mapUid": "Su0bIFSPmvtDU_2uuJ6IFJP7WCj",
+            "name": "$600$o$S$IShadows of Abyss",
+            "reason": null,
+            "warriorTime": 50433,
+            "worldRecord": 49289,
+            "mapId": "a2083b4e-49b9-4171-9452-1d9d998ac575",
+            "goldTime": 54000
         }
     ],
     "Other": [
