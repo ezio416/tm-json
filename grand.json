@@ -724,5 +724,27 @@
         "timestampUpload": 1778391225,
         "week": 37,
         "year": 2026
+    },
+    "C7GFQyAZ80U9jIviD7o7tRw4WD2": {
+        "author": "177d81ad-7218-4643-935e-1aee6a8a6c14",
+        "authorTime": 467779,
+        "bronzeTime": 702000,
+        "campaignId": 155881,
+        "goldTime": 496000,
+        "mapId": "59bde6f6-cd82-4880-8b65-3dcf7e709f83",
+        "mapIndex": 0,
+        "mapUid": "C7GFQyAZ80U9jIviD7o7tRw4WD2",
+        "name": "G - For Gemini",
+        "number": 38,
+        "seasonUid": "25ad9841-71f3-4040-90c7-fba3925dbb89",
+        "silverTime": 562000,
+        "submitter": "177d81ad-7218-4643-935e-1aee6a8a6c14",
+        "timestampEdition": 1789129572,
+        "timestampEnd": 1789920000,
+        "timestampRankingSent": 0,
+        "timestampStart": 1789315200,
+        "timestampUpload": 1788992278,
+        "week": 38,
+        "year": 2026
     }
 }
