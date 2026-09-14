@@ -1,5 +1,5 @@
 {
-    "next": 1789412400,
+    "next": 1789488000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36927,6 +36927,17 @@
             "warriorTime": 50433,
             "worldRecord": 49289,
             "mapId": "a2083b4e-49b9-4171-9452-1d9d998ac575",
+            "goldTime": 54000
+        },
+        {
+            "authorTime": 50140,
+            "date": "2026-09-14",
+            "mapUid": "Bo4whqZZRDMM48vK2oe1LfdFfF7",
+            "name": "$S$w$00fSapphire Expressway",
+            "reason": null,
+            "warriorTime": 49979,
+            "worldRecord": 48851,
+            "mapId": "b03a5ef0-3023-4aa4-982e-a73f6e935c14",
             "goldTime": 54000
         }
     ],
