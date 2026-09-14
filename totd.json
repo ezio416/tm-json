@@ -47584,5 +47584,26 @@
         "timestampUpload": 1782331887,
         "weekDay": 6,
         "year": 2026
+    },
+    "Bo4whqZZRDMM48vK2oe1LfdFfF7": {
+        "author": "1e33412e-0c82-4112-960d-25a190c791da",
+        "authorTime": 50140,
+        "bronzeTime": 76000,
+        "campaignId": 155681,
+        "goldTime": 54000,
+        "mapId": "b03a5ef0-3023-4aa4-982e-a73f6e935c14",
+        "mapUid": "Bo4whqZZRDMM48vK2oe1LfdFfF7",
+        "month": 9,
+        "monthDay": 14,
+        "name": "$S$w$00fSapphire Expressway",
+        "number": 2267,
+        "seasonUid": "8d8d1fa3-8c49-4f2f-b7b9-4317bf9bdb2d",
+        "silverTime": 61000,
+        "submitter": "1e33412e-0c82-4112-960d-25a190c791da",
+        "timestampEnd": 1789491600,
+        "timestampStart": 1789405200,
+        "timestampUpload": 1755180229,
+        "weekDay": 0,
+        "year": 2026
     }
 }
