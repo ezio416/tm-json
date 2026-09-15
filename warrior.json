@@ -1,5 +1,5 @@
 {
-    "next": 1789488000,
+    "next": 1789498800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -491,6 +491,19 @@
             "goldTime": 666000,
             "campaignId": 155301,
             "week": 37
+        },
+        {
+            "authorTime": 467779,
+            "mapUid": "C7GFQyAZ80U9jIviD7o7tRw4WD2",
+            "name": "G - For Gemini",
+            "number": 38,
+            "reason": null,
+            "warriorTime": 446841,
+            "worldRecord": 411944,
+            "mapId": "59bde6f6-cd82-4880-8b65-3dcf7e709f83",
+            "goldTime": 496000,
+            "campaignId": 155881,
+            "week": 38
         }
     ],
     "Seasonal": [
