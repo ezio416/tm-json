@@ -47626,5 +47626,26 @@
         "timestampUpload": 1787418658,
         "weekDay": 1,
         "year": 2026
+    },
+    "sUGHCUFlZ64mJDyfwnNBzbVq7Ik": {
+        "author": "cb9ebd7f-0be9-4e19-a83f-7720eceaf26d",
+        "authorTime": 41870,
+        "bronzeTime": 63000,
+        "campaignId": 156739,
+        "goldTime": 45000,
+        "mapId": "9e23b799-39a1-4602-8b7e-1bde2527e321",
+        "mapUid": "sUGHCUFlZ64mJDyfwnNBzbVq7Ik",
+        "month": 9,
+        "monthDay": 16,
+        "name": "$F00Watermelon $fffft' $090mango",
+        "number": 2269,
+        "seasonUid": "444dce96-345e-4e1d-b9e0-2630d8e78390",
+        "silverTime": 51000,
+        "submitter": "cb9ebd7f-0be9-4e19-a83f-7720eceaf26d",
+        "timestampEnd": 1789664400,
+        "timestampStart": 1789578000,
+        "timestampUpload": 1789415160,
+        "weekDay": 2,
+        "year": 2026
     }
 }
