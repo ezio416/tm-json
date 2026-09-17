@@ -47647,5 +47647,26 @@
         "timestampUpload": 1789415160,
         "weekDay": 2,
         "year": 2026
+    },
+    "WlescH1BlExm0t4MDHEsaURFbf9": {
+        "author": "7a2be083-53e0-4b15-afef-8a8aa14e89fb",
+        "authorTime": 45252,
+        "bronzeTime": 68000,
+        "campaignId": 156740,
+        "goldTime": 48000,
+        "mapId": "3c03e232-cd30-425d-b38d-18c4018e3361",
+        "mapUid": "WlescH1BlExm0t4MDHEsaURFbf9",
+        "month": 9,
+        "monthDay": 17,
+        "name": "$i$DDDmissing winter",
+        "number": 2270,
+        "seasonUid": "f44162d8-1620-43dd-8508-4571dd10fd5b",
+        "silverTime": 55000,
+        "submitter": "7a2be083-53e0-4b15-afef-8a8aa14e89fb",
+        "timestampEnd": 1789750800,
+        "timestampStart": 1789664400,
+        "timestampUpload": 1765792038,
+        "weekDay": 3,
+        "year": 2026
     }
 }
