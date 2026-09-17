@@ -1,5 +1,5 @@
 {
-    "next": 1789671600,
+    "next": 1789758000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36974,6 +36974,17 @@
             "worldRecord": 39574,
             "mapId": "9e23b799-39a1-4602-8b7e-1bde2527e321",
             "goldTime": 45000
+        },
+        {
+            "authorTime": 45252,
+            "date": "2026-09-17",
+            "mapUid": "WlescH1BlExm0t4MDHEsaURFbf9",
+            "name": "$i$DDDmissing winter",
+            "reason": null,
+            "warriorTime": 45237,
+            "worldRecord": 45127,
+            "mapId": "3c03e232-cd30-425d-b38d-18c4018e3361",
+            "goldTime": 48000
         }
     ],
     "Other": [
