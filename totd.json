@@ -47668,5 +47668,26 @@
         "timestampUpload": 1765792038,
         "weekDay": 3,
         "year": 2026
+    },
+    "Tb8awXKT8F6yZnFC6qwu6w6HG03": {
+        "author": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
+        "authorTime": 36646,
+        "bronzeTime": 50000,
+        "campaignId": 156743,
+        "goldTime": 39000,
+        "mapId": "9ca744d5-0dd5-4544-9095-c1cebf2e823d",
+        "mapUid": "Tb8awXKT8F6yZnFC6qwu6w6HG03",
+        "month": 9,
+        "monthDay": 18,
+        "name": "$smesopelagic ft' agrabou",
+        "number": 2271,
+        "seasonUid": "2c6f791b-7ec1-4e5a-989c-a0a082b2ca4a",
+        "silverTime": 44000,
+        "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
+        "timestampEnd": 1789837200,
+        "timestampStart": 1789750800,
+        "timestampUpload": 1785265740,
+        "weekDay": 4,
+        "year": 2026
     }
 }
