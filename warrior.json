@@ -1,5 +1,5 @@
 {
-    "next": 1789758000,
+    "next": 1789844400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36985,6 +36985,17 @@
             "worldRecord": 45127,
             "mapId": "3c03e232-cd30-425d-b38d-18c4018e3361",
             "goldTime": 48000
+        },
+        {
+            "authorTime": 36646,
+            "date": "2026-09-18",
+            "mapUid": "Tb8awXKT8F6yZnFC6qwu6w6HG03",
+            "name": "$smesopelagic ft' agrabou",
+            "reason": null,
+            "warriorTime": 36580,
+            "worldRecord": 36111,
+            "mapId": "9ca744d5-0dd5-4544-9095-c1cebf2e823d",
+            "goldTime": 39000
         }
     ],
     "Other": [
