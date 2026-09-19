@@ -1,5 +1,5 @@
 {
-    "next": 1789844400,
+    "next": 1789930800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -36996,6 +36996,17 @@
             "worldRecord": 36111,
             "mapId": "9ca744d5-0dd5-4544-9095-c1cebf2e823d",
             "goldTime": 39000
+        },
+        {
+            "authorTime": 53436,
+            "date": "2026-09-19",
+            "mapUid": "dQxpeeG8eCx9UoC8N9m2SQXMR3e",
+            "name": "Grasstronaut ft rhino",
+            "reason": null,
+            "warriorTime": 53176,
+            "worldRecord": 51350,
+            "mapId": "90c0e325-b482-4625-b1b7-4dcd4f821237",
+            "goldTime": 57000
         }
     ],
     "Other": [
