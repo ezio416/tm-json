@@ -46531,7 +46531,7 @@
         "submitter": "1bc8f22f-e573-4ae6-b583-f043500b2fb6",
         "timestampEnd": 1785085200,
         "timestampStart": 1784998800,
-        "timestampUpload": 1783709997,
+        "timestampUpload": 1789758406,
         "weekDay": 5,
         "year": 2026
     },
@@ -47688,6 +47688,27 @@
         "timestampStart": 1789750800,
         "timestampUpload": 1785265740,
         "weekDay": 4,
+        "year": 2026
+    },
+    "dQxpeeG8eCx9UoC8N9m2SQXMR3e": {
+        "author": "3a53cf3d-a729-4951-8478-ca73d781050f",
+        "authorTime": 53436,
+        "bronzeTime": 81000,
+        "campaignId": 156938,
+        "goldTime": 57000,
+        "mapId": "90c0e325-b482-4625-b1b7-4dcd4f821237",
+        "mapUid": "dQxpeeG8eCx9UoC8N9m2SQXMR3e",
+        "month": 9,
+        "monthDay": 19,
+        "name": "Grasstronaut ft rhino",
+        "number": 2272,
+        "seasonUid": "fa5e16f8-33dd-470d-97fa-c9fc4243183d",
+        "silverTime": 65000,
+        "submitter": "3a53cf3d-a729-4951-8478-ca73d781050f",
+        "timestampEnd": 1789923600,
+        "timestampStart": 1789837200,
+        "timestampUpload": 1788426981,
+        "weekDay": 5,
         "year": 2026
     }
 }
