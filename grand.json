@@ -746,5 +746,27 @@
         "timestampUpload": 1788992278,
         "week": 38,
         "year": 2026
+    },
+    "m4SrLSJuIotKGe8UuQSrGxyCc8d": {
+        "author": "a5dbf3e4-18dc-4bea-84f1-a6381c5ff2e1",
+        "authorTime": 523196,
+        "bronzeTime": 785000,
+        "campaignId": 156987,
+        "goldTime": 555000,
+        "mapId": "3f64df89-6ef4-4620-958f-e38ebbaa5702",
+        "mapIndex": 0,
+        "mapUid": "m4SrLSJuIotKGe8UuQSrGxyCc8d",
+        "name": "G - SnowCarEndurance",
+        "number": 39,
+        "seasonUid": "b1dc57af-405a-496a-96a2-b5fd0d13973f",
+        "silverTime": 628000,
+        "submitter": "a5dbf3e4-18dc-4bea-84f1-a6381c5ff2e1",
+        "timestampEdition": 1789747656,
+        "timestampEnd": 1790524800,
+        "timestampRankingSent": 0,
+        "timestampStart": 1789920000,
+        "timestampUpload": 1787919202,
+        "week": 39,
+        "year": 2026
     }
 }
