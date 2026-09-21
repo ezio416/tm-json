@@ -1,5 +1,5 @@
 {
-    "next": 1790017200,
+    "next": 1790092800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37018,6 +37018,17 @@
             "worldRecord": 39569,
             "mapId": "82d08558-f68a-49fa-8a25-374eb7da53dd",
             "goldTime": 44000
+        },
+        {
+            "authorTime": 46671,
+            "date": "2026-09-21",
+            "mapUid": "ctWsgGfBN6ZrPjHlHewJPBc0axf",
+            "name": "$zcar alarms",
+            "reason": null,
+            "warriorTime": 46601,
+            "worldRecord": 46107,
+            "mapId": "45352714-a9cd-4466-ae4b-3d915c9e475a",
+            "goldTime": 49000
         }
     ],
     "Other": [
