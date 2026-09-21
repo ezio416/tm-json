@@ -47731,5 +47731,26 @@
         "timestampUpload": 1789408019,
         "weekDay": 6,
         "year": 2026
+    },
+    "ctWsgGfBN6ZrPjHlHewJPBc0axf": {
+        "author": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
+        "authorTime": 46671,
+        "bronzeTime": 60000,
+        "campaignId": 156985,
+        "goldTime": 49000,
+        "mapId": "45352714-a9cd-4466-ae4b-3d915c9e475a",
+        "mapUid": "ctWsgGfBN6ZrPjHlHewJPBc0axf",
+        "month": 9,
+        "monthDay": 21,
+        "name": "$zcar alarms",
+        "number": 2274,
+        "seasonUid": "0c3e865d-d022-445f-b0af-9b5f01cbbdfa",
+        "silverTime": 53000,
+        "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
+        "timestampEnd": 1790096400,
+        "timestampStart": 1790010000,
+        "timestampUpload": 1789497290,
+        "weekDay": 0,
+        "year": 2026
     }
 }
