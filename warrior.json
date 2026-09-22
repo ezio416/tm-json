@@ -1,5 +1,5 @@
 {
-    "next": 1790103600,
+    "next": 1790190000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37042,6 +37042,17 @@
             "worldRecord": 46107,
             "mapId": "45352714-a9cd-4466-ae4b-3d915c9e475a",
             "goldTime": 49000
+        },
+        {
+            "authorTime": 39488,
+            "date": "2026-09-22",
+            "mapUid": "vE7Uw7ilScSovkFYxMUidfVxJj9",
+            "name": "Chrematistic",
+            "reason": null,
+            "warriorTime": 39352,
+            "worldRecord": 38399,
+            "mapId": "d7b9d41b-9f94-4cfe-a3c0-04ef1a39db1f",
+            "goldTime": 42000
         }
     ],
     "Other": [
