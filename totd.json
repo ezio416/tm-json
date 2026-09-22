@@ -47752,5 +47752,26 @@
         "timestampUpload": 1789497290,
         "weekDay": 0,
         "year": 2026
+    },
+    "vE7Uw7ilScSovkFYxMUidfVxJj9": {
+        "author": "184cb880-4d5d-4561-b8ca-2d1d7a90f422",
+        "authorTime": 39488,
+        "bronzeTime": 60000,
+        "campaignId": 157236,
+        "goldTime": 42000,
+        "mapId": "d7b9d41b-9f94-4cfe-a3c0-04ef1a39db1f",
+        "mapUid": "vE7Uw7ilScSovkFYxMUidfVxJj9",
+        "month": 9,
+        "monthDay": 22,
+        "name": "Chrematistic",
+        "number": 2275,
+        "seasonUid": "12d30d38-846c-4e5b-8293-7f8c196ef804",
+        "silverTime": 48000,
+        "submitter": "184cb880-4d5d-4561-b8ca-2d1d7a90f422",
+        "timestampEnd": 1790182800,
+        "timestampStart": 1790096400,
+        "timestampUpload": 1789868175,
+        "weekDay": 1,
+        "year": 2026
     }
 }
