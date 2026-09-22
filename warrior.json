@@ -1,5 +1,5 @@
 {
-    "next": 1790092800,
+    "next": 1790103600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -504,6 +504,19 @@
             "goldTime": 496000,
             "campaignId": 155881,
             "week": 38
+        },
+        {
+            "authorTime": 523196,
+            "mapUid": "m4SrLSJuIotKGe8UuQSrGxyCc8d",
+            "name": "G - SnowCarEndurance",
+            "number": 39,
+            "reason": null,
+            "warriorTime": 491635,
+            "worldRecord": 439031,
+            "mapId": "3f64df89-6ef4-4620-958f-e38ebbaa5702",
+            "goldTime": 555000,
+            "campaignId": 156987,
+            "week": 39
         }
     ],
     "Seasonal": [
