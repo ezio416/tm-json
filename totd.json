@@ -36409,7 +36409,7 @@
         "submitter": "32269ea2-cfed-4fc9-b69a-161833d3f652",
         "timestampEnd": 1743440400,
         "timestampStart": 1743354000,
-        "timestampUpload": 1742504554,
+        "timestampUpload": 1790126421,
         "weekDay": 6,
         "year": 2025
     },
@@ -38635,7 +38635,7 @@
         "submitter": "32269ea2-cfed-4fc9-b69a-161833d3f652",
         "timestampEnd": 1752598800,
         "timestampStart": 1752512400,
-        "timestampUpload": 1759513759,
+        "timestampUpload": 1790126423,
         "weekDay": 0,
         "year": 2025
     },
@@ -41218,7 +41218,7 @@
         "submitter": "32269ea2-cfed-4fc9-b69a-161833d3f652",
         "timestampEnd": 1763229600,
         "timestampStart": 1763143200,
-        "timestampUpload": 1760062483,
+        "timestampUpload": 1790126423,
         "weekDay": 4,
         "year": 2025
     },
@@ -43633,7 +43633,7 @@
         "submitter": "32269ea2-cfed-4fc9-b69a-161833d3f652",
         "timestampEnd": 1773165600,
         "timestampStart": 1773079200,
-        "timestampUpload": 1769050335,
+        "timestampUpload": 1790126490,
         "weekDay": 0,
         "year": 2026
     },
@@ -47772,6 +47772,27 @@
         "timestampStart": 1790096400,
         "timestampUpload": 1789868175,
         "weekDay": 1,
+        "year": 2026
+    },
+    "PkcKRWG6ixZiAbANd41TtEP66c1": {
+        "author": "abdc0576-fae7-4b31-96dc-539b8cda095f",
+        "authorTime": 57076,
+        "bronzeTime": 86000,
+        "campaignId": 157341,
+        "goldTime": 61000,
+        "mapId": "aa784d34-7806-47c3-b42a-56a420952c74",
+        "mapUid": "PkcKRWG6ixZiAbANd41TtEP66c1",
+        "month": 9,
+        "monthDay": 23,
+        "name": "$z$sThe $ec7Dirty Burger $z$sft' key",
+        "number": 2276,
+        "seasonUid": "4ae2de38-467a-478c-a861-b5fbe1c306f1",
+        "silverTime": 69000,
+        "submitter": "abdc0576-fae7-4b31-96dc-539b8cda095f",
+        "timestampEnd": 1790269200,
+        "timestampStart": 1790182800,
+        "timestampUpload": 1773251018,
+        "weekDay": 2,
         "year": 2026
     }
 }
