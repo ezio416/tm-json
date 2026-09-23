@@ -1,5 +1,5 @@
 {
-    "next": 1790190000,
+    "next": 1790535600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37053,6 +37053,17 @@
             "worldRecord": 38399,
             "mapId": "d7b9d41b-9f94-4cfe-a3c0-04ef1a39db1f",
             "goldTime": 42000
+        },
+        {
+            "authorTime": 57076,
+            "date": "2026-09-23",
+            "mapUid": "PkcKRWG6ixZiAbANd41TtEP66c1",
+            "name": "$z$sThe $ec7Dirty Burger $z$sft' key",
+            "reason": null,
+            "warriorTime": 56932,
+            "worldRecord": 55923,
+            "mapId": "aa784d34-7806-47c3-b42a-56a420952c74",
+            "goldTime": 61000
         }
     ],
     "Other": [
