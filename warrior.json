@@ -37086,6 +37086,17 @@
             "worldRecord": 45971,
             "mapId": "f52bc229-0b3c-46b9-967e-ff5a5c976c4d",
             "goldTime": 50000
+        },
+        {
+            "authorTime": 41478,
+            "date": "2026-09-26",
+            "mapUid": "ffARs4JY_ExEouGaXV_u1hithVm",
+            "name": "Proof I Can Still Tech",
+            "reason": null,
+            "warriorTime": 41382,
+            "worldRecord": 40705,
+            "mapId": "ef0c20bb-570b-4b06-ab6d-9746874a6f18",
+            "goldTime": 44000
         }
     ],
     "Other": [
@@ -61114,7 +61125,7 @@
             "mapUid": "dQxpeeG8eCx9UoC8N9m2SQXMR3e",
             "name": "Grasstronaut ft rhino",
             "reason": null,
-            "warriorTime": 51823,
+            "warriorTime": 53176,
             "worldRecord": 50209,
             "mapId": "90c0e325-b482-4625-b1b7-4dcd4f821237",
             "goldTime": 57000
