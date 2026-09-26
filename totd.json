@@ -46636,7 +46636,7 @@
         "submitter": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
         "timestampEnd": 1785517200,
         "timestampStart": 1785430800,
-        "timestampUpload": 1782746490,
+        "timestampUpload": 1790419592,
         "weekDay": 3,
         "year": 2026
     },
@@ -47835,6 +47835,27 @@
         "timestampStart": 1790355600,
         "timestampUpload": 1790093229,
         "weekDay": 4,
+        "year": 2026
+    },
+    "ffARs4JY_ExEouGaXV_u1hithVm": {
+        "author": "7cd60a75-609a-4e64-b286-16f329878249",
+        "authorTime": 41478,
+        "bronzeTime": 63000,
+        "campaignId": 157532,
+        "goldTime": 44000,
+        "mapId": "ef0c20bb-570b-4b06-ab6d-9746874a6f18",
+        "mapUid": "ffARs4JY_ExEouGaXV_u1hithVm",
+        "month": 9,
+        "monthDay": 26,
+        "name": "Proof I Can Still Tech",
+        "number": 2279,
+        "seasonUid": "64d884db-7ca5-4b2b-afaf-90e92db06b56",
+        "silverTime": 50000,
+        "submitter": "7cd60a75-609a-4e64-b286-16f329878249",
+        "timestampEnd": 1790528400,
+        "timestampStart": 1790442000,
+        "timestampUpload": 1790260136,
+        "weekDay": 5,
         "year": 2026
     }
 }
