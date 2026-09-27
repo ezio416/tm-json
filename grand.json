@@ -347,7 +347,7 @@
         "timestampEnd": 1779033600,
         "timestampRankingSent": 0,
         "timestampStart": 1778428800,
-        "timestampUpload": 1777929110,
+        "timestampUpload": 1790100999,
         "week": 20,
         "year": 2026
     },
@@ -677,7 +677,7 @@
         "timestampEnd": 1788105600,
         "timestampRankingSent": 0,
         "timestampStart": 1787500800,
-        "timestampUpload": 1774308137,
+        "timestampUpload": 1790100999,
         "week": 35,
         "year": 2026
     },
@@ -765,8 +765,30 @@
         "timestampEnd": 1790524800,
         "timestampRankingSent": 0,
         "timestampStart": 1789920000,
-        "timestampUpload": 1787919202,
+        "timestampUpload": 1790100997,
         "week": 39,
+        "year": 2026
+    },
+    "U_uJaOhTLSWDzNoGepom9iqxcR9": {
+        "author": "fe20ebec-00b3-46c3-897b-a10cd3ea780a",
+        "authorTime": 758430,
+        "bronzeTime": 1138000,
+        "campaignId": 157570,
+        "goldTime": 804000,
+        "mapId": "9f72e2ea-8e1a-4f97-a129-538850305f4d",
+        "mapIndex": 0,
+        "mapUid": "U_uJaOhTLSWDzNoGepom9iqxcR9",
+        "name": "G - $z$888$f0fBalade",
+        "number": 40,
+        "seasonUid": "676427a4-0af8-45b1-8092-34886b50113e",
+        "silverTime": 911000,
+        "submitter": "fe20ebec-00b3-46c3-897b-a10cd3ea780a",
+        "timestampEdition": 1790324833,
+        "timestampEnd": 1791129600,
+        "timestampRankingSent": 0,
+        "timestampStart": 1790524800,
+        "timestampUpload": 1790092262,
+        "week": 40,
         "year": 2026
     }
 }
