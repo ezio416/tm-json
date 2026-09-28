@@ -47878,5 +47878,26 @@
         "timestampUpload": 1789832806,
         "weekDay": 6,
         "year": 2026
+    },
+    "ehL8YCnGODmMG912m26iwjCoUa2": {
+        "author": "2d68497c-4894-40d5-a902-4e0a123ad3a8",
+        "authorTime": 40338,
+        "bronzeTime": 65000,
+        "campaignId": 157569,
+        "goldTime": 43500,
+        "mapId": "4dbc9c95-0e66-4549-8218-9fe4169c9c47",
+        "mapUid": "ehL8YCnGODmMG912m26iwjCoUa2",
+        "month": 9,
+        "monthDay": 28,
+        "name": "$iWhite Crow $25aft'Moss",
+        "number": 2281,
+        "seasonUid": "9b149492-0d58-48b2-b3fe-515e985bc783",
+        "silverTime": 50000,
+        "submitter": "2d68497c-4894-40d5-a902-4e0a123ad3a8",
+        "timestampEnd": 1790701200,
+        "timestampStart": 1790614800,
+        "timestampUpload": 1790029131,
+        "weekDay": 0,
+        "year": 2026
     }
 }
