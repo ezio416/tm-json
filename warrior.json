@@ -1,5 +1,5 @@
 {
-    "next": 1790622000,
+    "next": 1790697600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37108,6 +37108,17 @@
             "worldRecord": 41237,
             "mapId": "8b758c86-3c40-4a5f-ad4a-03c792ca7064",
             "goldTime": 48000
+        },
+        {
+            "authorTime": 40338,
+            "date": "2026-09-28",
+            "mapUid": "ehL8YCnGODmMG912m26iwjCoUa2",
+            "name": "$iWhite Crow $25aft'Moss",
+            "reason": null,
+            "warriorTime": 40322,
+            "worldRecord": 40208,
+            "mapId": "4dbc9c95-0e66-4549-8218-9fe4169c9c47",
+            "goldTime": 43500
         }
     ],
     "Other": [
