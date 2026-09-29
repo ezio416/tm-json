@@ -47899,5 +47899,26 @@
         "timestampUpload": 1790029131,
         "weekDay": 0,
         "year": 2026
+    },
+    "Q8C5qFfjU62MZa6ikaYzYCkc4Ob": {
+        "author": "77e81508-8431-42a3-941a-d77a809675c7",
+        "authorTime": 43484,
+        "bronzeTime": 66000,
+        "campaignId": 157941,
+        "goldTime": 47000,
+        "mapId": "bf17ae54-e089-4d0b-a2c4-41f8acfa1565",
+        "mapUid": "Q8C5qFfjU62MZa6ikaYzYCkc4Ob",
+        "month": 9,
+        "monthDay": 29,
+        "name": "Kodak",
+        "number": 2282,
+        "seasonUid": "ce616972-81c6-459f-8262-e8e0563dfe46",
+        "silverTime": 53000,
+        "submitter": "77e81508-8431-42a3-941a-d77a809675c7",
+        "timestampEnd": 1790787600,
+        "timestampStart": 1790701200,
+        "timestampUpload": 1789491024,
+        "weekDay": 1,
+        "year": 2026
     }
 }
