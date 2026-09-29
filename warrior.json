@@ -1,5 +1,5 @@
 {
-    "next": 1790708400,
+    "next": 1790794800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37132,6 +37132,17 @@
             "worldRecord": 40208,
             "mapId": "4dbc9c95-0e66-4549-8218-9fe4169c9c47",
             "goldTime": 43500
+        },
+        {
+            "authorTime": 43484,
+            "date": "2026-09-29",
+            "mapUid": "Q8C5qFfjU62MZa6ikaYzYCkc4Ob",
+            "name": "Kodak",
+            "reason": null,
+            "warriorTime": 43141,
+            "worldRecord": 40734,
+            "mapId": "bf17ae54-e089-4d0b-a2c4-41f8acfa1565",
+            "goldTime": 47000
         }
     ],
     "Other": [
