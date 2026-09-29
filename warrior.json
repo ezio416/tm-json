@@ -1,5 +1,5 @@
 {
-    "next": 1790697600,
+    "next": 1790708400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -517,6 +517,19 @@
             "goldTime": 555000,
             "campaignId": 156987,
             "week": 39
+        },
+        {
+            "authorTime": 758430,
+            "mapUid": "U_uJaOhTLSWDzNoGepom9iqxcR9",
+            "name": "G - $z$888$f0fBalade",
+            "number": 40,
+            "reason": null,
+            "warriorTime": 680684,
+            "worldRecord": 551107,
+            "mapId": "9f72e2ea-8e1a-4f97-a129-538850305f4d",
+            "goldTime": 804000,
+            "campaignId": 157570,
+            "week": 40
         }
     ],
     "Seasonal": [
