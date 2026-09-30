@@ -1,5 +1,5 @@
 {
-    "next": 1790794800,
+    "next": 1790881200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37143,6 +37143,17 @@
             "worldRecord": 40734,
             "mapId": "bf17ae54-e089-4d0b-a2c4-41f8acfa1565",
             "goldTime": 47000
+        },
+        {
+            "authorTime": 46488,
+            "date": "2026-09-30",
+            "mapUid": "qy4ygDG_VQO00_AB_GbbWrxQF3j",
+            "name": "$s$033Der $F00U$033phill f\u00e4llt nicht weit vom Stamm",
+            "reason": null,
+            "warriorTime": 46443,
+            "worldRecord": 46121,
+            "mapId": "3a53cfd2-ce26-4631-895f-7e4472e8131b",
+            "goldTime": 50000
         }
     ],
     "Other": [
