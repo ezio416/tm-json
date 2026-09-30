@@ -47920,5 +47920,26 @@
         "timestampUpload": 1789491024,
         "weekDay": 1,
         "year": 2026
+    },
+    "qy4ygDG_VQO00_AB_GbbWrxQF3j": {
+        "author": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
+        "authorTime": 46488,
+        "bronzeTime": 70000,
+        "campaignId": 158015,
+        "goldTime": 50000,
+        "mapId": "3a53cfd2-ce26-4631-895f-7e4472e8131b",
+        "mapUid": "qy4ygDG_VQO00_AB_GbbWrxQF3j",
+        "month": 9,
+        "monthDay": 30,
+        "name": "$s$033Der $F00U$033phill f\u00e4llt nicht weit vom Stamm",
+        "number": 2283,
+        "seasonUid": "5b823504-3160-4acd-b96e-f755dc8d4061",
+        "silverTime": 56000,
+        "submitter": "75da49be-c3d1-496c-a9c3-8d76e40dc95a",
+        "timestampEnd": 1790874000,
+        "timestampStart": 1790787600,
+        "timestampUpload": 1790107560,
+        "weekDay": 2,
+        "year": 2026
     }
 }
