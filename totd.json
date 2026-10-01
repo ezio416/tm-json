@@ -47941,5 +47941,26 @@
         "timestampUpload": 1790107560,
         "weekDay": 2,
         "year": 2026
+    },
+    "I1gkMBKI0Y5BMSFstmzsIqbUlB": {
+        "author": "dbc0c6b1-ddbf-4290-81d5-992506dbb615",
+        "authorTime": 44000,
+        "bronzeTime": 67000,
+        "campaignId": 158112,
+        "goldTime": 47000,
+        "mapId": "d8179dab-e4a0-4544-bfee-689b6bd71509",
+        "mapUid": "I1gkMBKI0Y5BMSFstmzsIqbUlB",
+        "month": 10,
+        "monthDay": 1,
+        "name": "Carnival - Funhouse (CE)",
+        "number": 2284,
+        "seasonUid": "ce69e855-88e2-4647-b3ff-328fd116086d",
+        "silverTime": 53000,
+        "submitter": "dbc0c6b1-ddbf-4290-81d5-992506dbb615",
+        "timestampEnd": 1790960400,
+        "timestampStart": 1790874000,
+        "timestampUpload": 1790028174,
+        "weekDay": 3,
+        "year": 2026
     }
 }
