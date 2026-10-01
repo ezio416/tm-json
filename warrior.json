@@ -1,5 +1,5 @@
 {
-    "next": 1790881200,
+    "next": 1790967600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37154,6 +37154,17 @@
             "worldRecord": 46121,
             "mapId": "3a53cfd2-ce26-4631-895f-7e4472e8131b",
             "goldTime": 50000
+        },
+        {
+            "authorTime": 44000,
+            "date": "2026-10-01",
+            "mapUid": "I1gkMBKI0Y5BMSFstmzsIqbUlB",
+            "name": "Carnival - Funhouse (CE)",
+            "reason": null,
+            "warriorTime": 43645,
+            "worldRecord": 41159,
+            "mapId": "d8179dab-e4a0-4544-bfee-689b6bd71509",
+            "goldTime": 47000
         }
     ],
     "Other": [
