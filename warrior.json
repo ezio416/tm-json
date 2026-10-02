@@ -1,5 +1,5 @@
 {
-    "next": 1790967600,
+    "next": 1791054000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37165,6 +37165,17 @@
             "worldRecord": 41159,
             "mapId": "d8179dab-e4a0-4544-bfee-689b6bd71509",
             "goldTime": 47000
+        },
+        {
+            "authorTime": 47287,
+            "date": "2026-10-02",
+            "mapUid": "QvNh5yG3krJ1hdOw8nLDCKw8LH1",
+            "name": "Through the$6cc$o Seasons $g (CE)",
+            "reason": null,
+            "warriorTime": 46836,
+            "worldRecord": 43678,
+            "mapId": "9595c13a-7245-4487-8b03-7cfee1940b71",
+            "goldTime": 51000
         }
     ],
     "Other": [
