@@ -787,8 +787,30 @@
         "timestampEnd": 1791129600,
         "timestampRankingSent": 0,
         "timestampStart": 1790524800,
-        "timestampUpload": 1790092262,
+        "timestampUpload": 1790602627,
         "week": 40,
+        "year": 2026
+    },
+    "mhh0pPDvua3nlI33ceRatI5ggG1": {
+        "author": "23a8af02-9e4e-4666-a4b7-61232c3a8493",
+        "authorTime": 598168,
+        "bronzeTime": 898000,
+        "campaignId": 158383,
+        "goldTime": 635000,
+        "mapId": "21b62aa4-157f-4179-921e-ab8c39e1a032",
+        "mapIndex": 0,
+        "mapUid": "mhh0pPDvua3nlI33ceRatI5ggG1",
+        "name": "G - $3FShoop",
+        "number": 41,
+        "seasonUid": "c19268f9-33f2-4a98-b3b2-97600f950179",
+        "silverTime": 718000,
+        "submitter": "23a8af02-9e4e-4666-a4b7-61232c3a8493",
+        "timestampEdition": 1790942603,
+        "timestampEnd": 1791734400,
+        "timestampRankingSent": 0,
+        "timestampStart": 1791129600,
+        "timestampUpload": 1790172953,
+        "week": 41,
         "year": 2026
     }
 }
