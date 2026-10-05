@@ -48025,5 +48025,26 @@
         "timestampUpload": 1788683500,
         "weekDay": 6,
         "year": 2026
+    },
+    "ulYLkmTNp07omgVdQgAIDQPJ1Df": {
+        "author": "d96f567b-0f70-46db-bcca-312e59b41df4",
+        "authorTime": 58541,
+        "bronzeTime": 88000,
+        "campaignId": 158382,
+        "goldTime": 63000,
+        "mapId": "cef65e44-11d0-4410-9227-aabc854a2eb1",
+        "mapUid": "ulYLkmTNp07omgVdQgAIDQPJ1Df",
+        "month": 10,
+        "monthDay": 5,
+        "name": "$s$f90W$fffaktukistan",
+        "number": 2288,
+        "seasonUid": "06eb9a3d-c578-4c48-bd52-6ec116b64a1a",
+        "silverTime": 71000,
+        "submitter": "d96f567b-0f70-46db-bcca-312e59b41df4",
+        "timestampEnd": 1791306000,
+        "timestampStart": 1791219600,
+        "timestampUpload": 1788617447,
+        "weekDay": 0,
+        "year": 2026
     }
 }
