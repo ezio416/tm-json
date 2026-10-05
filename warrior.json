@@ -1,5 +1,5 @@
 {
-    "next": 1791226800,
+    "next": 1791302400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37198,6 +37198,17 @@
             "worldRecord": 45648,
             "mapId": "f59485b4-c277-43fc-a91c-9755b4e32242",
             "goldTime": 51000
+        },
+        {
+            "authorTime": 58541,
+            "date": "2026-10-05",
+            "mapUid": "ulYLkmTNp07omgVdQgAIDQPJ1Df",
+            "name": "$s$f90W$fffaktukistan",
+            "reason": null,
+            "warriorTime": 58402,
+            "worldRecord": 57424,
+            "mapId": "cef65e44-11d0-4410-9227-aabc854a2eb1",
+            "goldTime": 63000
         }
     ],
     "Other": [
