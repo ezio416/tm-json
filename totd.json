@@ -48046,5 +48046,26 @@
         "timestampUpload": 1788617447,
         "weekDay": 0,
         "year": 2026
+    },
+    "6gRGggWOlXgWD6bsYTbxvzGGBl6": {
+        "author": "8519608a-02f6-4f0f-b741-d203c6694496",
+        "authorTime": 43317,
+        "bronzeTime": 65000,
+        "campaignId": 161814,
+        "goldTime": 46000,
+        "mapId": "8c021cf5-3fe8-4692-a893-b3c547af6b33",
+        "mapUid": "6gRGggWOlXgWD6bsYTbxvzGGBl6",
+        "month": 10,
+        "monthDay": 6,
+        "name": "$s$FFFT$F003$FFFPM - $o$i$FC3Soak up the Sun",
+        "number": 2289,
+        "seasonUid": "7f1f66e1-1a45-4ae7-a857-97c02224a61e",
+        "silverTime": 52000,
+        "submitter": "8519608a-02f6-4f0f-b741-d203c6694496",
+        "timestampEnd": 1791392400,
+        "timestampStart": 1791306000,
+        "timestampUpload": 1790433813,
+        "weekDay": 1,
+        "year": 2026
     }
 }
