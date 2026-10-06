@@ -1,5 +1,5 @@
 {
-    "next": 1791313200,
+    "next": 1791399600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37222,6 +37222,17 @@
             "worldRecord": 57424,
             "mapId": "cef65e44-11d0-4410-9227-aabc854a2eb1",
             "goldTime": 63000
+        },
+        {
+            "authorTime": 43317,
+            "date": "2026-10-06",
+            "mapUid": "6gRGggWOlXgWD6bsYTbxvzGGBl6",
+            "name": "$s$FFFT$F003$FFFPM - $o$i$FC3Soak up the Sun",
+            "reason": null,
+            "warriorTime": 43233,
+            "worldRecord": 42643,
+            "mapId": "8c021cf5-3fe8-4692-a893-b3c547af6b33",
+            "goldTime": 46000
         }
     ],
     "Other": [
