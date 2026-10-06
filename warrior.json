@@ -1,5 +1,5 @@
 {
-    "next": 1791302400,
+    "next": 1791313200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -530,6 +530,19 @@
             "goldTime": 804000,
             "campaignId": 157570,
             "week": 40
+        },
+        {
+            "authorTime": 598168,
+            "mapUid": "mhh0pPDvua3nlI33ceRatI5ggG1",
+            "name": "G - $3FShoop",
+            "number": 41,
+            "reason": null,
+            "warriorTime": 536691,
+            "worldRecord": 434228,
+            "mapId": "21b62aa4-157f-4179-921e-ab8c39e1a032",
+            "goldTime": 635000,
+            "campaignId": 158383,
+            "week": 41
         }
     ],
     "Seasonal": [
