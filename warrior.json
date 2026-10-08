@@ -1,5 +1,5 @@
 {
-    "next": 1791486000,
+    "next": 1791572400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37243,6 +37243,17 @@
             "warriorTime": 46769,
             "worldRecord": 47018,
             "mapId": "b3d75582-53b8-4599-b165-a9ec8c9774b4",
+            "goldTime": 50000
+        },
+        {
+            "authorTime": 46978,
+            "date": "2026-10-08",
+            "mapUid": "nMA1QH6tydNwHBEr3V2Y2Vl5kDl",
+            "name": "$s$CC9Not the Sharpest Tool in the Shed",
+            "reason": null,
+            "warriorTime": 46722,
+            "worldRecord": 44928,
+            "mapId": "943669d8-ea8d-49bc-aecf-41dcf39262b1",
             "goldTime": 50000
         }
     ],
