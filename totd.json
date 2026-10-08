@@ -48088,5 +48088,26 @@
         "timestampUpload": 1790976232,
         "weekDay": 2,
         "year": 2026
+    },
+    "nMA1QH6tydNwHBEr3V2Y2Vl5kDl": {
+        "author": "19ee8fab-df92-4bcd-8680-d9f6f3440b43",
+        "authorTime": 46978,
+        "bronzeTime": 71000,
+        "campaignId": 162087,
+        "goldTime": 50000,
+        "mapId": "943669d8-ea8d-49bc-aecf-41dcf39262b1",
+        "mapUid": "nMA1QH6tydNwHBEr3V2Y2Vl5kDl",
+        "month": 10,
+        "monthDay": 8,
+        "name": "$s$CC9Not the Sharpest Tool in the Shed",
+        "number": 2291,
+        "seasonUid": "37d9b48b-da12-49cc-8cc7-2f1d08598775",
+        "silverTime": 57000,
+        "submitter": "19ee8fab-df92-4bcd-8680-d9f6f3440b43",
+        "timestampEnd": 1791565200,
+        "timestampStart": 1791478800,
+        "timestampUpload": 1762289116,
+        "weekDay": 3,
+        "year": 2026
     }
 }
