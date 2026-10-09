@@ -1,5 +1,5 @@
 {
-    "next": 1791572400,
+    "next": 1791658800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37255,6 +37255,17 @@
             "worldRecord": 44928,
             "mapId": "943669d8-ea8d-49bc-aecf-41dcf39262b1",
             "goldTime": 50000
+        },
+        {
+            "authorTime": 42398,
+            "date": "2026-10-09",
+            "mapUid": "LzXVXjzeBUeGbo_r83Cbutg3Wv2",
+            "name": "150th Map Special - $adeStraightline it",
+            "reason": null,
+            "warriorTime": 42106,
+            "worldRecord": 40061,
+            "mapId": "78e39b19-b039-43b7-a421-a2143dcada5b",
+            "goldTime": 45000
         }
     ],
     "Other": [
