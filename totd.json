@@ -48109,5 +48109,26 @@
         "timestampUpload": 1762289116,
         "weekDay": 3,
         "year": 2026
+    },
+    "LzXVXjzeBUeGbo_r83Cbutg3Wv2": {
+        "author": "dd243d8b-5a0e-4ed3-b3ac-a62ded9ffdcd",
+        "authorTime": 42398,
+        "bronzeTime": 64000,
+        "campaignId": 162267,
+        "goldTime": 45000,
+        "mapId": "78e39b19-b039-43b7-a421-a2143dcada5b",
+        "mapUid": "LzXVXjzeBUeGbo_r83Cbutg3Wv2",
+        "month": 10,
+        "monthDay": 9,
+        "name": "150th Map Special - $adeStraightline it",
+        "number": 2292,
+        "seasonUid": "5d3ff42e-d5c8-4209-b23d-75774b572257",
+        "silverTime": 51000,
+        "submitter": "dd243d8b-5a0e-4ed3-b3ac-a62ded9ffdcd",
+        "timestampEnd": 1791651600,
+        "timestampStart": 1791565200,
+        "timestampUpload": 1789380507,
+        "weekDay": 4,
+        "year": 2026
     }
 }
