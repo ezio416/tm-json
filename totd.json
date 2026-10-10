@@ -48130,5 +48130,26 @@
         "timestampUpload": 1789380507,
         "weekDay": 4,
         "year": 2026
+    },
+    "e0LFUE5p9eJAU2HM0Gp5qBsekY5": {
+        "author": "011e877d-9511-4182-b5be-ea0b71bef050",
+        "authorTime": 47133,
+        "bronzeTime": 71000,
+        "campaignId": 162268,
+        "goldTime": 50000,
+        "mapId": "a2979acb-d324-4b01-90b1-dad2e4476695",
+        "mapUid": "e0LFUE5p9eJAU2HM0Gp5qBsekY5",
+        "month": 10,
+        "monthDay": 10,
+        "name": "$i$o$606My Apolo$FB0cheese",
+        "number": 2293,
+        "seasonUid": "8008dde4-b5c8-4ec2-97f4-85fa476a9a7f",
+        "silverTime": 57000,
+        "submitter": "011e877d-9511-4182-b5be-ea0b71bef050",
+        "timestampEnd": 1791738000,
+        "timestampStart": 1791651600,
+        "timestampUpload": 1790697535,
+        "weekDay": 5,
+        "year": 2026
     }
 }
