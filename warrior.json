@@ -1,5 +1,5 @@
 {
-    "next": 1791745200,
+    "next": 1791831600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37277,6 +37277,17 @@
             "worldRecord": 47051,
             "mapId": "a2979acb-d324-4b01-90b1-dad2e4476695",
             "goldTime": 50000
+        },
+        {
+            "authorTime": 33702,
+            "date": "2026-10-11",
+            "mapUid": "ZIgXOlrijYXiQNNvTUtzxDsf725",
+            "name": "$o$0FFF$0FFa$0FFi$0FFl $F19C$F19a$F19r$F19s $z- Track Attack",
+            "reason": null,
+            "warriorTime": 33420,
+            "worldRecord": 31442,
+            "mapId": "f96dfa84-44d5-4969-83da-5d78b4a7fb7a",
+            "goldTime": 36000
         }
     ],
     "Other": [
