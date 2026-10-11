@@ -812,5 +812,27 @@
         "timestampUpload": 1790172953,
         "week": 41,
         "year": 2026
+    },
+    "xgVh1P3J_h_hEwcPc3lzqDu7D39": {
+        "author": "a5dbf3e4-18dc-4bea-84f1-a6381c5ff2e1",
+        "authorTime": 574771,
+        "bronzeTime": 863000,
+        "campaignId": 162269,
+        "goldTime": 610000,
+        "mapId": "1ab0471e-8b01-4c28-bba2-3211a19f315e",
+        "mapIndex": 0,
+        "mapUid": "xgVh1P3J_h_hEwcPc3lzqDu7D39",
+        "name": "G - Techtonix",
+        "number": 42,
+        "seasonUid": "73a36c49-8389-4f01-8f5b-df36c8af1231",
+        "silverTime": 690000,
+        "submitter": "a5dbf3e4-18dc-4bea-84f1-a6381c5ff2e1",
+        "timestampEdition": 1791533218,
+        "timestampEnd": 1792339200,
+        "timestampRankingSent": 0,
+        "timestampStart": 1791734400,
+        "timestampUpload": 1791242489,
+        "week": 42,
+        "year": 2026
     }
 }
