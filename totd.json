@@ -38299,7 +38299,7 @@
         "submitter": "441bc61f-cd7d-4c1b-b345-8701ec2ded93",
         "timestampEnd": 1751216400,
         "timestampStart": 1751130000,
-        "timestampUpload": 1745329334,
+        "timestampUpload": 1791731271,
         "weekDay": 5,
         "year": 2025
     },
@@ -48150,6 +48150,27 @@
         "timestampStart": 1791651600,
         "timestampUpload": 1790697535,
         "weekDay": 5,
+        "year": 2026
+    },
+    "ZIgXOlrijYXiQNNvTUtzxDsf725": {
+        "author": "0e386730-ea74-4e39-8cec-b26c6e7ebb83",
+        "authorTime": 33702,
+        "bronzeTime": 51000,
+        "campaignId": 162089,
+        "goldTime": 36000,
+        "mapId": "f96dfa84-44d5-4969-83da-5d78b4a7fb7a",
+        "mapUid": "ZIgXOlrijYXiQNNvTUtzxDsf725",
+        "month": 10,
+        "monthDay": 11,
+        "name": "$o$0FFF$0FFa$0FFi$0FFl $F19C$F19a$F19r$F19s $z- Track Attack",
+        "number": 2294,
+        "seasonUid": "4b9f7597-a8c1-411f-b308-a7fb28559bf7",
+        "silverTime": 41000,
+        "submitter": "0e386730-ea74-4e39-8cec-b26c6e7ebb83",
+        "timestampEnd": 1791824400,
+        "timestampStart": 1791738000,
+        "timestampUpload": 1791116211,
+        "weekDay": 6,
         "year": 2026
     }
 }
