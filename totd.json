@@ -48172,5 +48172,26 @@
         "timestampUpload": 1791116211,
         "weekDay": 6,
         "year": 2026
+    },
+    "PGKFRLmfI1SWTL7DJTwLi9P6aXe": {
+        "author": "3a53cf3d-a729-4951-8478-ca73d781050f",
+        "authorTime": 44734,
+        "bronzeTime": 68000,
+        "campaignId": 162266,
+        "goldTime": 48000,
+        "mapId": "9fe8da51-628f-4a2f-bccf-291fc6b3eaf0",
+        "mapUid": "PGKFRLmfI1SWTL7DJTwLi9P6aXe",
+        "month": 10,
+        "monthDay": 12,
+        "name": "$0b8Frozen Urbex",
+        "number": 2295,
+        "seasonUid": "3098d69a-cb22-4521-9b43-d7bf04ac9baf",
+        "silverTime": 54000,
+        "submitter": "3a53cf3d-a729-4951-8478-ca73d781050f",
+        "timestampEnd": 1791910800,
+        "timestampStart": 1791824400,
+        "timestampUpload": 1791127610,
+        "weekDay": 0,
+        "year": 2026
     }
 }
