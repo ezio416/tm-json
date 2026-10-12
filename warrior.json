@@ -1,5 +1,5 @@
 {
-    "next": 1791831600,
+    "next": 1791907200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37288,6 +37288,17 @@
             "worldRecord": 31442,
             "mapId": "f96dfa84-44d5-4969-83da-5d78b4a7fb7a",
             "goldTime": 36000
+        },
+        {
+            "authorTime": 44734,
+            "date": "2026-10-12",
+            "mapUid": "PGKFRLmfI1SWTL7DJTwLi9P6aXe",
+            "name": "$0b8Frozen Urbex",
+            "reason": null,
+            "warriorTime": 44615,
+            "worldRecord": 43779,
+            "mapId": "9fe8da51-628f-4a2f-bccf-291fc6b3eaf0",
+            "goldTime": 48000
         }
     ],
     "Other": [
