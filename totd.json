@@ -48193,5 +48193,26 @@
         "timestampUpload": 1791127610,
         "weekDay": 0,
         "year": 2026
+    },
+    "BiWBWFQcjFG92UE8pozOogxEWF": {
+        "author": "c2aaa990-1091-47d5-8aff-870bbb760ea7",
+        "authorTime": 47835,
+        "bronzeTime": 72000,
+        "campaignId": 162596,
+        "goldTime": 51000,
+        "mapId": "05833c84-5214-46d6-b4d2-e93267771d63",
+        "mapUid": "BiWBWFQcjFG92UE8pozOogxEWF",
+        "month": 10,
+        "monthDay": 13,
+        "name": "$n$i$s$FC9The Raven That Refused to Sing",
+        "number": 2296,
+        "seasonUid": "b4e896b4-cf0c-4482-a6f5-cdcfe8ab531e",
+        "silverTime": 58000,
+        "submitter": "c2aaa990-1091-47d5-8aff-870bbb760ea7",
+        "timestampEnd": 1791997200,
+        "timestampStart": 1791910800,
+        "timestampUpload": 1790857160,
+        "weekDay": 1,
+        "year": 2026
     }
 }
