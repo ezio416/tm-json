@@ -1,5 +1,5 @@
 {
-    "next": 1791918000,
+    "next": 1792004400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37312,6 +37312,17 @@
             "worldRecord": 43779,
             "mapId": "9fe8da51-628f-4a2f-bccf-291fc6b3eaf0",
             "goldTime": 48000
+        },
+        {
+            "authorTime": 47835,
+            "date": "2026-10-13",
+            "mapUid": "BiWBWFQcjFG92UE8pozOogxEWF",
+            "name": "$n$i$s$FC9The Raven That Refused to Sing",
+            "reason": null,
+            "warriorTime": 47793,
+            "worldRecord": 47497,
+            "mapId": "05833c84-5214-46d6-b4d2-e93267771d63",
+            "goldTime": 51000
         }
     ],
     "Other": [
