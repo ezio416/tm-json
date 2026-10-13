@@ -1,5 +1,5 @@
 {
-    "next": 1791907200,
+    "next": 1791918000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -543,6 +543,19 @@
             "goldTime": 635000,
             "campaignId": 158383,
             "week": 41
+        },
+        {
+            "authorTime": 574771,
+            "mapUid": "xgVh1P3J_h_hEwcPc3lzqDu7D39",
+            "name": "G - Techtonix",
+            "number": 42,
+            "reason": null,
+            "warriorTime": 531001,
+            "worldRecord": 458051,
+            "mapId": "1ab0471e-8b01-4c28-bba2-3211a19f315e",
+            "goldTime": 610000,
+            "campaignId": 162269,
+            "week": 42
         }
     ],
     "Seasonal": [
