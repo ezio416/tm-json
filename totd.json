@@ -48214,5 +48214,26 @@
         "timestampUpload": 1790857160,
         "weekDay": 1,
         "year": 2026
+    },
+    "NlZkL2GgTV_ZGtFuplQ1wZDoyG": {
+        "author": "13dbf675-c062-4a62-a13d-3f9e056ae023",
+        "authorTime": 43423,
+        "bronzeTime": 66000,
+        "campaignId": 162597,
+        "goldTime": 47000,
+        "mapId": "7fca9cf9-f46d-448b-83f7-9935c0033395",
+        "mapUid": "NlZkL2GgTV_ZGtFuplQ1wZDoyG",
+        "month": 10,
+        "monthDay": 14,
+        "name": "Indolent ft' Soap",
+        "number": 2297,
+        "seasonUid": "6b43fa09-e0ee-405c-856e-1150986cff9e",
+        "silverTime": 53000,
+        "submitter": "13dbf675-c062-4a62-a13d-3f9e056ae023",
+        "timestampEnd": 1792083600,
+        "timestampStart": 1791997200,
+        "timestampUpload": 1791397236,
+        "weekDay": 2,
+        "year": 2026
     }
 }
