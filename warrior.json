@@ -1,5 +1,5 @@
 {
-    "next": 1792004400,
+    "next": 1792076400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37323,6 +37323,17 @@
             "worldRecord": 47497,
             "mapId": "05833c84-5214-46d6-b4d2-e93267771d63",
             "goldTime": 51000
+        },
+        {
+            "authorTime": 43423,
+            "date": "2026-10-14",
+            "mapUid": "NlZkL2GgTV_ZGtFuplQ1wZDoyG",
+            "name": "Indolent ft' Soap",
+            "reason": null,
+            "warriorTime": 43368,
+            "worldRecord": 42977,
+            "mapId": "7fca9cf9-f46d-448b-83f7-9935c0033395",
+            "goldTime": 47000
         }
     ],
     "Other": [
