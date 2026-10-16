@@ -1,5 +1,5 @@
 {
-    "next": 1792177200,
+    "next": 1792263600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37670,6 +37670,17 @@
             "worldRecord": 44980,
             "mapId": "d6c1f24a-3388-4f80-9ea8-5be1d21e4f0b",
             "goldTime": 49000
+        },
+        {
+            "authorTime": 59488,
+            "date": "2026-10-16",
+            "mapUid": "b6OO3L4ObaxvPrbxJBWqJkKDDq8",
+            "name": "Vango Purity",
+            "reason": null,
+            "warriorTime": 59262,
+            "worldRecord": 57675,
+            "mapId": "7be36ed1-bd7e-417f-a42a-c61083f3ad0e",
+            "goldTime": 64000
         }
     ],
     "Other": [
