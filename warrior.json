@@ -1,5 +1,5 @@
 {
-    "next": 1792263600,
+    "next": 1792350000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37681,6 +37681,17 @@
             "worldRecord": 57675,
             "mapId": "7be36ed1-bd7e-417f-a42a-c61083f3ad0e",
             "goldTime": 64000
+        },
+        {
+            "authorTime": 48899,
+            "date": "2026-10-17",
+            "mapUid": "dbiZyVMbUkG9U_pxdRKaIC6LHGl",
+            "name": "$i$fffi'm all alone",
+            "reason": null,
+            "warriorTime": 48767,
+            "worldRecord": 47842,
+            "mapId": "724c2e7f-3b37-4064-a891-2139f6f3b222",
+            "goldTime": 52000
         }
     ],
     "Other": [
