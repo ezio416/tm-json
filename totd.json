@@ -48232,7 +48232,7 @@
         "submitter": "13dbf675-c062-4a62-a13d-3f9e056ae023",
         "timestampEnd": 1792083600,
         "timestampStart": 1791997200,
-        "timestampUpload": 1791397236,
+        "timestampUpload": 1792240661,
         "weekDay": 2,
         "year": 2026
     },
@@ -48276,6 +48276,27 @@
         "timestampStart": 1792170000,
         "timestampUpload": 1792083846,
         "weekDay": 4,
+        "year": 2026
+    },
+    "dbiZyVMbUkG9U_pxdRKaIC6LHGl": {
+        "author": "de590c4e-f98c-4783-afa8-a01efb069ceb",
+        "authorTime": 48899,
+        "bronzeTime": 74000,
+        "campaignId": 162598,
+        "goldTime": 52000,
+        "mapId": "724c2e7f-3b37-4064-a891-2139f6f3b222",
+        "mapUid": "dbiZyVMbUkG9U_pxdRKaIC6LHGl",
+        "month": 10,
+        "monthDay": 17,
+        "name": "$i$fffi'm all alone",
+        "number": 2300,
+        "seasonUid": "35036d33-abac-49b7-9b5b-b65d2c19da23",
+        "silverTime": 59000,
+        "submitter": "de590c4e-f98c-4783-afa8-a01efb069ceb",
+        "timestampEnd": 1792342800,
+        "timestampStart": 1792256400,
+        "timestampUpload": 1790352423,
+        "weekDay": 5,
         "year": 2026
     }
 }
