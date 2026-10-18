@@ -48295,8 +48295,29 @@
         "submitter": "de590c4e-f98c-4783-afa8-a01efb069ceb",
         "timestampEnd": 1792342800,
         "timestampStart": 1792256400,
-        "timestampUpload": 1790352423,
+        "timestampUpload": 1792256679,
         "weekDay": 5,
+        "year": 2026
+    },
+    "uvVqp0z8Fzc3EalKpQjx8f37kDc": {
+        "author": "62e3dfa8-4410-4105-b482-05831f399bed",
+        "authorTime": 43841,
+        "bronzeTime": 66000,
+        "campaignId": 162954,
+        "goldTime": 47000,
+        "mapId": "59190b8e-2189-48cf-88a4-3b30dd085f28",
+        "mapUid": "uvVqp0z8Fzc3EalKpQjx8f37kDc",
+        "month": 10,
+        "monthDay": 18,
+        "name": "$sThe Downward Spiral",
+        "number": 2301,
+        "seasonUid": "a376f4e9-7632-43a5-a9b2-04029daf463a",
+        "silverTime": 53000,
+        "submitter": "62e3dfa8-4410-4105-b482-05831f399bed",
+        "timestampEnd": 1792429200,
+        "timestampStart": 1792342800,
+        "timestampUpload": 1791492612,
+        "weekDay": 6,
         "year": 2026
     }
 }
