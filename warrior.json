@@ -1,5 +1,5 @@
 {
-    "next": 1792350000,
+    "next": 1792436400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37692,6 +37692,17 @@
             "worldRecord": 47842,
             "mapId": "724c2e7f-3b37-4064-a891-2139f6f3b222",
             "goldTime": 52000
+        },
+        {
+            "authorTime": 43841,
+            "date": "2026-10-18",
+            "mapUid": "uvVqp0z8Fzc3EalKpQjx8f37kDc",
+            "name": "$sThe Downward Spiral",
+            "reason": null,
+            "warriorTime": 43335,
+            "worldRecord": 39787,
+            "mapId": "59190b8e-2189-48cf-88a4-3b30dd085f28",
+            "goldTime": 47000
         }
     ],
     "Other": [
