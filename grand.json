@@ -834,5 +834,27 @@
         "timestampUpload": 1791242489,
         "week": 42,
         "year": 2026
+    },
+    "yN_RxJQoZTQ0XJwQIgnA3f4XTzd": {
+        "author": "29afbc1d-6d8c-4028-9fd7-bb7a2e44689d",
+        "authorTime": 532350,
+        "bronzeTime": 799000,
+        "campaignId": 162955,
+        "goldTime": 565000,
+        "mapId": "24ab9be0-7899-4c7c-86e5-eebd3b949b9b",
+        "mapIndex": 0,
+        "mapUid": "yN_RxJQoZTQ0XJwQIgnA3f4XTzd",
+        "name": "G - Night Shift",
+        "number": 43,
+        "seasonUid": "26f6f113-6fb3-415c-b379-9b0c9503f046",
+        "silverTime": 639000,
+        "submitter": "29afbc1d-6d8c-4028-9fd7-bb7a2e44689d",
+        "timestampEdition": 1792150921,
+        "timestampEnd": 1792947600,
+        "timestampRankingSent": 0,
+        "timestampStart": 1792339200,
+        "timestampUpload": 1792197352,
+        "week": 43,
+        "year": 2026
     }
 }
