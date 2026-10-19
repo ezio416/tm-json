@@ -48319,5 +48319,26 @@
         "timestampUpload": 1791492612,
         "weekDay": 6,
         "year": 2026
+    },
+    "tA2iUcaXqEPsoQ2QB1Yl0XeCBx5": {
+        "author": "b4a98503-2047-4de7-ad48-f4a03f5157a3",
+        "authorTime": 46729,
+        "bronzeTime": 71000,
+        "campaignId": 162600,
+        "goldTime": 50000,
+        "mapId": "786beea7-0d9f-4e13-bc08-43dfb7c9ac57",
+        "mapUid": "tA2iUcaXqEPsoQ2QB1Yl0XeCBx5",
+        "month": 10,
+        "monthDay": 19,
+        "name": "$o$n$841Crevice  $z$fffFT NUMBERPLAY",
+        "number": 2302,
+        "seasonUid": "51fa49a8-30cf-40c7-8433-d33acc0fd796",
+        "silverTime": 57000,
+        "submitter": "b4a98503-2047-4de7-ad48-f4a03f5157a3",
+        "timestampEnd": 1792515600,
+        "timestampStart": 1792429200,
+        "timestampUpload": 1790353187,
+        "weekDay": 0,
+        "year": 2026
     }
 }
