@@ -1,5 +1,5 @@
 {
-    "next": 1792436400,
+    "next": 1792512000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37703,6 +37703,17 @@
             "worldRecord": 39787,
             "mapId": "59190b8e-2189-48cf-88a4-3b30dd085f28",
             "goldTime": 47000
+        },
+        {
+            "authorTime": 46729,
+            "date": "2026-10-19",
+            "mapUid": "tA2iUcaXqEPsoQ2QB1Yl0XeCBx5",
+            "name": "$o$n$841Crevice  $z$fffFT NUMBERPLAY",
+            "reason": null,
+            "warriorTime": 46696,
+            "worldRecord": 46459,
+            "mapId": "786beea7-0d9f-4e13-bc08-43dfb7c9ac57",
+            "goldTime": 50000
         }
     ],
     "Other": [
