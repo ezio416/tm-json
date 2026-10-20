@@ -1,5 +1,5 @@
 {
-    "next": 1792512000,
+    "next": 1792522800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -556,6 +556,19 @@
             "goldTime": 610000,
             "campaignId": 162269,
             "week": 42
+        },
+        {
+            "authorTime": 532350,
+            "mapUid": "yN_RxJQoZTQ0XJwQIgnA3f4XTzd",
+            "name": "G - Night Shift",
+            "number": 43,
+            "reason": null,
+            "warriorTime": 500560,
+            "worldRecord": 447576,
+            "mapId": "24ab9be0-7899-4c7c-86e5-eebd3b949b9b",
+            "goldTime": 565000,
+            "campaignId": 162955,
+            "week": 43
         }
     ],
     "Seasonal": [
