@@ -1,5 +1,5 @@
 {
-    "next": 1792522800,
+    "next": 1792609200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37727,6 +37727,17 @@
             "worldRecord": 46459,
             "mapId": "786beea7-0d9f-4e13-bc08-43dfb7c9ac57",
             "goldTime": 50000
+        },
+        {
+            "authorTime": 42698,
+            "date": "2026-10-20",
+            "mapUid": "hVSN527JPIvJZXClcN_0Kta39Em",
+            "name": "$i$f9fPetite $888Brutality $s$fffft Ivancicus",
+            "reason": null,
+            "warriorTime": 42666,
+            "worldRecord": 42438,
+            "mapId": "b5141f49-8712-4a9c-ac63-75caf398b2f7",
+            "goldTime": 46000
         }
     ],
     "Other": [
