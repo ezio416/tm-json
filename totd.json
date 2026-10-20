@@ -46993,7 +46993,7 @@
         "submitter": "ef1540c6-c6f1-4b21-b5e2-e088a3fe0ddd",
         "timestampEnd": 1786986000,
         "timestampStart": 1786899600,
-        "timestampUpload": 1787282301,
+        "timestampUpload": 1792444783,
         "weekDay": 6,
         "year": 2026
     },
@@ -48339,6 +48339,27 @@
         "timestampStart": 1792429200,
         "timestampUpload": 1790353187,
         "weekDay": 0,
+        "year": 2026
+    },
+    "hVSN527JPIvJZXClcN_0Kta39Em": {
+        "author": "6e4dcf7a-6122-4f2f-8a3c-9428ef26db41",
+        "authorTime": 42698,
+        "bronzeTime": 83000,
+        "campaignId": 163268,
+        "goldTime": 46000,
+        "mapId": "b5141f49-8712-4a9c-ac63-75caf398b2f7",
+        "mapUid": "hVSN527JPIvJZXClcN_0Kta39Em",
+        "month": 10,
+        "monthDay": 20,
+        "name": "$i$f9fPetite $888Brutality $s$fffft Ivancicus",
+        "number": 2303,
+        "seasonUid": "091d8637-1e15-424e-9c7e-1530467c8b99",
+        "silverTime": 52000,
+        "submitter": "6e4dcf7a-6122-4f2f-8a3c-9428ef26db41",
+        "timestampEnd": 1792602000,
+        "timestampStart": 1792515600,
+        "timestampUpload": 1792082159,
+        "weekDay": 1,
         "year": 2026
     }
 }
