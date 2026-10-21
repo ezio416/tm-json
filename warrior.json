@@ -1,5 +1,5 @@
 {
-    "next": 1792609200,
+    "next": 1792695600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37738,6 +37738,17 @@
             "worldRecord": 42438,
             "mapId": "b5141f49-8712-4a9c-ac63-75caf398b2f7",
             "goldTime": 46000
+        },
+        {
+            "authorTime": 47170,
+            "date": "2026-10-21",
+            "mapUid": "VsCHMsCZ0tTFq_qnuvK2nXFC2C5",
+            "name": "$sMt Zensoku $f00ft $fffmcFLy",
+            "reason": null,
+            "warriorTime": 47156,
+            "worldRecord": 47057,
+            "mapId": "edb830d5-68be-4867-b05d-71936c6f3a1d",
+            "goldTime": 51000
         }
     ],
     "Other": [
