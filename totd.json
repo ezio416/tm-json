@@ -48361,5 +48361,26 @@
         "timestampUpload": 1792082159,
         "weekDay": 1,
         "year": 2026
+    },
+    "VsCHMsCZ0tTFq_qnuvK2nXFC2C5": {
+        "author": "8f97716f-0e8f-4ae7-a2c6-d6f58a354186",
+        "authorTime": 47170,
+        "bronzeTime": 71000,
+        "campaignId": 163363,
+        "goldTime": 51000,
+        "mapId": "edb830d5-68be-4867-b05d-71936c6f3a1d",
+        "mapUid": "VsCHMsCZ0tTFq_qnuvK2nXFC2C5",
+        "month": 10,
+        "monthDay": 21,
+        "name": "$sMt Zensoku $f00ft $fffmcFLy",
+        "number": 2304,
+        "seasonUid": "4c21987b-4f4b-450c-a89d-dbaff283f0d5",
+        "silverTime": 57000,
+        "submitter": "8f97716f-0e8f-4ae7-a2c6-d6f58a354186",
+        "timestampEnd": 1792688400,
+        "timestampStart": 1792602000,
+        "timestampUpload": 1791764774,
+        "weekDay": 2,
+        "year": 2026
     }
 }
