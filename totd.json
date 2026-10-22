@@ -48382,5 +48382,26 @@
         "timestampUpload": 1791764774,
         "weekDay": 2,
         "year": 2026
+    },
+    "fCE9mF8PR5zxLIT8h9lZiekMaNm": {
+        "author": "2c58a171-6a36-4129-9bb4-5abe9b980c81",
+        "authorTime": 47445,
+        "bronzeTime": 72000,
+        "campaignId": 163422,
+        "goldTime": 51000,
+        "mapId": "cbf069ee-b29a-4376-ac99-d8dd0488fd33",
+        "mapUid": "fCE9mF8PR5zxLIT8h9lZiekMaNm",
+        "month": 10,
+        "monthDay": 22,
+        "name": "$s$i$C00Forever Distant ft' Inleader",
+        "number": 2305,
+        "seasonUid": "6941b50c-ad5c-4f91-8297-af58c4ebb44f",
+        "silverTime": 57000,
+        "submitter": "2c58a171-6a36-4129-9bb4-5abe9b980c81",
+        "timestampEnd": 1792774800,
+        "timestampStart": 1792688400,
+        "timestampUpload": 1792619323,
+        "weekDay": 3,
+        "year": 2026
     }
 }
