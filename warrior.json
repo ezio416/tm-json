@@ -1,5 +1,5 @@
 {
-    "next": 1792695600,
+    "next": 1792782000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37748,6 +37748,17 @@
             "warriorTime": 47156,
             "worldRecord": 47057,
             "mapId": "edb830d5-68be-4867-b05d-71936c6f3a1d",
+            "goldTime": 51000
+        },
+        {
+            "authorTime": 47445,
+            "date": "2026-10-22",
+            "mapUid": "fCE9mF8PR5zxLIT8h9lZiekMaNm",
+            "name": "$s$i$C00Forever Distant ft' Inleader",
+            "reason": null,
+            "warriorTime": 47444,
+            "worldRecord": 47938,
+            "mapId": "cbf069ee-b29a-4376-ac99-d8dd0488fd33",
             "goldTime": 51000
         }
     ],
