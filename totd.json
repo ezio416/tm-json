@@ -48403,5 +48403,26 @@
         "timestampUpload": 1792619323,
         "weekDay": 3,
         "year": 2026
+    },
+    "QM_cxfby6Ax3SnkzUYlkECNqdB9": {
+        "author": "66545e20-a718-474c-96f1-d0e360f0375e",
+        "authorTime": 50027,
+        "bronzeTime": 76000,
+        "campaignId": 163423,
+        "goldTime": 54000,
+        "mapId": "e0380c00-c315-4362-9122-22a8aedc1937",
+        "mapUid": "QM_cxfby6Ax3SnkzUYlkECNqdB9",
+        "month": 10,
+        "monthDay": 23,
+        "name": "$c60$sAutumn Valley \uf06c",
+        "number": 2306,
+        "seasonUid": "975b4acf-4280-4a3c-a153-c0f7b022837d",
+        "silverTime": 61000,
+        "submitter": "66545e20-a718-474c-96f1-d0e360f0375e",
+        "timestampEnd": 1792861200,
+        "timestampStart": 1792774800,
+        "timestampUpload": 1791989753,
+        "weekDay": 4,
+        "year": 2026
     }
 }
