@@ -1,5 +1,5 @@
 {
-    "next": 1792782000,
+    "next": 1792868400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37760,6 +37760,17 @@
             "worldRecord": 47938,
             "mapId": "cbf069ee-b29a-4376-ac99-d8dd0488fd33",
             "goldTime": 51000
+        },
+        {
+            "authorTime": 50027,
+            "date": "2026-10-23",
+            "mapUid": "QM_cxfby6Ax3SnkzUYlkECNqdB9",
+            "name": "$c60$sAutumn Valley \uf06c",
+            "reason": null,
+            "warriorTime": 49299,
+            "worldRecord": 44199,
+            "mapId": "e0380c00-c315-4362-9122-22a8aedc1937",
+            "goldTime": 54000
         }
     ],
     "Other": [
