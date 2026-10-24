@@ -48424,5 +48424,26 @@
         "timestampUpload": 1791989753,
         "weekDay": 4,
         "year": 2026
+    },
+    "BApluBrxlCCX2jlXAXzUlXHOzKb": {
+        "author": "abdc0576-fae7-4b31-96dc-539b8cda095f",
+        "authorTime": 48015,
+        "bronzeTime": 73000,
+        "campaignId": 163424,
+        "goldTime": 51000,
+        "mapId": "2715d60d-bea6-4dac-9cad-7810b8777706",
+        "mapUid": "BApluBrxlCCX2jlXAXzUlXHOzKb",
+        "month": 10,
+        "monthDay": 24,
+        "name": "PacuPacu",
+        "number": 2307,
+        "seasonUid": "5bb2ab7a-6b38-4ef5-b27f-a19cef44303d",
+        "silverTime": 58000,
+        "submitter": "abdc0576-fae7-4b31-96dc-539b8cda095f",
+        "timestampEnd": 1792951200,
+        "timestampStart": 1792861200,
+        "timestampUpload": 1792352226,
+        "weekDay": 5,
+        "year": 2026
     }
 }
