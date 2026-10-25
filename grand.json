@@ -853,8 +853,30 @@
         "timestampEnd": 1792947600,
         "timestampRankingSent": 0,
         "timestampStart": 1792339200,
-        "timestampUpload": 1792197352,
+        "timestampUpload": 1792533214,
         "week": 43,
+        "year": 2026
+    },
+    "VcOwb48YgJpIPUTHPpMKHmHzw6e": {
+        "author": "ac30c580-9cb8-40b0-b7b4-d6902c7d2a9a",
+        "authorTime": 552755,
+        "bronzeTime": 830000,
+        "campaignId": 163561,
+        "goldTime": 586000,
+        "mapId": "01c3b10f-7751-4cc0-be13-4b7516c725ce",
+        "mapIndex": 0,
+        "mapUid": "VcOwb48YgJpIPUTHPpMKHmHzw6e",
+        "name": "G - Triathlon",
+        "number": 44,
+        "seasonUid": "618ebe63-9f12-4da0-ac44-1e1122df9bcb",
+        "silverTime": 664000,
+        "submitter": "ac30c580-9cb8-40b0-b7b4-d6902c7d2a9a",
+        "timestampEdition": 1792758552,
+        "timestampEnd": 1793552400,
+        "timestampRankingSent": 0,
+        "timestampStart": 1792947600,
+        "timestampUpload": 1792193873,
+        "week": 44,
         "year": 2026
     }
 }
