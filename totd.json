@@ -48445,5 +48445,26 @@
         "timestampUpload": 1792352226,
         "weekDay": 5,
         "year": 2026
+    },
+    "jq9m_jmp610TismaZs4NH2SIKs5": {
+        "author": "fe6dccfa-f900-4ef2-8a45-cfbb598e83d7",
+        "authorTime": 45757,
+        "bronzeTime": 69000,
+        "campaignId": 163425,
+        "goldTime": 49000,
+        "mapId": "36446849-5698-43a1-a31e-e6cecc3377be",
+        "mapUid": "jq9m_jmp610TismaZs4NH2SIKs5",
+        "month": 10,
+        "monthDay": 25,
+        "name": "Stairway to Spaghetti Heaven",
+        "number": 2308,
+        "seasonUid": "7647c2ca-7827-4c1b-8129-56b503ec5c6a",
+        "silverTime": 55000,
+        "submitter": "fe6dccfa-f900-4ef2-8a45-cfbb598e83d7",
+        "timestampEnd": 1793037600,
+        "timestampStart": 1792951200,
+        "timestampUpload": 1791879690,
+        "weekDay": 6,
+        "year": 2026
     }
 }
