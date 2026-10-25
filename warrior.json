@@ -1,5 +1,5 @@
 {
-    "next": 1792954800,
+    "next": 1793044800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37782,6 +37782,17 @@
             "worldRecord": 47334,
             "mapId": "2715d60d-bea6-4dac-9cad-7810b8777706",
             "goldTime": 51000
+        },
+        {
+            "authorTime": 45757,
+            "date": "2026-10-25",
+            "mapUid": "jq9m_jmp610TismaZs4NH2SIKs5",
+            "name": "Stairway to Spaghetti Heaven",
+            "reason": null,
+            "warriorTime": 45211,
+            "worldRecord": 41385,
+            "mapId": "36446849-5698-43a1-a31e-e6cecc3377be",
+            "goldTime": 49000
         }
     ],
     "Other": [
