@@ -1,5 +1,5 @@
 {
-    "next": 1793131200,
+    "next": 1793217600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37817,6 +37817,17 @@
             "worldRecord": 39197,
             "mapId": "b5933164-daa1-405a-bd36-519764f2f5f7",
             "goldTime": 45000
+        },
+        {
+            "authorTime": 45705,
+            "date": "2026-10-27",
+            "mapUid": "ByNj84vpdr_OvcvTKKNbJrnYUCm",
+            "name": "$s$360Timber $630Solitude$fff ft' Megaadri",
+            "reason": null,
+            "warriorTime": 45596,
+            "worldRecord": 44828,
+            "mapId": "95251538-9499-4e57-a668-4cd3c0034251",
+            "goldTime": 49000
         }
     ],
     "Other": [
