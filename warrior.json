@@ -1,5 +1,5 @@
 {
-    "next": 1793120400,
+    "next": 1793131200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -569,6 +569,19 @@
             "goldTime": 565000,
             "campaignId": 162955,
             "week": 43
+        },
+        {
+            "authorTime": 552755,
+            "mapUid": "VcOwb48YgJpIPUTHPpMKHmHzw6e",
+            "name": "G - Triathlon",
+            "number": 44,
+            "reason": null,
+            "warriorTime": 510608,
+            "worldRecord": 440363,
+            "mapId": "01c3b10f-7751-4cc0-be13-4b7516c725ce",
+            "goldTime": 586000,
+            "campaignId": 163561,
+            "week": 44
         }
     ],
     "Seasonal": [
