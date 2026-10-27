@@ -48487,5 +48487,26 @@
         "timestampUpload": 1791730398,
         "weekDay": 0,
         "year": 2026
+    },
+    "ByNj84vpdr_OvcvTKKNbJrnYUCm": {
+        "author": "6e4dcf7a-6122-4f2f-8a3c-9428ef26db41",
+        "authorTime": 45705,
+        "bronzeTime": 83000,
+        "campaignId": 163910,
+        "goldTime": 49000,
+        "mapId": "95251538-9499-4e57-a668-4cd3c0034251",
+        "mapUid": "ByNj84vpdr_OvcvTKKNbJrnYUCm",
+        "month": 10,
+        "monthDay": 27,
+        "name": "$s$360Timber $630Solitude$fff ft' Megaadri",
+        "number": 2310,
+        "seasonUid": "875649ec-999c-4b3b-951e-a01903c63e24",
+        "silverTime": 67000,
+        "submitter": "6e4dcf7a-6122-4f2f-8a3c-9428ef26db41",
+        "timestampEnd": 1793210400,
+        "timestampStart": 1793124000,
+        "timestampUpload": 1792958246,
+        "weekDay": 1,
+        "year": 2026
     }
 }
