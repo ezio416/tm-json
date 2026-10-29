@@ -48529,5 +48529,26 @@
         "timestampUpload": 1791667204,
         "weekDay": 2,
         "year": 2026
+    },
+    "Szn110f50vG6JkdXzy6fBWh3Ts5": {
+        "author": "2a1dd7a0-a4ce-4a1b-a4c0-a9ce0c79837e",
+        "authorTime": 62297,
+        "bronzeTime": 94000,
+        "campaignId": 163552,
+        "goldTime": 67000,
+        "mapId": "17a3018e-c572-4a43-a1d4-dde4a78f4e91",
+        "mapUid": "Szn110f50vG6JkdXzy6fBWh3Ts5",
+        "month": 10,
+        "monthDay": 29,
+        "name": "$s$F00T$803F$006H $000- $FFFChrysalis ft' Intax",
+        "number": 2312,
+        "seasonUid": "cdd44589-cd30-4552-ba6b-ffdef4ca853c",
+        "silverTime": 75000,
+        "submitter": "2a1dd7a0-a4ce-4a1b-a4c0-a9ce0c79837e",
+        "timestampEnd": 1793383200,
+        "timestampStart": 1793296800,
+        "timestampUpload": 1792006323,
+        "weekDay": 3,
+        "year": 2026
     }
 }
