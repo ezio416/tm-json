@@ -1,5 +1,5 @@
 {
-    "next": 1793304000,
+    "next": 1793390400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37839,6 +37839,17 @@
             "worldRecord": 41352,
             "mapId": "708d74ff-5b30-49da-ab55-f6078d5f5630",
             "goldTime": 45000
+        },
+        {
+            "authorTime": 62297,
+            "date": "2026-10-29",
+            "mapUid": "Szn110f50vG6JkdXzy6fBWh3Ts5",
+            "name": "$s$F00T$803F$006H $000- $FFFChrysalis ft' Intax",
+            "reason": null,
+            "warriorTime": 62253,
+            "worldRecord": 61938,
+            "mapId": "17a3018e-c572-4a43-a1d4-dde4a78f4e91",
+            "goldTime": 67000
         }
     ],
     "Other": [
