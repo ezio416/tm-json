@@ -853,7 +853,7 @@
         "timestampEnd": 1792947600,
         "timestampRankingSent": 0,
         "timestampStart": 1792339200,
-        "timestampUpload": 1792533214,
+        "timestampUpload": 1793179636,
         "week": 43,
         "year": 2026
     },
@@ -877,6 +877,28 @@
         "timestampStart": 1792947600,
         "timestampUpload": 1792193873,
         "week": 44,
+        "year": 2026
+    },
+    "cN1EIeeU6IcAzzhDsyOxBvngTgh": {
+        "author": "ea2eb131-4a58-4cb2-a600-de4b96598868",
+        "authorTime": 553523,
+        "bronzeTime": 900000,
+        "campaignId": 164269,
+        "goldTime": 600000,
+        "mapId": "a5d6149a-288d-4fc5-84ec-6ab0bf19368b",
+        "mapIndex": 0,
+        "mapUid": "cN1EIeeU6IcAzzhDsyOxBvngTgh",
+        "name": "$o$n$i$F90G - $g$C60Swift $g$F93Drift",
+        "number": 45,
+        "seasonUid": "54ec317e-18bf-48e8-8427-050f1c425694",
+        "silverTime": 750000,
+        "submitter": "ea2eb131-4a58-4cb2-a600-de4b96598868",
+        "timestampEdition": 1793367889,
+        "timestampEnd": 1794157200,
+        "timestampRankingSent": 0,
+        "timestampStart": 1793552400,
+        "timestampUpload": 1792899001,
+        "week": 45,
         "year": 2026
     }
 }
