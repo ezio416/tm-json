@@ -1,5 +1,5 @@
 {
-    "next": 1793649600,
+    "next": 1793725200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37883,6 +37883,17 @@
             "worldRecord": 36103,
             "mapId": "e6038b9b-27b3-4848-8b4b-0bbe669bb870",
             "goldTime": 41000
+        },
+        {
+            "authorTime": 48000,
+            "date": "2026-11-02",
+            "mapUid": "x7Ee8oHAGoid_i2mwaYUqKHiWq1",
+            "name": "$o$EC5[NN] - $fffEmpire of the Clouds $ec5ft' Cotton",
+            "reason": null,
+            "warriorTime": 47924,
+            "worldRecord": 47385,
+            "mapId": "2609080f-64f2-46a4-919a-825b989dc43a",
+            "goldTime": 51000
         }
     ],
     "Other": [
