@@ -48634,5 +48634,26 @@
         "timestampUpload": 1793308145,
         "weekDay": 0,
         "year": 2026
+    },
+    "ENVhkkO3Wu8cpQogfpl4IxT5eB3": {
+        "author": "02ffe7da-3eaa-4ffe-a2de-155bc8638af9",
+        "authorTime": 52933,
+        "bronzeTime": 80000,
+        "campaignId": 164577,
+        "goldTime": 57000,
+        "mapId": "2b0e3721-db3f-46f6-ab68-e44dbf6aa0c3",
+        "mapUid": "ENVhkkO3Wu8cpQogfpl4IxT5eB3",
+        "month": 11,
+        "monthDay": 3,
+        "name": "$oPrologue to Weightless Grey",
+        "number": 2317,
+        "seasonUid": "2e39c567-bdb5-4eef-93d5-2cf370202382",
+        "silverTime": 64000,
+        "submitter": "02ffe7da-3eaa-4ffe-a2de-155bc8638af9",
+        "timestampEnd": 1793815200,
+        "timestampStart": 1793728800,
+        "timestampUpload": 1792328513,
+        "weekDay": 1,
+        "year": 2026
     }
 }
