@@ -1,5 +1,5 @@
 {
-    "next": 1793736000,
+    "next": 1793822400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37907,6 +37907,17 @@
             "worldRecord": 47385,
             "mapId": "2609080f-64f2-46a4-919a-825b989dc43a",
             "goldTime": 51000
+        },
+        {
+            "authorTime": 52933,
+            "date": "2026-11-03",
+            "mapUid": "ENVhkkO3Wu8cpQogfpl4IxT5eB3",
+            "name": "$oPrologue to Weightless Grey",
+            "reason": null,
+            "warriorTime": 52862,
+            "worldRecord": 52358,
+            "mapId": "2b0e3721-db3f-46f6-ab68-e44dbf6aa0c3",
+            "goldTime": 57000
         }
     ],
     "Other": [
