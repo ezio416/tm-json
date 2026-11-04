@@ -1,5 +1,5 @@
 {
-    "next": 1793822400,
+    "next": 1793908800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37918,6 +37918,17 @@
             "worldRecord": 52358,
             "mapId": "2b0e3721-db3f-46f6-ab68-e44dbf6aa0c3",
             "goldTime": 57000
+        },
+        {
+            "authorTime": 56531,
+            "date": "2026-11-04",
+            "mapUid": "a22v0nplKvkZ7pRNLYekEz4C14m",
+            "name": "$oMount $C00Stratos",
+            "reason": null,
+            "warriorTime": 56446,
+            "worldRecord": 55846,
+            "mapId": "c3924ff4-560c-43d2-9528-e649df13480a",
+            "goldTime": 60000
         }
     ],
     "Other": [
