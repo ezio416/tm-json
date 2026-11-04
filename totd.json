@@ -48655,5 +48655,26 @@
         "timestampUpload": 1792328513,
         "weekDay": 1,
         "year": 2026
+    },
+    "a22v0nplKvkZ7pRNLYekEz4C14m": {
+        "author": "88c2a160-6cc6-4a5d-9624-d0582ff503aa",
+        "authorTime": 56531,
+        "bronzeTime": 85000,
+        "campaignId": 164578,
+        "goldTime": 60000,
+        "mapId": "c3924ff4-560c-43d2-9528-e649df13480a",
+        "mapUid": "a22v0nplKvkZ7pRNLYekEz4C14m",
+        "month": 11,
+        "monthDay": 4,
+        "name": "$oMount $C00Stratos",
+        "number": 2318,
+        "seasonUid": "e6539912-ba48-4f43-91d8-8c0c454d08c9",
+        "silverTime": 68000,
+        "submitter": "88c2a160-6cc6-4a5d-9624-d0582ff503aa",
+        "timestampEnd": 1793901600,
+        "timestampStart": 1793815200,
+        "timestampUpload": 1793719248,
+        "weekDay": 2,
+        "year": 2026
     }
 }
