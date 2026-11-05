@@ -48676,5 +48676,26 @@
         "timestampUpload": 1793719248,
         "weekDay": 2,
         "year": 2026
+    },
+    "c94vCARJWKM_FsXQ4dnaqQWUHqf": {
+        "author": "32269ea2-cfed-4fc9-b69a-161833d3f652",
+        "authorTime": 49282,
+        "bronzeTime": 74000,
+        "campaignId": 164687,
+        "goldTime": 53000,
+        "mapId": "ad311207-3362-45ba-bc14-be9386bbcbb3",
+        "mapUid": "c94vCARJWKM_FsXQ4dnaqQWUHqf",
+        "month": 11,
+        "monthDay": 5,
+        "name": "$63fP$fffain ft Mango & Teuflum",
+        "number": 2319,
+        "seasonUid": "865bc39b-5252-4fdd-9bd1-9142489302a4",
+        "silverTime": 60000,
+        "submitter": "32269ea2-cfed-4fc9-b69a-161833d3f652",
+        "timestampEnd": 1793988000,
+        "timestampStart": 1793901600,
+        "timestampUpload": 1790126495,
+        "weekDay": 3,
+        "year": 2026
     }
 }
