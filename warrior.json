@@ -1,5 +1,5 @@
 {
-    "next": 1793908800,
+    "next": 1793995200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37929,6 +37929,17 @@
             "worldRecord": 55846,
             "mapId": "c3924ff4-560c-43d2-9528-e649df13480a",
             "goldTime": 60000
+        },
+        {
+            "authorTime": 49282,
+            "date": "2026-11-05",
+            "mapUid": "c94vCARJWKM_FsXQ4dnaqQWUHqf",
+            "name": "$63fP$fffain ft Mango & Teuflum",
+            "reason": null,
+            "warriorTime": 49270,
+            "worldRecord": 49185,
+            "mapId": "ad311207-3362-45ba-bc14-be9386bbcbb3",
+            "goldTime": 53000
         }
     ],
     "Other": [
