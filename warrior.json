@@ -1,5 +1,5 @@
 {
-    "next": 1794081600,
+    "next": 1794168000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37951,6 +37951,17 @@
             "worldRecord": 45678,
             "mapId": "4bde9942-31aa-47e5-a663-94de5a725ae9",
             "goldTime": 49000
+        },
+        {
+            "authorTime": 58701,
+            "date": "2026-11-07",
+            "mapUid": "kK4Y9xueCwOAIUVuLeeBWPMPaQ8",
+            "name": "$C3CZ$89EG$3FFW$FFF - Frostbite",
+            "reason": null,
+            "warriorTime": 58700,
+            "worldRecord": 58801,
+            "mapId": "5964940f-7ef3-4ab4-ae81-c55cbb280055",
+            "goldTime": 63000
         }
     ],
     "Other": [
