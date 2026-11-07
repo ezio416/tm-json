@@ -48718,5 +48718,26 @@
         "timestampUpload": 1789381463,
         "weekDay": 4,
         "year": 2026
+    },
+    "kK4Y9xueCwOAIUVuLeeBWPMPaQ8": {
+        "author": "b4a2a877-47a3-4a1e-8ab3-eeb28f45637d",
+        "authorTime": 58701,
+        "bronzeTime": 89000,
+        "campaignId": 164838,
+        "goldTime": 63000,
+        "mapId": "5964940f-7ef3-4ab4-ae81-c55cbb280055",
+        "mapUid": "kK4Y9xueCwOAIUVuLeeBWPMPaQ8",
+        "month": 11,
+        "monthDay": 7,
+        "name": "$C3CZ$89EG$3FFW$FFF - Frostbite",
+        "number": 2321,
+        "seasonUid": "01f798e4-5222-4b52-bfd1-0b3b4afcaf0d",
+        "silverTime": 71000,
+        "submitter": "b4a2a877-47a3-4a1e-8ab3-eeb28f45637d",
+        "timestampEnd": 1794160800,
+        "timestampStart": 1794074400,
+        "timestampUpload": 1793991609,
+        "weekDay": 5,
+        "year": 2026
     }
 }
