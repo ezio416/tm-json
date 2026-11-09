@@ -1,5 +1,5 @@
 {
-    "next": 1794254400,
+    "next": 1794330000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37973,6 +37973,17 @@
             "worldRecord": 46042,
             "mapId": "b6b70b1c-7a91-4511-aa98-3c714315e500",
             "goldTime": 50000
+        },
+        {
+            "authorTime": 42683,
+            "date": "2026-11-09",
+            "mapUid": "nCt8Z7o3spCdSVdEpjP0nSTvWH7",
+            "name": "$C03$i$sRelationship Of Command ft' Ziggyy",
+            "reason": null,
+            "warriorTime": 42645,
+            "worldRecord": 42378,
+            "mapId": "ebeaffcc-951f-4ea8-9ba5-feee8656aa17",
+            "goldTime": 46000
         }
     ],
     "Other": [
