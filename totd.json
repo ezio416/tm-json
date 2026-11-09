@@ -48760,5 +48760,26 @@
         "timestampUpload": 1793556667,
         "weekDay": 6,
         "year": 2026
+    },
+    "nCt8Z7o3spCdSVdEpjP0nSTvWH7": {
+        "author": "c2aaa990-1091-47d5-8aff-870bbb760ea7",
+        "authorTime": 42683,
+        "bronzeTime": 65000,
+        "campaignId": 164688,
+        "goldTime": 46000,
+        "mapId": "ebeaffcc-951f-4ea8-9ba5-feee8656aa17",
+        "mapUid": "nCt8Z7o3spCdSVdEpjP0nSTvWH7",
+        "month": 11,
+        "monthDay": 9,
+        "name": "$C03$i$sRelationship Of Command ft' Ziggyy",
+        "number": 2323,
+        "seasonUid": "abff5465-f7bf-484d-8c42-26786acb2cbb",
+        "silverTime": 52000,
+        "submitter": "c2aaa990-1091-47d5-8aff-870bbb760ea7",
+        "timestampEnd": 1794333600,
+        "timestampStart": 1794247200,
+        "timestampUpload": 1792705412,
+        "weekDay": 0,
+        "year": 2026
     }
 }
