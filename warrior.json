@@ -1,5 +1,5 @@
 {
-    "next": 1794330000,
+    "next": 1794340800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -595,6 +595,19 @@
             "goldTime": 600000,
             "campaignId": 164269,
             "week": 45
+        },
+        {
+            "authorTime": 543003,
+            "mapUid": "SCrzWPFKLcJtj3Oe0u0h0b3fCYl",
+            "name": "$s$fb0G $fff- $fb0OUTATIME$fff!",
+            "number": 46,
+            "reason": null,
+            "warriorTime": 499130,
+            "worldRecord": 426006,
+            "mapId": "ca8ce2e4-c39c-4221-ba81-f3548baae16c",
+            "goldTime": 576000,
+            "campaignId": 164836,
+            "week": 46
         }
     ],
     "Seasonal": [
