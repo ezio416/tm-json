@@ -48781,5 +48781,26 @@
         "timestampUpload": 1792705412,
         "weekDay": 0,
         "year": 2026
+    },
+    "l3DOx2Z_7zA6eNw85e3vxC2Kbid": {
+        "author": "53533000-79f5-4ac3-9831-46d107b55e9f",
+        "authorTime": 43000,
+        "bronzeTime": 65000,
+        "campaignId": 165055,
+        "goldTime": 46000,
+        "mapId": "27e49d9c-83be-4823-913d-bd0b86804b72",
+        "mapUid": "l3DOx2Z_7zA6eNw85e3vxC2Kbid",
+        "month": 11,
+        "monthDay": 10,
+        "name": "The Third Charm ft' xpphx",
+        "number": 2324,
+        "seasonUid": "b3b49816-04c5-4d9d-8458-34e9f816892e",
+        "silverTime": 52000,
+        "submitter": "53533000-79f5-4ac3-9831-46d107b55e9f",
+        "timestampEnd": 1794420000,
+        "timestampStart": 1794333600,
+        "timestampUpload": 1792607954,
+        "weekDay": 1,
+        "year": 2026
     }
 }
