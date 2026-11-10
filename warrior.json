@@ -1,5 +1,5 @@
 {
-    "next": 1794340800,
+    "next": 1794427200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -37996,6 +37996,17 @@
             "warriorTime": 42645,
             "worldRecord": 42378,
             "mapId": "ebeaffcc-951f-4ea8-9ba5-feee8656aa17",
+            "goldTime": 46000
+        },
+        {
+            "authorTime": 43000,
+            "date": "2026-11-10",
+            "mapUid": "l3DOx2Z_7zA6eNw85e3vxC2Kbid",
+            "name": "The Third Charm ft' xpphx",
+            "reason": null,
+            "warriorTime": 42751,
+            "worldRecord": 41002,
+            "mapId": "27e49d9c-83be-4823-913d-bd0b86804b72",
             "goldTime": 46000
         }
     ],
