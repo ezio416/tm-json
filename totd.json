@@ -48802,5 +48802,26 @@
         "timestampUpload": 1792607954,
         "weekDay": 1,
         "year": 2026
+    },
+    "UwllR6c3v9aVmS6GRrKm7WlAwuj": {
+        "author": "041623e9-57de-4dea-8fd2-6adf967ba558",
+        "authorTime": 41553,
+        "bronzeTime": 63000,
+        "campaignId": 165094,
+        "goldTime": 45000,
+        "mapId": "9df6728c-9d64-4c85-989c-98770e1efa47",
+        "mapUid": "UwllR6c3v9aVmS6GRrKm7WlAwuj",
+        "month": 11,
+        "monthDay": 11,
+        "name": "$oHELHEIM",
+        "number": 2325,
+        "seasonUid": "c5179957-518d-42c6-8480-ec5e4fdef258",
+        "silverTime": 50000,
+        "submitter": "041623e9-57de-4dea-8fd2-6adf967ba558",
+        "timestampEnd": 1794506400,
+        "timestampStart": 1794420000,
+        "timestampUpload": 1793869272,
+        "weekDay": 2,
+        "year": 2026
     }
 }
