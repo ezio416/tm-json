@@ -1,5 +1,5 @@
 {
-    "next": 1794513600,
+    "next": 1794600000,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -38019,6 +38019,17 @@
             "worldRecord": 41274,
             "mapId": "9df6728c-9d64-4c85-989c-98770e1efa47",
             "goldTime": 45000
+        },
+        {
+            "authorTime": 48128,
+            "date": "2026-11-12",
+            "mapUid": "ddsNqDMtjCoGaDdwswkI9XqWjem",
+            "name": "Fractured Forest",
+            "reason": null,
+            "warriorTime": 48002,
+            "worldRecord": 47118,
+            "mapId": "7968d358-4c54-46c7-885a-56806e060948",
+            "goldTime": 52000
         }
     ],
     "Other": [
