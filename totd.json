@@ -48823,5 +48823,26 @@
         "timestampUpload": 1793869272,
         "weekDay": 2,
         "year": 2026
+    },
+    "ddsNqDMtjCoGaDdwswkI9XqWjem": {
+        "author": "07badf27-8d93-4fb7-a4a6-82970d2865e3",
+        "authorTime": 48128,
+        "bronzeTime": 73000,
+        "campaignId": 165095,
+        "goldTime": 52000,
+        "mapId": "7968d358-4c54-46c7-885a-56806e060948",
+        "mapUid": "ddsNqDMtjCoGaDdwswkI9XqWjem",
+        "month": 11,
+        "monthDay": 12,
+        "name": "Fractured Forest",
+        "number": 2326,
+        "seasonUid": "ee963705-6a73-4207-bc4c-c7ecb4780afa",
+        "silverTime": 58000,
+        "submitter": "07badf27-8d93-4fb7-a4a6-82970d2865e3",
+        "timestampEnd": 1794592800,
+        "timestampStart": 1794506400,
+        "timestampUpload": 1793014740,
+        "weekDay": 3,
+        "year": 2026
     }
 }
