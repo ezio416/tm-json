@@ -1,5 +1,5 @@
 {
-    "next": 1794600000,
+    "next": 1794686400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -38029,6 +38029,17 @@
             "warriorTime": 48002,
             "worldRecord": 47118,
             "mapId": "7968d358-4c54-46c7-885a-56806e060948",
+            "goldTime": 52000
+        },
+        {
+            "authorTime": 48158,
+            "date": "2026-11-13",
+            "mapUid": "86GJNmxv9_4pr7A9uiiKnVllfA3",
+            "name": "Utopia Drift",
+            "reason": null,
+            "warriorTime": 48087,
+            "worldRecord": 47587,
+            "mapId": "a7bda04c-5000-412e-b178-0a0c0e444252",
             "goldTime": 52000
         }
     ],
