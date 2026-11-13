@@ -48757,7 +48757,7 @@
         "submitter": "1dd55257-6eed-4faf-9896-992075f794a3",
         "timestampEnd": 1794247200,
         "timestampStart": 1794160800,
-        "timestampUpload": 1793556667,
+        "timestampUpload": 1794520600,
         "weekDay": 6,
         "year": 2026
     },
@@ -48843,6 +48843,27 @@
         "timestampStart": 1794506400,
         "timestampUpload": 1793014740,
         "weekDay": 3,
+        "year": 2026
+    },
+    "86GJNmxv9_4pr7A9uiiKnVllfA3": {
+        "author": "b53f22db-8525-41e8-b293-e7420ba54740",
+        "authorTime": 48158,
+        "bronzeTime": 73000,
+        "campaignId": 165269,
+        "goldTime": 52000,
+        "mapId": "a7bda04c-5000-412e-b178-0a0c0e444252",
+        "mapUid": "86GJNmxv9_4pr7A9uiiKnVllfA3",
+        "month": 11,
+        "monthDay": 13,
+        "name": "Utopia Drift",
+        "number": 2327,
+        "seasonUid": "61375739-f82a-44f2-bede-f016072f0a19",
+        "silverTime": 58000,
+        "submitter": "b53f22db-8525-41e8-b293-e7420ba54740",
+        "timestampEnd": 1794679200,
+        "timestampStart": 1794592800,
+        "timestampUpload": 1794043592,
+        "weekDay": 4,
         "year": 2026
     }
 }
