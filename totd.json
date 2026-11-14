@@ -48865,5 +48865,26 @@
         "timestampUpload": 1794043592,
         "weekDay": 4,
         "year": 2026
+    },
+    "_mhf2U1Mp2RnBPKWSOWbhQdPNyf": {
+        "author": "46dcc889-73cb-4df5-8b44-d5a5e6addfec",
+        "authorTime": 46254,
+        "bronzeTime": 70000,
+        "campaignId": 165326,
+        "goldTime": 50000,
+        "mapId": "91fc6df6-c8de-4be0-9683-381dab036d0f",
+        "mapUid": "_mhf2U1Mp2RnBPKWSOWbhQdPNyf",
+        "month": 11,
+        "monthDay": 14,
+        "name": "$BDE$S$ISnowCat",
+        "number": 2328,
+        "seasonUid": "75197351-ae98-41d3-bc36-efa56a095f96",
+        "silverTime": 56000,
+        "submitter": "46dcc889-73cb-4df5-8b44-d5a5e6addfec",
+        "timestampEnd": 1794765600,
+        "timestampStart": 1794679200,
+        "timestampUpload": 1785773074,
+        "weekDay": 5,
+        "year": 2026
     }
 }
