@@ -922,5 +922,27 @@
         "timestampUpload": 1793735549,
         "week": 46,
         "year": 2026
+    },
+    "zSyUKUP_Y_0R2Qowd_0vmk7K6ji": {
+        "author": "43ebff70-bc3b-4d4c-9d0d-19da89c223e8",
+        "authorTime": 463625,
+        "bronzeTime": 696000,
+        "campaignId": 165332,
+        "goldTime": 492000,
+        "mapId": "89952be3-5188-4e57-8db5-a0bc46a08cbf",
+        "mapIndex": 0,
+        "mapUid": "zSyUKUP_Y_0R2Qowd_0vmk7K6ji",
+        "name": "G - $s$o$00FAncient $0FFEmpire",
+        "number": 47,
+        "seasonUid": "1ddf84df-3efd-49e9-a303-ab918f23f218",
+        "silverTime": 557000,
+        "submitter": "43ebff70-bc3b-4d4c-9d0d-19da89c223e8",
+        "timestampEdition": 1794589053,
+        "timestampEnd": 1795366800,
+        "timestampRankingSent": 0,
+        "timestampStart": 1794762000,
+        "timestampUpload": 1789040999,
+        "week": 47,
+        "year": 2026
     }
 }
