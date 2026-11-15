@@ -48715,7 +48715,7 @@
         "submitter": "d8243e98-ccbd-4b8f-8431-063879ee3970",
         "timestampEnd": 1794074400,
         "timestampStart": 1793988000,
-        "timestampUpload": 1789381463,
+        "timestampUpload": 1794760457,
         "weekDay": 4,
         "year": 2026
     },
@@ -48885,6 +48885,27 @@
         "timestampStart": 1794679200,
         "timestampUpload": 1785773074,
         "weekDay": 5,
+        "year": 2026
+    },
+    "KPVZZVPMsR8riT7gB3ZZNYiGUka": {
+        "author": "517c7d84-10aa-4078-a2e7-7212bd8e61b8",
+        "authorTime": 40418,
+        "bronzeTime": 61000,
+        "campaignId": 165329,
+        "goldTime": 43000,
+        "mapId": "4a9d145e-a9ec-4e2b-9df7-79afe73a264a",
+        "mapUid": "KPVZZVPMsR8riT7gB3ZZNYiGUka",
+        "month": 11,
+        "monthDay": 15,
+        "name": "windy biomes",
+        "number": 2329,
+        "seasonUid": "266bd510-6016-4e80-8124-f06eb9cdf3f9",
+        "silverTime": 49000,
+        "submitter": "517c7d84-10aa-4078-a2e7-7212bd8e61b8",
+        "timestampEnd": 1794852000,
+        "timestampStart": 1794765600,
+        "timestampUpload": 1794150289,
+        "weekDay": 6,
         "year": 2026
     }
 }
