@@ -1,5 +1,5 @@
 {
-    "next": 1794772800,
+    "next": 1794859200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -38052,6 +38052,17 @@
             "worldRecord": 45712,
             "mapId": "91fc6df6-c8de-4be0-9683-381dab036d0f",
             "goldTime": 50000
+        },
+        {
+            "authorTime": 40418,
+            "date": "2026-11-15",
+            "mapUid": "KPVZZVPMsR8riT7gB3ZZNYiGUka",
+            "name": "windy biomes",
+            "reason": null,
+            "warriorTime": 40145,
+            "worldRecord": 38231,
+            "mapId": "4a9d145e-a9ec-4e2b-9df7-79afe73a264a",
+            "goldTime": 43000
         }
     ],
     "Other": [
