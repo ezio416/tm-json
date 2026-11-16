@@ -48907,5 +48907,26 @@
         "timestampUpload": 1794150289,
         "weekDay": 6,
         "year": 2026
+    },
+    "0hoO9_NKwNmDfVUejtORyiOW56i": {
+        "author": "af03d9d3-9693-41cb-9270-da7d34c48bb6",
+        "authorTime": 46098,
+        "bronzeTime": 70000,
+        "campaignId": 165327,
+        "goldTime": 49000,
+        "mapId": "2b2211b2-9710-4bf4-b9aa-33271ff3876b",
+        "mapUid": "0hoO9_NKwNmDfVUejtORyiOW56i",
+        "month": 11,
+        "monthDay": 16,
+        "name": "$9F0Star $FFFSigns",
+        "number": 2330,
+        "seasonUid": "d1d21aef-09bc-4bad-9d7a-15c2ee5f90d2",
+        "silverTime": 56000,
+        "submitter": "af03d9d3-9693-41cb-9270-da7d34c48bb6",
+        "timestampEnd": 1794938400,
+        "timestampStart": 1794852000,
+        "timestampUpload": 1792681908,
+        "weekDay": 0,
+        "year": 2026
     }
 }
