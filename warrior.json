@@ -1,5 +1,5 @@
 {
-    "next": 1794934800,
+    "next": 1794945600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -608,6 +608,19 @@
             "goldTime": 576000,
             "campaignId": 164836,
             "week": 46
+        },
+        {
+            "authorTime": 463625,
+            "mapUid": "zSyUKUP_Y_0R2Qowd_0vmk7K6ji",
+            "name": "G - $s$o$00FAncient $0FFEmpire",
+            "number": 47,
+            "reason": null,
+            "warriorTime": 423083,
+            "worldRecord": 355512,
+            "mapId": "89952be3-5188-4e57-8db5-a0bc46a08cbf",
+            "goldTime": 492000,
+            "campaignId": 165332,
+            "week": 47
         }
     ],
     "Seasonal": [
