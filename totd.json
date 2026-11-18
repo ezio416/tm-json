@@ -48949,5 +48949,26 @@
         "timestampUpload": 1786392000,
         "weekDay": 1,
         "year": 2026
+    },
+    "vo8DHgDJpWKWDIpHIJWzrTlLXW": {
+        "author": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
+        "authorTime": 45318,
+        "bronzeTime": 68000,
+        "campaignId": 165676,
+        "goldTime": 49000,
+        "mapId": "f90fe0fa-5bd4-4ebe-976e-6efa57d4fae8",
+        "mapUid": "vo8DHgDJpWKWDIpHIJWzrTlLXW",
+        "month": 11,
+        "monthDay": 18,
+        "name": "$sDinnerbone",
+        "number": 2332,
+        "seasonUid": "e0875673-6831-44b3-bd44-c502a2bc13d3",
+        "silverTime": 55000,
+        "submitter": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
+        "timestampEnd": 1795111200,
+        "timestampStart": 1795024800,
+        "timestampUpload": 1792942190,
+        "weekDay": 2,
+        "year": 2026
     }
 }
