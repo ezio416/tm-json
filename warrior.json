@@ -1,5 +1,5 @@
 {
-    "next": 1795118400,
+    "next": 1795204800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -38109,6 +38109,17 @@
             "worldRecord": 44536,
             "mapId": "f90fe0fa-5bd4-4ebe-976e-6efa57d4fae8",
             "goldTime": 49000
+        },
+        {
+            "authorTime": 45091,
+            "date": "2026-11-19",
+            "mapUid": "qoXVTns1F8IUJbnbZVya1IC1Qd0",
+            "name": "$o$EC5[NN] - $fffOxidized $ec5ft Numberplay",
+            "reason": null,
+            "warriorTime": 45090,
+            "worldRecord": 45167,
+            "mapId": "3870e362-e6c1-4303-a06a-abdb96f0e62f",
+            "goldTime": 48000
         }
     ],
     "Other": [
