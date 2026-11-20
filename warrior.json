@@ -1,5 +1,5 @@
 {
-    "next": 1795204800,
+    "next": 1795291200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -38120,6 +38120,17 @@
             "worldRecord": 45167,
             "mapId": "3870e362-e6c1-4303-a06a-abdb96f0e62f",
             "goldTime": 48000
+        },
+        {
+            "authorTime": 37031,
+            "date": "2026-11-20",
+            "mapUid": "ITdYLI7sRACep6zr0gmBeTXXmhi",
+            "name": "$036Vadrouille",
+            "reason": null,
+            "warriorTime": 36837,
+            "worldRecord": 35474,
+            "mapId": "5f692f3d-b3c1-46bd-b7e0-065add6345fc",
+            "goldTime": 40000
         }
     ],
     "Other": [
