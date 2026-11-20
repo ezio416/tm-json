@@ -33532,7 +33532,7 @@
         "submitter": "dbe0490f-3b0e-4667-975d-05c59de71e51",
         "timestampEnd": 1731607200,
         "timestampStart": 1731520800,
-        "timestampUpload": 1731091653,
+        "timestampUpload": 1795179770,
         "weekDay": 2,
         "year": 2024
     },
@@ -35212,7 +35212,7 @@
         "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
         "timestampEnd": 1738519200,
         "timestampStart": 1738432800,
-        "timestampUpload": 1784629309,
+        "timestampUpload": 1795179649,
         "weekDay": 5,
         "year": 2025
     },
@@ -35863,7 +35863,7 @@
         "submitter": "dbe0490f-3b0e-4667-975d-05c59de71e51",
         "timestampEnd": 1741197600,
         "timestampStart": 1741111200,
-        "timestampUpload": 1740142419,
+        "timestampUpload": 1795179770,
         "weekDay": 1,
         "year": 2025
     },
@@ -36031,7 +36031,7 @@
         "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
         "timestampEnd": 1741888800,
         "timestampStart": 1741802400,
-        "timestampUpload": 1785265742,
+        "timestampUpload": 1795179650,
         "weekDay": 2,
         "year": 2025
     },
@@ -38803,7 +38803,7 @@
         "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
         "timestampEnd": 1753290000,
         "timestampStart": 1753203600,
-        "timestampUpload": 1784626822,
+        "timestampUpload": 1795179651,
         "weekDay": 1,
         "year": 2025
     },
@@ -41344,7 +41344,7 @@
         "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
         "timestampEnd": 1763748000,
         "timestampStart": 1763661600,
-        "timestampUpload": 1784626746,
+        "timestampUpload": 1795179654,
         "weekDay": 3,
         "year": 2025
     },
@@ -41491,7 +41491,7 @@
         "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
         "timestampEnd": 1764352800,
         "timestampStart": 1764266400,
-        "timestampUpload": 1784627239,
+        "timestampUpload": 1795179653,
         "weekDay": 3,
         "year": 2025
     },
@@ -41575,7 +41575,7 @@
         "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
         "timestampEnd": 1764698400,
         "timestampStart": 1764612000,
-        "timestampUpload": 1784629310,
+        "timestampUpload": 1795179655,
         "weekDay": 0,
         "year": 2025
     },
@@ -41827,7 +41827,7 @@
         "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
         "timestampEnd": 1765735200,
         "timestampStart": 1765648800,
-        "timestampUpload": 1784626824,
+        "timestampUpload": 1795179652,
         "weekDay": 5,
         "year": 2025
     },
@@ -45838,7 +45838,7 @@
         "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
         "timestampEnd": 1782234000,
         "timestampStart": 1782147600,
-        "timestampUpload": 1784627560,
+        "timestampUpload": 1795179656,
         "weekDay": 0,
         "year": 2026
     },
@@ -46699,7 +46699,7 @@
         "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
         "timestampEnd": 1785776400,
         "timestampStart": 1785690000,
-        "timestampUpload": 1784629478,
+        "timestampUpload": 1795179656,
         "weekDay": 6,
         "year": 2026
     },
@@ -47686,7 +47686,7 @@
         "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
         "timestampEnd": 1789837200,
         "timestampStart": 1789750800,
-        "timestampUpload": 1785265740,
+        "timestampUpload": 1795179657,
         "weekDay": 4,
         "year": 2026
     },
@@ -47749,7 +47749,7 @@
         "submitter": "38d2bfdc-30af-4b24-80c7-24d34daf121d",
         "timestampEnd": 1790096400,
         "timestampStart": 1790010000,
-        "timestampUpload": 1789497290,
+        "timestampUpload": 1795179658,
         "weekDay": 0,
         "year": 2026
     },
@@ -48990,6 +48990,27 @@
         "timestampStart": 1795111200,
         "timestampUpload": 1794931504,
         "weekDay": 3,
+        "year": 2026
+    },
+    "ITdYLI7sRACep6zr0gmBeTXXmhi": {
+        "author": "993c5865-c5f4-452c-be99-71bb76179e46",
+        "authorTime": 37031,
+        "bronzeTime": 56000,
+        "campaignId": 165812,
+        "goldTime": 40000,
+        "mapId": "5f692f3d-b3c1-46bd-b7e0-065add6345fc",
+        "mapUid": "ITdYLI7sRACep6zr0gmBeTXXmhi",
+        "month": 11,
+        "monthDay": 20,
+        "name": "$036Vadrouille",
+        "number": 2334,
+        "seasonUid": "dbad9360-b4ec-427b-b3df-b2ad45b0ab70",
+        "silverTime": 45000,
+        "submitter": "993c5865-c5f4-452c-be99-71bb76179e46",
+        "timestampEnd": 1795284000,
+        "timestampStart": 1795197600,
+        "timestampUpload": 1792170066,
+        "weekDay": 4,
         "year": 2026
     }
 }
