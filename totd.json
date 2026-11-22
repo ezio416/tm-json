@@ -49033,5 +49033,26 @@
         "timestampUpload": 1795236851,
         "weekDay": 5,
         "year": 2026
+    },
+    "omydDj1tgDrhfMs0JjnrYXWHX4": {
+        "author": "5080477a-e596-4ca4-ac6b-c30f34e7d6d7",
+        "authorTime": 45996,
+        "bronzeTime": 69000,
+        "campaignId": 165939,
+        "goldTime": 49000,
+        "mapId": "0c345365-f95f-43a7-98a1-5e5fc96dc2b1",
+        "mapUid": "omydDj1tgDrhfMs0JjnrYXWHX4",
+        "month": 11,
+        "monthDay": 22,
+        "name": "$i$w$oRECHARGE $FFFTHE $39FBATTERY",
+        "number": 2336,
+        "seasonUid": "cc0568c4-0200-4a32-b048-89b81d925a1e",
+        "silverTime": 56000,
+        "submitter": "5080477a-e596-4ca4-ac6b-c30f34e7d6d7",
+        "timestampEnd": 1795456800,
+        "timestampStart": 1795370400,
+        "timestampUpload": 1777279900,
+        "weekDay": 6,
+        "year": 2026
     }
 }
