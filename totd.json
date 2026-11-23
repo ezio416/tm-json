@@ -49054,5 +49054,26 @@
         "timestampUpload": 1777279900,
         "weekDay": 6,
         "year": 2026
+    },
+    "aDBkFCw2Eyu_F0QDWU6WaqoB41f": {
+        "author": "5f937ac6-d5e4-438b-8341-254ecca95450",
+        "authorTime": 52465,
+        "bronzeTime": 79000,
+        "campaignId": 165940,
+        "goldTime": 56000,
+        "mapId": "d5f8dffa-7715-4493-92f6-54f2048b465a",
+        "mapUid": "aDBkFCw2Eyu_F0QDWU6WaqoB41f",
+        "month": 11,
+        "monthDay": 23,
+        "name": "$C99$s$iWorms$FFF in Dirt ft Salty",
+        "number": 2337,
+        "seasonUid": "bed30865-4c08-48e0-ba55-19213fa1a4d2",
+        "silverTime": 63000,
+        "submitter": "5f937ac6-d5e4-438b-8341-254ecca95450",
+        "timestampEnd": 1795543200,
+        "timestampStart": 1795456800,
+        "timestampUpload": 1794584946,
+        "weekDay": 0,
+        "year": 2026
     }
 }
