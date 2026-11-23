@@ -1,5 +1,5 @@
 {
-    "next": 1795464000,
+    "next": 1795539600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -38153,6 +38153,17 @@
             "worldRecord": 43953,
             "mapId": "0c345365-f95f-43a7-98a1-5e5fc96dc2b1",
             "goldTime": 49000
+        },
+        {
+            "authorTime": 52465,
+            "date": "2026-11-23",
+            "mapUid": "aDBkFCw2Eyu_F0QDWU6WaqoB41f",
+            "name": "$C99$s$iWorms$FFF in Dirt ft Salty",
+            "reason": null,
+            "warriorTime": 52388,
+            "worldRecord": 51842,
+            "mapId": "d5f8dffa-7715-4493-92f6-54f2048b465a",
+            "goldTime": 56000
         }
     ],
     "Other": [
