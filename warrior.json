@@ -1,5 +1,5 @@
 {
-    "next": 1795539600,
+    "next": 1795550400,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -621,6 +621,19 @@
             "goldTime": 492000,
             "campaignId": 165332,
             "week": 47
+        },
+        {
+            "authorTime": 515233,
+            "mapUid": "lTM1YF8PdadG6YEEk0bQtWgi8yg",
+            "name": "G - $c90Rally $ff3Grand",
+            "number": 48,
+            "reason": null,
+            "warriorTime": 483311,
+            "worldRecord": 430106,
+            "mapId": "29296210-2a10-4dc8-9ca4-14f042275e73",
+            "goldTime": 547000,
+            "campaignId": 165938,
+            "week": 48
         }
     ],
     "Seasonal": [
