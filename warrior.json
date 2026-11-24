@@ -1,5 +1,5 @@
 {
-    "next": 1795550400,
+    "next": 1795636800,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -38177,6 +38177,17 @@
             "worldRecord": 51842,
             "mapId": "d5f8dffa-7715-4493-92f6-54f2048b465a",
             "goldTime": 56000
+        },
+        {
+            "authorTime": 40418,
+            "date": "2026-11-24",
+            "mapUid": "nEde8ZUvD7rl7lpTA15wEM90wbk",
+            "name": "$i$sTMP - $f92Pigeons Ordering Dessert",
+            "reason": null,
+            "warriorTime": 40372,
+            "worldRecord": 40045,
+            "mapId": "c15e6db6-89d0-45e0-9b50-d2e59581cccb",
+            "goldTime": 43000
         }
     ],
     "Other": [
