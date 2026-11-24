@@ -48967,7 +48967,7 @@
         "submitter": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
         "timestampEnd": 1795111200,
         "timestampStart": 1795024800,
-        "timestampUpload": 1792942190,
+        "timestampUpload": 1795461666,
         "weekDay": 2,
         "year": 2026
     },
@@ -49074,6 +49074,27 @@
         "timestampStart": 1795456800,
         "timestampUpload": 1794584946,
         "weekDay": 0,
+        "year": 2026
+    },
+    "nEde8ZUvD7rl7lpTA15wEM90wbk": {
+        "author": "931e9842-5193-4f39-aab6-abc593b39fcf",
+        "authorTime": 40418,
+        "bronzeTime": 61000,
+        "campaignId": 166063,
+        "goldTime": 43000,
+        "mapId": "c15e6db6-89d0-45e0-9b50-d2e59581cccb",
+        "mapUid": "nEde8ZUvD7rl7lpTA15wEM90wbk",
+        "month": 11,
+        "monthDay": 24,
+        "name": "$i$sTMP - $f92Pigeons Ordering Dessert",
+        "number": 2338,
+        "seasonUid": "c00f1781-a8a8-4f43-9327-2cf540d07d66",
+        "silverTime": 49000,
+        "submitter": "931e9842-5193-4f39-aab6-abc593b39fcf",
+        "timestampEnd": 1795629600,
+        "timestampStart": 1795543200,
+        "timestampUpload": 1788434971,
+        "weekDay": 1,
         "year": 2026
     }
 }
