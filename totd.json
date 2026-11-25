@@ -49096,5 +49096,26 @@
         "timestampUpload": 1788434971,
         "weekDay": 1,
         "year": 2026
+    },
+    "ERR8Hmi9zzVrHspiX69tFZhGXa": {
+        "author": "0d18d662-3355-4f22-a4f0-9af6e73218aa",
+        "authorTime": 49322,
+        "bronzeTime": 74000,
+        "campaignId": 166113,
+        "goldTime": 53000,
+        "mapId": "e605459b-0ecc-4d21-9060-3370e55e24a8",
+        "mapUid": "ERR8Hmi9zzVrHspiX69tFZhGXa",
+        "month": 11,
+        "monthDay": 25,
+        "name": "lemon $dd2cake",
+        "number": 2339,
+        "seasonUid": "21592187-9b16-4810-ab8f-0935e2dde442",
+        "silverTime": 60000,
+        "submitter": "0d18d662-3355-4f22-a4f0-9af6e73218aa",
+        "timestampEnd": 1795716000,
+        "timestampStart": 1795629600,
+        "timestampUpload": 1795540306,
+        "weekDay": 2,
+        "year": 2026
     }
 }
