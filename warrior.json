@@ -1,5 +1,5 @@
 {
-    "next": 1795636800,
+    "next": 1795723200,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -38188,6 +38188,17 @@
             "worldRecord": 40045,
             "mapId": "c15e6db6-89d0-45e0-9b50-d2e59581cccb",
             "goldTime": 43000
+        },
+        {
+            "authorTime": 49322,
+            "date": "2026-11-25",
+            "mapUid": "ERR8Hmi9zzVrHspiX69tFZhGXa",
+            "name": "lemon $dd2cake",
+            "reason": null,
+            "warriorTime": 49207,
+            "worldRecord": 48400,
+            "mapId": "e605459b-0ecc-4d21-9060-3370e55e24a8",
+            "goldTime": 53000
         }
     ],
     "Other": [
