@@ -1,5 +1,5 @@
 {
-    "next": 1795723200,
+    "next": 1795809600,
     "indices": {
         "0-0": 0,
         "150-55779": 1,
@@ -38199,6 +38199,17 @@
             "worldRecord": 48400,
             "mapId": "e605459b-0ecc-4d21-9060-3370e55e24a8",
             "goldTime": 53000
+        },
+        {
+            "authorTime": 41017,
+            "date": "2026-11-26",
+            "mapUid": "7hpekOtF0IWmPlhEAzN2SDkREq2",
+            "name": "$700$sVulcan 828 $fff ft' Yoshy",
+            "reason": null,
+            "warriorTime": 40977,
+            "worldRecord": 40697,
+            "mapId": "2a8e6784-d232-429b-b755-c4062b2e10ce",
+            "goldTime": 44000
         }
     ],
     "Other": [
