@@ -49117,5 +49117,26 @@
         "timestampUpload": 1795540306,
         "weekDay": 2,
         "year": 2026
+    },
+    "7hpekOtF0IWmPlhEAzN2SDkREq2": {
+        "author": "5caf0042-0e73-4766-bbcc-a1c16cb4afd7",
+        "authorTime": 41017,
+        "bronzeTime": 62000,
+        "campaignId": 166262,
+        "goldTime": 44000,
+        "mapId": "2a8e6784-d232-429b-b755-c4062b2e10ce",
+        "mapUid": "7hpekOtF0IWmPlhEAzN2SDkREq2",
+        "month": 11,
+        "monthDay": 26,
+        "name": "$700$sVulcan 828 $fff ft' Yoshy",
+        "number": 2340,
+        "seasonUid": "3e96b6da-2077-4f38-9a0b-522a368a9269",
+        "silverTime": 50000,
+        "submitter": "5caf0042-0e73-4766-bbcc-a1c16cb4afd7",
+        "timestampEnd": 1795802400,
+        "timestampStart": 1795716000,
+        "timestampUpload": 1792335234,
+        "weekDay": 3,
+        "year": 2026
     }
 }
