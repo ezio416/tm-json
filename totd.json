@@ -49159,5 +49159,26 @@
         "timestampUpload": 1794663466,
         "weekDay": 4,
         "year": 2026
+    },
+    "1PSO9lSeM2j4OGzuDaPwUWJbbPg": {
+        "author": "43276c27-5cbe-48e6-a3a3-0b1550c80992",
+        "authorTime": 48318,
+        "bronzeTime": 73000,
+        "campaignId": 166263,
+        "goldTime": 52000,
+        "mapId": "25cdf265-9749-49a2-905d-9a22e215163a",
+        "mapUid": "1PSO9lSeM2j4OGzuDaPwUWJbbPg",
+        "month": 11,
+        "monthDay": 28,
+        "name": "Navy Reverie",
+        "number": 2342,
+        "seasonUid": "cb09841f-9328-4953-abb6-0a73572ca9c2",
+        "silverTime": 58000,
+        "submitter": "43276c27-5cbe-48e6-a3a3-0b1550c80992",
+        "timestampEnd": 1795975200,
+        "timestampStart": 1795888800,
+        "timestampUpload": 1794606299,
+        "weekDay": 5,
+        "year": 2026
     }
 }
